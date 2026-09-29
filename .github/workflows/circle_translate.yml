@@ -1,5 +1,8 @@
 name: circle_translate
 
+permissions:
+  contents: write
+
 env:
   OPML_XML_URL_REPO: ${{ vars.OPML_XML_URL_REPO || github.repository }}
   OPML_XML_URL_USE_PAGE: ${{ vars.OPML_XML_URL_USE_PAGE || 'false' }}
@@ -7,33 +10,31 @@ env:
 
 # Controls when the workflow will run
 on:
-
   schedule:
-   - cron: '0 */3 * * *'
+    - cron: '0 */3 * * *'
+
   # 允许您从“操作”选项卡手动运行此工作流
   workflow_dispatch:
 
-# 工作流运行由一个或多个作业组成，这些作业可以按顺序或并行运行
+# 工作流运行由一个或多个作业组成
 jobs:
-  # 此工作流包含一个名为“build”的作业
   build:
-    # 运行作业的运行器类型
     runs-on: ubuntu-latest
 
-    # 步骤表示将作为作业的一部分执行的一系列任务
     steps:
-      # 在 $GITHUB_WORKSPACE 下签出存储库，以便作业可以访问它
-      - uses: actions/checkout@v4  
+      # Получаем репозиторий
+      - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.WORK_TOKEN }}
-    
-      - name: Set up Python 
-        uses: actions/setup-python@v3  
+          token: ${{ github.token }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
         with:
           python-version: 3.8
+
       - name: Install dependencies
         run: |
-          sudo apt-get install libxml2-dev libxslt-dev  # 安装libxml2和libxslt开发包
+          sudo apt-get install libxml2-dev libxslt-dev
           python -m pip install --upgrade pip
           pip install mtranslate
           pip install lxml
@@ -44,34 +45,36 @@ jobs:
           pip install beautifulsoup4 pygtrans feedparser rfeed
           pip install --upgrade feedparser
           pip install requests
+
       - name: ls_show
         run: |
           python my-mtranslate.py
           python opml-generate.py --repo-slug "${{ env.OPML_XML_URL_REPO }}" --use-github-pages "${{ env.OPML_XML_URL_USE_PAGE }}" --xml-url-anchor "${{ env.OPML_XML_URL_ANCHOR }}"
           ls -al rss/
-             
+
       - name: Push changes to remote repository
         env:
-          U_NAME: ${{ secrets.U_NAME }}
-          U_EMAIL: ${{ secrets.U_EMAIL }}
-          GITHUB_TOKEN: ${{ secrets.WORK_TOKEN }}
+          U_NAME: github-actions[bot]
+          U_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          GITHUB_TOKEN: ${{ github.token }}
         run: |
           if [[ -n "$(git status --porcelain)" ]]; then
-          pwd
-          git config --local user.name "${U_NAME}"  # 修改name
-          git config --local user.email "${U_EMAIL}"  # 修改email
+            pwd
+            git config --local user.name "${U_NAME}"
+            git config --local user.email "${U_EMAIL}"
 
-          git status -s
-          git add rss/*
-          git add test.ini
-          git add .github/workflows/circle_translate.yml
-          git add README.md
+            git status -s
+            git add rss/*
+            git add test.ini
+            git add .github/workflows/circle_translate.yml
+            git add README.md
 
-          export TZ='Asia/Shanghai' # 更改时区
-          git commit -m "Github RSS Translate Auto Builder at `date +'%Y-%m-%d %H:%M'`"  # 提交记录包含时间 跟上面更改时区配合
+            export TZ='Asia/Shanghai'
 
-          echo "======git push===="
-          git push --force origin ${{ github.ref_name }}
+            git commit -m "Github RSS Translate Auto Builder at `date +'%Y-%m-%d %H:%M'`"
+
+            echo "======git push===="
+            git push --force origin ${{ github.ref_name }}
           else
-          echo "No changes, skip push."
+            echo "No changes, skip push."
           fi
