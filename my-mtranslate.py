@@ -33,7 +33,10 @@ class BingTran:
         self.source = source
         self.target = target
 
-        self.d = feedparser.parse(url)
+        self.d = feedparser.parse(
+    url,
+    agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/131.0 Safari/537.36"
+        )
 
     def tr(self, content):
         return translate(content, to_language=self.target, from_language=self.source)
@@ -110,7 +113,11 @@ def tran(sec, max_item):
     ]
     # 判断 RSS 内容是否有更新
     try:
-        r = requests.get(url, timeout=5)
+        headers = {
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/131.0 Safari/537.36"
+}
+
+r = requests.get(url, headers=headers, timeout=15)
         new_md5 = get_md5_value(r.text)
     except Exception as e:
         print("Error occurred when fetching RSS content for %s: %s" % (sec, str(e)))
