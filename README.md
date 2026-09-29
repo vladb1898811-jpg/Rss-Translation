@@ -39,3 +39,4 @@
  - source026 [https://feed.indiehackers.world/posts.rss?group=ChatGPT](https://feed.indiehackers.world/posts.rss?group=ChatGPT) -> [indiehackers-ChatGPT](rss/indiehackers-ChatGPT.xml)
  - source027 [https://feed.indiehackers.world/posts.rss?group=No-Code](https://feed.indiehackers.world/posts.rss?group=No-Code) -> [indiehackers-No-Code](rss/indiehackers-No-Code.xml)
  - source028 [https://allainews.com/feed/](https://allainews.com/feed/) -> [allainews-posts](rss/allainews-posts.xml)
+ - source029 [https://www.cppstories.com/index.xml](https://www.cppstories.com/index.xml) -> [cppstories](rss/cppstories.xml)
