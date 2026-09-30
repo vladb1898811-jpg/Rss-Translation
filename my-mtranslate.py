@@ -10,7 +10,9 @@ import feedparser
 import requests
 from bs4 import BeautifulSoup
 from jinja2 import Template
-from mtranslate import translate
+
+import argostranslate.package
+import argostranslate.translate
 
 
 def get_md5_value(src):
@@ -28,6 +30,63 @@ def getTime(e):
     return datetime.datetime(*struct_time[:6])
 
 
+def install_translation_package(source, target):
+    """
+    Проверяет наличие языковой пары Argos.
+    Если пары нет, загружает и устанавливает её.
+    """
+
+    source = source.lower()
+    target = target.lower()
+
+    installed_languages = (
+        argostranslate.translate.get_installed_languages()
+    )
+
+    for from_lang in installed_languages:
+        if from_lang.code != source:
+            continue
+
+        for translation in from_lang.translations_from:
+            if translation.to_lang.code == target:
+                return
+
+    print(
+        "Installing Argos translation package: "
+        "%s -> %s"
+        % (source, target)
+    )
+
+    argostranslate.package.update_package_index()
+
+    available_packages = (
+        argostranslate.package.get_available_packages()
+    )
+
+    package = None
+
+    for item in available_packages:
+        if (
+            item.from_code == source
+            and item.to_code == target
+        ):
+            package = item
+            break
+
+    if package is None:
+        raise RuntimeError(
+            "Argos translation package not found: "
+            "%s -> %s"
+            % (source, target)
+        )
+
+    download_path = package.download()
+
+    argostranslate.package.install_from_path(
+        download_path
+    )
+
+
 class BingTran:
     def __init__(
         self,
@@ -37,11 +96,12 @@ class BingTran:
         rss_text=None
     ):
         self.url = url
-        self.source = source
-        self.target = target
+        self.source = source.lower()
+        self.target = target.lower()
 
         if rss_text is not None:
             self.d = feedparser.parse(rss_text)
+
         else:
             headers = {
                 "User-Agent": (
@@ -59,72 +119,60 @@ class BingTran:
 
             response.raise_for_status()
 
-            self.d = feedparser.parse(response.text)
+            self.d = feedparser.parse(
+                response.text
+            )
+
+        if self.source != "auto":
+            install_translation_package(
+                self.source,
+                self.target
+            )
 
     def tr(self, content):
         if not content:
             return ""
 
-        max_attempts = 4
+        if self.source == "auto":
+            return content
 
-        for attempt in range(max_attempts):
-            try:
-                result = translate(
-                    content,
-                    to_language=self.target,
-                    from_language=self.source
-                )
+        try:
+            result = argostranslate.translate.translate(
+                content,
+                self.source,
+                self.target
+            )
 
-                time.sleep(2)
+            return result
 
-                return result
+        except Exception as e:
+            print(
+                "Translation error: %s"
+                % str(e)
+            )
 
-            except Exception as e:
-                error_text = str(e)
-
-                if (
-                    "429" in error_text
-                    or "Too Many Requests" in error_text
-                ):
-                    wait_time = 10 * (attempt + 1)
-
-                    print(
-                        "Translation rate limit (429). "
-                        "Waiting %s seconds before retry..."
-                        % wait_time
-                    )
-
-                    time.sleep(wait_time)
-
-                else:
-                    print(
-                        "Translation error: %s"
-                        % error_text
-                    )
-
-                    return ""
-
-        print(
-            "Translation failed after %s attempts"
-            % max_attempts
-        )
-
-        return ""
+            return ""
 
     def get_newcontent(self, max_item=10):
         item_set = set()
         item_list = []
 
         for entry in self.d.entries:
+
             try:
-                title = self.tr(entry.title)
+                title = self.tr(
+                    entry.title
+                )
+
             except Exception:
                 title = ""
 
             if not hasattr(entry, "link"):
                 continue
 
-            parsed_link = urlparse(entry.link)
+            parsed_link = urlparse(
+                entry.link
+            )
 
             if not all(
                 [
@@ -138,9 +186,12 @@ class BingTran:
             description = ""
 
             try:
-                description = self.tr(entry.summary)
+                description = self.tr(
+                    entry.summary
+                )
 
             except Exception:
+
                 try:
                     description = self.tr(
                         entry.content[0].value
@@ -184,7 +235,9 @@ class BingTran:
             rss_description = ""
 
         newfeed = {
-            "title": self.tr(feed.title),
+            "title": self.tr(
+                feed.title
+            ),
             "link": feed.link,
             "description": rss_description,
             "lastBuildDate": getTime(feed),
@@ -218,8 +271,15 @@ def tran(sec, max_item):
         f'{get_cfg(sec, "name")}.xml'
     )
 
-    url = get_cfg(sec, "url")
-    old_md5 = get_cfg(sec, "md5")
+    url = get_cfg(
+        sec,
+        "url"
+    )
+
+    old_md5 = get_cfg(
+        sec,
+        "md5"
+    )
 
     source, target = get_cfg_tra(
         sec,
@@ -256,14 +316,20 @@ def tran(sec, max_item):
 
         r.raise_for_status()
 
-        new_md5 = get_md5_value(r.text)
+        new_md5 = get_md5_value(
+            r.text
+        )
 
     except Exception as e:
         print(
             "Error occurred when fetching RSS content "
             "for %s: %s"
-            % (sec, str(e))
+            % (
+                sec,
+                str(e)
+            )
         )
+
         return
 
     if old_md5 == new_md5:
@@ -271,6 +337,7 @@ def tran(sec, max_item):
             "No update needed for %s"
             % sec
         )
+
         return
 
     print(
@@ -279,12 +346,14 @@ def tran(sec, max_item):
     )
 
     try:
-        feed = BingTran(
+        translator = BingTran(
             url,
             target=target,
             source=source,
             rss_text=r.text
-        ).get_newcontent(
+        )
+
+        feed = translator.get_newcontent(
             max_item=max_item
         )
 
@@ -292,13 +361,18 @@ def tran(sec, max_item):
         print(
             "Error occurred when translating RSS content "
             "for %s: %s"
-            % (sec, str(e))
+            % (
+                sec,
+                str(e)
+            )
         )
+
         return
 
     rss_items = []
 
     for item in feed["items"]:
+
         title = item["title"]
         link = item["link"]
         description = item["description"]
@@ -391,11 +465,16 @@ def tran(sec, max_item):
         print(
             "Error occurred when creating directory "
             "%s: %s"
-            % (BASE, str(e))
+            % (
+                BASE,
+                str(e)
+            )
         )
+
         return
 
     if os.path.isfile(xml_file):
+
         try:
             with open(
                 xml_file,
@@ -409,9 +488,12 @@ def tran(sec, max_item):
                     "No change in RSS content for %s"
                     % sec
                 )
+
                 return
 
-            os.remove(xml_file)
+            os.remove(
+                xml_file
+            )
 
         except Exception as e:
             print(
@@ -423,6 +505,7 @@ def tran(sec, max_item):
                     str(e)
                 )
             )
+
             return
 
     try:
@@ -443,6 +526,7 @@ def tran(sec, max_item):
                 str(e)
             )
         )
+
         return
 
     set_cfg(
@@ -456,7 +540,9 @@ def tran(sec, max_item):
         "w",
         encoding="utf-8"
     ) as configfile:
-        config.write(configfile)
+        config.write(
+            configfile
+        )
 
 
 def get_cfg(sec, name):
@@ -493,7 +579,9 @@ def get_cfg_tra(sec, config):
 
 config = configparser.ConfigParser()
 
-config.read("test.ini")
+config.read(
+    "test.ini"
+)
 
 BASE = get_cfg(
     "cfg",
@@ -501,7 +589,9 @@ BASE = get_cfg(
 )
 
 try:
-    os.makedirs(BASE)
+    os.makedirs(
+        BASE
+    )
 
 except:
     pass
@@ -511,6 +601,7 @@ links = []
 secs = config.sections()
 
 for x in secs[1:]:
+
     max_item = int(
         get_cfg(
             x,
@@ -523,14 +614,19 @@ for x in secs[1:]:
         max_item
     )
 
-update_readme(links)
+update_readme(
+    links
+)
 
 with open(
     "test.ini",
     "w",
     encoding="utf-8"
 ) as configfile:
-    config.write(configfile)
+
+    config.write(
+        configfile
+    )
 
 
 YML = "README.md"
@@ -540,6 +636,7 @@ with open(
     "r+",
     encoding="UTF-8"
 ) as f:
+
     list1 = f.readlines()
 
 list1 = list1[:13] + links
@@ -549,4 +646,5 @@ with open(
     "w+",
     encoding="UTF-8"
 ) as f:
+
     f.writelines(list1)
