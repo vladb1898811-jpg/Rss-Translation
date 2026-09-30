@@ -4,7 +4,14 @@
     <title>Обнимая лицо - Блог</title>
     <link>https://huggingface.co/blog</link>
     <description>Блог The Hugging Face</description>
-    <lastBuildDate>Wed, 30 Sep 2026 09:31:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 15:13:44 GMT</lastBuildDate>
+    <item>
+      <title>Открытая таблица лидеров TTS: масштабируемая оценка для многоязычного клонирования текста и голоса</title>
+      <link>https://huggingface.co/blog/open-tts-leaderboard</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/open-tts-leaderboard</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>NVIDIA Kumo Tabular устанавливает новый рубеж точности и эффективности для табулярного прогнозирования</title>
       <link>https://huggingface.co/blog/nvidia/kumo-tabular</link>
@@ -101,13 +108,6 @@
       <link>https://huggingface.co/blog/funes</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/funes</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Обучение модели кодирования для рисования акварелей с помощью TRL и OpenEnv</title>
-      <link>https://huggingface.co/blog/train-to-paint-with-code</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/train-to-paint-with-code</guid>
       <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     </channel>

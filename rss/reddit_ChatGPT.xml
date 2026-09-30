@@ -4,111 +4,111 @@
     <title>Новые материалы: ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit для обсуждения ChatGPT и AI Не связан с OpenAI. Спасибо. Нэт!</description>
-    <lastBuildDate>Wed, 30 Sep 2026 12:15:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 15:19:00 GMT</lastBuildDate>
     <item>
-      <title>Я только что просмотрел рекламу ChatGPT и потратил $283 за 15 часов.</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1wu37eb/i_just_tried_chatgpt_ads_and_it_spent_283_in_15/</link>
-      <description><![CDATA[ Это так нелепо, я давал бюджет 30 долларов в день, он все равно тратил 283 доллара. Как это возможно? Произошло ли это с кем-либо?     представлено   /u/Overall-Energy-3595    ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu37eb/i_just_tried_chatgpt_ads_and_it_spent_283_in_15/</guid>
-      <pubDate>Wed, 30 Sep 2026 12:08:25 GMT</pubDate>
+      <title>От Blender Blockout до Live Performance</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1wu7izf/experiment_from_blender_blockout_to_live/</link>
+      <description><![CDATA[     Uisato Studio.  Визуальные эффекты на экранах от Realtime Audioreactive Pointclouds [v1.7], недавно выпущенные через Patreon, и  Store.    представлено   /u/uisato   [link] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu7izf/experiment_from_blender_blockout_to_live/</guid>
+      <pubDate>Wed, 30 Sep 2026 15:11:57 GMT</pubDate>
     </item>
     <item>
-      <title>У меня такие ответы чаще, чем следовало бы.</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1wu32qi/i_have_answers_like_this_more_often_than_i_should/</link>
-      <description><![CDATA[       представленный  /u/HowlingBird   [link]&lt;/]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu32qi/i_have_answers_like_this_more_often_than_i_should/</guid>
-      <pubDate>Wed, 30 Sep 2026 12:01:51 GMT</pubDate>
+      <title>ИИ-инжиниринг от Scratch теперь имеет раздел Проекты, и он открыт для общественных проектов.</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1wu7i8z/ai_engineering_from_scratch_now_has_a_projects/</link>
+      <description><![CDATA[     Я поддерживаю AI Engineering from Scratch, MIT-лицензированную учебную программу на GitHub. До сих пор это были уроки. Я только что добавил раздел «Проекты», потому что чтение о петле агента и построение петли, которая выдержит его тесты, — это разные навыки. Каждый проект заканчивается инструментом, который вы можете запустить. Некоторые из них:    (Python): ограниченный цикл, который применяет точные патчи в одноразовом рабочем пространстве и запускает реальные тесты через одну разрешенную команду   (Rust, Python, TypeScript): поиск BM25, извлечение фрагментов со смещениями, проверка претензий и отчет HTML с примечаниями и следом   (Go)   Tool Call Firewall     (TypeScript, Rust)   (Python)   (Local Model Evaluation Harness (Python): карта оценки точности и калибровки        : safe path, пока вы его не запишете. Каждый этап имеет по крайней мере пять тестов, и грейдер перезапускает все более ранние этапы, поэтому изменение стадии 4 не может спокойно прервать стадию 1. Если вам нужно руководство, /build-project &lt;id&gt; в ChatGPT или Codex (или навык построения проекта в Codex) обучает вас один этап за один раз.  Текущее состояние  48 проектов готовы, 52 на дорожной карте, через 5 уровней (Starter to Frontier)  196 градуированных этапов Python, TypeScript, Rust и Go  Основные тесты используют локальные крепления и не требуют ключей API  Большинство проектов занимают около 8 часов; исследовательский агент ближе к 20   Ограничения, поэтому никто не удивляется    Сертификат о завершении самостоятельно проверяется из вашего местного отчета о грейдере. Это не проктор.  Оценки Eval описывают опубликованные приборы, а не производительность.  Проект песочницы планирует политику изоляции; он не обеспечивает изоляцию на уровне ОС.  Проекты сообщества открыты. Скопируйте projects/ template, напишите от 4 до 8 этапов с 5 тестами, каждый из которых работает в автономном режиме, и откройте PR. Ваше имя и GitHub остаются в манифесте проекта. Я просматриваю, работая на первых этапах в качестве ученика.  Я хотел бы получить обратную связь по двум вопросам: какой этап был слишком большим или слишком маленьким, и какой из 52 запланированных проектов вы хотели бы построить первым. Repo: https://github.com/rohitg00/rohitg00/ai-engineering-from-scratch Проекты: /u/SeveralSeat2176   [link] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu7i8z/ai_engineering_from_scratch_now_has_a_projects/</guid>
+      <pubDate>Wed, 30 Sep 2026 15:11:15 GMT</pubDate>
     </item>
     <item>
-      <title>Люди планируют контролировать интеллект, который они уже называют «супер».</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1wu30nh/humans_making_plans_to_control_the_intelligence/</link>
-      <description><![CDATA[      submitted by   [link]&lt;/]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu30nh/humans_making_plans_to_control_the_intelligence/</guid>
-      <pubDate>Wed, 30 Sep 2026 11:59:37 GMT</pubDate>
+      <title>Объявления в ChatGPT Plus?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1wu7h9i/ads_in_chatgpt_plus/</link>
+      <description><![CDATA[   Я только что взял месяц подписки Plus, чтобы снова протестировать модели, и совершенно неожиданно я увидел дополнение к плану Pro. Какого хрена? Предполагалось ли, что это произойдет даже при подписке Plus ?    представлено   /u/seboll13   [link] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu7h9i/ads_in_chatgpt_plus/</guid>
+      <pubDate>Wed, 30 Sep 2026 15:10:21 GMT</pubDate>
     </item>
     <item>
-      <title>ЧатГПТ Приложение постоянно падает на окна</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1wu2qu8/chatgpt_app_crashing_on_windows_continuously/</link>
-      <description><![CDATA[      любой, кто сталкивается с этой проблемой на окнах? Я на легионе 7 с хорошим количеством тарана и хранилища, но каким-то образом приложение чатgpt продолжает сбрасывать себя, как показано на приведенных выше изображениях, оно просто дает пустой экран и отображает логотип, и через 30-40 секунд оно отображает экран, и я должен продолжать чаты оттуда, еще хуже чаты заканчиваются быстро по какой-то причине, даже не выполняя работу должным образом и не сохраняет правильный контекст из подсказки, даже после того, как на Pro 20x план (теперь 10x). Это потому, что я запускаю 4 параллельных чата? Я уже запускал больше чатов, но у меня не было этого вопроса.    представлено   /u/favyyyy  [link]&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu2qu8/chatgpt_app_crashing_on_windows_continuously/</guid>
-      <pubDate>Wed, 30 Sep 2026 11:45:44 GMT</pubDate>
+      <title>Можно ли сделать 3D-модели для печати?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1wu7ac1/can_astra_make_3d_models_for_printing/</link>
+      <description><![CDATA[ Я видел в одном из комментариев, что кто-то использует Astra для создания 3D-моделей для печати, возможно ли, что Astra разрабатывает пользовательские карточные коробки? Не наклон с, детали, правильные размеры и аналогичные потребности?    представлено   /u/Faustakodufe   ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu7ac1/can_astra_make_3d_models_for_printing/</guid>
+      <pubDate>Wed, 30 Sep 2026 15:02:56 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI изменил сделку</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1wu2ns6/openai_altered_the_deal/</link>
-      <description><![CDATA[      Мне все равно понравится, но я просто сделаю понижение. Если я использую 200 долларов в месяц, я могу просто обновиться. Похоже, они убили причину сохранить подписку на $200.     представлено   /u/benl5442   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu2ns6/openai_altered_the_deal/</guid>
-      <pubDate>Wed, 30 Sep 2026 11:41:06 GMT</pubDate>
+      <title>Это довольно хорошо для перевода в виде текста.</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1wu778b/its_pretty_good_for_inimagetext_translation/</link>
+      <description><![CDATA[    И если вы хотите узнать историю за картиной: Reddit Post [by Me] Как бы то ни было, Thx.    представлено   /u/Nice-Hearing-660    [link]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu778b/its_pretty_good_for_inimagetext_translation/</guid>
+      <pubDate>Wed, 30 Sep 2026 14:59:51 GMT</pubDate>
     </item>
     <item>
-      <title>Нормально ли, что через некоторое время дела идут медленнее?</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1wu2lem/is_it_normal_for_things_to_get_slower_after_a/</link>
-      <description><![CDATA[это случилось с grok и теперь происходит с gpt wokrs хорошо в течение месяца или двух, а затем начинает отставать, как сумасшедший  почти каждый запрос, который он висит в течение хороших 5-10 секунд, прежде чем начать делать свое дело                                                 ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu2lem/is_it_normal_for_things_to_get_slower_after_a/</guid>
-      <pubDate>Wed, 30 Sep 2026 11:37:39 GMT</pubDate>
+      <title>Какой бы разработчик OpenAI ни решил нанести «howSpace» на «Show Pet» в качестве ярлыка GLOBAL по умолчанию — просто уволитесь с работы. У вас нет бизнеса по разработке программного обеспечения. Абсолютно невероятно.</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1wu7031/whichever_openai_dev_decided_to_map_space_to_show/</link>
+      <description><![CDATA[     Я провел последние несколько дней, задаваясь вопросом, почему различные ярлыки  theSpace в моих приложениях перестали работать из ниоткуда.   После устранения неполадок и короткого аудита я обнаружил, что ChatGPT / Codex добавил в приложение функцию наложения &quot;Pet&amp;quot. Как правило, это хорошо... Я могу оставить питомца выключенным... ничего страшного. ...но потом стало ясно, что в мастерском инсульте идиотизма и пользовательской враждебности кто-то из OpenAI решил: 1. Give &quot;Show Pet&quot; комбинация ярлыков «SpaceSpace», которая является одной из наиболее распространенных комбинаций  во всех macOS и почти гарантированно конфликтует с существующими конфигурациями, 2. Включить ярлык по умолчанию silently после обновления приложения, тем самым игнорируя опцию пользователя, и в довершение всего, 3. Заставил его работать как ярлык GLOBAL (не только тогда, когда Codex имеет фокус приложения). Дамы и господа, это то, что вы называете трифектой некомпетентности.  Уровень невежества и неуважения к платформе Mac и ее пользователям, которые должны выпустить что-то подобное, на самом деле впечатляет. Подожди. Мы надеемся, что они вернутся к тому, чем является эта любимая вещь, и ffs никогда больше не будут молча добавлять и включать глобальный ярлык клавиатуры.https://p&gt;https://p&gt;724c6bf7osh1.png;auto=png&amp;auto=png&amp;136p&amp;auto=png&amp;130023e05c1e77c17&lt; представлено  ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu7031/whichever_openai_dev_decided_to_map_space_to_show/</guid>
+      <pubDate>Wed, 30 Sep 2026 14:51:54 GMT</pubDate>
     </item>
     <item>
-      <title>Достигнутый</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1wu2k7w/agi_achieved/</link>
-      <description><![CDATA[   ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu2k7w/agi_achieved/</guid>
-      <pubDate>Wed, 30 Sep 2026 11:35:52 GMT</pubDate>
+      <title>Я столкнулся с сбоем: «Чат-память полная»</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1wu6uvm/i_encountered_a_glitch_chat_memory_full/</link>
+      <description><![CDATA[ В моем чате вдруг говорится «Чат-память полная», хотя разговор очень маленький. Я открыл старый разговор ChatGPT, который не использовал некоторое время, и внезапно увидел это: Память в чате полная действительно маленький. Это далеко не то, что я ожидал бы вызвать проблему памяти / контекста. Я также не использовал разговор в последнее время, поэтому я не понимаю, почему он внезапно стал «полным». Регулярная сохраненная память моего аккаунта также не кажется полной. Кто-нибудь еще получил это точное сообщение на маленьком / старом разговоре? Я пытаюсь выяснить, является ли это новой функцией, ошибкой или чем-то еще.    представлено   /u/whats thatchickenbruh   ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu6uvm/i_encountered_a_glitch_chat_memory_full/</guid>
+      <pubDate>Wed, 30 Sep 2026 14:46:10 GMT</pubDate>
     </item>
     <item>
-      <title>Аккаунт деактивировали даже после прослушивания предупреждения?</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1wu2iua/account_got_deactivated_even_after_listening_to/</link>
-      <description><![CDATA[ Здравствуйте, недавно я получил свой хак rf, так как мой старый sdr был rtl-sdr v4, и я хотел попробовать некоторые новые проекты, которые требовали большей выборки, которую может поддерживать хак rf, что-то, что я видел в Интернете, это были некоторые люди, использующие хак RF для джема Wi-Fi, я думал, что это будет классная идея и попросил чат, чтобы помочь мне клонировать и построить РЕПО, который мог бы сделать именно это, он немедленно отказался (понятный) я спросил его, почему (Idiot я не осознаю, что это незаконно) и он просто закрыл чат и заставил меня создать новый, я получил электронное письмо в то же время, я признал, и вчера и сегодня я ничего не сделал, что нарушило бы это правило, я работал с gpt вместо того, чтобы попытаться расшифровать dvb-t2 (телевизорный сигнал), который я нашел, поскольку я работал, возможно, 6 часов без проблем от меня, никто из gpt, я не спрашивал его ничего о том, как передавать, ничего о расшифровке какого-либо Я получил предупреждение, выслушал его, не сделал ничего плохого, затем деактивировался, я заплатил деньги за подписку (и не небольшие суммы) не для моего счета, чтобы деактивироваться, я уже сделал обращение, но из того, что я вижу в Интернете, это может занять месяцы для кого-то, чтобы даже просмотреть его, поэтому я думаю, что публикация здесь может немного помочь, и, возможно, кто знает, я в чем-то не прав. edit: если я попытаюсь использовать чат центра помощи gpt, в тот момент, когда я задаю ему какие-либо вопросы, он запрашивает мою электронную почту, и когда я вхожу в него, он просто говорит мне, что это дело было закрыто и больше не может мне помочь.    представлено    /u/Long Command5253   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu2iua/account_got_deactivated_even_after_listening_to/</guid>
-      <pubDate>Wed, 30 Sep 2026 11:33:41 GMT</pubDate>
+      <title>Как широко использовать ChatGPT при аутизме, не становясь повторяющимся или зависимым от него?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1wu680j/how_do_you_use_chatgpt_extensively_with/</link>
+      <description><![CDATA[Я довольно широко использую ChatGPT для организации своей жизни, обучения ИТ, поиска работы, управления электронной почтой и работы с решениями.  Одна проблема, которую я заметила, заключается в том, что я иногда повторяю себя или задаю подобные вопросы снова, потому что я четко не помню, что я ранее решила. Это может привести к тому, что вы тратите слишком много времени на обсуждение или организацию вещей, а не на их выполнение. Например, недавно я пытался организовать очень большое количество старых разговоров ChatGPT и мой почтовый ящик Gmail. В конечном итоге я могу задаться вопросом, следует ли мне архивировать, удалять, сохранять или организовывать вещи, а затем задать ChatGPT дополнительные вопросы о самой системе. Я заинтересован в разработке более методичного способа использования ИИ, где он помогает компенсировать мои трудности с памятью / организацией , не становясь тем, что я неоднократно консультирую для каждого небольшого решения . Для людей, которые интенсивно используют ChatGPT, особенно для людей с аутизмом, СДВГ или аналогичными проблемами исполнительной функции / памяти:  Какие правила или системы помогли вам избежать многократного спрашивать ИИ об одних и тех же вещах?  Как вы решаете, когда спрашивать ChatGPT против принятия решения самостоятельно?  Сохраняете ли вы отдельную сводку/справочную систему для важных решений?  Вы нашли способы остановить саму организацию ИИ, став другой формой прокрастинации?  Я особенно заинтересован в практических системах, которые вы на самом деле использовали, а не в общих советах по производительности.    представлено   /u/allstarmode1   [link][comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu680j/how_do_you_use_chatgpt_extensively_with/</guid>
+      <pubDate>Wed, 30 Sep 2026 14:20:28 GMT</pubDate>
     </item>
     <item>
-      <title>Молитва на OpenAI об этом</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1wu21ha/praying_on_openais_downfall_for_this/</link>
-      <description><![CDATA[       submitted by   [link]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu21ha/praying_on_openais_downfall_for_this/</guid>
-      <pubDate>Wed, 30 Sep 2026 11:06:55 GMT</pubDate>
+      <title>Почему пользователи, которые не будут использовать новые функции, сократили их использование?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1wu5x1f/why_would_users_who_wont_use_new_features_have/</link>
+      <description><![CDATA[ Если ожидается, что использование компьютеров и точек будет высоким вычислительным использованием продуктов, которые они продвигают, не то, что все просили и выбрали. Тогда почему пользователи, которые не используют компьютер или точки, должны сократить свое использование и сказать, чтобы заплатить более чем в 2 раза цену, если мы хотим приблизиться к тому же использованию, к которому мы имели доступ в течение многих лет  6.1, цена ближе к 5,6 и 20 раз использование было хорошо тогда. Поэтому мы не должны быть наказаны за функции, которые мы не планируем использовать. &gt;Таким образом, они должны быть отдельными еженедельными надбавками вместо сокращения 20x до 10x  Возьми кредиты обратно, я не хочу их     представлено   /u/xaljiemxhaj   [link]&gt;[comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu5x1f/why_would_users_who_wont_use_new_features_have/</guid>
+      <pubDate>Wed, 30 Sep 2026 14:08:18 GMT</pubDate>
     </item>
     <item>
-      <title>Вопрос: Кто должен быть привлечен к ответственности, когда агенты ИИ совершают преступление? Трамп: Это не ИИ. Это Си. Сегодня мы официально изменили название.</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1wu1w1q/q_who_should_be_held_accountable_when_the_ai/</link>
-      <description><![CDATA[         представлено    /u/Puzzleheaded-King584    [link] /td&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu1w1q/q_who_should_be_held_accountable_when_the_ai/</guid>
-      <pubDate>Wed, 30 Sep 2026 10:58:33 GMT</pubDate>
+      <title>ChatGPT Desktop App с использованием 5.6 Сол, а не Луна?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1wu5o00/go_user_chatgpt_desktop_app_using_56_sol_and_not/</link>
+      <description><![CDATA[  /u/Bloodymonday93     ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu5o00/go_user_chatgpt_desktop_app_using_56_sol_and_not/</guid>
+      <pubDate>Wed, 30 Sep 2026 13:58:27 GMT</pubDate>
     </item>
     <item>
-      <title>62 500 кредитов?</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1wu1s46/credited_62500_credits/</link>
-      <description><![CDATA[ Chat gpt зачислил на мой счет 62,5 тыс. Я не уверен, что это повышение или что. Кто-нибудь еще испытывает это? Я даже не использую рабочие кредиты, поэтому это стало неожиданностью.     представлено   /u/Agreeable-Line782    [link]&gt;   [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu1s46/credited_62500_credits/</guid>
-      <pubDate>Wed, 30 Sep 2026 10:52:14 GMT</pubDate>
+      <title>Новые модели выходили каждые 10 недель. Теперь это каждые 11 дней.</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1wu5nyg/new_models_used_to_come_out_every_10_weeks_now/</link>
+      <description><![CDATA[   /u/Puzzleheaded-King584   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu5nyg/new_models_used_to_come_out_every_10_weeks_now/</guid>
+      <pubDate>Wed, 30 Sep 2026 13:58:24 GMT</pubDate>
     </item>
     <item>
-      <title>Люди, которые используют ChatGPT для всего, почему? Как?</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1wu1olz/people_that_use_chatgpt_for_everything_why_how/</link>
-      <description><![CDATA[ Каждый раз, когда я пытаюсь использовать его, я могу говорить только абстрактную и разглагольствующую геополитику или гипотетику, потому что, как только я пробую что-то более полезное, я получаю ложную информацию или она пытается направить разговор в другое место или начать бросать случайные вещи в меня, минуя мой фактический вопрос. Иногда это дает мне хорошие ориентиры, но в других случаях это приводит к тому, что не существует, и я в конечном итоге трачу часы, пытаясь понять, что это дерьмо не реально. Это так ненадежно, как вы, ребята, можете использовать его для всего? И почему?    представлено   /u/TizianoDAnzi    ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu1olz/people_that_use_chatgpt_for_everything_why_how/</guid>
-      <pubDate>Wed, 30 Sep 2026 10:46:32 GMT</pubDate>
+      <title>Кто-нибудь использует компьютерную историю?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1wu5ggp/is_anyone_using_the_computer_history_feature/</link>
+      <description><![CDATA[    Выглядит великолепно... но...privacy... oh lawd.:ah, fuck it&quot;ah, fuck it&quot;, drastically, but...Does anyone ;a https://www.reddit.com/-Davster-&quot;&gt; /u/-Davster-  [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu5ggp/is_anyone_using_the_computer_history_feature/</guid>
+      <pubDate>Wed, 30 Sep 2026 13:49:20 GMT</pubDate>
     </item>
     <item>
-      <title>Я должен спросить, что я сделал?</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1wu1nzl/should_i_ask_it_what_did_i_do/</link>
-      <description><![CDATA[       submitted by   [link][comments]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu1nzl/should_i_ask_it_what_did_i_do/</guid>
-      <pubDate>Wed, 30 Sep 2026 10:45:35 GMT</pubDate>
+      <title>Сдвиг мышления, который сделал Дотс действительно полезным для меня</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1wu5dfz/the_mindset_shift_that_made_dots_actually_useful/</link>
+      <description><![CDATA[ Когда вышел Гермес, а теперь и Дотс, я увидел, что у многих людей та же проблема, что и у меня. Было много шумихи вокруг постоянного помощника, но было трудно понять, для чего я на самом деле использую его. Сдвиг для меня изменил мое мышление на:  Что я уже знаю, важно для меня, но я не хочу постоянно держать свой ум на? Как только я начал думать о Гермесе и точках таким образом, я начал находить для них гораздо больше полезных случаев. Например, в моих случаях использования:  Upwork: следите за новыми работами и уведомляйте меня, когда одна из них действительно соответствует тому, что я ищу. Фантазия: Не отставайте от моей команды и предложите отказаться от пикапов или помогите мне оценить сделки, когда что-то появится. Путешествия: следите за ценами на авиабилеты и дайте мне знать, когда на самом деле есть хорошая сделка. Не потому, что цена изменилась на 10 долларов, а потому, что есть что-то, что действительно стоит моего внимания.   Первоначально я рассматривал этих помощников как то, что должно делать мою работу или принимать решения за меня. Что оказалось более полезным, так это то, что они следили за вещами, которые меня уже волнуют, и возвращали их к моему вниманию, когда это имело значение. Я все еще хочу творчески мыслить и принимать решения. Я просто не хочу постоянно быть тем, кто все проверяет.    представлено   /u/Playful School6693    [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu5dfz/the_mindset_shift_that_made_dots_actually_useful/</guid>
+      <pubDate>Wed, 30 Sep 2026 13:45:57 GMT</pubDate>
     </item>
     <item>
-      <title>Мобильные чаты на рабочем столе и наоборот?</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1wu1lji/mobile_chats_on_desktop_and_vice_versa/</link>
-      <description><![CDATA[ Я не могу видеть мобильные чаты на своем рабочем столе и чаты в кодексе. Это верно?     представлено   /u/Individual-Carob5593     /1wu1lji/mobile chats on desktop and span&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu1lji/mobile_chats_on_desktop_and_vice_versa/</guid>
-      <pubDate>Wed, 30 Sep 2026 10:41:30 GMT</pubDate>
+      <title>Показал ChatGPT паука</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1wu58oj/showed_chatgpt_a_spider/</link>
+      <description><![CDATA[    Я назвал его Эндрю в честь фильма Робина Уильямса &quot;Человек двухсотлетия&quot;. Он очень смешной и имеет довольно горшковатый рот lol    представленный   /u/Many Green4123    [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu58oj/showed_chatgpt_a_spider/</guid>
+      <pubDate>Wed, 30 Sep 2026 13:40:31 GMT</pubDate>
     </item>
     <item>
-      <title>Вам, вероятно, не нужна Astra для половины того, что вы используете.</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1wu1hko/you_probably_dont_need_astra_for_half_the_stuff/</link>
-      <description><![CDATA[guys, попробуйте Luna, прежде чем тратить весь свой лимит на Astra!!! Я вижу так много постов &quot;Astra съела мое еженедельное использование&quot;. И да, ограничения сбивают с толку, но почему мы используем самую сильную модель для всего, даже не зная, что нам нужно? Сначала обсудите свою идею в обычном чате. Задавайте вопросы, пусть это Google материал, выяснить, что вы на самом деле хотите. Измените свое мнение там, а не на полпути к дорогостоящей рабочей сессии. Чат также имеет ограничения, в зависимости от того, что вы используете, но это не должно съедать ваш бюджет. Затем приведите выводы в работу. Что нужно, что не следует менять, как проверить результат. Дайте ему правильную подсказку.  Начнем с низкой луны. Недостаточно? Больше усилий. Все еще застрял? Сол. Астра, если понадобится. Вам не нужно пробовать все настройки, но, по крайней мере, дайте более дешевому шанс, прежде чем идти прямо к максимизации всего!!!! И не заставляйте Luna делать то, что вы могли бы сделать в обычном чате. Используйте файлы MD для контекста проекта. Серьезно, просто попросите модель сделать их. Отдельные темы, небольшой индекс со ссылками, ничего сложного.  Ты сегодня починил лесозаготовки? Сохраните, где находится конфигурация, какие файлы имеют значение, что вы изменили и почему. В следующий раз скажите ему прочитать эти заметки. Зачем снова платить за то, чтобы исследовать то же самое дерьмо? Держите их обновленными, однако, в противном случае у вас просто очень организованная неправильная информация. Длинные чаты обычно означают больше контекста для обработки. Кэширование помогает, но держать каждую несвязанную задачу в одном бесконечном чате не бесплатно. Эти заметки MD облегчают начало работы без объяснения всего проекта. Существует большой разрыв между завершенной задачей и ценой за токен!    представленный   /u/More Dot7674    [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu1hko/you_probably_dont_need_astra_for_half_the_stuff/</guid>
-      <pubDate>Wed, 30 Sep 2026 10:34:48 GMT</pubDate>
+      <title>ChatGPT выйдет с чем-то шокирующим к тому времени, когда истекут наши 62 500 кредитов.</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1wu55gy/hey_doomers_chatgpt_is_going_to_come_out_with/</link>
+      <description><![CDATA[ Увидев почти бесконечный поток диареи из этого субреддита, я решил сделать пост о другой перспективе. Opus 5.5 отлично подходит. Использование ChatGPT стало более жестким. Астра дороже, чтобы бежать тяжело. Хорошо. Очевидно, это означает, что OpenAI мертв.  Ветер менял направление в течение примерно пятнадцати грёбаных минут, и половина этого субреддита немедленно надела церемониальные одежды и начала запланированный ритуал обречения. ChatGPT завершен. Антропик победил навсегда. Кредиты бесполезны. OpenAI забыла, как делать модели Соберите его, ребята, технологическая история достигла своего окончательного равновесия во вторник днем. Эти общины живут второй на второй. У модельной компании плохой месяц, и вдруг все задним числом узнали, что она обречена на годы. Другая компания выпускает что-то великое и в течение 48 часов ее пользователи проглатывают весь корпоративный вал и объясняют, почему конкурентный ландшафт теперь окончательно решен. Opus 5.5 будет лучше Может, OpenAI испортит кровать. Возможно, сокращение использования остается ужасным. Я не знаю, и пророки не размазывают свои новые откровения через Reddit каждые двенадцать минут. Я знаю, что 62 500 кредитов не истекают завтра. Я был бы очень удивлен, если бы OpenAI дошел до истечения срока действия этих кредитов, не выпуская что-то существенно лучше, дешевле, эффективнее или иным образом не изменяя уравнение снова. Этот рынок постоянно перепрыгивает сам себя. Рассматривать нынешнее расположение как геологическое образование, потому что оно длилось достаточно долго, чтобы вы могли закончить завтрак, безумно. Если я ошибаюсь, отлично. Я сожгу кредиты на все полезное и двигаться дальше.  До тех пор я не посещаю похороны, потому что у Антропика была хорошая неделя.    представлено    /u/AI is ok i guess   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1wu55gy/hey_doomers_chatgpt_is_going_to_come_out_with/</guid>
+      <pubDate>Wed, 30 Sep 2026 13:36:33 GMT</pubDate>
     </item>
     </channel>
 </rss>

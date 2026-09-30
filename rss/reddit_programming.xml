@@ -4,14 +4,7 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Wed, 30 Sep 2026 13:33:15 GMT</lastBuildDate>
-    <item>
-      <title>Вы когда-нибудь сталкивались с пространством, оставленным на устройстве, даже если оно не используется?</title>
-      <link>https://www.reddit.com/r/programming/comments/1wu3xg6/ever_hit_no_space_left_on_device_even_though_it/</link>
-      <description><![CDATA[  представлено   /u/RAY ZR   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wu3xg6/ever_hit_no_space_left_on_device_even_though_it/</guid>
-      <pubDate>Wed, 30 Sep 2026 12:42:38 GMT</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Sep 2026 16:21:22 GMT</lastBuildDate>
     <item>
       <title>Автоматические усовершенствования типов</title>
       <link>https://www.reddit.com/r/programming/comments/1wtyphe/on_automatic_type_refinements/</link>
@@ -22,7 +15,7 @@
     <item>
       <title>Слушайте  they theo theu ther the  theu thes thee ther thes the Redditors</title>
       <link>https://www.reddit.com/r/programming/comments/1wtyfil/listen_to_your_users_the_redditors/</link>
-      <description><![CDATA[Следуйте за https://www.incredible.rs/blog/tui-games-in-80x24.html&gt;https://www.incredible.rs/blog/tui-games-in-80x24.html&lt;  представленный  ]]></description>
+      <description><![CDATA[Следуйте за https://www.incredible.rs/blog/tui-games-in-80x24.html&gt;https://www.incredible.rs/blog/tui-games-in-80x24.html&lt; , представленный  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wtyfil/listen_to_your_users_the_redditors/</guid>
       <pubDate>Wed, 30 Sep 2026 07:18:23 GMT</pubDate>
     </item>
@@ -32,13 +25,6 @@
       <description><![CDATA[  представлено    /u/fagnerbrack   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wtv3vb/everyone_should_know_simd/</guid>
       <pubDate>Wed, 30 Sep 2026 04:00:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Пользовательский алгоритм шифрования</title>
-      <link>https://www.reddit.com/r/programming/comments/1wtothf/custom_encryption_algorithm/</link>
-      <description><![CDATA[  представлено    /u/ ILoveSaturdays   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wtothf/custom_encryption_algorithm/</guid>
-      <pubDate>Tue, 29 Sep 2026 22:57:31 GMT</pubDate>
     </item>
     <item>
       <title>Zero-Growth Stack, Real Gains: как распределение стека может сэкономить 10% процессора в Go</title>
@@ -55,6 +41,13 @@
       <pubDate>Tue, 29 Sep 2026 18:46:32 GMT</pubDate>
     </item>
     <item>
+      <title>Оригинальное название: Triaging Duplicates with TypeSafe</title>
+      <link>https://www.reddit.com/r/programming/comments/1wth2ti/cargocrap_triaging_duplicates_with_typesafe/</link>
+      <description><![CDATA[  представлено    /u/djminikin   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wth2ti/cargocrap_triaging_duplicates_with_typesafe/</guid>
+      <pubDate>Tue, 29 Sep 2026 17:54:02 GMT</pubDate>
+    </item>
+    <item>
       <title>В защиту визуального кортекса</title>
       <link>https://www.reddit.com/r/programming/comments/1wtfh4j/in_defense_of_the_visual_cortex/</link>
       <description><![CDATA[  представлено   /u/Jernesstar    [link] [comments]]]></description>
@@ -64,12 +57,12 @@
     <item>
       <title>Java против Groovy: 7 отличий + что приносит Groovy 6.0</title>
       <link>https://www.reddit.com/r/programming/comments/1wtb4qi/java_vs_groovy_7_differences_what_groovy_60_brings/</link>
-      <description><![CDATA[  представлено   /u/henk53   [link] [comments]]]></description>
+      <description><![CDATA[  представлено    /u/henk53   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wtb4qi/java_vs_groovy_7_differences_what_groovy_60_brings/</guid>
       <pubDate>Tue, 29 Sep 2026 14:08:59 GMT</pubDate>
     </item>
     <item>
-      <title>девять пакетов npm для доставки червя, который распространился сам по себе</title>
+      <title>девять пакетов npm для доставки червя, который распространяется сам по себе через SSH</title>
       <link>https://www.reddit.com/r/programming/comments/1wt8odk/nine_npm_packages_shipping_worm_that_spread_by/</link>
       <description><![CDATA[  представлено    /u/BattleRemote3157  [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wt8odk/nine_npm_packages_shipping_worm_that_spread_by/</guid>
@@ -85,21 +78,21 @@
     <item>
       <title>Поддержка родной ржавчины в рабочих с новой целью Emscripten для васм-биндгена</title>
       <link>https://www.reddit.com/r/programming/comments/1wsv1tt/supporting_native_rust_in_workers_with_the_new/</link>
-      <description><![CDATA[  представлено    /u/Ok Stomach6651   [link] [comments]]]></description>
+      <description><![CDATA[  представлено   /u/Ok Stomach6651   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wsv1tt/supporting_native_rust_in_workers_with_the_new/</guid>
       <pubDate>Mon, 28 Sep 2026 23:59:55 GMT</pubDate>
     </item>
     <item>
       <title>В любом случае, что хорошего в эксклюзивном замке?</title>
       <link>https://www.reddit.com/r/programming/comments/1wsqvwe/what_good_is_a_besteffort_exclusive_lock_anyway/</link>
-      <description><![CDATA[  представлено    /u/broken broken    [link] [comments&gt;]]></description>
+      <description><![CDATA[  представлено    /u/broken broken    [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wsqvwe/what_good_is_a_besteffort_exclusive_lock_anyway/</guid>
       <pubDate>Mon, 28 Sep 2026 21:04:43 GMT</pubDate>
     </item>
     <item>
       <title>Игры TUI в 80x24</title>
       <link>https://www.reddit.com/r/programming/comments/1wspai2/tui_games_in_80x24/</link>
-      <description><![CDATA[  представлено    /u/ronilan   [link] [comments]]]></description>
+      <description><![CDATA[  представлено   /u/ronilan   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wspai2/tui_games_in_80x24/</guid>
       <pubDate>Mon, 28 Sep 2026 20:05:18 GMT</pubDate>
     </item>
@@ -109,6 +102,13 @@
       <description><![CDATA[  представлено    /u/wizard creator seth   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wsjgi0/cpp_graphics_api_review/</guid>
       <pubDate>Mon, 28 Sep 2026 16:32:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Быстрое тестирование праймальности для 32-битных целых чисел через Forisek и Jancina</title>
+      <link>https://www.reddit.com/r/programming/comments/1wsaolh/fast_primality_testing_for_32bit_integers_via/</link>
+      <description><![CDATA[  представлено    /u/DataBaeBee  [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wsaolh/fast_primality_testing_for_32bit_integers_via/</guid>
+      <pubDate>Mon, 28 Sep 2026 10:11:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
