@@ -24,17 +24,22 @@ def getTime(e):
         struct_time = e.published_parsed
     except AttributeError:
         struct_time = time.localtime()
+
     return datetime.datetime(*struct_time[:6])
 
 
 class BingTran:
-    def __init__(self, url, source="auto", target="zh-CN", rss_text=None):
+    def __init__(
+        self,
+        url,
+        source="auto",
+        target="zh-CN",
+        rss_text=None
+    ):
         self.url = url
         self.source = source
         self.target = target
 
-        # Используем уже загруженный RSS,
-        # чтобы не делать второй запрос к сайту
         if rss_text is not None:
             self.d = feedparser.parse(rss_text)
         else:
@@ -45,59 +50,66 @@ class BingTran:
                     "Chrome/131.0 Safari/537.36"
                 )
             }
+
             response = requests.get(
                 url,
                 headers=headers,
                 timeout=15
             )
+
             response.raise_for_status()
+
             self.d = feedparser.parse(response.text)
 
     def tr(self, content):
-    if not content:
+        if not content:
+            return ""
+
+        max_attempts = 4
+
+        for attempt in range(max_attempts):
+            try:
+                result = translate(
+                    content,
+                    to_language=self.target,
+                    from_language=self.source
+                )
+
+                time.sleep(2)
+
+                return result
+
+            except Exception as e:
+                error_text = str(e)
+
+                if (
+                    "429" in error_text
+                    or "Too Many Requests" in error_text
+                ):
+                    wait_time = 10 * (attempt + 1)
+
+                    print(
+                        "Translation rate limit (429). "
+                        "Waiting %s seconds before retry..."
+                        % wait_time
+                    )
+
+                    time.sleep(wait_time)
+
+                else:
+                    print(
+                        "Translation error: %s"
+                        % error_text
+                    )
+
+                    return ""
+
+        print(
+            "Translation failed after %s attempts"
+            % max_attempts
+        )
+
         return ""
-
-    max_attempts = 4
-
-    for attempt in range(max_attempts):
-        try:
-            result = translate(
-                content,
-                to_language=self.target,
-                from_language=self.source
-            )
-
-            # Небольшая пауза между запросами к сервису перевода
-            time.sleep(2)
-
-            return result
-
-        except Exception as e:
-            error_text = str(e)
-
-            # Если сервис ограничил количество запросов
-            if "429" in error_text or "Too Many Requests" in error_text:
-                wait_time = 10 * (attempt + 1)
-
-                print(
-                    "Translation rate limit (429). "
-                    "Waiting %s seconds before retry..."
-                    % wait_time
-                )
-
-                time.sleep(wait_time)
-
-            else:
-                print(
-                    "Translation error: %s"
-                    % error_text
-                )
-
-                return ""
-
-    print("Translation failed after %s attempts" % max_attempts)
-
-    return ""
 
     def get_newcontent(self, max_item=10):
         item_set = set()
@@ -114,7 +126,12 @@ class BingTran:
 
             parsed_link = urlparse(entry.link)
 
-            if not all([parsed_link.scheme, parsed_link.netloc]):
+            if not all(
+                [
+                    parsed_link.scheme,
+                    parsed_link.netloc
+                ]
+            ):
                 continue
 
             link = entry.link
@@ -122,9 +139,13 @@ class BingTran:
 
             try:
                 description = self.tr(entry.summary)
+
             except Exception:
                 try:
-                    description = self.tr(entry.content[0].value)
+                    description = self.tr(
+                        entry.content[0].value
+                    )
+
                 except Exception:
                     pass
 
@@ -155,7 +176,10 @@ class BingTran:
         feed = self.d.feed
 
         try:
-            rss_description = self.tr(feed.subtitle)
+            rss_description = self.tr(
+                feed.subtitle
+            )
+
         except AttributeError:
             rss_description = ""
 
@@ -171,17 +195,24 @@ class BingTran:
 
 
 def update_readme(links):
-    with open("README.md", "r+", encoding="UTF-8") as f:
+    with open(
+        "README.md",
+        "r+",
+        encoding="UTF-8"
+    ) as f:
         list1 = f.readlines()
 
     list1 = list1[:13] + links
 
-    with open("README.md", "w+", encoding="UTF-8") as f:
+    with open(
+        "README.md",
+        "w+",
+        encoding="UTF-8"
+    ) as f:
         f.writelines(list1)
 
 
 def tran(sec, max_item):
-    # Получаем конфигурацию
     xml_file = os.path.join(
         BASE,
         f'{get_cfg(sec, "name")}.xml'
@@ -190,7 +221,10 @@ def tran(sec, max_item):
     url = get_cfg(sec, "url")
     old_md5 = get_cfg(sec, "md5")
 
-    source, target = get_cfg_tra(sec, config)
+    source, target = get_cfg_tra(
+        sec,
+        config
+    )
 
     global links
 
@@ -205,7 +239,6 @@ def tran(sec, max_item):
         )
     ]
 
-    # Загружаем RSS
     try:
         headers = {
             "User-Agent": (
@@ -227,19 +260,24 @@ def tran(sec, max_item):
 
     except Exception as e:
         print(
-            "Error occurred when fetching RSS content for %s: %s"
+            "Error occurred when fetching RSS content "
+            "for %s: %s"
             % (sec, str(e))
         )
         return
 
-    # Проверяем, изменился ли RSS
     if old_md5 == new_md5:
-        print("No update needed for %s" % sec)
+        print(
+            "No update needed for %s"
+            % sec
+        )
         return
 
-    print("Updating %s..." % sec)
+    print(
+        "Updating %s..."
+        % sec
+    )
 
-    # Переводим RSS
     try:
         feed = BingTran(
             url,
@@ -252,12 +290,12 @@ def tran(sec, max_item):
 
     except Exception as e:
         print(
-            "Error occurred when translating RSS content for %s: %s"
+            "Error occurred when translating RSS content "
+            "for %s: %s"
             % (sec, str(e))
         )
         return
 
-    # Формируем RSS
     rss_items = []
 
     for item in feed["items"]:
@@ -283,8 +321,15 @@ def tran(sec, max_item):
             .replace("'", "&#39;")
         )
 
-        link = link.replace("&", "&amp;")
-        guid = guid.replace("&", "&amp;")
+        link = link.replace(
+            "&",
+            "&amp;"
+        )
+
+        guid = guid.replace(
+            "&",
+            "&amp;"
+        )
 
         one = dict(
             title=title,
@@ -302,7 +347,9 @@ def tran(sec, max_item):
 
     rss_last_build_date = (
         feed["lastBuildDate"]
-        .strftime("%a, %d %b %Y %H:%M:%S GMT")
+        .strftime(
+            "%a, %d %b %Y %H:%M:%S GMT"
+        )
     )
 
     template = Template(
@@ -334,20 +381,21 @@ def tran(sec, max_item):
         rss_items=rss_items
     )
 
-    # Создаём папку RSS
     try:
-        os.makedirs(BASE, exist_ok=True)
+        os.makedirs(
+            BASE,
+            exist_ok=True
+        )
 
     except Exception as e:
         print(
-            "Error occurred when creating directory %s: %s"
+            "Error occurred when creating directory "
+            "%s: %s"
             % (BASE, str(e))
         )
         return
 
-    # Проверяем существующий файл
     if os.path.isfile(xml_file):
-
         try:
             with open(
                 xml_file,
@@ -363,17 +411,20 @@ def tran(sec, max_item):
                 )
                 return
 
-            else:
-                os.remove(xml_file)
+            os.remove(xml_file)
 
         except Exception as e:
             print(
-                "Error occurred when deleting RSS file %s for %s: %s"
-                % (xml_file, sec, str(e))
+                "Error occurred when deleting RSS file "
+                "%s for %s: %s"
+                % (
+                    xml_file,
+                    sec,
+                    str(e)
+                )
             )
             return
 
-    # Записываем новый RSS
     try:
         with open(
             xml_file,
@@ -384,13 +435,16 @@ def tran(sec, max_item):
 
     except Exception as e:
         print(
-            "Error occurred when writing RSS file %s for %s: %s"
-            % (xml_file, sec, str(e))
+            "Error occurred when writing RSS file "
+            "%s for %s: %s"
+            % (
+                xml_file,
+                sec,
+                str(e)
+            )
         )
         return
 
-    # Только после успешного создания XML
-    # сохраняем MD5
     set_cfg(
         sec,
         "md5",
@@ -406,7 +460,10 @@ def tran(sec, max_item):
 
 
 def get_cfg(sec, name):
-    return config.get(sec, name).strip('"')
+    return config.get(
+        sec,
+        name
+    ).strip('"')
 
 
 def set_cfg(sec, name, value):
@@ -423,9 +480,6 @@ def get_cfg_tra(sec, config):
         "action"
     ).strip('"')
 
-    target = ""
-    source = ""
-
     if cc == "auto":
         source = "auto"
         target = "zh-CN"
@@ -437,11 +491,10 @@ def get_cfg_tra(sec, config):
     return source, target
 
 
-# Читаем конфигурацию
 config = configparser.ConfigParser()
+
 config.read("test.ini")
 
-# Получаем базовую папку
 BASE = get_cfg(
     "cfg",
     "base"
@@ -455,15 +508,14 @@ except:
 
 links = []
 
-# Получаем список источников
 secs = config.sections()
 
-links = []
-
-# Обрабатываем RSS
 for x in secs[1:]:
     max_item = int(
-        get_cfg(x, "max")
+        get_cfg(
+            x,
+            "max"
+        )
     )
 
     tran(
@@ -473,7 +525,6 @@ for x in secs[1:]:
 
 update_readme(links)
 
-# Сохраняем конфигурацию
 with open(
     "test.ini",
     "w",
@@ -482,7 +533,6 @@ with open(
     config.write(configfile)
 
 
-# Обновляем README
 YML = "README.md"
 
 with open(
