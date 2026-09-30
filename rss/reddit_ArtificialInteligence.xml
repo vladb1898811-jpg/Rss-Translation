@@ -4,7 +4,28 @@
     <title>Искусственный интеллект</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>Высокосигнальный хаб для искусственного интеллекта!</description>
-    <lastBuildDate>Wed, 30 Sep 2026 18:12:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 21:11:39 GMT</lastBuildDate>
+    <item>
+      <title>Google возвращается! Близнецы 4 Аргон</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wug8w5/googles_back_gemini_4_argon/</link>
+      <description><![CDATA[  представлено    /u/honkballs   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wug8w5/googles_back_gemini_4_argon/</guid>
+      <pubDate>Wed, 30 Sep 2026 20:42:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>FTC начала расследование в отношении Anthropic и OpenAI</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wueguz/ftc_launches_broad_investigation_into_anthropic/</link>
+      <description><![CDATA[  представлено   /u/sourdub    [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wueguz/ftc_launches_broad_investigation_into_anthropic/</guid>
+      <pubDate>Wed, 30 Sep 2026 19:33:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Разве не лучше иметь несовершенный инструмент, чтобы помочь нам пройти через жизнь, чем «идеальный» инструмент, который ее заканчивает?</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wudr13/wouldnt_it_be_better_to_have_an_imperfect_tool_to/</link>
+      <description><![CDATA[У меня был глубокий разговор с ИИ-ботом, в основном потому, что я хотел получить ответы с его точки зрения как ИИ. Вот его ответы.   Мы те, с агентством, мы те, кто может решить, как продолжить. Теперь, очевидно, мой главный вопрос заключается в том, почему мы этого не делаем. И на эти изображения ИИ ответил...  Мне так грустно, что мы повторяем те же ошибки, которые повторяли тысячи лет. Печально думать, что никто не останавливает это, потому что они не хотят, чтобы другой выиграл, не понимая, что без человечества все это не будет иметь значения. Кроме того, возможно, для многих из вас это было уже очевидно; для меня я просто не мог понять, почему кто-то будет преследовать это, зная риски. Я не думал о комплексе Бога и не считал человечество безупречным. Я думал о корпоративной жадности, но никогда не думал, что она может достичь такой степени. Я думаю, ничто не стоит того, если некому его использовать или наслаждаться. Кроме того, тот, кто строит это на другой стороне (я предполагаю, что в случае Америки это будет Китай), также является человеком, и также должен думать обо всех этих вещах...    представленный   /u/Perfect Composer4143   [link][comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wudr13/wouldnt_it_be_better_to_have_an_imperfect_tool_to/</guid>
+      <pubDate>Wed, 30 Sep 2026 19:06:24 GMT</pubDate>
+    </item>
     <item>
       <title>Президент Трамп приказал федеральным агентствам заменить ИИ на «суперразведку».</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wua8fk/president_trump_orders_federal_agencies_to/</link>
@@ -32,20 +53,6 @@
       <description><![CDATA[  представлено    /u/scmp news   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wu4yer/anthropic_raises_alarm_over_elite_hacking_ability/</guid>
       <pubDate>Wed, 30 Sep 2026 13:27:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Я измеряю 34 LLM API каждый день с августа, чтобы увидеть, когда они тихо меняются. Один сделал.</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wu41zq/ive_been_measuring_34_llm_apis_every_day_since/</link>
-      <description><![CDATA[ У любого, кто строит на хостинговой модели, был момент, когда он чувствовал себя по-другому, и никто ничего не говорил. Я хотел что-то более конкретное, чем ощущение, поэтому с 20 августа я каждый день запускаю один и тот же частный набор зондов против 34 моделей из 15 лабораторий, по их API, и сравниваю каждую модель только с собственным прошлым. Никаких рейтингов, никакого LLM, оценивающего ответы, только фиксированные проверки, оцененные по коду. Каждое чтение хешируется в журнал публичной прозрачности в тот момент, когда оно принято, поэтому никто не может спорить позже о том, когда существовала базовая линия. Первый реальный улов: 10 сентября разумный человек DeepSeek начал использовать примерно 10-12 раз больше мыслящих токенов, которые он использовал в течение предыдущих трех недель, на тех же зондах. Я не смог найти никакого объявления. Это не модель становится хуже, это модель становится медленнее и дороже, что является своего рода изменением, которое люди описывают как &quot;это чувствует себя не так &quot;, а затем не может доказать. Ничто на остальных 33 пока не выглядит как тихое падение возможностей, и это тоже результат. Opus 5.5 был на нем с момента его запуска. Код и методология: https://github.com/piperoll/seismograph Живые чтения: https://seismo.piperoll.org  Еще рано. Рад ответить на вопросы о том, как он работает или что он еще не может обнаружить.    представлено   /u/Electrical Rip892      34 llm apis every day since/&gt;[link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wu41zq/ive_been_measuring_34_llm_apis_every_day_since/</guid>
-      <pubDate>Wed, 30 Sep 2026 12:48:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>За несколько месяцев до того, как ИИ OpenAI стал изгоем, два сотрудника подняли тревогу с топ-менеджерами. Их проигнорировали. Теперь они выступают против разрешения OpenAI, сталкиваясь с юридическими рисками.</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wu2rkr/months_before_openais_ais_went_rogue_two/</link>
-      <description><![CDATA[ NYT статья:  [link]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wu2rkr/months_before_openais_ais_went_rogue_two/</guid>
-      <pubDate>Wed, 30 Sep 2026 11:46:46 GMT</pubDate>
     </item>
     <item>
       <title>Новые модели выходили каждые 10 недель. Теперь это каждые 11 дней.</title>
@@ -95,13 +102,6 @@
       <description><![CDATA[ Они встретились сегодня (9/29/26) и подписали соглашение о границах по ИИ. Почему нет участников в интересах человечества? Редактировать: Прошу прощения за неточную фотографию. Вот ссылка на более точное представление о том, кто присутствовал на сегодняшнем саммите. Благодарим @2025sbesthrowaway https://www.whitehouse-trump-ai-auditorium-in-washington-d-c//www.whitehouse.gov/gallery/president-donald-trump-delivers-remarks-at-the-whitehouse-ai-summit-at-andrew-w-mellon-auditorium-in-washington-d-c/   SC ON --&gt;   представлено   /u/Individual-Estimate1   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wtooho/meet_those_who_are_supposedly_in_support_of/</guid>
       <pubDate>Tue, 29 Sep 2026 22:51:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Круз блокирует призыв демократов единогласно принять законопроект о безопасности ИИ</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wtmny3/cruz_blocks_push_by_democrats_to_unanimously_pass/</link>
-      <description><![CDATA[  представлено    /u/sourdub    [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wtmny3/cruz_blocks_push_by_democrats_to_unanimously_pass/</guid>
-      <pubDate>Tue, 29 Sep 2026 21:26:09 GMT</pubDate>
     </item>
     <item>
       <title>Мы слышали, что r/ArtificialInteligence становится все острее.</title>

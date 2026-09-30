@@ -4,7 +4,21 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Wed, 30 Sep 2026 19:34:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 22:34:18 GMT</lastBuildDate>
+    <item>
+      <title>Это ошибка ядра! Обработка пользовательских ошибок страниц с помощью bpf fault</title>
+      <link>https://www.reddit.com/r/programming/comments/1wugn5a/its_the_kernels_fault_custom_page_fault_handling/</link>
+      <description><![CDATA[  представлено   /u/mttd   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wugn5a/its_the_kernels_fault_custom_page_fault_handling/</guid>
+      <pubDate>Wed, 30 Sep 2026 20:59:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenZL v0.2 - декомпрессия в 2 раза быстрее, чем Zstandard</title>
+      <link>https://www.reddit.com/r/programming/comments/1wuf5lf/openzl_v02_decompression_2x_faster_than_zstandard/</link>
+      <description><![CDATA[  представлено    /u/aqrit    [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wuf5lf/openzl_v02_decompression_2x_faster_than_zstandard/</guid>
+      <pubDate>Wed, 30 Sep 2026 19:59:59 GMT</pubDate>
+    </item>
     <item>
       <title>Девлог о создании и оптимизации игры в Пуля ад</title>
       <link>https://www.reddit.com/r/programming/comments/1wucaqk/a_devlog_about_making_optimizing_a_bullet_hell/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[  представлено    /u/Ok Stomach6651   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wsv1tt/supporting_native_rust_in_workers_with_the_new/</guid>
       <pubDate>Mon, 28 Sep 2026 23:59:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>В любом случае, что хорошего в эксклюзивном замке?</title>
-      <link>https://www.reddit.com/r/programming/comments/1wsqvwe/what_good_is_a_besteffort_exclusive_lock_anyway/</link>
-      <description><![CDATA[  представлено    /u/broken broken    [link] [comments&gt;]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wsqvwe/what_good_is_a_besteffort_exclusive_lock_anyway/</guid>
-      <pubDate>Mon, 28 Sep 2026 21:04:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Игры TUI в 80x24</title>
-      <link>https://www.reddit.com/r/programming/comments/1wspai2/tui_games_in_80x24/</link>
-      <description><![CDATA[  представлено    /u/ronilan   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wspai2/tui_games_in_80x24/</guid>
-      <pubDate>Mon, 28 Sep 2026 20:05:18 GMT</pubDate>
     </item>
     </channel>
 </rss>

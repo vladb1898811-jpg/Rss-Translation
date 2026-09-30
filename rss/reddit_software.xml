@@ -4,7 +4,28 @@
     <title>Новые материалы: программное обеспечение</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>Все, что связано с программным обеспечением. Пожалуйста, следуйте нашим правилам, чтобы избежать наказания.</description>
-    <lastBuildDate>Wed, 30 Sep 2026 19:32:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 22:33:00 GMT</lastBuildDate>
+    <item>
+      <title>Мое приложение "GlassDesk" теперь доступно на #MicrosoftStore! Загрузите его сегодня.</title>
+      <link>https://www.reddit.com/r/software/comments/1wuim0z/hey_my_app_glassdesk_is_now_available_on_the/</link>
+      <description><![CDATA[  представлено   /u/Additional-Amoeba-31    [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wuim0z/hey_my_app_glassdesk_is_now_available_on_the/</guid>
+      <pubDate>Wed, 30 Sep 2026 22:20:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Какое программное обеспечение я должен использовать, если я хочу самостоятельно разместить свой собственный канал IPTV?</title>
+      <link>https://www.reddit.com/r/software/comments/1wuikfz/what_software_should_i_use_if_i_want_to_casually/</link>
+      <description><![CDATA[Я думал, что было бы весело сделать свой собственный телеканал. Я бы хотел что-то, что забирает мои видеофайлы, позволяет мне запрограммировать расписание, а затем позволяет ему работать автоматически. Бонусные баллы, если я могу вставить антракты для «надлежащего телевизионного опыта».  Это что-то, что существует вне профессионального программного обеспечения? Предпочтительно с открытым исходным кодом? В детстве я помню, как смотрела, по крайней мере, один супер-маленький веб-телевизор, хозяйка какого-то форума, показывая все фильмы, которые они хотели, поэтому я предполагаю, что это вещь, доступная для людей, верно? Это было бы просто для меня и, может быть, для моих друзей.    представлено   /u/WorkingMansGarbage   [link]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wuikfz/what_software_should_i_use_if_i_want_to_casually/</guid>
+      <pubDate>Wed, 30 Sep 2026 22:18:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Я сделал крошечную заметку «всегда наверху», которая проходит через то, что вы пытаетесь запомнить (бесплатно, Windows).</title>
+      <link>https://www.reddit.com/r/software/comments/1wuf44s/i_made_a_tiny_alwaysontop_note_that_cycles/</link>
+      <description><![CDATA[ StickyWords - это небольшая безрамочная заметка, которая находится поверх других окон и показывает следующий пункт из списка каждые несколько секунд:  слово и его значение ,  страна и ее капитал , дата и то, что произошло   Никаких сессий для запуска, нет учетной записи, и он работает в автономном режиме.  Несколько вещей, которые он делает: - импортные списки из CSV и корабли с шестью списками, больше списков на веб-сайте  - читает слова вслух с голосами уже в Windows - остается за пределами панели задач и из Alt-Tab - приостанавливается, пока указатель над ним, поэтому ничего не меняется в середине чтения   Это началось как то, что я написал в средней школе, чтобы выучить немецкий язык, и я, наконец, перестроил его должным образом. Это помогло мне узнать без каких-либо усилий, как вы думаете, так же будет работать и для других? stickywords.firstpush.dev    представлено   /u/g90210  [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wuf44s/i_made_a_tiny_alwaysontop_note_that_cycles/</guid>
+      <pubDate>Wed, 30 Sep 2026 19:58:20 GMT</pubDate>
+    </item>
     <item>
       <title>Pulsar — я создал легкий монитор системы панели задач для Windows 11 в Rust</title>
       <link>https://www.reddit.com/r/software/comments/1wucodd/pulsar_i_built_a_lightweight_taskbar_system/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[Windows 11 - PC/Laptop В настоящее время с помощью OpenOffice База, чтобы следить за тем, что у меня есть и где она находится, но она продолжает рушиться и разлагаться. У меня есть пара копий, так что, когда он падает, я могу переключиться на копию. LibreOffice выглядит лучше, но это все. Потребовалось несколько часов, чтобы заставить его работать, он делает те же вещи, что и OpenOffice, и он падает и пробивает; коррумпирует так же часто, как OpenOffice. Пробовал несколько других, но они не позволяют добавлять различные поля, или не имеют полей, которые соответствуют информации, которую я хочу добавить. Я хочу переключиться на что-то, что не уничтожает данные каждый раз, когда он падает.  Он должен иметь возможность создавать новые поля или редактировать их, чтобы я мог включать всю информацию, которую я хочу.  Название  Создатель [автор для книг] Группа [FIlm &amp; TV/Games/Books] Формат [DVD/Blu-Ray/UMD для фильмов &amp; TV, Wii/Switch/PS2/PS3 для игр] Строительство [будущее-доказательство в случае переезда] Комната [например, гостиная] Локация [в какой коробке она находится или на какой полке она находится] Карта/Диск [для чего-либо, не содержащегося в оригинальной коробке, например, DS-игры] Владелец [мой, чужой или что-то общее] Последняя проверка [сколько времени прошло с тех пор, как я проверил, где она была]  По крайней мере, в базе данных я могу открыть запрос, ввести место, на которое я хочу посмотреть, и посмотреть список всего, что там есть, таким образом, мне не нужно поднимать лестницу, чтобы узнать, что находится в коробке на верхней полке. Или я могу открыть запрос с помощью WHERE &quot;Title/Name&quot; LIKE &#39;%&#39; | | :Enter 01  Заголовок | | &#39;%&#39;, введите часть названия, и см. список всего, что соответствует.    представленный   /u/Panda-Head   [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1wu7frz/im_looking_for_a_free_beginner_friendly_offline/</guid>
       <pubDate>Wed, 30 Sep 2026 15:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Я создал бесплатный десктопный конвертер файлов, который сохраняет ваши файлы на вашем устройстве OmniConvert</title>
-      <link>https://www.reddit.com/r/software/comments/1wu7bjc/i_built_a_free_desktop_file_converter_that_keeps/</link>
-      <description><![CDATA[ После нескольких этапов создания и тестирования я, наконец, выпустил OmniConvert. Я сделал это, потому что я устал прыгать между различными веб-сайтами конвертера и загружать файлы на случайные серверы просто для того, чтобы делать простые вещи. OmniConvert - это настольное приложение, где обработка файлов происходит локально на вашем устройстве.  Первый выпуск  полностью свободен.  Прямо сейчас он включает в себя инструменты для: •конверсия изображений и сжатие • PDF инструменты • преобразование аудио и видео • QR и утилиты  • загружаемые модули, поэтому вы устанавливаете только те инструменты, которые вам действительно нужны  Я студент 2-го курса университета и я создавал приложение, веб-сайт и инфраструктуру в основном самостоятельно.  Загрузка: OmniConvert  Я бы очень ценил честную обратную связь, особенно если что-то не работает на вашей машине.  Какой файловый инструмент вы бы хотели, чтобы я добавил следующим?    представлено   /u/Organic Sort 8248   ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wu7bjc/i_built_a_free_desktop_file_converter_that_keeps/</guid>
-      <pubDate>Wed, 30 Sep 2026 15:04:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ищете обратную связь / поддержку с открытым исходным кодом: Modern Media Player (v2.1.200 выпущен!)</title>
-      <link>https://www.reddit.com/r/software/comments/1wu7b4r/looking_for_feedbacksupport_on_an_opensource/</link>
-      <description><![CDATA[¡Hola a todos! Quiero compartir un proyecto de código abierto que ha sido mejorado recientemente: Modern Media Player, que acaba de alcanzar la versión v2.1.200 en Codeberg.Para contextualizar, el proyecto useaba anteriormente un sistema interno de numeración de compilaciones (como el antiguo sistema 26.1x, donde 26.0 era básicamente la base), pero ha adoptado oficialmente el Versionado Semántico (SemVer) a partir de la rama v2.1.x. Este lanzamiento marca una era mucho más estable y madura para el reproductor.  ¿Por qué echarle un vistazo?  100% Código Abierto: Desarrollado de forma transparente para la comunidad. База Солида: Impulsado por tecnologías como libvlc para garantizar una excelente compatibilidad con códecs desde el primer momento. «Сильная» Evolución de la interfaz de usuario y la experiencia de usuario: Dejando atrás los diseños antiguos y poco intuitivos para adoptar una interfaz más limpia.  ¡Necesitamos tu ayuda!    Como este es un proyecto de código abierto impulsado por la comunidad, el objetivo no es el lucro, sino crear una herramienta útil. Nos encantaría que: 1. Descargas y pruebas la aplicación para ver cómo gestiona tus bibliotecas locales de audio y vídeo.  Nos das tu opinión sobre las funciones que crees que faltan en los reproductores modernos (como un mejor aislamiento de audio mediante IA, una gestión de listas de reproducción más inteligente u optimizaciones de códecs modernos).Contribuyes o nos apoyas: Ya sea reportando errores, sugiriendo funciones o ayudando con el código, cualquier apoyo es bienvenido.   Puedes consultar el código fuente y descargar la última versión aquí: s  Modern Media Player v2.1.200 en Codeberg Gracias a quienes se tomen el tiempo de revisar el repositorio o probar la compilación. ¡Hablemos de las características que realmente necesita un reproductor multimedia moderno hoy en día!    представлено   /u/Extension-East4447   ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wu7b4r/looking_for_feedbacksupport_on_an_opensource/</guid>
-      <pubDate>Wed, 30 Sep 2026 15:03:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Я создал бесплатное приложение с анимированным подзаголовком, потому что все существующие инструменты платные.</title>
-      <link>https://www.reddit.com/r/software/comments/1wu75tj/i_built_a_free_animated_subtitle_app_because/</link>
-      <description><![CDATA[https://preview.redd.it/mbjccfkn8osh1.png?width=1875&amp;format=png&amp;auto=webp&amp;f52514b9f18077d9bdfd062d983afbab Я построил это полностью с использованием бесплатных моделей ИИ с нулевым уровнем знаний о кодировании, поэтому справедливое предупреждение - это немного грубо по краям и имеет некоторые ошибки. Но это полностью работает для моего основного рабочего процесса!  Нет входа требуетсяНет файлов загружается на внешние серверыНет водяных знаков на экспортНет платных валов (полностью бесплатно, пока не сломается)   Вы можете проверить это здесь: https://generatesub.vercel.app/ Любые отзывы или сообщения об ошибках приветствуются!    представлено   /u/jarvis123451254    ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wu75tj/i_built_a_free_animated_subtitle_app_because/</guid>
-      <pubDate>Wed, 30 Sep 2026 14:58:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
