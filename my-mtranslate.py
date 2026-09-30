@@ -54,11 +54,50 @@ class BingTran:
             self.d = feedparser.parse(response.text)
 
     def tr(self, content):
-        return translate(
-            content,
-            to_language=self.target,
-            from_language=self.source
-        )
+    if not content:
+        return ""
+
+    max_attempts = 4
+
+    for attempt in range(max_attempts):
+        try:
+            result = translate(
+                content,
+                to_language=self.target,
+                from_language=self.source
+            )
+
+            # Небольшая пауза между запросами к сервису перевода
+            time.sleep(2)
+
+            return result
+
+        except Exception as e:
+            error_text = str(e)
+
+            # Если сервис ограничил количество запросов
+            if "429" in error_text or "Too Many Requests" in error_text:
+                wait_time = 10 * (attempt + 1)
+
+                print(
+                    "Translation rate limit (429). "
+                    "Waiting %s seconds before retry..."
+                    % wait_time
+                )
+
+                time.sleep(wait_time)
+
+            else:
+                print(
+                    "Translation error: %s"
+                    % error_text
+                )
+
+                return ""
+
+    print("Translation failed after %s attempts" % max_attempts)
+
+    return ""
 
     def get_newcontent(self, max_item=10):
         item_set = set()
