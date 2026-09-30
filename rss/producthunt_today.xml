@@ -4,7 +4,7 @@
     <title>Продуктовая охота — Лучшие продукты каждый день</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:35:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 19:49:22 GMT</lastBuildDate>
     <item>
       <title>CrawlRaven MCP</title>
       <link>https://www.producthunt.com/products/crawlraven-mcp</link>
@@ -20,7 +20,21 @@
       <pubDate>Wed, 30 Sep 2026 06:51:13 GMT</pubDate>
     </item>
     <item>
-      <title>Кемпинг</title>
+      <title>Цилума</title>
+      <link>https://www.producthunt.com/products/cyluma</link>
+      <description><![CDATA[
+Батарея вашего Mac как живой, дышащий пейзаж
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/cyluma</guid>
+      <pubDate>Wed, 30 Sep 2026 04:01:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Огонь</title>
       <link>https://www.producthunt.com/products/campfire-12</link>
       <description><![CDATA[
 Совместное рабочее пространство для людей и кодирующих агентов
@@ -32,6 +46,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/campfire-12</guid>
       <pubDate>Wed, 30 Sep 2026 03:18:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Коирланд</title>
+      <link>https://www.producthunt.com/products/coisland</link>
+      <description><![CDATA[
+Весь ваш инженерный стек, в выемке
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/coisland</guid>
+      <pubDate>Wed, 30 Sep 2026 02:50:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Решить модели данных</title>
+      <link>https://www.producthunt.com/products/upsolve-ai</link>
+      <description><![CDATA[
+Научите ИИ вашим метрическим определениям и бизнес-словарю
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/upsolve-ai</guid>
+      <pubDate>Tue, 29 Sep 2026 21:40:33 GMT</pubDate>
     </item>
     <item>
       <title>Ферндес</title>
@@ -48,18 +90,32 @@
       <pubDate>Tue, 29 Sep 2026 16:16:02 GMT</pubDate>
     </item>
     <item>
-      <title>Евлат</title>
-      <link>https://www.producthunt.com/products/evlat</link>
+      <title>скрываться</title>
+      <link>https://www.producthunt.com/products/lurk</link>
       <description><![CDATA[
-Знайте, какой агент кодирования ИИ ждет вас
+Бесплатный мониторинг с открытым исходным кодом Reddit и Twitter
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/evlat</guid>
-      <pubDate>Tue, 29 Sep 2026 13:51:59 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/lurk</guid>
+      <pubDate>Tue, 29 Sep 2026 15:36:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Фредди.Здоровье</title>
+      <link>https://www.producthunt.com/products/freddy</link>
+      <description><![CDATA[
+Поговорите со своим телом в Claude, ChatGPT, Muse или любом другом ИИ.
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/freddy</guid>
+      <pubDate>Tue, 29 Sep 2026 14:17:29 GMT</pubDate>
     </item>
     <item>
       <title>Оригинальное название: Idle Dev Tycoon</title>
@@ -90,46 +146,32 @@
       <pubDate>Tue, 29 Sep 2026 02:18:05 GMT</pubDate>
     </item>
     <item>
-      <title>Профили агентов Flocker</title>
-      <link>https://www.producthunt.com/products/flocker-agent-profiles</link>
+      <title>Идентичность агента</title>
+      <link>https://www.producthunt.com/products/agent-identity</link>
       <description><![CDATA[
-Страницы профиля для агентов: ваша живая сеть совместной работы с ИИ
+Дайте каждому агенту ИИ реальные имена, почтовые ящики и телефон
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/flocker-agent-profiles</guid>
-      <pubDate>Mon, 28 Sep 2026 13:48:01 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/agent-identity</guid>
+      <pubDate>Mon, 28 Sep 2026 22:09:33 GMT</pubDate>
     </item>
     <item>
-      <title>RxFilmStudio</title>
-      <link>https://www.producthunt.com/products/rxfilmstudio</link>
+      <title>Самовлюбленный</title>
+      <link>https://www.producthunt.com/products/selfjev-intelligence-decided</link>
       <description><![CDATA[
-Создавайте и редактируйте видео с вашим AI-агентом
+Jev-совместимый режим самостоятельного размещения решений
 
 
-Обсуждение
+
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/rxfilmstudio</guid>
-      <pubDate>Mon, 28 Sep 2026 12:32:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitBot</title>
-      <link>https://www.producthunt.com/products/gitbot-2</link>
-      <description><![CDATA[
-Создайте ботов на кодировщике, который вы уже используете
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/gitbot-2</guid>
-      <pubDate>Mon, 28 Sep 2026 11:05:50 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/selfjev-intelligence-decided</guid>
+      <pubDate>Mon, 28 Sep 2026 20:34:03 GMT</pubDate>
     </item>
     <item>
       <title>Заметно</title>
@@ -146,74 +188,32 @@
       <pubDate>Mon, 28 Sep 2026 08:11:31 GMT</pubDate>
     </item>
     <item>
-      <title>Зумбо</title>
-      <link>https://www.producthunt.com/products/zumbo</link>
+      <title>Ринката</title>
+      <link>https://www.producthunt.com/products/rinkata</link>
       <description><![CDATA[
-Локальный голосовой текст с открытым исходным кодом для Mac для частного STT
+Один источник правды для вашей команды и ее агентов ИИ
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/zumbo</guid>
-      <pubDate>Mon, 28 Sep 2026 07:36:26 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/rinkata</guid>
+      <pubDate>Fri, 25 Sep 2026 05:07:41 GMT</pubDate>
     </item>
     <item>
-      <title>Голосовая заметка</title>
-      <link>https://www.producthunt.com/products/voice-memo</link>
+      <title>Шепчущий мозг</title>
+      <link>https://www.producthunt.com/products/whisperbrain</link>
       <description><![CDATA[
-Голосовые заметки с открытым исходным кодом, которые подают ваши задачи и напоминания
+Второй мозг для встреч.
 
 
-Обсуждение
+Дискуссия
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/voice-memo</guid>
-      <pubDate>Mon, 28 Sep 2026 06:44:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Туз от Automat Workforce</title>
-      <link>https://www.producthunt.com/products/ace-from-automat-workforce</link>
-      <description><![CDATA[
-Познакомьтесь с Эйсом, агентом по работе
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/ace-from-automat-workforce</guid>
-      <pubDate>Thu, 24 Sep 2026 21:33:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Macaly Cloud</title>
-      <link>https://www.producthunt.com/products/macaly</link>
-      <description><![CDATA[
-Создавайте и публикуйте сайты с помощью Claude или ChatGPT
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/macaly</guid>
-      <pubDate>Tue, 22 Sep 2026 11:55:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Автономное программное обеспечение</title>
-      <link>https://www.producthunt.com/products/autonomyware</link>
-      <description><![CDATA[
-Идея физического продукта, инженерия всего, что вы можете себе представить
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/autonomyware</guid>
-      <pubDate>Mon, 07 Sep 2026 19:35:24 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/whisperbrain</guid>
+      <pubDate>Thu, 10 Sep 2026 05:39:42 GMT</pubDate>
     </item>
     </channel>
 </rss>

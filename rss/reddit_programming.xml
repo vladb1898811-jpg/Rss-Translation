@@ -4,7 +4,21 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:21:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 19:34:16 GMT</lastBuildDate>
+    <item>
+      <title>Девлог о создании и оптимизации игры в Пуля ад</title>
+      <link>https://www.reddit.com/r/programming/comments/1wucaqk/a_devlog_about_making_optimizing_a_bullet_hell/</link>
+      <description><![CDATA[  представлено   /u/LordOmbro    [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wucaqk/a_devlog_about_making_optimizing_a_bullet_hell/</guid>
+      <pubDate>Wed, 30 Sep 2026 18:11:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Недетерминированный метод шифрования</title>
+      <link>https://www.reddit.com/r/programming/comments/1wuaa7s/nondeterministic_encryption_method/</link>
+      <description><![CDATA[ Первая версия, когда мне было 16 лет, была нацелена на то, чтобы простые сообщения преобразовывались в непонятные текстовые корпусы, а алгоритм позволял отображать множество выводов на один и тот же вход. Недавно я обновил его с помощью закрытых ключей и сопротивления частотной атаке, чтобы его можно было назвать шифрованием (обращение к аллитерации)     представлено    /u/ ILoveSaturdays   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wuaa7s/nondeterministic_encryption_method/</guid>
+      <pubDate>Wed, 30 Sep 2026 16:57:40 GMT</pubDate>
+    </item>
     <item>
       <title>Автоматические усовершенствования типов</title>
       <link>https://www.reddit.com/r/programming/comments/1wtyphe/on_automatic_type_refinements/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>Слушайте  they theo theu ther the  theu thes thee ther thes the Redditors</title>
       <link>https://www.reddit.com/r/programming/comments/1wtyfil/listen_to_your_users_the_redditors/</link>
-      <description><![CDATA[Следуйте за https://www.incredible.rs/blog/tui-games-in-80x24.html&gt;https://www.incredible.rs/blog/tui-games-in-80x24.html&lt; , представленный  ]]></description>
+      <description><![CDATA[Следуйте за https://www.incredible.rs/blog/tui-games-in-80x24.html&gt;https://www.incredible.rs/blog/tui-games-in-80x24.html&lt;  представленный  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wtyfil/listen_to_your_users_the_redditors/</guid>
       <pubDate>Wed, 30 Sep 2026 07:18:23 GMT</pubDate>
     </item>
@@ -57,12 +71,12 @@
     <item>
       <title>Java против Groovy: 7 отличий + что приносит Groovy 6.0</title>
       <link>https://www.reddit.com/r/programming/comments/1wtb4qi/java_vs_groovy_7_differences_what_groovy_60_brings/</link>
-      <description><![CDATA[  представлено    /u/henk53   [link] [comments]]]></description>
+      <description><![CDATA[  представлено   /u/henk53   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wtb4qi/java_vs_groovy_7_differences_what_groovy_60_brings/</guid>
       <pubDate>Tue, 29 Sep 2026 14:08:59 GMT</pubDate>
     </item>
     <item>
-      <title>девять пакетов npm для доставки червя, который распространяется сам по себе через SSH</title>
+      <title>девять пакетов npm для доставки червя, который распространился сам по себе</title>
       <link>https://www.reddit.com/r/programming/comments/1wt8odk/nine_npm_packages_shipping_worm_that_spread_by/</link>
       <description><![CDATA[  представлено    /u/BattleRemote3157  [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wt8odk/nine_npm_packages_shipping_worm_that_spread_by/</guid>
@@ -78,37 +92,23 @@
     <item>
       <title>Поддержка родной ржавчины в рабочих с новой целью Emscripten для васм-биндгена</title>
       <link>https://www.reddit.com/r/programming/comments/1wsv1tt/supporting_native_rust_in_workers_with_the_new/</link>
-      <description><![CDATA[  представлено   /u/Ok Stomach6651   [link] [comments]]]></description>
+      <description><![CDATA[  представлено    /u/Ok Stomach6651   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wsv1tt/supporting_native_rust_in_workers_with_the_new/</guid>
       <pubDate>Mon, 28 Sep 2026 23:59:55 GMT</pubDate>
     </item>
     <item>
       <title>В любом случае, что хорошего в эксклюзивном замке?</title>
       <link>https://www.reddit.com/r/programming/comments/1wsqvwe/what_good_is_a_besteffort_exclusive_lock_anyway/</link>
-      <description><![CDATA[  представлено    /u/broken broken    [link] [comments]]]></description>
+      <description><![CDATA[  представлено    /u/broken broken    [link] [comments&gt;]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wsqvwe/what_good_is_a_besteffort_exclusive_lock_anyway/</guid>
       <pubDate>Mon, 28 Sep 2026 21:04:43 GMT</pubDate>
     </item>
     <item>
       <title>Игры TUI в 80x24</title>
       <link>https://www.reddit.com/r/programming/comments/1wspai2/tui_games_in_80x24/</link>
-      <description><![CDATA[  представлено   /u/ronilan   [link] [comments]]]></description>
+      <description><![CDATA[  представлено    /u/ronilan   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wspai2/tui_games_in_80x24/</guid>
       <pubDate>Mon, 28 Sep 2026 20:05:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>cpp graphics api обзор</title>
-      <link>https://www.reddit.com/r/programming/comments/1wsjgi0/cpp_graphics_api_review/</link>
-      <description><![CDATA[  представлено    /u/wizard creator seth   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wsjgi0/cpp_graphics_api_review/</guid>
-      <pubDate>Mon, 28 Sep 2026 16:32:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Быстрое тестирование праймальности для 32-битных целых чисел через Forisek и Jancina</title>
-      <link>https://www.reddit.com/r/programming/comments/1wsaolh/fast_primality_testing_for_32bit_integers_via/</link>
-      <description><![CDATA[  представлено    /u/DataBaeBee  [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wsaolh/fast_primality_testing_for_32bit_integers_via/</guid>
-      <pubDate>Mon, 28 Sep 2026 10:11:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
