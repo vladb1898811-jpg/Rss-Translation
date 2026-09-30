@@ -28,41 +28,70 @@ def getTime(e):
 
 
 class BingTran:
-    def __init__(self, url, source="auto", target="zh-CN"):
+    def __init__(self, url, source="auto", target="zh-CN", rss_text=None):
         self.url = url
         self.source = source
         self.target = target
 
-        self.d = feedparser.parse(
-    url,
-    agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/131.0 Safari/537.36"
-        )
+        # Используем уже загруженный RSS,
+        # чтобы не делать второй запрос к сайту
+        if rss_text is not None:
+            self.d = feedparser.parse(rss_text)
+        else:
+            headers = {
+                "User-Agent": (
+                    "Mozilla/5.0 (X11; Linux x86_64) "
+                    "AppleWebKit/537.36 "
+                    "Chrome/131.0 Safari/537.36"
+                )
+            }
+            response = requests.get(
+                url,
+                headers=headers,
+                timeout=15
+            )
+            response.raise_for_status()
+            self.d = feedparser.parse(response.text)
 
     def tr(self, content):
-        return translate(content, to_language=self.target, from_language=self.source)
+        return translate(
+            content,
+            to_language=self.target,
+            from_language=self.source
+        )
 
     def get_newcontent(self, max_item=10):
-        item_set = set()  # 使用集合来存储项目，用于过滤重复项
+        item_set = set()
         item_list = []
+
         for entry in self.d.entries:
             try:
                 title = self.tr(entry.title)
-            except:
+            except Exception:
                 title = ""
+
+            if not hasattr(entry, "link"):
+                continue
+
             parsed_link = urlparse(entry.link)
+
             if not all([parsed_link.scheme, parsed_link.netloc]):
                 continue
+
             link = entry.link
             description = ""
+
             try:
                 description = self.tr(entry.summary)
-            except:
+            except Exception:
                 try:
                     description = self.tr(entry.content[0].value)
-                except:
+                except Exception:
                     pass
+
             guid = link
             pubDate = getTime(entry)
+
             one = {
                 "title": title,
                 "link": link,
@@ -70,17 +99,27 @@ class BingTran:
                 "guid": guid,
                 "pubDate": pubDate,
             }
-            if guid not in item_set:  # 判断是否重复
+
+            if guid not in item_set:
                 item_set.add(guid)
                 item_list.append(one)
-            if len(item_list) >= max_item:  # 判断是否达到最大项目数
+
+            if len(item_list) >= max_item:
                 break
-        sorted_list = sorted(item_list, key=lambda x: x["pubDate"], reverse=True)
+
+        sorted_list = sorted(
+            item_list,
+            key=lambda x: x["pubDate"],
+            reverse=True
+        )
+
         feed = self.d.feed
+
         try:
             rss_description = self.tr(feed.subtitle)
         except AttributeError:
             rss_description = ""
+
         newfeed = {
             "title": self.tr(feed.title),
             "link": feed.link,
@@ -88,87 +127,144 @@ class BingTran:
             "lastBuildDate": getTime(feed),
             "items": sorted_list,
         }
+
         return newfeed
 
 
 def update_readme(links):
     with open("README.md", "r+", encoding="UTF-8") as f:
         list1 = f.readlines()
+
     list1 = list1[:13] + links
+
     with open("README.md", "w+", encoding="UTF-8") as f:
         f.writelines(list1)
 
 
 def tran(sec, max_item):
-    # 获取各种配置信息
-    xml_file = os.path.join(BASE, f'{get_cfg(sec, "name")}.xml')
+    # Получаем конфигурацию
+    xml_file = os.path.join(
+        BASE,
+        f'{get_cfg(sec, "name")}.xml'
+    )
+
     url = get_cfg(sec, "url")
     old_md5 = get_cfg(sec, "md5")
-    # 读取旧的 MD5 散列值
+
     source, target = get_cfg_tra(sec, config)
+
     global links
+
     links += [
         " - %s [%s](%s) -> [%s](%s)\n"
-        % (sec, url, (url), get_cfg(sec, "name"), parse.quote(xml_file))
+        % (
+            sec,
+            url,
+            url,
+            get_cfg(sec, "name"),
+            parse.quote(xml_file)
+        )
     ]
-    # 判断 RSS 内容是否有更新
+
+    # Загружаем RSS
     try:
         headers = {
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/131.0 Safari/537.36"
-}
+            "User-Agent": (
+                "Mozilla/5.0 (X11; Linux x86_64) "
+                "AppleWebKit/537.36 "
+                "Chrome/131.0 Safari/537.36"
+            )
+        }
 
-r = requests.get(url, headers=headers, timeout=15)
+        r = requests.get(
+            url,
+            headers=headers,
+            timeout=15
+        )
+
+        r.raise_for_status()
+
         new_md5 = get_md5_value(r.text)
+
     except Exception as e:
-        print("Error occurred when fetching RSS content for %s: %s" % (sec, str(e)))
+        print(
+            "Error occurred when fetching RSS content for %s: %s"
+            % (sec, str(e))
+        )
         return
+
+    # Проверяем, изменился ли RSS
     if old_md5 == new_md5:
         print("No update needed for %s" % sec)
         return
-    else:
-        print("Updating %s..." % sec)
-        set_cfg(sec, "md5", new_md5)
 
-    # 调用 BingTran 类获取新的 RSS 内容
+    print("Updating %s..." % sec)
+
+    # Переводим RSS
     try:
-        feed = BingTran(url, target=target, source=source).get_newcontent(
+        feed = BingTran(
+            url,
+            target=target,
+            source=source,
+            rss_text=r.text
+        ).get_newcontent(
             max_item=max_item
         )
+
     except Exception as e:
-        print("Error occurred when fetching RSS content for %s: %s" % (sec, str(e)))
+        print(
+            "Error occurred when translating RSS content for %s: %s"
+            % (sec, str(e))
+        )
         return
 
-    # 处理 RSS 内容，生成新的 RSS 文件
+    # Формируем RSS
     rss_items = []
+
     for item in feed["items"]:
         title = item["title"]
         link = item["link"]
         description = item["description"]
         guid = item["guid"]
         pubDate = item["pubDate"]
-        # 处理翻译结果中的不正确的 XML 标记
-        soup = BeautifulSoup(description, "html.parser")
+
+        soup = BeautifulSoup(
+            description,
+            "html.parser"
+        )
+
         description = soup.get_text()
-        # 转义特殊字符
+
         description = (
-            description.replace("&", "&amp;")
+            description
+            .replace("&", "&amp;")
             .replace("<", "&lt;")
             .replace(">", "&gt;")
             .replace('"', "&quot;")
             .replace("'", "&#39;")
         )
-        #转义link与guid内的&以符合XML格式
+
         link = link.replace("&", "&amp;")
         guid = guid.replace("&", "&amp;")
+
         one = dict(
-            title=title, link=link, description=description, guid=guid, pubDate=pubDate
+            title=title,
+            link=link,
+            description=description,
+            guid=guid,
+            pubDate=pubDate
         )
+
         rss_items.append(one)
 
     rss_title = feed["title"]
     rss_link = feed["link"]
     rss_description = feed["description"]
-    rss_last_build_date = feed["lastBuildDate"].strftime("%a, %d %b %Y %H:%M:%S GMT")
+
+    rss_last_build_date = (
+        feed["lastBuildDate"]
+        .strftime("%a, %d %b %Y %H:%M:%S GMT")
+    )
 
     template = Template(
         """<?xml version="1.0" encoding="UTF-8"?>
@@ -196,25 +292,41 @@ r = requests.get(url, headers=headers, timeout=15)
         rss_link=rss_link,
         rss_description=rss_description,
         rss_last_build_date=rss_last_build_date,
-        rss_items=rss_items,
+        rss_items=rss_items
     )
 
+    # Создаём папку RSS
     try:
         os.makedirs(BASE, exist_ok=True)
+
     except Exception as e:
-        print("Error occurred when creating directory %s: %s" % (BASE, str(e)))
+        print(
+            "Error occurred when creating directory %s: %s"
+            % (BASE, str(e))
+        )
         return
 
-    # 如果 RSS 文件存在，则删除原有内容
+    # Проверяем существующий файл
     if os.path.isfile(xml_file):
+
         try:
-            with open(xml_file, "r", encoding="utf-8") as f:
+            with open(
+                xml_file,
+                "r",
+                encoding="utf-8"
+            ) as f:
                 old_rss = f.read()
+
             if rss == old_rss:
-                print("No change in RSS content for %s" % sec)
+                print(
+                    "No change in RSS content for %s"
+                    % sec
+                )
                 return
+
             else:
                 os.remove(xml_file)
+
         except Exception as e:
             print(
                 "Error occurred when deleting RSS file %s for %s: %s"
@@ -222,9 +334,15 @@ r = requests.get(url, headers=headers, timeout=15)
             )
             return
 
+    # Записываем новый RSS
     try:
-        with open(xml_file, "w", encoding="utf-8") as f:
+        with open(
+            xml_file,
+            "w",
+            encoding="utf-8"
+        ) as f:
             f.write(rss)
+
     except Exception as e:
         print(
             "Error occurred when writing RSS file %s for %s: %s"
@@ -232,9 +350,19 @@ r = requests.get(url, headers=headers, timeout=15)
         )
         return
 
-    # 更新配置信息并写入文件中
-    set_cfg(sec, "md5", new_md5)
-    with open("test.ini", "w") as configfile:
+    # Только после успешного создания XML
+    # сохраняем MD5
+    set_cfg(
+        sec,
+        "md5",
+        new_md5
+    )
+
+    with open(
+        "test.ini",
+        "w",
+        encoding="utf-8"
+    ) as configfile:
         config.write(configfile)
 
 
@@ -243,50 +371,93 @@ def get_cfg(sec, name):
 
 
 def set_cfg(sec, name, value):
-    config.set(sec, name, '"%s"' % value)
+    config.set(
+        sec,
+        name,
+        '"%s"' % value
+    )
 
 
 def get_cfg_tra(sec, config):
-    cc = config.get(sec, "action").strip('"')
+    cc = config.get(
+        sec,
+        "action"
+    ).strip('"')
+
     target = ""
     source = ""
+
     if cc == "auto":
         source = "auto"
         target = "zh-CN"
+
     else:
         source = cc.split("->")[0]
         target = cc.split("->")[1]
+
     return source, target
 
 
-# 读取配置文件
+# Читаем конфигурацию
 config = configparser.ConfigParser()
 config.read("test.ini")
 
-# 获取基础路径
-BASE = get_cfg("cfg", "base")
+# Получаем базовую папку
+BASE = get_cfg(
+    "cfg",
+    "base"
+)
+
 try:
     os.makedirs(BASE)
+
 except:
     pass
+
 links = []
 
-# 遍历所有的 RSS 配置，依次更新 RSS 文件
+# Получаем список источников
 secs = config.sections()
 
 links = []
+
+# Обрабатываем RSS
 for x in secs[1:]:
-    max_item = int(get_cfg(x, "max"))
-    tran(x, max_item)
+    max_item = int(
+        get_cfg(x, "max")
+    )
+
+    tran(
+        x,
+        max_item
+    )
+
 update_readme(links)
 
-with open("test.ini", "w") as configfile:
+# Сохраняем конфигурацию
+with open(
+    "test.ini",
+    "w",
+    encoding="utf-8"
+) as configfile:
     config.write(configfile)
 
+
+# Обновляем README
 YML = "README.md"
-f = open(YML, "r+", encoding="UTF-8")
-list1 = f.readlines()
+
+with open(
+    YML,
+    "r+",
+    encoding="UTF-8"
+) as f:
+    list1 = f.readlines()
+
 list1 = list1[:13] + links
-f = open(YML, "w+", encoding="UTF-8")
-f.writelines(list1)
-f.close()
+
+with open(
+    YML,
+    "w+",
+    encoding="UTF-8"
+) as f:
+    f.writelines(list1)
