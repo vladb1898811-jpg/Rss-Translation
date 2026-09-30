@@ -1,114 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新提交：GPT3</title>
+    <title>Новые материалы: GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
-    <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Thu, 11 Jun 2026 16:10:14 GMT</lastBuildDate>
+    <description>Subreddit для технологии генерации текста ИИ</description>
+    <lastBuildDate>Wed, 30 Sep 2026 09:37:40 GMT</lastBuildDate>
     <item>
-      <title>让我进去...但要SFW</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1u337xv/let_me_in_but_make_it_sfw/</link>
-      <description><![CDATA[      由   提交/u/KeanuRave100  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1u337xv/let_me_in_but_make_it_sfw/</guid>
-      <pubDate>Thu, 11 Jun 2026 16:03:04 GMT</pubDate>
+      <title>OpenAI не выпустит новую модель Astra A.I. из-за проблем безопасности</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1wsvwx4/openai_says_it_will_not_release_newest_astra_ai/</link>
+      <description><![CDATA[     /u/DIY Weeziebear7     &gt;[link]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1wsvwx4/openai_says_it_will_not_release_newest_astra_ai/</guid>
+      <pubDate>Tue, 29 Sep 2026 00:39:05 GMT</pubDate>
     </item>
     <item>
-      <title>这不再只是人择问题，OpenAI 研究人员表示支持全球人工智能暂停</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1u2sz0o/its_not_just_anthropic_anymore_openai_researchers/</link>
-      <description><![CDATA[       由   提交/u/EchoOfOppenheimer   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1u2sz0o/its_not_just_anthropic_anymore_openai_researchers/</guid>
-      <pubDate>Thu, 11 Jun 2026 08:15:44 GMT</pubDate>
+      <title>Anthropic, как сообщается, в этом году будет генерировать более 100 миллиардов долларов годового дохода.</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1wnxzma/anthropic_is_reportedly_on_track_to_generate_more/</link>
+      <description><![CDATA[      представлено  ]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1wnxzma/anthropic_is_reportedly_on_track_to_generate_more/</guid>
+      <pubDate>Wed, 23 Sep 2026 06:19:11 GMT</pubDate>
     </item>
     <item>
-      <title>接管工作已经完成</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1u2srl3/the_takeover_was_already_complete/</link>
-      <description><![CDATA[       由   提交/u/KeanuRave100  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1u2srl3/the_takeover_was_already_complete/</guid>
-      <pubDate>Thu, 11 Jun 2026 08:03:05 GMT</pubDate>
+      <title>Deepseek тренирует 2Т и планирует 8Т модель</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1wmp07j/deepseek_training_2t_and_plans_8t_model/</link>
+      <description><![CDATA[Quote: DeepSeek обучает модель 2T-параметра и планирует в конечном итоге построить модель 8T-параметра.&lt;101982843656388644&lt;1.6T (триллион)  Mythos/Fable&gt;&gt;   представленный  ]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1wmp07j/deepseek_training_2t_and_plans_8t_model/</guid>
+      <pubDate>Mon, 21 Sep 2026 20:49:29 GMT</pubDate>
     </item>
     <item>
-      <title>互保A焚烧</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1u262s4/mutual_assured_aincineration/</link>
-      <description><![CDATA[      由   提交/u/KeanuRave100  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1u262s4/mutual_assured_aincineration/</guid>
-      <pubDate>Wed, 10 Jun 2026 15:50:56 GMT</pubDate>
+      <title>Мы создали модель 27b, обученную творческому письму. В слепых тестах он превосходит gpt для прозы (apache-2.0)</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1wlrk4s/we_opensourced_a_27b_model_trained_for_creative/</link>
+      <description><![CDATA[chatgpt people, этот для вас. Мы являемся небольшой швейцарской / южноафриканской лабораторией, и мы только что выпустили Hemmingway-1: модель 27b, специально обученную для написания половины работы - истории, диалог, ролевая игра, тексты, которые не звучат так, как будто они вышли из комитета. почему вы беспокоитесь, когда существует chatgpt: на наших слепых скамейках для письма он опережает gpt-5.5 и каждую другую пограничную модель, которую мы тестировали на прозу и сходство с человеком, за небольшую часть стоимости. Это открытые веса под apache-2.0 - запустить его на одном 24gb gpu, без подписки: https://huggingface.co/Altworld/Hemmingway-1  или бесплатное приложение (mac, windows, android): /u/Lukinator6446   ]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1wlrk4s/we_opensourced_a_27b_model_trained_for_creative/</guid>
+      <pubDate>Sun, 20 Sep 2026 20:13:04 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 与 Anthropic 一起认为人类可能需要暂停人工智能</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1u1z2tl/openai_joins_anthropic_in_thinking_humanity_may/</link>
-      <description><![CDATA[      由   提交/u/EchoOfOppenheimer   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1u1z2tl/openai_joins_anthropic_in_thinking_humanity_may/</guid>
-      <pubDate>Wed, 10 Jun 2026 11:08:58 GMT</pubDate>
+      <title>GPT-5.6 дает очень быстрые, но совершенно неправильные ответы — кто-нибудь еще испытывает это?</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1wk9tls/gpt56_producing_extremely_fast_but_completely/</link>
+      <description><![CDATA[  представлено    /u/princeMacX    [link] [comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1wk9tls/gpt56_producing_extremely_fast_but_completely/</guid>
+      <pubDate>Sat, 19 Sep 2026 02:27:15 GMT</pubDate>
     </item>
     <item>
-      <title>第七次生物大灭绝</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1u1vz97/the_7th_mass_extinction/</link>
-      <description><![CDATA[       由   提交/u/KeanuRave100  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1u1vz97/the_7th_mass_extinction/</guid>
-      <pubDate>Wed, 10 Jun 2026 08:13:51 GMT</pubDate>
+      <title>GPT-5.6 дает очень быстрые, но совершенно неправильные ответы — кто-нибудь еще испытывает это?</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1wjvfie/gpt56_producing_extremely_fast_but_completely/</link>
+      <description><![CDATA[  представлено    /u/princeMacX    [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1wjvfie/gpt56_producing_extremely_fast_but_completely/</guid>
+      <pubDate>Fri, 18 Sep 2026 16:45:27 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能的成本是多少？ GitHub Copilot 用户对基于使用的新定价的反应</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1u1s84r/ai_costs_how_much_github_copilot_users_react_to/</link>
-      <description><![CDATA[       由   提交 /u/Diligent_Rabbit7740   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1u1s84r/ai_costs_how_much_github_copilot_users_react_to/</guid>
-      <pubDate>Wed, 10 Jun 2026 04:44:59 GMT</pubDate>
+      <title>Этот парень сказал GPT-6 Astra нарисовать его, и он использовал Canva как человека, чтобы нарисовать его с нуля.</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1wjjprx/this_guy_told_gpt6_astra_to_draw_him_and_it_used/</link>
+      <description><![CDATA[  представлено    /u/ComplexExternal4831   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1wjjprx/this_guy_told_gpt6_astra_to_draw_him_and_it_used/</guid>
+      <pubDate>Fri, 18 Sep 2026 07:44:56 GMT</pubDate>
     </item>
     <item>
-      <title>你能做的一切人工智能都能做得更好。人工智能可以做任何事情都比你更好！</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1u156ye/everything_you_can_do_ai_can_do_better_ai_can_do/</link>
-      <description><![CDATA[       由   提交/u/KeanuRave100  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1u156ye/everything_you_can_do_ai_can_do_better_ai_can_do/</guid>
-      <pubDate>Tue, 09 Jun 2026 13:35:32 GMT</pubDate>
+      <title>Король Чарльз призвал Nvidia и OpenAI контролировать ИИ</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1wiovck/king_charles_calls_on_nvidia_openai_chiefs_to/</link>
+      <description><![CDATA[        submitted by   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1wiovck/king_charles_calls_on_nvidia_openai_chiefs_to/</guid>
+      <pubDate>Thu, 17 Sep 2026 09:11:36 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能公司如何激增</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1u0yce7/how_ai_companies_proliferate/</link>
-      <description><![CDATA[       由   提交/u/KeanuRave100  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1u0yce7/how_ai_companies_proliferate/</guid>
-      <pubDate>Tue, 09 Jun 2026 07:43:19 GMT</pubDate>
+      <title>Самая большая история ИИ — это не OpenAI, а упущенная возможность Google</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1whmup4/the_biggest_ai_story_isnt_openaiits_googles/</link>
+      <description><![CDATA[       submitted by  ]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1whmup4/the_biggest_ai_story_isnt_openaiits_googles/</guid>
+      <pubDate>Wed, 16 Sep 2026 04:21:02 GMT</pubDate>
     </item>
     <item>
-      <title>马克龙 10 AI</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1u0m407/emmanuel_macron_10_ai/</link>
-      <description><![CDATA[ 由   提交/u/Key-Ingenuity6106   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1u0m407/emmanuel_macron_10_ai/</guid>
-      <pubDate>Mon, 08 Jun 2026 21:55:36 GMT</pubDate>
+      <title>Кто выигрывает гонку ИИ?</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1wgw21b/whos_winning_the_ai_race/</link>
+      <description><![CDATA[  ]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1wgw21b/whos_winning_the_ai_race/</guid>
+      <pubDate>Tue, 15 Sep 2026 10:01:32 GMT</pubDate>
     </item>
     <item>
-      <title>素食主义者的另一个 W</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1u0adhu/another_w_for_vegans/</link>
-      <description><![CDATA[左翼再次胜利！   由   提交/u/Mentalhospital_Tales   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1u0adhu/another_w_for_vegans/</guid>
-      <pubDate>Mon, 08 Jun 2026 14:58:55 GMT</pubDate>
+      <title>Новый GPT-6 Astra от OpenAI довольно интересен</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1wcs4bw/openais_new_gpt6_astra_is_pretty_interesting/</link>
+      <description><![CDATA[  представлено    /u/One-Hand-7629    [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1wcs4bw/openais_new_gpt6_astra_is_pretty_interesting/</guid>
+      <pubDate>Thu, 10 Sep 2026 18:50:51 GMT</pubDate>
     </item>
     <item>
-      <title>素食主义者的另一个 W</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1u0addu/another_w_for_vegans/</link>
-      <description><![CDATA[      左翼再次胜利！   由   提交/u/Mentalhospital_Tales   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1u0addu/another_w_for_vegans/</guid>
-      <pubDate>Mon, 08 Jun 2026 14:58:48 GMT</pubDate>
+      <title>Скачок «интеллекта» от перцептронов к GPT-3 произошел благодаря новым идеям или просто масштабированию?</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1wcftla/did_the_intelligence_jump_from_perceptrons_to/</link>
+      <description><![CDATA[ В этом видео, в котором упоминается перцептрон Розенблатта 1957 года, было несколько сотен регулируемых параметров, а GPT-3 подскочил до 175 миллиардов. https://youtu.be/Tv1st0LMEbY?is=JF4drjBjqfYR-4E   Является ли фактическая архитектура, которая отличается сейчас, или большая часть возможностей прыгает буквально просто масштаб - те же шаги с множественным добавлением-softmax, просто намного больше из них? Чувствует себя почти слишком просто для того, насколько способны эти модели.    представлено   /u/Dahliaridge   [comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1wcftla/did_the_intelligence_jump_from_perceptrons_to/</guid>
+      <pubDate>Thu, 10 Sep 2026 10:55:43 GMT</pubDate>
     </item>
     <item>
-      <title>莎拉·康纳（Sarah Connor）判断你对人工智能的成瘾程度</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1u0990d/sarah_connor_judging_your_ai_addiction/</link>
-      <description><![CDATA[      由   提交/u/KeanuRave100  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1u0990d/sarah_connor_judging_your_ai_addiction/</guid>
-      <pubDate>Mon, 08 Jun 2026 14:17:09 GMT</pubDate>
+      <title>Аристотель предпочел бы ИИ как инструмент человеческого процветания, сопротивляясь идее, что жизнь, требующая меньше человеческих усилий, автоматически становится лучше. Вы должны продолжать творить. Вы должны продолжать работать. Вы будете недовольны тем, что потребляете больше, чем производите.</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1wc6ayx/aristotle_would_favor_ai_as_an_instrument_of/</link>
+      <description><![CDATA[  представлено    /u/OriginalAdvice8341   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1wc6ayx/aristotle_would_favor_ai_as_an_instrument_of/</guid>
+      <pubDate>Thu, 10 Sep 2026 02:33:28 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 刚刚成为月用户突破 1B 最快的应用</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1u04qr9/chatgpt_just_became_the_fastest_app_to_hit_1b/</link>
-      <description><![CDATA[      由   提交/u/ComplexExternal4831  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1u04qr9/chatgpt_just_became_the_fastest_app_to_hit_1b/</guid>
-      <pubDate>Mon, 08 Jun 2026 11:07:34 GMT</pubDate>
+      <title>GPT-6 Astra помог создать 3D-сайт, который разделяет мужскую анатомию на 2234 смоделированных фрагмента.</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1wbg9f8/gpt6_astra_helped_create_a_3d_website_that_pulls/</link>
+      <description><![CDATA[  представлено    /u/ComplexExternal4831   [link] ]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1wbg9f8/gpt6_astra_helped_create_a_3d_website_that_pulls/</guid>
+      <pubDate>Wed, 09 Sep 2026 09:03:43 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI的两面AI安全策略</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1u0155r/openais_twoface_ai_safety_strategy/</link>
-      <description><![CDATA[      由   提交/u/KeanuRave100   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1u0155r/openais_twoface_ai_safety_strategy/</guid>
-      <pubDate>Mon, 08 Jun 2026 07:42:23 GMT</pubDate>
+      <title>Бенчмарк отмечает: GPT-6 Astra устанавливает новый максимум</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1wayy8d/benchmark_notes_gpt6_astra_sets_a_new_high/</link>
+      <description><![CDATA[      ]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1wayy8d/benchmark_notes_gpt6_astra_sets_a_new_high/</guid>
+      <pubDate>Tue, 08 Sep 2026 19:46:57 GMT</pubDate>
     </item>
     </channel>
 </rss>

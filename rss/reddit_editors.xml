@@ -1,114 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新提交：编辑</title>
+    <title>Новые материалы: Редакторы</title>
     <link>https://www.reddit.com/r/editors/new</link>
-    <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了好玩？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Thu, 11 Jun 2026 16:11:08 GMT</lastBuildDate>
+    <description>Этот субреддит ориентирован на постпрофессионалов. Вы пытаетесь стать профессионалом? Не стесняйтесь использовать нашу нить «ASK a PRO». Боковая суета? Используйте строку «Спросить Pro». Хобби? Для удовольствия? Наша сестринская суб-р/видео редактирование - это то, что вы хотите!</description>
+    <lastBuildDate>Wed, 30 Sep 2026 10:30:41 GMT</lastBuildDate>
     <item>
-      <title>为什么tf要去掉曲线</title>
-      <link>https://www.reddit.com/r/editors/comments/1u313hk/why_tf_would_premiere_get_rid_of_curves/</link>
-      <description><![CDATA[快速着色是如此容易，但现在我在所有这些颜色中挣扎。    由   提交 /u/YNWA11JM   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1u313hk/why_tf_would_premiere_get_rid_of_curves/</guid>
-      <pubDate>Thu, 11 Jun 2026 14:45:40 GMT</pubDate>
+      <title>Варианты ноутбуков</title>
+      <link>https://www.reddit.com/r/editors/comments/1wtx4y7/laptop_options/</link>
+      <description><![CDATA[Привет! Ищете новый ноутбук для редактирования фильмов, который может обрабатывать заядлый, Davinci и / или премьеру, который можно использовать для иллюстрации. Мой бюджет составляет 1000-2000 долларов, но все, что находится в нижней части, предпочтительнее. Все еще хотите убедиться, что все спецификации хороши для программного обеспечения и всего.  Любые предложения?     представлено   /u/Status-Flounder7770   ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1wtx4y7/laptop_options/</guid>
+      <pubDate>Wed, 30 Sep 2026 05:58:11 GMT</pubDate>
     </item>
     <item>
-      <title>适合蹩脚镜头的最佳自动旋转？</title>
-      <link>https://www.reddit.com/r/editors/comments/1u30s3n/best_autoroto_for_grungy_footage/</link>
-      <description><![CDATA[我有一些沉积片段，所以分辨率相当低（720p？）。一些被废黜的人背后有非常奇特的鲜艳色彩的绘画。 如果可能的话，导演希望我删除并更换背景。澄清一下，这对于离线编辑来说是临时的，所以它不必是完美的。也就是说，我使用的是剪辑的全分辨率，所以如果有一个很好的解决方案就更好了！ 我尝试过 Premiere 的新自动旋转和 After Effects，但它们的蒙版周围都有很多污垢。就像充满“块”一样只需几秒钟即可弹出和弹出。这是因为不幸的是，被废黜者背后的画是粉红色的（肤色）。 我看到很多关于“AI roto”有多棒的评论。是的，但它真的可以处理蹩脚的镜头或只能处理清晰的高分辨率内容吗？除了 After-Effects 和 Premiere 之外，还有其他工具推荐吗？   由   提交/u/ElCutz  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1u30s3n/best_autoroto_for_grungy_footage/</guid>
-      <pubDate>Thu, 11 Jun 2026 14:33:43 GMT</pubDate>
+      <title>Jump Destop</title>
+      <link>https://www.reddit.com/r/editors/comments/1wtcook/jump_destop/</link>
+      <description><![CDATA[Я большой поклонник Jump Desktop и использую его годами, но недавно я приобрел новую лицензию, и в ней говорилось, что подписка требуется для более чем одного виртуального монитора. Правильно ли я это понимаю? Это огромное разочарование, если это правда.     представлено   /u/code603    [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1wtcook/jump_destop/</guid>
+      <pubDate>Tue, 29 Sep 2026 15:09:47 GMT</pubDate>
     </item>
     <item>
-      <title>After Effects + Media Encoder 导出：在校准的 LCD 上正确，在 OLED 显示器上完全损坏（青色偏移、严重条带、伪影）</title>
-      <link>https://www.reddit.com/r/editors/comments/1u2m94i/after_effects_media_encoder_export_correct_on/</link>
-      <description><![CDATA[嘿伙计们。我正在 After Effects 中从事一个合成项目。源素材在包括 OLED 在内的所有显示器上看起来都非常完美。仅在通过 Media Encoder 从 AE 导出后才会出现问题。 经过测试的显示器： Asus ProArt LCD（工厂校准）：看起来正确，无伪影 Lenovo Legion OLED 笔记本电脑：严重条带、青色偏移、压缩伪影 三星 Galaxy S24（自然模式，禁用 HDR+）：与 Legion 相同，有时甚至更糟 问题的外观就像在 OLED 上一样：深蓝色/近黑色区域变成亮青色，渐变中出现严重的可见条纹，主体周围出现彩色压缩伪影。直接在同一 OLED 显示器上打开的源素材看起来不错。 我尝试过的： AE 中的 16 位项目 工作色彩空间：Rec.709 Gamma 2.4，然后无 在输出上保留 RGB ProRes 4444 和 ProRes 422 HQ 作为中间 全彩的 Handbrake 转换范围 MediaInfo 在所有色域上确认 BT.709，没有 HDR 标签 在三星上禁用 HDR+，自然显示模式 VLC 播放器而不是本机图库 没有任何解决办法。来源是干净的，导出在任何 OLED 显示器上都会损坏。有人经历过这个吗？请帮忙！   由   提交 /u/Old_Mode_7649   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1u2m94i/after_effects_media_encoder_export_correct_on/</guid>
-      <pubDate>Thu, 11 Jun 2026 02:20:34 GMT</pubDate>
+      <title>Редакторы, которые перешли от премьеры к решению, что я должен знать, прежде чем сделать прыжок?</title>
+      <link>https://www.reddit.com/r/editors/comments/1wtbsxl/editors_who_switched_from_premiere_to_resolve/</link>
+      <description><![CDATA[​ i&#39;&#39; использовал Premiere Pro для редактирования около 5-6 лет, в то время как Resolve в основном был моим программным обеспечением для оценки цвета. Проблема заключается в том, что для небольших/быстрых проектов я часто просто делаю базовую оценку в Premiere, потому что отправка временной шкалы в Resolve кажется дополнительной проблемой. и я начал замечать, что это трение на самом деле влияет на качество моей работы. , поэтому я думаю о том, чтобы правильно укусить пулю и научиться правильно решать, как мой основной NLE, а не постоянно прыгать между ними.  Проблема в том, что я в основном новичок, когда дело доходит до редактирования Resolve. Мне уже комфортно с цветной страницей, но остальное уже другая история. Я заметно медленнее, чем я в Premiere. Не могли бы вы порекомендовать: выполнять официальную подготовку начинающих Blackmagic с нуля? Обучение Решите, переводя в него существующий рабочий процесс Premiere? (короткие вырезки, предустановки и т.д.)   или просто переключение и выяснение вещей с помощью реальных проектов? Кроме того, какие самые большие слепые пятна у людей при переходе от Premiere к Resolve? Какие функции / рабочие процессы вы пропустили из Premiere, и что Resolve действительно делает лучше? И одна из самых больших вещей, которая меня сдерживает, — это моя огромная библиотека SFX, переходов, активов и других материалов для редактирования. Как вся эта экосистема может быть решена? Могу ли я перенести большую часть этого или я в основном перестраиваю свою библиотеку?  Если вы сделали Premiere → Решите переключатель, я хотел бы услышать то, что вы хотели бы знать заранее, особенно то, что учебные пособия не говорят вам.    представлено   /u/CineTechWiz     [link] ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1wtbsxl/editors_who_switched_from_premiere_to_resolve/</guid>
+      <pubDate>Tue, 29 Sep 2026 14:35:23 GMT</pubDate>
     </item>
     <item>
-      <title>助理编辑职位会消失吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1u2j1s8/is_the_assistant_editor_position_going_extinct/</link>
-      <description><![CDATA[我今天在我的博客上发布了我认为助理剪辑如何成为好莱坞最危险的职位。如今，远程办公使得培养新人才变得更加困难，而如今，自动化可以更快地完成技术任务。我很想知道人们对今天助理编辑在岗位上所扮演的角色有何看法，如果你想成为一名编辑并学习手艺，那么你认为这份工作是否仍然是进入这个行业的最理想方式？我有我的意见，但想知道共识是什么。如果不是，那么作为一个行业，我们为什么以及如何在当今困难的环境中培养和指导试图成为编辑的新人才？如果不在工作中，他们应该学习什么？ 如果您愿意，可以随意跳转到我个人资料中的博客，但我收到了有关 AE 和当前形势的非常有趣的反馈，因此我想我应该展开更广泛的讨论。如果您现在是 AE 或 Post PA，我真的很想听听您对进入这个行业的想法！    由   提交/u/csf1810  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1u2j1s8/is_the_assistant_editor_position_going_extinct/</guid>
-      <pubDate>Wed, 10 Jun 2026 23:53:58 GMT</pubDate>
+      <title>Лицензионная ситуация Hedge Offshoot</title>
+      <link>https://www.reddit.com/r/editors/comments/1wscyl9/hedge_offshoot_license_situation/</link>
+      <description><![CDATA[Поэтому я только что обновил свою Mac OS и заметил, что мой Offshoot больше не работает. Купил его два года назад и, видимо, он несовместим с Тахо. Я связался с поддержкой, и они сказали, что решение состоит в том, чтобы продлить мои обновления на 12 месяцев за 100 долларов (программное обеспечение стоит 160 долларов). Кроме того, я заметил, что мои 2 лицензионных места будут понижены до 1 места, если я продлю 100 долларов. Если я хочу сохранить 2 места, мне нужно заплатить 160 долларов за обновление, которое стоит прямо. Они серьезные? - Не то, что у меня было на моей карте Bingo.     представлено   /u/Heidegluehen    [link]&gt;   ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1wscyl9/hedge_offshoot_license_situation/</guid>
+      <pubDate>Mon, 28 Sep 2026 12:14:39 GMT</pubDate>
     </item>
     <item>
-      <title>AVID -> AAF -> 首映</title>
-      <link>https://www.reddit.com/r/editors/comments/1u2gxr2/avid_aaf_premiere/</link>
-      <description><![CDATA[大家好， 我正在将一些 AVID 序列导出为 AAF（链接媒体），然后将它们导入 Premiere。  某些 AAF 在导入 Premiere 后，会为原始 AVID 时间线的每个单独剪辑创建序列。因此，如果序列名为 First_Day 并且其中有 10 个剪辑 001 到 010，Premiere 将创建一个名为 First_Day 的序列，并为每个文件创建 10 个附加序列。 有人知道为什么会这样吗？ 谢谢！   由   提交/u/hackum  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1u2gxr2/avid_aaf_premiere/</guid>
-      <pubDate>Wed, 10 Jun 2026 22:24:05 GMT</pubDate>
+      <title>Задайте профессионалу (WEEKLY) 28 сентября 2026 года - Без глупых вопросов! Вот где вы находитесь, если вы не делаете этого для жизни! Правила + карьерные вопросы?</title>
+      <link>https://www.reddit.com/r/editors/comments/1ws9htv/ask_a_pro_weekly_monday_mon_sep_28_2026_no_stupid/</link>
+      <description><![CDATA[r/editors - это сообщество для профессионалов пост-продакшна.  Каждую неделю мы используем эту тему для открытого обсуждения для всех, у кого есть вопросы о редактировании или пост-продакшне, независимо от вашей профессии или профессионального статуса. Опять же, Если вы новичок, знайте, что этот субреддит предназначен для профессионалов. Наша команда модов обрезает субреддит и публикует вопросы уровня новичков здесь.   Если вы не уверены, в какую категорию попадаете? Это нить, которую вы ищете.  Ключевые правила: Будьте превосходны (и терпеливы) друг с другом. Никакой саморекламы. Никакого пиратства.  Остальные правила приведены здесь .  Если вы не работаете в этой области, ваш вопрос должен идти   Какие вопросы являются справедливой игрой для этой темы?    Стоит ли школа?  Вопрос о карьере?  Какой редактор* вы должны заплатить?* (бесплатные инструменты? см. r/videoediting)  Размышления о боковой суете?  На что я должен устанавливать свои тарифы? (SEE WIKI)  Окончить школу? и нужно getting started advice?   Для этого есть вики. Не стесняйтесь предлагать нужные страницы. У нас есть родственный субреддит r/videoediting. Это идеально, если вы не зарабатываете на жизнь этим - но эта нить для всех! A должен читать, если вы думаете о взломе:  Если вы хотите начать это как побочный шум, прямо сейчас отрасль грубая.   Очень легко получить преимущество - владение сантехническими инструментами и исправление собственной раковины не делает вас сантехником. Вы на 100% должны работать на кого-то другого (в идеале в качестве стажера).   #Нет никакого волшебного мифического места, где есть все рабочие места. Я построил две ссылки , так как вы должны действительно искать субреддит и узнать о отрасли, прежде чем попробовать что-то подобное. A группа нитей  с прошлого года о том, как легко люди находятся над головой. И   Пожалуйста, см. наш wiki     представленный   /u/AutoModerator    ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ws9htv/ask_a_pro_weekly_monday_mon_sep_28_2026_no_stupid/</guid>
+      <pubDate>Mon, 28 Sep 2026 09:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>防御刮擦</title>
-      <link>https://www.reddit.com/r/editors/comments/1u2exyd/defending_against_scraping/</link>
-      <description><![CDATA[人们如何处理他们或他们客户的工作，可能会被社交平台删除？我一直在阅读有关茄属植物和其他中毒技术的内容。似乎没有任何主要平台或编辑软件认真对待这一点。你有为此做些什么吗？有效吗？  我认为我们需要法律/立法补救措施，但在那之前我们能做什么？   由   提交 /u/BulletCatofBrooklyn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1u2exyd/defending_against_scraping/</guid>
-      <pubDate>Wed, 10 Jun 2026 21:06:41 GMT</pubDate>
+      <title>Какая установка монитора? s️</title>
+      <link>https://www.reddit.com/r/editors/comments/1ws3okp/whats_your_monitor_setup/</link>
+      <description><![CDATA[ После нескольких лет работы с двумя одинаковыми мониторами я заставил себя попробовать привыкнуть к одному... но теперь я переосмысливаю его. Я скучаю по этой экранной недвижимости и возможности иметь два дискретных рабочего стола. Мне любопытно: что такое настройка монитора и каковы плюсы и минусы?  Единый монитор? Двойной? Один большой монитор, один маленький? Ультраширокий?   Бонусные баллы, если вы делитесь фотографиями.    представлено   /u/ThrowMeTheIdol   ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ws3okp/whats_your_monitor_setup/</guid>
+      <pubDate>Mon, 28 Sep 2026 03:20:50 GMT</pubDate>
     </item>
     <item>
-      <title>我如何告诉客户我正在引入 AE/JE？</title>
-      <link>https://www.reddit.com/r/editors/comments/1u27ad9/how_do_i_go_about_telling_clients_that_im/</link>
-      <description><![CDATA[我最近工作超负荷，不得不推掉很多项目。显然，这并不理想，所以我计划建立一家有限责任公司，以便我可以根据需要引入 JE。我设想他们要么只做早期阶段（媒体管理、编写剧本），然后我接管创意，要么他们处理创意，我只提供注释。  我的问题是，我到底如何说服我的客户对此表示同意？他们来找我是为了我的工作、我的创意。我确信他们会觉得如果我要把工作转嫁出去，他们还不如去找别人。我个人对这项工作并不担心，因为我的双手将参与所有工作，但我会理解他们的犹豫。  我是否会夸大事实并告诉他们我只将它们用于媒体管理？我根本不告诉他们吗？我很想知道其他人是如何实现这一转变的。 谢谢！   由   提交 /u/No-Syllabub9287   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1u27ad9/how_do_i_go_about_telling_clients_that_im/</guid>
-      <pubDate>Wed, 10 Jun 2026 16:33:11 GMT</pubDate>
+      <title>Фальшивый SEM Изображения</title>
+      <link>https://www.reddit.com/r/editors/comments/1wrxkms/faking_sem_images/</link>
+      <description><![CDATA[Hi! Я работаю над короткометражным фильмом и хочу, чтобы изображения из моего оптического микроскопа Swift SW380T выглядели ближе к изображениям SEM. Я буду фотографировать металлические осколки и кристаллы. Какое освещение, цели, настройки конденсатора или методы камеры помогут создать этот серый, высококонтрастный, подробный поверхностный / топографический вид? Я также могу использовать Blender и DaVinci Resolve для постобработки. Любые советы по созданию нормальных изображений микроскопа выглядят убедительно SEM-подобными?    представлено   /u/Dorceless ah    [link] ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1wrxkms/faking_sem_images/</guid>
+      <pubDate>Sun, 27 Sep 2026 22:26:01 GMT</pubDate>
     </item>
     <item>
-      <title>Avid 时间码生成器显示不在指定轨道中的剪辑数据</title>
-      <link>https://www.reddit.com/r/editors/comments/1u26a63/avid_timecode_generator_displaying_clip_data_not/</link>
-      <description><![CDATA[时间码生成器设置为仅在轨道 3+4 上显示剪辑名称，但即使轨道 4 上没有剪辑，它也会将相同的信息从轨道 3 复制到轨道 4，从而使观看者感到困惑。有人遇到过类似的问题吗？   由   提交/u/Miserable-Piano-415   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1u26a63/avid_timecode_generator_displaying_clip_data_not/</guid>
-      <pubDate>Wed, 10 Jun 2026 15:58:05 GMT</pubDate>
+      <title>Знаете ли вы, что у редакторов есть разногласия?</title>
+      <link>https://www.reddit.com/r/editors/comments/1wro9lb/did_you_know_that_reditors_has_a_discord/</link>
+      <description><![CDATA[TL: DR - Как привлечь вас (да, вы)? Обязательное упоминание. Вот link официального Discord of r/editors с 1000 участниками, включая ряд профессионалов, вырезающих фильмы, телевизионные шоу и многое другое.  Это как для профессионалов, так и для начинающих специалистов.  Это не поможет вам получить работу. Нет никакого мифического сайта, о котором вы не знаете.  Требуется проверка (любой из них будет работать: (Reddit/youtube/facebook/IG/Github/spotify/Steam/xbox).  Опять:  Discord Link здесь  Как только вы убедитесь, что есть 15+ каналов, в том числе на основе:  Тип работы (цвет, звук, аудио)  Специфика программного обеспечения (Adobe, Apple, Avid, BMD) Качество жизни (Покажи свою работу, крик-комната, живая техническая помощь)  и многое другое.   Что я пытаюсь сделать? Создайте сообщество вне Reddit. Я пытаюсь выяснить, что работает, а что нет.   Это может быть пятничный обед   вечер игры 2 раза в месяц   виртуальное событие группы пользователей...  ..., но я хотел бы знать, что вы видели, что привлекает    Для меня:  Reddit отлично подходит для потоковых разговоров, Discord отлично подходит для живых взаимодействий.  (кстати,  мой самый большой совет Discord - немедленно отключить новый сервер ). Это действительно помогает уведомлениям стать подавляющими. И да, «сильная» Я рад помочь любому, кто чувствует, что это новый / странный домен или чувствует себя потерянным. Я возвращаюсь к дням IRC.    представлено   /u/greenysmac    [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1wro9lb/did_you_know_that_reditors_has_a_discord/</guid>
+      <pubDate>Sun, 27 Sep 2026 16:15:15 GMT</pubDate>
     </item>
     <item>
-      <title>第 9 秒处的一张图片让我们撤下了已发布的短片</title>
-      <link>https://www.reddit.com/r/editors/comments/1u1vs02/one_image_at_the_9_second_mark_made_us_pull_a/</link>
-      <description><![CDATA[去年我们发布了一个短片，几个小时后就有人抓住了它。 0:09 处插入的图片原来是另一位 YouTuber 的原创作品，而不是新闻照片或库存图片。 我们在当天晚上删除了该视频，将备份视频放入当天的时段，并在稍后重新上传了修复后的版本。晚上 9 点在团队频道中发布的消息可不是什么有趣的消息。 之后发生的变化：现在每个图像和图表的左下角都会有一个源标签，并将其写入每个编辑器收到的移交文档中。每句话一张图像，每张图像都有标签，无一例外。深色框架保留默认标签颜色，明亮框架采用灰色填充，以便保持可读性。 该规则感觉很乏味，直到您记住它存在的原因为止。标签迫使编辑者真正知道每个资产来自哪里，这才是真正的重点。标签只是检查证明。 还有其他人通过单个资产提取已发布的视频吗？很好奇其他团队在哪里划定安静修复和删除之间的界限。   由   提交 /u/Longjumping-Hope5941   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1u1vs02/one_image_at_the_9_second_mark_made_us_pull_a/</guid>
-      <pubDate>Wed, 10 Jun 2026 08:01:52 GMT</pubDate>
+      <title>AVID MEDIA COMPOSER на Windows 11 - это беспорядок, верно?</title>
+      <link>https://www.reddit.com/r/editors/comments/1wri9lj/avid_media_composer_on_windows_11_is_a_mess/</link>
+      <description><![CDATA[Привет всем,  Я работаю над Media Composer 2024.12 на Windows 11 дома и ежедневно испытываю множественные сбои без какой-либо причины, и время от времени Media Composer просто теряет мои макеты рабочих пространств, иногда он не хочет начинать из-за проблем с безопасностью Windows, поэтому я трачу 10% своего времени на перезагрузку компьютера, чтобы исправить все эти проблемы.  Только сегодня утром я запускаю Avid, начинаю работать в течение 10 минут, затем он падает, и когда я снова открываю его, он изменил некоторые из моих настроек временной шкалы, например, ручки обнаружения Dupe, которые были установлены на 0,5 кадра, тогда как я всегда на 0 кадров ручки. Что, черт возьми, происходит? Кто-нибудь из вас испытал такой же беспорядок на Media Composer в среде Windows? Заранее спасибо!    представлено   /u/Raskoolnikov93   [link] ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1wri9lj/avid_media_composer_on_windows_11_is_a_mess/</guid>
+      <pubDate>Sun, 27 Sep 2026 11:51:19 GMT</pubDate>
     </item>
     <item>
-      <title>为小型邮局搭建共享存储 NAS + Mimiq</title>
-      <link>https://www.reddit.com/r/editors/comments/1u1uz17/building_shared_storage_for_a_small_post_house/</link>
-      <description><![CDATA[大家好， 建立一个小型后期工作室，由 3 名编辑人员在 Avid 和 Premiere 上工作。仅代理工作流程、DNxHD LB 36 和 ProRes 代理。 RAW 保留在外部驱动器上，从不接触共享存储。 我不是直接使用 EditShare 或 NEXIS，而是考虑围绕 QNAP 或 Synology 4 盘位 NAS 进行构建，在 RAID 5 中配备 4x 8TB，提供大约 24TB 可用空间，并在顶部使用 Mimiq 进行 bin 锁定。 我要解决的主要问题是这与正确的共享存储体验有多接近。使用 EditShare，您可以获得适当的工作区，这些工作区可以安装为干净的单独卷，并具有每个项目的权限。在 NAS 上，您实际上是自己挂载整个共享并管理文件夹结构，虽然不太优雅，但对于小团队来说可能可行。 Bin 锁定是另一个问题。对普通 SMB 的狂热是一场灾难，因此 Mimiq 似乎是显而易见的答案，但渴望听到那些实际日常运行而不只是纸上谈兵的人的意见。 Premiere 编辑人员会直接通过 SMB 与 Premiere Productions 处理项目共享方面的问题吗？ 有人从头开始构建过类似的东西吗？很好奇 Mimiq 在实践中有多可靠，性能是否能同时支持代理媒体上的多个编辑器，以及缺乏适当的工作区隔离是否会导致真正的问题。不希望扩展到超过 3 个编辑器，因此无法证明更大的系统是合理的，只是想要一些可靠的东西，不需要花费大量的资金来构建和维护。 还有一件事值得一提，对于较小的项目，我们将直接从 Resolve 进行一致性和交付，并在本地插入驱动器。 感谢您的帮助！   由   提交 /u/Available-Witness329   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1u1uz17/building_shared_storage_for_a_small_post_house/</guid>
-      <pubDate>Wed, 10 Jun 2026 07:14:36 GMT</pubDate>
+      <title>Avid: Dupe Detection не срабатывает на клипах с эффектами</title>
+      <link>https://www.reddit.com/r/editors/comments/1wrhens/avid_dupe_detection_not_triggering_on_clips_with/</link>
+      <description><![CDATA[Hi,  Я заметил, что если клип оказывает какое-либо влияние на него, даже что-то простое, например, изменение размера или 3D-деформация, Dupe Detection, похоже, вообще не запускает его. Так было всегда? Кто-нибудь знает, почему Avid читает исходные метаданные после применения эффекта или что-то еще? Cheers!    представлено   /u/Available-Witness329   ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1wrhens/avid_dupe_detection_not_triggering_on_clips_with/</guid>
+      <pubDate>Sun, 27 Sep 2026 11:03:27 GMT</pubDate>
     </item>
     <item>
-      <title>媒体资产管理系统或合作媒体软件，有哪些选择？</title>
-      <link>https://www.reddit.com/r/editors/comments/1u1tseg/media_asset_management_system_or_coöperative/</link>
-      <description><![CDATA[Hey r/ 我也收到了将其发布到此处的提示。我是一名系统管理员，为一个大型集团工作，希望从大型媒体文件开始。 我们集团中有一些公司希望在不同的办公室相互合作。他们目前与自己的客户一起作为独立的办公室工作。 他们从事动作捕捉、视频广告、图像广告等......，文件大小中位数约为 80 到 120 GB，其中生产文件服务器约为 80 TB，存档为 120 TB。他们有时会将文件从存档移动到产品，但通常只从产品移动到存档。 我一直在研究如何与不同地区不同办公室的文件进行协作的系统，我还需要研究文件锁定，以防止他们同时编辑相同的文件。 我发现了 lucidlink（适用于 MAC 设备）和 Synology 与 C2 云存储的混合共享。我们是一个非常大的团体，而且几乎只使用云。但没有处理此类媒体文件大小的经验。 我一直想知道其他系统管理员是否遇到过此请求，他们如何解决它以及这些系统如何工作。更喜欢低成本，但预算并不是真正的问题，所以最终它并不重要。   由   提交/u/LeonMoris_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1u1tseg/media_asset_management_system_or_coöperative/</guid>
-      <pubDate>Wed, 10 Jun 2026 06:08:54 GMT</pubDate>
+      <title>"Покажи свою работу" в воскресенье.</title>
+      <link>https://www.reddit.com/r/editors/comments/1wrhcpp/show_your_work_sunday/</link>
+      <description><![CDATA[ Это чередует воскресенья с нашим &quot;Reel Review.&quot;  Вот ключевые вещи, которые нужно сделать, прежде чем публиковать  Заголовок:Длина:Цель: Почему вы публикуете это?   Это может быть:  Что-то крутое, что я сделал  Победа клиента  Или да, даже обратная связь.   Если это обратная связь , вы должны найти два других сообщения, требующих обратной связи, и  дать примечания . Если вы этого не сделаете, моды посетят ваш дом   Вы можете опубликовать YT, , но мы бы предпочли  более профессиональные места посадки (включая frame.io) -- Скопируйте этот раздел ----    представленный   /u/AutoModerator   ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1wrhcpp/show_your_work_sunday/</guid>
+      <pubDate>Sun, 27 Sep 2026 11:00:28 GMT</pubDate>
     </item>
     <item>
-      <title>是否可以伪造这种效果？</title>
-      <link>https://www.reddit.com/r/editors/comments/1u1nwzl/is_it_possible_to_fake_this_effect/</link>
-      <description><![CDATA[我多年来一直想尝试这种效果，但我还不想花钱买镜头 - 而且我不想在我的镜头上涂凡士林 🥲 是否可以使用 PP/AE 插件或带有一些径向模糊的漂亮编辑来伪造它？  https://www.instagram.com/p/DUYlbfdCCO5/?igsh=dDAyOGdib2VxY3hu   由   提交 /u/kittyaftersunset   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1u1nwzl/is_it_possible_to_fake_this_effect/</guid>
-      <pubDate>Wed, 10 Jun 2026 01:18:12 GMT</pubDate>
+      <title>Поиск инструмента для видео-переводов в Premiere</title>
+      <link>https://www.reddit.com/r/editors/comments/1wqa0ev/looking_for_tool_for_video_translations_in/</link>
+      <description><![CDATA[Hi all, Я редактирую для видеорекламы, которую нужно перевести на несколько языков в нескольких размерах. Существует ли существующий инструмент, который может принимать одну ключевую последовательность и своп и создавать новые последовательности с соглашением именования и своп-текстом, предоставленным в csv или чем-то подобным. Похоже, что это должно быть возможно и не сложно, у меня аналогичная настройка в Figma. Есть ли у кого-нибудь какие-либо рекомендации?    представлено   /u/ProfessorHorsebach   ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1wqa0ev/looking_for_tool_for_video_translations_in/</guid>
+      <pubDate>Fri, 25 Sep 2026 22:34:31 GMT</pubDate>
     </item>
     <item>
-      <title>行业经验名册</title>
-      <link>https://www.reddit.com/r/editors/comments/1u1hsz2/industry_experience_roster/</link>
-      <description><![CDATA[我今天收到合同服务部发来的一条消息，称我因在 36 个月内不活动而将从行业经验名册中删除。我大部分时间都设法在非工会独立电影和商业工作中保住工作，但这些工作都不是工会的。由于缺乏工会工作，我已经暂停了 MPEG 700 的会员资格，而且我不太担心一旦找到工会工作就重新加入。一旦我失去了这种状态，重新加入名单就感觉更加痛苦。既然我一直在工作，值得发一封抗议信吗？我想知道其他人最近是否有这方面的经验，以及现在是否值得战斗，或者一旦我有工会工作的前景，我是否最好处理它。 编辑：谢谢大家！你的见解都符合我的预期。我认为这对于招聘来说并不重要，但我宁愿留下来，也不愿重新申请并让它妨碍工作机会。我发送了一封电子邮件表示抗议。   由   提交/u/harrycaulsf   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1u1hsz2/industry_experience_roster/</guid>
-      <pubDate>Tue, 09 Jun 2026 21:04:05 GMT</pubDate>
+      <title>Пытаюсь захватить пленку MiniDV на Mac mini 2012 года</title>
+      <link>https://www.reddit.com/r/editors/comments/1wq4inz/trying_to_capture_minidv_tape_on_a_2012_mac_mini/</link>
+      <description><![CDATA[Пытаясь захватить MiniDV от Sony DSR-PD170P на Mac mini 2012 года под управлением macOS High Sierra 10.13.6. Подключен непосредственно через 4-контактный FireWire 400 → 9-контактный FireWire 800. iMovie и QuickTime как обнаруживают, так и захватывают с камеры штраф. macOS System Information также видит его как DV-VCR Unit, и DVRescue CLI обнаруживает его с помощью dvrescue --list devices.  24.07 GUI постоянно говорит «No DV Deck Detected».    представлено   /u/WholelnOne     [link]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1wq4inz/trying_to_capture_minidv_tape_on_a_2012_mac_mini/</guid>
+      <pubDate>Fri, 25 Sep 2026 18:50:37 GMT</pubDate>
     </item>
     <item>
-      <title>Adobe 后期效果</title>
-      <link>https://www.reddit.com/r/editors/comments/1u1031v/adobe_after_effects/</link>
-      <description><![CDATA[I7-13700f 、 4060 8gb 和 32gb 内存仍然足以支持 Adob​​e Ae 2024 还是我应该切换回 Ae 2023？   由   提交/u/iamthi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1u1031v/adobe_after_effects/</guid>
-      <pubDate>Tue, 09 Jun 2026 09:28:36 GMT</pubDate>
+      <title>Avid NEXIS Client 25.5.7 вызывает замораживание Finder и приложений на macOS Sequoia 15.7.3</title>
+      <link>https://www.reddit.com/r/editors/comments/1wq0miz/avid_nexis_client_2557_causing_finder_and/</link>
+      <description><![CDATA[Привет всем, Я испытываю серьезные системные заморозки с момента установки Avid NEXIS Client. Конфигурация: Mac Studio M4 Max macOS Sequoia 15.7.3 Avid NEXIS Client 25.5.7 NEXIS Server также работает 25.5.7 NEXIS отлично работает в Avid Media Composer. Мы можем работать со средствами массовой информации, размещенными на NEXIS, без каких-либо серьезных проблем. Однако за пределами Media Composer все, что связано с хранением NEXIS, становится чрезвычайно отсталым и регулярно вызывает замораживание приложения. Например:  Копирование файлов в / из рабочего пространства NEXIS → Finder замораживает Открытие файла, размещенного на NEXIS → открытие приложения можно заморозить Перекодирование файлов с использованием NEXIS → freeze В более общем плане, как только приложение должно получить доступ или обработать файлы, размещенные на NEXIS, мы испытываем серьезные замедления или полную заморозку приложений. «Сильное» Мы также провели те же тесты с использованием локального хранилища вместо NEXIS, и Mac Studio отлично работает. Копии, доступ к файлам и транскодирование быстро и стабильно, когда все локально. Проблема возникает только тогда, когда речь идет о хранении NEXIS. Что странно, так это то, что работа с одним и тем же хранилищем NEXIS непосредственно внутри Media Composer кажется совершенно прекрасной. Кто-нибудь сталкивался с подобными проблемами с NEXIS Client 25.5.7 + macOS Sequoia 15.7.3, особенно на Apple Silicon / M4 Mac? Меня также интересуют любые известные проблемы или рекомендуемые настройки на клиенте NEXIS, macOS или стороне сервера, которые могут объяснить это поведение. Спасибо!    представлено   /u/AdOne9894    [link] ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1wq0miz/avid_nexis_client_2557_causing_finder_and/</guid>
+      <pubDate>Fri, 25 Sep 2026 16:18:19 GMT</pubDate>
     </item>
     <item>
-      <title>从 Vimeo 切换，比较 Frame io 与 Kinescope</title>
-      <link>https://www.reddit.com/r/editors/comments/1u0xb78/switching_from_vimeo_compare_frame_io_vs_kinescope/</link>
-      <description><![CDATA[一年多以来，我一直在使用 Vimeo 为各种自由项目进行托管和客户审阅，但我开始怀疑它是否是适合这项工作的工具，尤其是当我的审阅工作流程要求越来越高时。我现在正在认真考虑将 Frame 和 Kinescope 作为替代方案，并且很想听听使用过其中一个（或两者）的人的意见。 Frame 在专业的后期制作审核、时间码准确的评论、版本堆叠、审批流程方面享有盛誉，但订阅成本很难忽视，特别是对于较小的自由职业者。 Kinescope 似乎作为一种更实惠的选择，具有可靠的托管和审核功能，越来越受到人们的关注，但我不太清楚如何实现这一点。与 Frame 相比，它的协作工具实际上更深入 我想弄清楚的一些事情： 1/ Frame 和 Kinescope 在面向客户的审阅工作流程方面实际上如何比较？ 2/ Kinescope 的注释和版本控制系统是否成熟到足以取代 Frame？ 3/ 这两个平台是否存在隐藏的限制 - 文件大小上限、审阅者限制、审批流程？ 4/对于那些从 Vimeo 转向评论的人，有什么遗憾吗？ 如果有帮助的话，很高兴分享更多关于我的具体用例的信息。只是想制作一个智能开关，而不支付超出我需要的费用。   由   提交 /u/an_tonova   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1u0xb78/switching_from_vimeo_compare_frame_io_vs_kinescope/</guid>
-      <pubDate>Tue, 09 Jun 2026 06:43:13 GMT</pubDate>
+      <title>«AvidMedia Composer захватывает ваш экран».</title>
+      <link>https://www.reddit.com/r/editors/comments/1wpzysl/avidmedia_composer_is_capturing_your_screen/</link>
+      <description><![CDATA[ Это чертовски меня достало. Почему он продолжает появляться? Я изменил настройки разрешения, чтобы не допустить этого, и это все еще происходит. Также невозможно найти информацию об устранении неполадок в Интернете.      представлено   /u/VictorDeLaParra   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1wpzysl/avidmedia_composer_is_capturing_your_screen/</guid>
+      <pubDate>Fri, 25 Sep 2026 15:53:20 GMT</pubDate>
     </item>
     </channel>
 </rss>

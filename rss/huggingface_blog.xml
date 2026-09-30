@@ -1,114 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>拥抱脸 - 博客</title>
+    <title>Обнимая лицо - Блог</title>
     <link>https://huggingface.co/blog</link>
-    <description>拥抱脸博客</description>
-    <lastBuildDate>Thu, 10 Sep 2026 16:05:49 GMT</lastBuildDate>
+    <description>Блог The Hugging Face</description>
+    <lastBuildDate>Wed, 30 Sep 2026 09:31:45 GMT</lastBuildDate>
     <item>
-      <title>使用 Gradio 工作流程重建 AUTOMATIC1111</title>
+      <title>NVIDIA Kumo Tabular устанавливает новый рубеж точности и эффективности для табулярного прогнозирования</title>
+      <link>https://huggingface.co/blog/nvidia/kumo-tabular</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/nvidia/kumo-tabular</guid>
+      <pubDate>Tue, 29 Sep 2026 15:30:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Правильное получение источника, а не только факт: проверка источника для агентов MCP</title>
+      <link>https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</guid>
+      <pubDate>Tue, 29 Sep 2026 13:07:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Holo4: питание универсальных агентов компьютерного использования</title>
+      <link>https://huggingface.co/blog/Hcompany/holo4</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/Hcompany/holo4</guid>
+      <pubDate>Mon, 28 Sep 2026 09:44:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ускорение моделей языка зрения с помощью LFM2.5-VL-DSpark</title>
+      <link>https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark</guid>
+      <pubDate>Thu, 24 Sep 2026 14:08:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Как AISI и EvalEval делают результаты тестов воспроизводимыми</title>
+      <link>https://huggingface.co/blog/evaleval-aisi</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/evaleval-aisi</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Трансформеры теперь работают на llama.cpp quants</title>
+      <link>https://huggingface.co/blog/transformers-llama-cpp-quants</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/transformers-llama-cpp-quants</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Чжун Ким, создатель и разработчик OMLX, присоединяется к Hugging Face для поддержки сообщества MLX.</title>
+      <link>https://huggingface.co/blog/omlx</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/omlx</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>токенизаторы v1: кодировать, декодировать и масштабировать, измерять</title>
+      <link>https://huggingface.co/blog/tokenizers-v1</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/tokenizers-v1</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ваш агент выполнил задание. Сделает ли это снова?</title>
+      <link>https://huggingface.co/blog/ibm-research/altk-evolve-consistency</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/ibm-research/altk-evolve-consistency</guid>
+      <pubDate>Tue, 15 Sep 2026 16:00:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Async GRPO с LoRA через HF Jobs: ведро, прокси и отсутствие NCCL</title>
+      <link>https://huggingface.co/blog/asyncgrpo-lora-hfjobs</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/asyncgrpo-lora-hfjobs</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Реконструкция Automatic1111 с помощью Gradio Workflow</title>
       <link>https://huggingface.co/blog/gradio-workflow-1111</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/gradio-workflow-1111</guid>
       <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>IBM 发布具有商业友好许可证的 SOTA Granite Time Series PatchTST-FM-r2 模型</title>
-      <link>https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series</guid>
-      <pubDate>Wed, 09 Sep 2026 15:36:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>为了谁的安全？拒绝主题的正确子集，而不是整个主题</title>
-      <link>https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom</guid>
-      <pubDate>Tue, 08 Sep 2026 14:23:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>NeoMME：高效的多模态本地多语言编码器</title>
+      <title>NeoMME: эффективный мультимодальный и многоязычный кодер</title>
       <link>https://huggingface.co/blog/Hcompany/neomme</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/Hcompany/neomme</guid>
       <pubDate>Thu, 03 Sep 2026 13:13:48 GMT</pubDate>
     </item>
     <item>
-      <title>通过 100 个 GRPO 步骤微调 350M 模型以获得更好的结构化输出</title>
+      <title>Точная настройка модели 350M для улучшения структурированных результатов в 100 шагах GRPO</title>
       <link>https://huggingface.co/blog/grpo-with-trl-ifstruct</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/grpo-with-trl-ifstruct</guid>
       <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>为您的编码代理提供您拥有的内存</title>
+      <title>Дайте своим кодирующим агентам память, которой вы владеете</title>
       <link>https://huggingface.co/blog/funes</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/funes</guid>
       <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>使用 TRL 和 OpenEnv 训练编码模型来画水彩</title>
+      <title>Обучение модели кодирования для рисования акварелей с помощью TRL и OpenEnv</title>
       <link>https://huggingface.co/blog/train-to-paint-with-code</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/train-to-paint-with-code</guid>
       <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>BenchMIRT：LLM 基准实际上衡量的是什么？</title>
-      <link>https://huggingface.co/blog/allenai/benchmirt</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/allenai/benchmirt</guid>
-      <pubDate>Tue, 01 Sep 2026 21:39:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>隆重推出 @huggingface/kernels：200 多个用于本地 AI 的 WebGPU 内核</title>
-      <link>https://huggingface.co/blog/webgpu-kernels</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/webgpu-kernels</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>开放 ASR 排行榜新增首个全球南方语言</title>
-      <link>https://huggingface.co/blog/open-asr-leaderboard-global-south</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/open-asr-leaderboard-global-south</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用句子变压器训练和微调多向量嵌入模型</title>
-      <link>https://huggingface.co/blog/train-multi-vector-encoder</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/train-multi-vector-encoder</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Granite 4.2 法学硕士：它们是如何构建的</title>
-      <link>https://huggingface.co/blog/ibm-granite/granite-4-2</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/ibm-granite/granite-4-2</guid>
-      <pubDate>Tue, 25 Aug 2026 15:14:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>量化感知修复：压缩的 4 位模型，性能优于全精度原始模型</title>
-      <link>https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing</guid>
-      <pubDate>Tue, 25 Aug 2026 11:39:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>连接、运行、部署：Gradio 中的 AI 工作流程</title>
-      <link>https://huggingface.co/blog/gradio-workflow-guide</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/gradio-workflow-guide</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>拥抱人脸推理端点、作业和存储桶如何通过代码增强论文搜索</title>
-      <link>https://huggingface.co/blog/pwc-search</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/pwc-search</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

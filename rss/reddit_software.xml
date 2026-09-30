@@ -1,114 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新提交：软件</title>
+    <title>Новые материалы: программное обеспечение</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 16:11:18 GMT</lastBuildDate>
+    <description>Все, что связано с программным обеспечением. Пожалуйста, следуйте нашим правилам, чтобы избежать наказания.</description>
+    <lastBuildDate>Wed, 30 Sep 2026 10:33:15 GMT</lastBuildDate>
     <item>
-      <title>笔记本电脑重新启动</title>
-      <link>https://www.reddit.com/r/software/comments/1u32pm0/laptop_restarting/</link>
-      <description><![CDATA[我的笔记本电脑正在重新启动，但我不确定原因，但它无法在安全模式下重新启动。我觉得是 Windows，但我不确定，并且我不想重新安装 Windows，同时我不确定这是问题所在，所以我该怎么办？   由   提交/u/FieldDisastrous5250   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1u32pm0/laptop_restarting/</guid>
-      <pubDate>Thu, 11 Jun 2026 15:44:39 GMT</pubDate>
+      <title>Я потратил 7 месяцев и 150 миллиардов токенов, чтобы Клод забронировал мне авиабилеты и отели.</title>
+      <link>https://www.reddit.com/r/software/comments/1wu199n/i_spent_7_months_and_150_bilion_tokens_getting/</link>
+      <description><![CDATA[ Последние 7 месяцев я был одержим агентическим ИИ. Claude Code, Muse, Instinct, Grok Bot, Hermes, вы называете это. Всем нравится агентный ИИ: он может сделать что-то для вас. Одна болезненная проблема, которую я, наконец, решил, это бронирование путешествий - авиабилетов и отелей. Я тот человек, который заходит на сайт, видит миллионы рейсов и начинает сравнивать: &quot;это лучший&quot;, &quot;не ждите этого&quot;. Открывает другой сайт, пытается найти эту сделку лучше. И в итоге я провожу 4-5 часов, сравнивая рейсы с 20 вкладками, открытыми в моем Chrome. И мне это не нравится... Я просто хочу лучший полет. Я хотел, чтобы Клод сделал это для меня. Сначала он просто не мог, затем он стал лучше с использованием браузера, и я попробовал это, но после каждой попытки, которая заняла 30 минут, он просто провалился. Это было настолько глупо, что даже проверки безопасности Клода не позволили мне завершить кассы или капчи... Итак, 7 месяцев назад, сделав ставку на то, что будущее будет агентическим, я начал решать эту проблему со своим другом и создал LetsFG. Я потратил около 150 миллиардов токенов или более, скриншот не показывает его полностью, потому что мое использование было сброшено после того, как я обновил план подписки. Мы запустили его с открытым исходным кодом, и это позволило нам отправиться на самое большое событие в мире путешествий, и копаться в путешествиях так глубоко, что это превратилось в миссию. Мы хотим изменить опыт путешествий к лучшему. Потому что сейчас всё испорчено. Например, если бы вы спросили меня, какое будущее у ИИ, я бы сказал, что это то же самое, просто менее глупо. Помните, как мы проводили 3 часа и открывали 20 вкладок в Chrome, чтобы просто забронировать рейс? Это было очень глупо. &quot; LetsFG предлагает другой интерфейс для путешествий. Вы используете его в Claude, ChatGPT, Hermes или любом другом ИИ. Модели ИИ достаточно умны, чтобы принимать отличные решения с достаточным количеством данных, и LetsFG предоставляет им эти данные - каждой авиакомпании в мире, сотням OTA и сайтам бронирования. Клод может разумно разбить поездку на части, чтобы предложить лучшие рейсы. Где, например, 1-й билет поступает непосредственно от авиакомпании, в то время как обратный рейс из OTA как бронирование. https://preview.redd.it/evbsf14esmsh1.png?width=1596&amp;format=png&amp;auto=webp&amp;auto=webp74c029ae3a49c49cb04a53207e487  Мы являемся первым туристическим сервисом в мире, который сделал эту дикую ставку на агентскую торговлю. И одним из главных рвов является бронирование. Вы можете завершить бронирование с помощью 1 клика, и ИИ заказывает всю поездку для вас. И вы никогда больше не будете проходить проверку. https://i.redd.it/6iqbec6xtmsh1.gif  Одним из наших главных приоритетов была безопасность.  Будучи самими пользователями, мы никогда не хотели, чтобы Клод получил наш способ оплаты. И мы разработали его специально для этого. Способ оплаты идет непосредственно к нашему поставщику платежей - Revolut. Ни LetsFG, ни Клод никогда не видели способ оплаты. И каждое бронирование требует одобрения по электронной почте.  Мы начали с большого видения, но сумасшедшей ставки. Я очень благодарен каждому раннему пользователю, который использовал нас и продолжает поддерживать нас, мы никогда не могли бы быть здесь без вас. Наш проект с открытым исходным кодом получил более 2,1 тыс. звезд github, и люди продолжают смотреть на него, хотя он служит в основном местом для обратной связи, проблем, сообщества и пакетов NPM / Python. У нас есть более 1k Агенты, использующие LetsFG ежедневно, и вчера был наш самый большой день когда-либо с почти 3k поиска. https://p&gt;https://letsfg.coЯ знаю, что многие люди здесь являются техническими, так что если вы, ребята, интересуетесь архитектурой, как я сделал это работает (это была такая шумиха, я говорю вам), или просто хотите узнать больше, дайте мне знать. Я открыт для ответа на любые вопросы :) Cheers, Adam   представлено   /u/Efistoffeles   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wu199n/i_spent_7_months_and_150_bilion_tokens_getting/</guid>
+      <pubDate>Wed, 30 Sep 2026 10:20:58 GMT</pubDate>
     </item>
     <item>
-      <title>用于跟踪我的预算和消费习惯的最佳软件是什么？ Smartsheet、Excel 与 Sheets？</title>
-      <link>https://www.reddit.com/r/software/comments/1u32kz4/what_is_the_best_software_to_use_for_tracking_my/</link>
-      <description><![CDATA[ 由   提交 /u/domino7873   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1u32kz4/what_is_the_best_software_to_use_for_tracking_my/</guid>
-      <pubDate>Thu, 11 Jun 2026 15:39:56 GMT</pubDate>
+      <title>Какие полезные приложения должны быть у каждого на телефоне?</title>
+      <link>https://www.reddit.com/r/software/comments/1wu0lx4/what_are_some_useful_apps_everyone_should_have_on/</link>
+      <description><![CDATA[ Пока что это некоторые приложения, которые были действительно полезны для меня: Google Maps: я использую его в течение длительного времени, но это все еще одно из самых полезных приложений на моем телефоне, особенно при путешествии или попытке найти место. VLC: Большинство людей, вероятно, используют VLC на ПК, но я нахожу его действительно полезным и на моем телефоне, особенно для просмотра загруженных фильмов и видео. Вы также можете передавать видео с вашего ПК на ваш телефон и воспроизводить их непосредственно с помощью VLC. ChatGPT: Я использую его практически для всего, что я хочу спросить или узнать. LocalSend: Очень полезно для передачи видео, изображений и других файлов между моим ПК и телефоном. Это гораздо удобнее, чем использовать кабели или загружать файлы в облако. Это те, которые я использую больше всего. Какие приложения были действительно полезны для вас? Ищите рекомендации!    представлено   /u/Big-Prize-8224   ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wu0lx4/what_are_some_useful_apps_everyone_should_have_on/</guid>
+      <pubDate>Wed, 30 Sep 2026 09:41:34 GMT</pubDate>
     </item>
     <item>
-      <title>用于保护 PDF 的免费或不太广泛的 VeryDRM 替代方案</title>
-      <link>https://www.reddit.com/r/software/comments/1u30hqr/free_or_less_expansive_alternatives_to_verydrm/</link>
-      <description><![CDATA[我有我的书的 pdf 文件，我想将其发送到本地印刷机。我希望未经我的许可，该书的 pdf 版本不应泄露/共享等。我开始意识到 DRM 技术可以在很大程度上帮助我实现这一目标。然后我搜索了 DRMS，发现了一个名为 VeryDRM 的软件，但当我查看其定价模型时，发现它非常昂贵。我住在印度，VeryDRM 的定价约为每月 99 美元，我买不起。是否有更便宜（或者可能免费）的工具可以让我在 PDF 上使用 DRM？  谢谢   由   提交 /u/Thick_College_6724   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1u30hqr/free_or_less_expansive_alternatives_to_verydrm/</guid>
-      <pubDate>Thu, 11 Jun 2026 14:22:40 GMT</pubDate>
+      <title>Pi -> pi-persona: контролируемые асинхронные агенты для Pi с живым управлением и кросс-сессионным сотрудничеством. Опыт работы с Ultracode</title>
+      <link>https://www.reddit.com/r/software/comments/1wtziz3/pi_pipersona_supervised_async_agents_for_pi_with/</link>
+      <description><![CDATA[  представлено   /u/Aeondave    [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wtziz3/pi_pipersona_supervised_async_agents_for_pi_with/</guid>
+      <pubDate>Wed, 30 Sep 2026 08:29:59 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Memgraph/知识图构建职位推荐引擎 — 直接跳到 GNN 还是从更简单的开始？</title>
-      <link>https://www.reddit.com/r/software/comments/1u3032h/building_a_job_recommendation_engine_using/</link>
-      <description><![CDATA[ 由   提交 /u/the-one-u-dont-know   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1u3032h/building_a_job_recommendation_engine_using/</guid>
-      <pubDate>Thu, 11 Jun 2026 14:07:22 GMT</pubDate>
+      <title>Я превратил ChatGPT, Claude, Gemini и т. Д. В БЕСПЛАТНЫЕ текстовые сайты - идеально подходит для аудиокниг и многого другого!</title>
+      <link>https://www.reddit.com/r/software/comments/1wtyt3i/i_made_chatgpt_claude_gemini_etc_into_free/</link>
+      <description><![CDATA[ В настоящее время все популярные сайты чатов ai, такие как qwen, chatgpt, gemini, claude и т. Д., поставляются с функцией чтения вслух, которая позволяет пользователям читать вслух ответы ИИ. Я использовал эту функцию, чтобы заставить ИИ повторить текст, который я ему дал, эффективно превращая платформы в текстовые речевые инструменты. Голоса звучат очень красиво, и это бесплатно!  Вы можете получить все эти расширения, посетив ai-readers.com    представленный   /u/Cool-Hornet-8191   [comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wtyt3i/i_made_chatgpt_claude_gemini_etc_into_free/</guid>
+      <pubDate>Wed, 30 Sep 2026 07:43:24 GMT</pubDate>
     </item>
     <item>
-      <title>我为 Windows 构建了一个免费的开源一体式文件转换器 - 无需帐户，无需上传，在本地运行</title>
-      <link>https://www.reddit.com/r/software/comments/1u2zqkn/i_built_a_free_opensource_allinone_file_converter/</link>
-      <description><![CDATA[嘿r/software， 我刚刚发布了 TurnAFile - 一个免费的开源文件转换器，直接集成到 Windows 的右键菜单中。没有网络服务，没有帐户，没有文件大小限制。一切都在您的计算机上运行。 它转换的内容： 🎬 视频：MP4、AVI、MKV、MOV、WebM、WMV、FLV 🎵 音频：MP3、WAV、FLAC、M4A、OGG、AAC、WMA 🖼️ 图片：JPG、PNG、WebP、GIF、BMP、TIFF（+ OCR 到文本） 📄 文档：PDF、 DOCX、HTML、MD、RTF、ODT、EPUB 📊 数据：XLSX、CSV、JSON → PDF 工作原理：1. 右键单击资源管理器中的任何文件 2. 选择“使用 TurnAFile 转换” 3. 选择质量（高/中/低） 4. 完成 — 转换后的文件出现在同一文件夹中 我为什么构建它：我厌倦了将敏感文件上传到 Convertio 只是为了转换他们。隐私问题。您的文件保留在您的磁盘上。 ✅ 100% 免费且免费开源 (MIT) ✅ 7 种语言：英语、西班牙语、法语、德语、中文、日语、葡萄牙语 ✅ 无需互联网 ✅ Windows 10/11 GitHub：https://github.com/nocloudware/TurnAFile 网站：https://nocloudware.com/turnafile.html 欢迎提供反馈 - 特别是错误报告！   由   提交 /u/AdrianGoodrich2000   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1u2zqkn/i_built_a_free_opensource_allinone_file_converter/</guid>
-      <pubDate>Thu, 11 Jun 2026 13:53:59 GMT</pubDate>
+      <title>Paydesk: Отслеживание времени, управление проектами и выставление счетов на Mac для фрилансеров / малого бизнеса. Оффлайн, без аккаунта.</title>
+      <link>https://www.reddit.com/r/software/comments/1wty6bt/paydesk_time_tracking_project_management_and/</link>
+      <description><![CDATA[Я некоторое время создавал Paydesk, и, наконец, я хочу, чтобы люди попробовали его и сказали мне, что с ним не так.  Paydesk - это приложение для Mac для фрилансеров, консультантов и небольших студий. Он сохраняет проекты, отслеживание времени, котировки, счета-фактуры, расходы и отчеты в одном месте и полностью работает на вашем Mac. Часы живут в приложении таймера или на липких заметках. Счета живут в электронной таблице или шаблоне документа. Если вам действительно заплатили жизни в вашей голове. &gt; Таким образом, каждый месяц есть раунд копирования чисел между приложениями, выясняя, что вы еще не оплатили, и преследуя того, кто опаздывает. Другое дело, что большинство инструментов в этом пространстве хотят учетную запись и подписку, и они хранят ваш список клиентов, тарифы и счета на своих серверах. Для многих фрилансеров это больше, чем им нужно.  Что это такое:   Идея заключается в том, что весь цикл происходит в одном приложении: планируйте работу, отслеживайте ее, оплачивайте, смотрите, как проходит год. Совет: каждый проект на одной доске, от Свинца и Предложения, отправленного через In progress, Delivered, Invoiced and Paid. Отслеживание времени: запуск и остановка в окне   - Bill Now: Paydesk сохраняет общее количество невыплаченных часов и оплачиваемых расходов на проект. Документы: предложения, котировки, счета-фактуры, квитанции и кредитные ноты. Вы можете превратить принятую цитату в счет. Существует три типа шаблонов PDF, на A4 или US Letter. Языки и налог: счета могут быть на 9 языках (английский, немецкий, французский, испанский, итальянский, голландский, португальский, японский, арабский). Существуют налоговые предустановки для 25 стран и регионов, включая НДС, GST (с разделением CGST / SGST для Индии) и налог с продаж в США. Любая валюта работает. Получение оплаты: стол показывает, что вы должны, что просрочено, а что нет. Remind открывает почтовое сообщение на языке клиента с прикрепленным PDF. - Отчеты: прибыль, старение, налог, доход клиента и ваша реальная почасовая ставка за проект. Бухгалтерский пакет экспортирует один ZIP с CSV, каждый выпущенный PDF и каждую квитанцию. Квитанции: Paydesk считывает квитанции с распознаванием текста на устройстве для покрытия расходов.  Это было вдохновлено https://runey.app/ Это приложение, основанное на подписке, я попытался собрать все возможное в одну дружественную версию App Store. Мы улучшим будущие версии. Paydesk нацелен на офлайн и одноразовую альтернативу оплаты Runey - $9,99 один раз - Никакой подписки - Каждая включенная функция  - Mac App Store версия, которая скоро появится - Требует macOS 15 или более поздней версии  Я не возражаю против критики вообще, если она помогает сделать приложение лучше. Я также с удовольствием отвечу на технические вопросы о том, как работают нумерация, налоги, рендеринг PDF или офлайн-дизайн. Вы можете скачать Paydesk с веб-сайта сегодня:  https:///paydesk.minilabs.cc/    представлено   /u/introvertmac    ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wty6bt/paydesk_time_tracking_project_management_and/</guid>
+      <pubDate>Wed, 30 Sep 2026 07:02:18 GMT</pubDate>
     </item>
     <item>
-      <title>即将加入软件开发人员的新手需要建议</title>
-      <link>https://www.reddit.com/r/software/comments/1u2uwei/advice_needed_for_fresher_about_to_join_as/</link>
-      <description><![CDATA[ 由   提交/u/FarWash8739  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1u2uwei/advice_needed_for_fresher_about_to_join_as/</guid>
-      <pubDate>Thu, 11 Jun 2026 10:09:14 GMT</pubDate>
+      <title>SpareDisk - легкий быстрый анализатор дискового пространства, искатель и очиститель</title>
+      <link>https://www.reddit.com/r/software/comments/1wty1tt/sparedisk_a_light_weight_fast_disk_space_analyser/</link>
+      <description><![CDATA[Я искал очиститель дисков Mac, который сочетает в себе функции, разбросанные по аналогичным приложениям, и стоит не более $10.  SpareDisk - это легкий, но мощный анализатор дискового пространства, визуализатор, деинсталлятор и очиститель. Он использует песочницу Apple и предназначен для удовлетворения требований App Store. Он также включает в себя специальный раздел разработчика, где вы можете просматривать файлы Xcode, пакеты узлов, кэши и многое другое. Полный список функций:    Обзор хранилища Mac с использованием в реальном времени и свободного пространства  Treemap, sunburst и просмотров списков  Folder, внешний диск и общий доступ к сети сканирование  Большие файлы, старые файлы и сбои файлов  Кэши разработчика: Xcode, симуляторы, Homebrew, npm и многое другое  Дубликаты, проверенные содержимым файлов, дополнительные копии, поставленные в один шаг Удаление приложений, связанные данные и остатки удаленных приложений  Размер файла и размер на диске, изменения с момента вашего предыдущего сканирования  Поиск, фильтры, исключения, Quick Look и навигация по клавиатуре  Обзор очереди с живым прогрессом, перепроверка и повторная запись  История очистки и общая сумма мусора, которая следует за тем, что вы переместили  Опциональное резюме строки меню и уведомления о завершенном сканировании   Нет учетной записи. Нет загрузок. Ваши файлы остаются на вашем Mac. $4.99 для пожизненных обновлений!  Вы можете загрузить его с веб-сайта: https://sparedisk.minilabs.cc/ Загрузить из магазина приложений: https://apps.apple.com/us/app/sparedisk-free-disk-space/id6811328422?mt=12     представлено   /u/lazykid07   [link]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wty1tt/sparedisk_a_light_weight_fast_disk_space_analyser/</guid>
+      <pubDate>Wed, 30 Sep 2026 06:55:01 GMT</pubDate>
     </item>
     <item>
-      <title>评价我当前的软件堆栈！</title>
-      <link>https://www.reddit.com/r/software/comments/1u2u5r8/rate_my_current_software_stack/</link>
-      <description><![CDATA[我当前的软件堆栈 (2026) 我是一名高中生，想继续使用这些软件。 我有一台 Lenovo ThinkPad L380，配备 i3-8130U 双核 CPU @ 2.21GHz，带 8GB DDR4 RAM。 256 GB SSD 存储。 我更喜欢功能齐全、广告少、简单、不只是为了推送订阅、人工智能功能、加密、云锁定或不必要的生态系统的软件。其中大多数是免费的或具有一次性购买模式。请推荐其他可能比我使用的更好的工具和应用程序。 操作系统  Windows 11（主要操作系统） Fedora KDE/GNOME（偶尔）  网页浏览  Helium 浏览器 Brave 浏览器（备用）  密码管理  Bitwarden  音乐  Spotify + Spicetify 本地 FLAC 收藏  笔记和音乐知识管理  概念  文件传输  电话链接 本地发送  RAW照片编辑和编辑编目  Adobe Lightroom Classic  AI Assistant  ChatGPT（免费套餐）  图形设计/缩略图/图像编辑  Affinity by Canva  PDF 阅读  Adobe Acrobat读者  3D 建模与建模渲染  Blender  音频编辑  Audacity  电子书管理和编辑阅读  口径  快速视频剪辑和制作无损编辑  Avidemux  短视频编辑  CapCut  下载管理器  免费下载管理器(FDM)  版本控制  Git GitHub  消息传递  WhatsApp Telegram Instagram DM  媒体播放  VLC媒体播放器  编程  Visual Studio代码  文件压缩&amp;提取  WinRAR  视频编码与压缩转换  FFmpeg  为什么要这样做？ 我的目标很简单：  最少的广告 最少的订阅 到处都没有不必要的人工智能 没有软件冗余 在适度的硬件上提供良好的性能 真正重要的行业标准工具 免费或尽可能使用价格合理的软件  我通常更喜欢每个任务使用一个好工具，而不是安装五个完成相同任务的替代品。 此设置涵盖网页浏览、编码、摄影、图形设计、电子书、媒体播放、视频编辑、文件管理、笔记、密码管理、消息传递和游戏，而不需要十几个重叠的应用程序。 向我推荐一些您认为臃肿软件和效率低下的应用程序的替代品。   由   提交/u/Bitchless_Behaviour   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1u2u5r8/rate_my_current_software_stack/</guid>
-      <pubDate>Thu, 11 Jun 2026 09:26:43 GMT</pubDate>
+      <title>Как медсестра, какой лучший инструмент для речевого текста вы бы порекомендовали?</title>
+      <link>https://www.reddit.com/r/software/comments/1wtwpb4/as_a_nurse_what_is_the_best_speechtotext_tool_you/</link>
+      <description><![CDATA[Я студент-медсестра и записываю свои лекции. Наши преподаватели часто переключаются между английским и испанским. Они также используют длинные названия наркотиков, которые мое приложение телефона превращает в случайные слова. Я видел некоторые инструменты, которые позволяют добавлять свой собственный список слов.  Помогает ли это в реальном использовании? Мне не нужна живая печать. Мне просто нужно что-то, где я могу загрузить файлы после класса.    представлено   /u/HairyWires   ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wtwpb4/as_a_nurse_what_is_the_best_speechtotext_tool_you/</guid>
+      <pubDate>Wed, 30 Sep 2026 05:31:15 GMT</pubDate>
     </item>
     <item>
-      <title>好的，请问这个软件是什么？它来自 NIH！</title>
-      <link>https://www.reddit.com/r/software/comments/1u2u5bw/ok_plz_any_ideas_what_this_software_isits_from_nih/</link>
-      <description><![CDATA[ 由   提交/u/Lumpy-Evidence-245  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1u2u5bw/ok_plz_any_ideas_what_this_software_isits_from_nih/</guid>
-      <pubDate>Thu, 11 Jun 2026 09:26:02 GMT</pubDate>
+      <title>Назовите, пожалуйста, эту программу печати?</title>
+      <link>https://www.reddit.com/r/software/comments/1wtwlnh/name_of_this_printing_program_please/</link>
+      <description><![CDATA[Олдер VIP-пользователь использует его на своем компьютере в нашей компании и хочет использовать его на своем новом компьютере.    представленный   /u/Reckless Rex97   [link][comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wtwlnh/name_of_this_printing_program_please/</guid>
+      <pubDate>Wed, 30 Sep 2026 05:25:05 GMT</pubDate>
     </item>
     <item>
-      <title>Plzz Helpp - 假设您正在尝试构建一个工具包来检查 LLM 漏洞，你们知道任何可信的数据集吗</title>
-      <link>https://www.reddit.com/r/software/comments/1u2tl95/plzz_helpp_say_youre_trying_to_build_a_toolkit/</link>
-      <description><![CDATA[因此，我们正在尝试制作一个工具包，该工具包基本上采用聊天机器人端点并检查它是否越狱，因为它不提供内部数据，但我们无法找到任何可信的参数数据集，也无法检查输出是否实际上是完整的内部数据或任何其他内部系统详细信息。   由   提交 /u/KennethJF   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1u2tl95/plzz_helpp_say_youre_trying_to_build_a_toolkit/</guid>
-      <pubDate>Thu, 11 Jun 2026 08:53:22 GMT</pubDate>
+      <title>CurvioEQ v1.3.2 вышел, спасибо большое за 70+ загрузок</title>
+      <link>https://www.reddit.com/r/software/comments/1wtw9kj/curvioeq_v132_is_out_thank_you_soo_much_for_70/</link>
+      <description><![CDATA[Привет всем! Сегодня я наконец могу сказать, что выпустил CurvioEQ v1.3.2.  Что я могу сказать — этот патч в основном ориентирован на фактическую базовую архитектуру с некоторыми меньшими функциями качества жизни для повседневного использования. Прежде всего, аудио движок теперь имеет гораздо больший контроль над частотой выборки, размером буфера, точностью обработки, повторной выборкой, приоритетом потока, аффинностью процессора и поведением WASAPI. Я также работал над коррекцией дрейфа часов, адаптивной буферизацией, обработкой подзапуска, восстановлением устройства и более точной отчетностью о задержке. Я также добавил документацию для разработчиков в репозиторий для тех, кто интересуется тем, как CurvioEQ работает внутри. И кричите на u/mrrak25 - он запросил функцию баланса L/R в моем предыдущем посте, и это теперь в v1.3.2 :)  Еще раз спасибо всем, кто попробовал предыдущие версии и дал мне обратную связь. Кроме того, все пользователи v1.3.1 теперь могут обновлять CurvioEQ непосредственно из приложения без необходимости вручную открывать браузер, если Windows подключена к Интернету. Вот репо CurvioEQ на GitHub: https://github.com/hussainhumam/CurvioEQ    представлено   /u/HussainHumam   [link]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wtw9kj/curvioeq_v132_is_out_thank_you_soo_much_for_70/</guid>
+      <pubDate>Wed, 30 Sep 2026 05:04:56 GMT</pubDate>
     </item>
     <item>
-      <title>Neon Vision Editor — 使用 Swift 构建的原生 macOS/iOS 代码和文本编辑器，开源</title>
-      <link>https://www.reddit.com/r/software/comments/1u2tb5p/neon_vision_editor_a_native_macosios_code_and/</link>
-      <description><![CDATA[Neon Vision Editor 是一款完全用 Swift 构建的适用于 macOS、iPad 和 iPhone 的轻量级代码和文本编辑器 — 无 Electron、无 Web 视图、无依赖项。 它的作用：  语法突出显示代码和降价 Vim 模式 查找和查找替换为范围选择 项目侧边栏和快速文件访问 用于导出可读代码图像的代码快照 长文件的目录导航 通过 Apple 基础模型实现设备上 AI - 无需互联网连接 从单个代码库在 macOS、iPadOS 和 iPhone 上本机运行  v0.7.7 刚刚发布，重点关注 iPad 和 iPhone UI 改进：更严格的查找和查找替换紧凑型 iOS 上的布局、半透明侧边栏表以及重新平衡的 iPad 欢迎之旅。 它是 Apache 2.0 下的开源。 GitHub：https://github.com/h3pdesign/Neon-Vision-Editor 下载 (DMG/ZIP)：https://github.com/h3pdesign/Neon-Vision-Editor/releases/tag/v0.7.7 Homebrew：brew install h3pdesign/tap/neon-vision-editor 并在应用商店： https://apps.apple.com/de/app/neon-vision-editor/id6758950965   由   提交/u/hrpedersen  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1u2tb5p/neon_vision_editor_a_native_macosios_code_and/</guid>
-      <pubDate>Thu, 11 Jun 2026 08:36:16 GMT</pubDate>
+      <title>Программное обеспечение, где можно импортировать PDF-файлы и использовать их?</title>
+      <link>https://www.reddit.com/r/software/comments/1wtu16n/software_where_you_could_import_pdf_files_and/</link>
+      <description><![CDATA[Привет всем! Я начал учиться в колледже, и многие учебные листы, которые мне давали, были в форме PDF-файлов. До сих пор я получал, помещая ответы на бумаге, но я нахожу, что я лучше, когда я могу писать и аннотировать непосредственно на листе. Есть ли программное обеспечение, где я мог бы сделать это для моего ноутбука с сенсорным экраном? Спасибо большое :)    представлено   /u/Soggy-Display-3952   ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wtu16n/software_where_you_could_import_pdf_files_and/</guid>
+      <pubDate>Wed, 30 Sep 2026 03:04:51 GMT</pubDate>
     </item>
     <item>
-      <title>适合专业人士的 PDF 标记</title>
-      <link>https://www.reddit.com/r/software/comments/1u2snm7/pdf_markups_for_pros/</link>
-      <description><![CDATA[ 由   提交/u/AhamedParamedic6930   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1u2snm7/pdf_markups_for_pros/</guid>
-      <pubDate>Thu, 11 Jun 2026 07:56:54 GMT</pubDate>
+      <title>АстроЛогика</title>
+      <link>https://www.reddit.com/r/software/comments/1wttxyv/astrologica/</link>
+      <description><![CDATA[AstraLogica: Orbital Command - это тактическое ретро-технологическое научно-фантастическое моделирование, в котором вы выступаете в качестве главного операционного директора (COO) изолированной космической станции. Ваша миссия проста, но жестока: Переживите 14 циклов Сола против космических аномалий, отключений питания, расплавлений реакторов и таинственных передач в глубоком космосе. Исходный код и двоичный учебник в Бахасе Индонезия и английский язык  Link https://github.com/AstraLogicaВсе мои работы: https://github.com/CodeInPas&quot;&gt;https://github.com/CodeInPas  Happy Coding And Fun with PASCAL DEVELOPMENT Regard ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wttxyv/astrologica/</guid>
+      <pubDate>Wed, 30 Sep 2026 03:00:29 GMT</pubDate>
     </item>
     <item>
-      <title>我是一名数据科学专业的学生</title>
-      <link>https://www.reddit.com/r/software/comments/1u2s896/im_a_data_science_student/</link>
-      <description><![CDATA[我能否为我的第四学期项目找到一个真正给老师留下深刻印象的现实生活项目想法   由   提交 /u/Exciting_Tadpole3428   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1u2s896/im_a_data_science_student/</guid>
-      <pubDate>Thu, 11 Jun 2026 07:31:10 GMT</pubDate>
+      <title>Я создал WikiCrawl - интерактивный граф знаний с открытым исходным кодом, который позволяет исследовать Википедию, сканируя связанные статьи.</title>
+      <link>https://www.reddit.com/r/software/comments/1wtt442/i_built_wikicrawl_an_open_source_interactive/</link>
+      <description><![CDATA[Я всегда находил увлекательным, как одна статья в Википедии может привести вас в совершенно неожиданную кроличью нору.  Вы начинаете читать об одной теме, нажимаете на ссылку, открываете что-то новое, и прежде чем вы это узнаете, вы находитесь в пяти темах от того, где вы начали. Я хотел создать что-то, что делает этот опыт более визуальным и исследователем. Так что я создал WikiCrawl - веб-инструмент, который сканирует статьи Википедии и превращает их связи в интерактивный граф знаний. Попробуйте его здесь: https://wiki-crawl.vercel.app GitHub: https://github.com/Adityavardhanjain Вы можете:  Поищите тему и сканируйте связанные с ней статьи Википедии. Выберите, насколько глубоко вы хотите, чтобы сканирование прошло.  Смотрите, как граф растет по мере обнаружения статей. Исследуйте связи между темами, перемещаясь по графу.   Идея состоит в том, чтобы легче увидеть общую картину: не только то, что является темой, но и как она связана с другими идеями. Я построил это как независимый проект, и попадание его в руки людей было интересным опытом обучения. Ранняя обратная связь уже помогла мне улучшить мобильный опыт и более тщательно подумать о том, как следует исследовать отношения между узлами. Я все еще работаю над улучшением опыта, и я искренне ценю отзывы людей, которые любят экспериментировать с программным обеспечением. Я хотел бы услышать ваши мысли:   Используете ли вы что-то подобное для исследований, обучения или просто изучения случайных тем? Что сделало бы такой график знаний более полезным для вас?    представлено   /u/theporcupineapple   [link] [comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wtt442/i_built_wikicrawl_an_open_source_interactive/</guid>
+      <pubDate>Wed, 30 Sep 2026 02:18:34 GMT</pubDate>
     </item>
     <item>
-      <title>由 CI（开源）分级的真实系统设计挑战</title>
-      <link>https://www.reddit.com/r/software/comments/1u2mad6/realworld_system_design_challenges_graded_by_ci/</link>
-      <description><![CDATA[ 由   提交 /u/RezaSi_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1u2mad6/realworld_system_design_challenges_graded_by_ci/</guid>
-      <pubDate>Thu, 11 Jun 2026 02:22:12 GMT</pubDate>
+      <title>Как я буду кодировать простое автоматизированное приложение для перевода текстовых сообщений?</title>
+      <link>https://www.reddit.com/r/software/comments/1wtsikl/how_would_i_go_about_coding_a_simple_automated/</link>
+      <description><![CDATA[ Мой босс говорит по-корейски, и, хотя он немного понимает английский, с ним легче общаться с помощью переводчиков. Я заметил, что его телефон использует Google Translate автоматически, когда я отправляю текстовые сообщения через Google, и я всегда дважды проверял свои сообщения через Google, чтобы проверить, что информация ретранслируется правильно на его конце (и редактировать его соответствующим образом, чтобы он выглядел правильно, если это не в первый раз). Я нашел нового переводчика, который может передавать мои сообщения намного яснее и исправлять их каждый раз. Мне было интересно, можно ли закодировать приложение, которое может подключать функцию перевода веб-сайта непосредственно к моим текстовым сообщениям, чтобы я знал, что мои сообщения не принимаются неправильно? Если да, то как бы я поступил? Я очень любитель кодирования, но я готов смотреть учебники и читать о вещах сам! Я также хочу выучить корейский язык позже, но я подумал, что было бы неплохо иметь что-то подобное в качестве буфера. Конечно, если там уже есть приложение, которое делает это, то я более чем счастлив загрузить его вместо этого.   Я только действительно посылаю сообщение моему боссу для целей планирования, но я заметил, что в прошлом, когда я написал, что есть много путаницы на его конце, и он попросил меня прийти в дни, которые я уже призвал и, по-видимому, оба согласились. Это очень конкретно, я знаю, но я также устал ходить туда-сюда все время, чтобы убедиться, что мои сообщения переводятся неправильно. Также более круто было бы просто выучить язык прямо, но если бы я мог сделать что-то подобное, я думаю, что было бы также неплохо дать моим коллегам :&#39;)    представленный   /u/No-Kaleidoscope-7320   ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wtsikl/how_would_i_go_about_coding_a_simple_automated/</guid>
+      <pubDate>Wed, 30 Sep 2026 01:49:09 GMT</pubDate>
     </item>
     <item>
-      <title>需要帮助同时提取和删除 zip 文件。</title>
-      <link>https://www.reddit.com/r/software/comments/1u2kgvf/need_help_to_extract_and_delete_zip_files_at_the/</link>
-      <description><![CDATA[ 由   提交 /u/BatLongjumping9053   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1u2kgvf/need_help_to_extract_and_delete_zip_files_at_the/</guid>
-      <pubDate>Thu, 11 Jun 2026 00:58:09 GMT</pubDate>
+      <title>CalibRaw: бесплатный и открытый редактор RAW в стиле Lightroom для Linux, Android, Windows и macOS</title>
+      <link>https://www.reddit.com/r/software/comments/1wtrg3e/calibraw_free_and_opensource_lightroomstyle_raw/</link>
+      <description><![CDATA[Hii, i работал над CalibRaw, бесплатным и открытым редактором RAW для Linux, Android, Windows и macOS :D   Я начал разрабатывать его, потому что хотел редактор RAW со знакомым рабочим процессом в стиле Lightroom, но без подписки и с нативным пользовательским интерфейсом вместо веб-интерфейса рабочего стола (в начале это было в основном то, что я сделал для себя и некоторых друзей). Он имеет все ползунки и инструменты редактирования, которые вы ожидаете от редактора RAW, включая кривые, цветовую градацию, HSL / Point Color, локальные настройки, маски, коррекцию линз, слияние HDR и многое другое. Существуют также дополнительные локальные инструменты ИИ для маскировки субъекта/неба/объекта, обезвреживания ИИ и удаления ИИ. Редактор в основном ускорен. Редактирование не является деструктивным и сохраняется в файле бокового вагона вдоль RAW.  https://github.com/Duecki1/CalibRaw   LLMs были использованы при создании этого проекта/программы.      представлены   /u/Ornery Disaster 953   ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wtrg3e/calibraw_free_and_opensource_lightroomstyle_raw/</guid>
+      <pubDate>Wed, 30 Sep 2026 00:58:26 GMT</pubDate>
     </item>
     <item>
-      <title>查找相似目录的工具</title>
-      <link>https://www.reddit.com/r/software/comments/1u2j2ge/tool_to_find_similar_directories/</link>
-      <description><![CDATA[我正在寻找一个可以识别深层目录树中类似目录的工具（Windows 或 Linux）。 例如当目录 C:\data\A 包含 100 个文件并且 C:\data\github\myproject\src\B 包含这 100 个文件和一个附加文件（A 中不存在）时，该工具应该识别这一点。 最后，它应该列出超过特定阈值的所有相似文件夹对。   由   提交 /u/air3k   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1u2j2ge/tool_to_find_similar_directories/</guid>
-      <pubDate>Wed, 10 Jun 2026 23:54:41 GMT</pubDate>
+      <title>Я создал MCP-сервер для KillerTools и пяти настольных приложений.</title>
+      <link>https://www.reddit.com/r/software/comments/1wtqyo8/i_made_an_mcp_server_for_killertools_and_my_five/</link>
+      <description><![CDATA[ Некоторые из вас уже видели мои пять приложений-убийц. Недавно я перешел на должность специалиста по решениям ИИ после почти десяти лет полевых работ, и я хотел лучше понять, как работают серверы MCP. Создание одного из программ, которые я уже знал, казалось лучшим способом обучения. И, очевидно, я собирался назвать его KillerMCP. Он позволяет помощнику ИИ использовать 81 инструмент с сайта KillerTools, а также KillerPDF, KillerScan, KillerShell, KillerNotes и Killendar, если они установлены. Например, я могу попросить его сканировать мою сеть с помощью KillerScan, проверить устройство и поместить результаты в заметку KillerNotes или отчет в формате PDF. Если я устраняю проблему с Windows, он может найти код ошибки в KillerTools, прочитать соответствующие журналы событий с KillerShell и сохранить то, что я нашел в своих заметках. Я могу попросить его найти PDF, извлечь несколько страниц или запустить OCR на отсканированный документ с помощью KillerPDF. Он может подтянуть мою программу Killendar и превратить ее в PDF. Я все еще могу использовать каждое приложение самостоятельно, но возможность передавать результат от одного инструмента другому - вот где это сияет. Он работает локально, он с открытым исходным кодом, и установщик Windows может настроить его в клиентах AI, которые он находит на вашем компьютере. https://killertools.net/mcp&gt;https://killertools.net/mcphttps://github.com/SteveTheKiller/KillerMCP    представленный   /u/smilaise    ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wtqyo8/i_made_an_mcp_server_for_killertools_and_my_five/</guid>
+      <pubDate>Wed, 30 Sep 2026 00:34:49 GMT</pubDate>
     </item>
     </channel>
 </rss>

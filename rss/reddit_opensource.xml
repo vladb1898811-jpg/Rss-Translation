@@ -1,114 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新提交：开源</title>
+    <title>Новые материалы: opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 11 Jun 2026 16:12:26 GMT</lastBuildDate>
+    <description>Субреддит для всего, что связано с открытым исходным кодом (для этого контекста мы выходим из определения открытого исходного кода здесь http://en.wikipedia.org/wiki/Open source)</description>
+    <lastBuildDate>Wed, 30 Sep 2026 10:44:43 GMT</lastBuildDate>
     <item>
-      <title>omn​​ipackage - 一个使 RPM&DEB 打包和分发变得容易的工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1u2zy3p/omnipackage_a_tool_that_makes_rpmdeb_packaging/</link>
-      <description><![CDATA[       由   提交/u/oleg_antonyan  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1u2zy3p/omnipackage_a_tool_that_makes_rpmdeb_packaging/</guid>
-      <pubDate>Thu, 11 Jun 2026 14:02:07 GMT</pubDate>
+      <title>Обратная связь с политикой AI</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wtwfxg/feedback_on_ai_policy/</link>
+      <description><![CDATA[Hey r/opensource, я соло-поддерживаю &#39;python-json-logger&#39;.  Недавно я начал получать много взносов, генерируемых ИИ, поэтому пришло время установить политику. Для тех из вас, кто также поддерживает проекты, которые допускают вклад ИИ, есть ли у кого-либо какие-либо отзывы или рекомендации? Моя запланированная политика находится в Этот PR на GitHub:  Политика ИИ  Использование инструментов ИИ допускается при следующих условиях:   Использование инструментов ИИ должно быть объявлено. Например, в описании PR или через выделенных пользователей / фиксеров.  Должен быть объявлен конкретный инструмент / провайдер ИИ. Инструменты ИИ должны находиться под наблюдением реального человека, который несет ответственность за все сделанные взносы.  Использование инструментов ИИ снижает ожидания от любого вклада.  Не будьте мясопрокси. Уважайте время обслуживающего персонала, гарантируя, что генерируемые взносы действительно ценны.    Заранее спасибо!    представлено   /u/nicholashairs   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wtwfxg/feedback_on_ai_policy/</guid>
+      <pubDate>Wed, 30 Sep 2026 05:15:30 GMT</pubDate>
     </item>
     <item>
-      <title>又嗨了</title>
-      <link>https://www.reddit.com/r/opensource/comments/1u2xmed/hi_again/</link>
-      <description><![CDATA[      我几天前发布了关于我的开源的帖子，如果您尝试过或愿意尝试，我想提出一点请求，请发送给我用它做什么，以便我可以作为示例来展示 ty ❤️  从上一篇文章👇 中，我为开发人员创建了一组免费的现代响应式网站模板，自由职业者、初创公司和小型企业。 该存储库包括登录页面、投资组合网站、业务模板以及其他使用 HTML、CSS 和 JavaScript 构建的即用型网页设计。一切都经过精心设计，易于定制并用于个人或商业项目。 我正在积极扩展集合，并希望听到您的反馈、建议或功能请求。 GitHub：https://github.com/Uniquekingai/web-templates-free 如果您发现它有用，将不胜感激。   由   提交/u/Acrobatic_Science_66  [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1u2xmed/hi_again/</guid>
-      <pubDate>Thu, 11 Jun 2026 12:26:00 GMT</pubDate>
+      <title>Как "свободно, как в речи, а не как в пиве" не спорная мантра?</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wtsvtf/how_is_free_as_in_speech_not_as_in_beer_not_a/</link>
+      <description><![CDATA[ Мой вопрос относится, например, к лицензированному программному обеспечению GPL, которое, как известно, находится за платным доступом или только через третью сторону. Знаете ли вы какие-либо такие примеры?  Я связал статью FSF о свободном программном обеспечении с коммерческим успехом.&quot; Есть часть на &quot;selling&quot;:   Продажа: Существует также возможность просто распространять копии бесплатного программного обеспечения, которое вы разработали за определенную плату. Конечно, вы должны предоставить исходный код при продаже. Люди могут свободно копировать и распространять исходный код, но если вы попросите людей заплатить за продукт, по крайней мере, некоторые из тех, кто ценит работу, вложенную в это программное обеспечение, сделают это. Это также связано со статьей GNU на  Продажа свободного программного обеспечения с предисловием:    Многие люди считают, что суть проекта GNU заключается в том, что вы не должны взимать плату за распространение копий программного обеспечения или что вы должны взимать как можно меньше, чтобы покрыть расходы. Это недоразумение.   Теперь, поскольку у пользователя есть права немедленного перераспределения, это так, что мы привыкли видеть свободное программное обеспечение свободно доступным - по-видимому, это кажется более выгодным оригинальным авторам, чтобы распространять его публично сами без платы.  Есть ли какой-либо известный случай продажи свободного программного обеспечения  - текущее или историческое - которое не доступно бесплатно оригинальными авторами?  И если нет, то каков акцент на &quot;свободный как в речи, а не как в пиве&quot; не спорный момент?    представленный   /u/esiy0676   [link][comments]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wtsvtf/how_is_free_as_in_speech_not_as_in_beer_not_a/</guid>
+      <pubDate>Wed, 30 Sep 2026 02:07:12 GMT</pubDate>
     </item>
     <item>
-      <title>尝试建立自己的在线法官执行服务</title>
-      <link>https://www.reddit.com/r/opensource/comments/1u2x2p9/tried_building_my_own_online_judge_execution/</link>
-      <description><![CDATA[过去几周我一直在从头开始构建一个在线代码执行平台，以了解沙箱、容器、安全性和后端系统。 它名为 Judex，它是开源的： https://github.com/Dharshan2208/judex 如果您能发现任何反馈、批评、功能想法或安全问题，我将不胜感激。我仍在学习中，并且很乐意改进它。 感谢您的浏览...   由   提交/u/pikahikmag   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1u2x2p9/tried_building_my_own_online_judge_execution/</guid>
-      <pubDate>Thu, 11 Jun 2026 12:01:12 GMT</pubDate>
+      <title>Я создал MCP-сервер для KillerTools и пяти настольных приложений.</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wtqz92/i_made_an_mcp_server_for_killertools_and_my_five/</link>
+      <description><![CDATA[        ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wtqz92/i_made_an_mcp_server_for_killertools_and_my_five/</guid>
+      <pubDate>Wed, 30 Sep 2026 00:35:38 GMT</pubDate>
     </item>
     <item>
-      <title>bast,用于构建高效、可扩展和生产服务器端应用程序的结构化 Go 框架,下载bast的源码_GitHub_帮酷</title>
-      <link>https://www.reddit.com/r/opensource/comments/1u2qbyi/github_bastionframeworkbast_a_structured_go/</link>
-      <description><![CDATA[我正在开发 Go 框架来认真承载我们的后端负载，所以像我这样的人喜欢在我们所有的项目中进行某种组织，而 Gin、Chi 都更好，但没有给你这个，让我专注于它。 是的，你可以检查一下，如果你像我一样，并共同努力达到生产水平   由   提交 /u/Individual-Wave7980   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1u2qbyi/github_bastionframeworkbast_a_structured_go/</guid>
-      <pubDate>Thu, 11 Jun 2026 05:43:06 GMT</pubDate>
+      <title>Почему больше дизайнеров не вносят свой вклад в open source?</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wtprnf/why_dont_more_designers_contribute_to_open_source/</link>
+      <description><![CDATA[  представлено    /u/Winter Simple 159    [link] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wtprnf/why_dont_more_designers_contribute_to_open_source/</guid>
+      <pubDate>Tue, 29 Sep 2026 23:40:20 GMT</pubDate>
     </item>
     <item>
-      <title>我为 Telegram 构建了一个开源 TI 和 OSINT 检测平台，寻求反馈</title>
-      <link>https://www.reddit.com/r/opensource/comments/1u2orgt/i_built_an_opensource_ti_osint_detection_platform/</link>
-      <description><![CDATA[就上下文而言，Telegram 是一个顶级通讯工具，拥有数十亿规模的覆盖范围和相当好的匿名性 - 这使其对威胁行为者和灰/黑市场具有吸引力和流行度，尤其是在后苏联国家。因此，我构建了 Telescope 来保持意识。 它对您已经有权访问的任何 Telegram 频道/组进行基于规则的实时检测。通过 Webhook 向 Splunk、MISP、TheHive 或任何 HTTP 端点发出结构化警报。基本上是另一个为您的 SIEM 提供支持的收集层。 该存储库附带 10 个内置的精选威胁包：IAB、勒索软件、0day、CVE、凭证、MaaS、网络钓鱼、供应链、ICS。有关其工作原理的详细信息也在那里。如果您检查并分享您的想法 - 您是否会使用它，以及为什么。 GitHub：https://github.com/controllocked/TeleScope 欢迎 TI 从业者提供反馈 - 特别是在检测逻辑和威胁包方面。   由   提交/u/procrastinator2030   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1u2orgt/i_built_an_opensource_ti_osint_detection_platform/</guid>
-      <pubDate>Thu, 11 Jun 2026 04:20:20 GMT</pubDate>
+      <title>Я создал пользовательское время выполнения JSX для ботов Discord (для TypeScript).</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wtpf4n/i_built_a_custom_jsx_runtime_for_discord_bots_for/</link>
+      <description><![CDATA[       submitted by  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wtpf4n/i_built_a_custom_jsx_runtime_for_discord_bots_for/</guid>
+      <pubDate>Tue, 29 Sep 2026 23:24:25 GMT</pubDate>
     </item>
     <item>
-      <title>OwnTV — 适用于 Android TV 的免费开源 IPTV 播放器（自带 M3U/Xtream）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1u2oph8/owntv_a_free_opensource_iptv_player_for_android/</link>
-      <description><![CDATA[大家好👋 我在 Android TV 上使用 IPTV 已经很多年了，但老实说，大多数应用程序要么是付费的，要么就是不太好——甚至付费的应用程序也相当粗糙。因此，我决定在 AI 的大力帮助下构建自己的应用程序，结果比我预期的要好得多。 它被称为 OwnTV — 一款快速的原生 Android TV IPTV 播放器。它不附带任何频道；您只需添加自己的 M3U 或 Xtream 播放列表。它做了一些事情： 多个配置文件 - 每个配置文件都有自己的最爱、历史记录和内容。简历，以及可选的 PIN 锁和儿童模式 多个播放列表/来源 - 添加多个 M3U 或 Xtream 帐户并在个人资料中共享它们 直播电视、电影和电视节目带有完整EPG指南的系列（时间×频道网格） 电影和电视节目的离线下载剧集备份与备份恢复 — 移动您的个人资料和一个文件中的播放列表到另一台设备 由 libmpv (FFmpeg) 提供支持 — 基本上可以播放任何内容，并带有正确的字幕和字幕。音轨支持 原生 Android TV（Jetpack Compose、完整的 D-pad 导航）、干净的 Material 3 UI，即使有巨大的播放列表（50k+ 频道）也能保持快速 它始终是 100% 开源且免费 — 无广告、无订阅、无需付费。 在真正的 TCL Google TV 和 Android Studio 模拟器（Android TV 和 Google TV）上进行了测试，因此它应该可以运行大多数设置都很好。如果您有 Android TV 和自己的播放列表，请尝试一下 - 非常欢迎错误报告、想法和贡献 🙏 👉 github.com/ahXN00/OwnTV screesnhots: https://github.com/ahXN00/OwnTV/tree/main/extras/screenshots   由   提交/u/xiannero   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1u2oph8/owntv_a_free_opensource_iptv_player_for_android/</guid>
-      <pubDate>Thu, 11 Jun 2026 04:17:39 GMT</pubDate>
+      <title>Бесплатная мобильная Википедия и многое другое!</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wtoteq/free_mobile_wikipedia_and_more/</link>
+      <description><![CDATA[Knowledge to Go (K2Go) - это приложение для Android GPLv3, которое строит на Internet-in-a-Box, чтобы превратить практически любой телефон Android, включая старое 32-разрядное оборудование, в автономный сервер для контента из Википедии, Академии Хана, медицинских справок и много обслуживается по локальному Wi-Fi на любом соседнем устройстве без необходимости подключения к Интернету.  Серверное приложение K2Go и его контент могут быть клонированы на другой телефон Android, также в автономном режиме. Этот телефон становится новым сервером K2Go, который можно клонировать снова и снова в автономном режиме. Наша цель состояла в том, чтобы сделать образовательные ресурсы доступными в сообществах, где телефоны Android являются единственными вычислительными устройствами, а доступ в Интернет недоступен, надежен или доступен. Созданный App Dev for All, некоммерческой организацией, которая также делает Code on the Go (CoGo), Android IDE для создания полнофункциональных приложений Kotlin и Java на устройствах Android без необходимости доступа в Интернет.   https://github.com/appdevforall/appdevforall.com/knowledgetogo&quot;&gt;https://appdevforall.org/knowledgetogo       представленный    /u/Halmonster   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wtoteq/free_mobile_wikipedia_and_more/</guid>
+      <pubDate>Tue, 29 Sep 2026 22:57:26 GMT</pubDate>
     </item>
     <item>
-      <title>新的开源项目（Better-PaaS）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1u2fmuf/new_opensource_project_betterpaas/</link>
-      <description><![CDATA[嘿开发人员，我是一名来自奥地利的软件开发人员。 我正在构建一个开源自托管 PaaS（平台即服务），例如 Vercel/Railway/Coolify，您可以在其中部署全栈应用程序 + 数据库。 它非常易于使用且速度非常快。 后端是用 Go 和前端编写的Nextjs。 我真的很想得到一些反馈。 Github：https://github.com/sumon-ohid/better-paas  欢迎合作。 提前谢谢您。   由   提交 /u/Business-Fondant-674   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1u2fmuf/new_opensource_project_betterpaas/</guid>
-      <pubDate>Wed, 10 Jun 2026 21:32:50 GMT</pubDate>
+      <title>PLOMID Beta теперь открыта — проект инфраструктуры данных с открытым исходным кодом, построенный в Русте</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wtns1k/plomid_beta_is_now_open_an_opensource_data/</link>
+      <description><![CDATA[PLOMID - это проект инфраструктуры данных с открытым исходным кодом, который строится с нуля в Русте.  Текущая бета-версия включает в себя:   SQL JSON/данные документа Рабочие нагрузки временнóй серии Мотор хранения Транзакционные основы   Мы работаем над дополнительными векторными, графовыми, blob, распределенными и многорегиональными возможностями. Проект ориентирован на изучение общего базового уровня данных для приложений, которые в настоящее время объединяют несколько специализированных систем данных. Бета-загрузка: https://plomid.in/download/ Проект: https://github.com/PLOMID/plomid  Мы ищем разработчиков, заинтересованных в базах данных, Rust и системах хранения, чтобы попробовать бета-версию, проверить реализацию, сообщить о проблемах и внести техническую обратную связь. Это проект на ранней стадии, поэтому мы особенно заинтересованы в поиске вещей, которые еще не работают.    представлено    /u/PLOMID   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wtns1k/plomid_beta_is_now_open_an_opensource_data/</guid>
+      <pubDate>Tue, 29 Sep 2026 22:11:00 GMT</pubDate>
     </item>
     <item>
-      <title>Neutrino — 一个端到端加密的、基于浏览器的信使，具有可审核的客户端源（寻求批评）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1u2dcyf/neutrino_an_endtoend_encrypted_browserbased/</link>
-      <description><![CDATA[我一直在构建 Neutrino，一个完全在浏览器中运行的端到端加密信使，我想在这里分享它以获取反馈。这是一个独立的项目 - 非商业项目 - 设计目标是在技术上尽可能少地信任服务器：没有帐户，没有电话号码，没有电子邮件，没有元数据收集。 我认为与此子相关的内容：整个客户端源代码是可审计的，每个文件都有 SHA-256 哈希值，因此您可以验证浏览器中运行的内容是否与源代码匹配。 - 实时实例：https://neutrino-chat.org - 浏览器内源代码视图：https://neutrino-chat.org/code 目前仍处于测试阶段，因此代码暂时仅存在于网站上 - 一旦稳定，我将在 GitHub 上正确发布它在开源许可证下。 **身份是一个 12 字种子短语** 身份不是登录服务器或用户数据库，而是 BIP-39 种子短语。密钥、路由ID和加密备份都源自它。要添加联系人，您需要交换一个简短的一次性会合短语或 ID，无需发现电话号码联系人，也无需服务器端地址簿。缺点：丢失短语并且无法恢复。 **服务器看到的** 这意味着盲中继：它通过路由 ID 转发密文，而不是其他任何内容。零保留、无 IP 日志记录、在反向代理处禁用访问日志记录。老实说这些限制：像任何中继一样，它会实时在路由 ID 之间路由帧，因此即使它没有保留任何内容，计时和路由 ID 对它来说也是可见的 - 并且路由 ID 不与现实世界的身份绑定。 **加密选择（故意无聊，没有任何手动滚动）** - X3DH + 双棘轮，用于前向保密/妥协后安全（与Signal) - SPAKE2 over Ristretto255 用于配对 - ML-KEM-768 (FIPS 203) 混合到握手中以进行后量子 - AES-256-GCM 用于消息和文件加密 **其他设计决策** - 仅 RAM 客户端 - 所有状态都位于选项卡中；关闭它，它就消失了。没有 localStorage，严格的 CSP，一切都是自托管的（没有 CDN，没有 Google 字体）。 - 针对流量分析的流量填充（随机间隔的虚拟数据包）。 - 带外 MITM 验证、消失消息、自动锁定和服务器无法读取的加密跨设备备份的安全号码。 这是一个独立项目，尚未经过专业审核，我我不是密码学家——所以我明确不向任何具有严重威胁模型的人推荐它（使用 Signal 来实现）。我分享它是因为我希望人们阅读代码并找出其中的漏洞。   由   提交 /u/fechyyy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1u2dcyf/neutrino_an_endtoend_encrypted_browserbased/</guid>
-      <pubDate>Wed, 10 Jun 2026 20:07:43 GMT</pubDate>
+      <title>Почему раскрытие взаимной уязвимости имеет значение для проектов с открытым исходным кодом: уроки последнего критического RCE в Vault</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wtmzvk/why_mutual_vulnerability_disclosure_matters_for/</link>
+      <description><![CDATA[       Когда проекты с открытым исходным кодом имеют общую кодовую базу, безопасность должна быть совместным Наша инженерная команда на ControlPlane недавно связала четыре уязвимости для достижения полного, неаутентифицированного выполнения удаленного кода (RCE) как в OpenBao, так и в HashiCorp Vault. Это только второй RCE, когда-либо найденный в экосистеме Vault. OpenBao полностью исправлен (обновление до 2.6.3 или 2.7.0). Плохая новость, однако, заключается в том, что хранилище HashiCorp остается открытым. К сожалению, IBM отклонила запросы о создании политики взаимного раскрытия информации с проектом OpenBao. Без согласованного раскрытия конечные пользователи являются теми, кто несет риск     представленный   /u/the hypotenuse   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wtmzvk/why_mutual_vulnerability_disclosure_matters_for/</guid>
+      <pubDate>Tue, 29 Sep 2026 21:39:26 GMT</pubDate>
     </item>
     <item>
-      <title>用Python编写的开源CBZ/CBR漫画阅读器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1u29cz8/opensource_cbzcbr_comic_reader_written_in_python/</link>
-      <description><![CDATA[大家好 =) 我一直在开发一个名为 PANEL 的小型开源漫画阅读器。 它是一个用 Python 编写的桌面应用程序，用于在本地读取 CBZ 和 CBR 文件，无需涉及帐户、订阅或云服务。 目标是提供简单、轻量级的阅读体验，同时让一切都在用户的控制之下。 该项目仍在积极开发中，因此我正在寻求社区的反馈、想法和功能请求。 GitHub： https://github.com/lucrazy-fn/PANEL-ComicBookReader 谢谢 =)   由   提交 /u/Middle-Income1105   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1u29cz8/opensource_cbzcbr_comic_reader_written_in_python/</guid>
-      <pubDate>Wed, 10 Jun 2026 17:45:14 GMT</pubDate>
+      <title>Как проверить, что инструмент с открытым исходным кодом не крадет данные?</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wtmf82/how_do_i_verify_if_an_open_source_tool_isnt/</link>
+      <description><![CDATA[Все всегда говорят, что это открытый исходный код, но я не знаю, является ли инструмент безопасным для использования?    представлено   /u/drake1800   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wtmf82/how_do_i_verify_if_an_open_source_tool_isnt/</guid>
+      <pubDate>Tue, 29 Sep 2026 21:16:41 GMT</pubDate>
     </item>
     <item>
-      <title>当训练代码和数据集仍处于锁定状态时，开源意味着什么？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1u27h38/what_does_open_source_mean_when_training_code_and/</link>
-      <description><![CDATA[发货内容： 模型权重：MIT 许可证（8B MoT + A3B MoT 变体） 训练代码：Apache-2.0，基于 InternEvo 框架，支持 5 种任务类型（文本转图像、图像编辑、交错生成、交错理解、通用多模态） 序列打包FlexAttention 块掩码、ISP 并行性 + FSDP 权重分片 + ZeRO-1  具有可配置噪声调度的流匹配调度、CFG 丢弃概率  检查点转换工具（internevo 格式 → HF 安全张量） HF 上的示例数据集（约 680 MB，涵盖所有任务类型） 具有环境变量驱动配置的详细 shell 启动器训练所需的硬件（来自启动器）： 8B 密集：1 个节点 × 8 H800（每个 80 GB），seq_len=28672，num_imgs=144  A3B MoE：2 个节点 × 8 H800，需要 16 个 ISP 等级 它不是完全开放的（完整训练数据）仍然是内部的），但它比大多数“开源”更透明。 AI 版本只会卸载重量。  训练自述文件：https://github.com/OpenSenseNova/SenseNova-U1/blob/main/training/README.md  权重+代码：https://github.com/OpenSenseNova/SenseNova-U1    由   提交 /u/Local-Lake-7602   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1u27h38/what_does_open_source_mean_when_training_code_and/</guid>
-      <pubDate>Wed, 10 Jun 2026 16:39:46 GMT</pubDate>
+      <title>Тестирование файлов Генератор V0.4 релиз - 26+ форматов, поврежденные файлы, загрузка/названия предустановленных</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wtj4wg/testing_files_generator_v04_release_26_formats/</link>
+      <description><![CDATA[  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wtj4wg/testing_files_generator_v04_release_26_formats/</guid>
+      <pubDate>Tue, 29 Sep 2026 19:10:08 GMT</pubDate>
     </item>
     <item>
-      <title>正在寻找如何做</title>
-      <link>https://www.reddit.com/r/opensource/comments/1u1uubb/looking_for_how_to_do_it/</link>
-      <description><![CDATA[所以我一直在构建一个预测性多云 docker swarm 节点自动缩放器，就像带有 ML 的 Kubernetes ca... 我想将其变成一个开源项目，我已经完成了其中的多个部分，核心 api 正在测试中，现在我正在将它们转换为 docker 映像。 那么我应该做什么，以便人们可以为它做出贡献，我实际上有很好的自述文件每个工作步骤都通过图表和文本进行解释，每个文件夹（whixh 是一个 api）都有自己的自述文件（一个小文档）。 （这是我现在工作的地方）  https://github.com/Harshit10j2004/Trafficxsharper.git  注意一下   由   提交 /u/Successful_Tea4490   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1u1uubb/looking_for_how_to_do_it/</guid>
-      <pubDate>Wed, 10 Jun 2026 07:06:51 GMT</pubDate>
+      <title>Я создал всеобъемлющую систему непрерывности контекста.</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wsz5c4/i_built_a_comprehensive_context_continuity_system/</link>
+      <description><![CDATA[ Я работаю над этим чуть более 9 месяцев, и это с открытым исходным кодом. Хотелось бы получить обратную связь и вкладчиков, чтобы сделать его лучше, чем сейчас. Я использую его для всех своих проектов, чтобы повысить точность и снизить стоимость переключения контекста. С моими целями держать инженера за рулем, каждая деталь построена, чтобы убедиться, что вы принимаете критические решения.  Приходите проверить это, обратная связь абсолютно приветствуется https://tolvilabs.com    представлено   /u/Scriptgeeky   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wsz5c4/i_built_a_comprehensive_context_continuity_system/</guid>
+      <pubDate>Tue, 29 Sep 2026 03:12:59 GMT</pubDate>
     </item>
     <item>
-      <title>像draw.io一样绘制你的代理</title>
-      <link>https://www.reddit.com/r/opensource/comments/1u1smqx/draw_your_agents_like_drawio/</link>
-      <description><![CDATA[我构建了一个开源可视化生成器，让您可以通过在画布上拖放节点来设计 AI 代理工作流程，然后将它们编译为 Google ADK（代理开发套件）的可运行 Python 项目。 GitHub：https://github.com/neo-fetch/draw-your-agents/ 工具（未针对移动设备进行测试，请注意。）：https://neo-fetch.github.io/draw-your-agents/ 现在 google-adk 可以从技术上讲，它有一个代理可视化生成器，但根据我的经验，它缺少两个主要内容： - 它创建几乎不可配置的 yaml 文件。 - 它不支持我真正想要的基于图形的代理工作流程 https://adk.dev/graphs/ 。 所以我自己制作了完全在客户端运行的。因为我喜欢 draw.io，所以我决定按照它的方式来做。 您可以直观地构建一个由代理、函数、路由器、带有连接的并行分支、人工输入暂停、嵌套子工作流程、工具和自校正循环节点（生成器 → 批评者 → 修订器）组成的图表，将它们连接在一起，该工具会生成一个完整的、可运行的 ADK 项目，您可以以 .zip 形式下载。生成的 Python 更新会在您构建时显示在预览窗格中，验证器会准确地告诉您发生了什么问题 - 单击查找结果会跳转到画布上的有问题的节点。 zip 包含： - workflow.py：编译后的图表 - agents.py：带有模型参数的代理配置 +提示 - functions.py：函数/路由器主体 - schemas.py：数据流的 Pydantic 模型 - main.py：准备运行的示例运行程序 - test_workflow.py ：免费试运行 您可以在花费单个代币之前进行 pytest -requirements.txt、.env.example、README.md 支持图形工作流程中的以下功能： - 常规工作流程：https://adk.dev/graphs/ - 路由：https://adk.dev/graphs/routes/ - 并行扇出 + 连接节点 - 数据处理：https://adk.dev/graphs/data-handling/（不完全是一项功能，但我鼓励人们阅读此内容） - 循环中的人：https://adk.dev/graphs/ human-input/ - 循环节点（编译为 ADK 动态工作流程，迭代直到评论家批准） 现在存在的其他内容： - 嵌套 pydantic 模式是一个选项。单击数据类型并选择现有架构。 - 代理提示有一个带拖入变量芯片的编辑器，因此代理之间的数据流已为您连接（无需手动输入 {Schema.field} 模板） - 工具栏中的示例库，如果您想查看工作图表而不是从空白开始 - 主题！有默认的暖纸外观和黑色金属 CRT 终端主题（是的，确实如此），加上可调整大小/可折叠的窗格 稍后，我正在考虑介绍： - draw.io XML 摄取 - 撤消和重做。现在我只是正确删除并重做一些事情。 让我知道你们的想法！干杯😄   由   提交 /u/SHUT_MOUTH_HAMMOND   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1u1smqx/draw_your_agents_like_drawio/</guid>
-      <pubDate>Wed, 10 Jun 2026 05:06:08 GMT</pubDate>
+      <title>Kova v0.7.12 - Программное обеспечение для презентации Markdown (с VSCode Plugin!)</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wstjn6/kova_v0712_markdown_presentation_software_now/</link>
+      <description><![CDATA[Hi all, Прошло несколько месяцев с тех пор, как я в последний раз публиковал обновление о прогрессе Kova, я откалывал ядро функционально в приложении и хотел опубликовать краткое обновление. Полный самодостаточный экспорт HTML: https://kova.md/demo/ Степированные анимации для введения контента  Создайте поддержку шрифтов значков, в комплекте с шрифтами nerd, настраиваемыми для других шрифтов значков (материал, шрифт потрясающий и т. Д.) Через тематику.yaml config.  Таблица содержимого custom bang (аналогичная функциональность Typora) Многие, многие исправления ошибок и исправления кода.   И сегодня я также могу объявить, что плагин Kova для VS Code теперь в прямом эфире. Это добавляет поддержку пользовательских бангов и синтаксиса Kova к VS Code, а также возможность напрямую запускать вашу презентацию из VS Code (Kova binary must be present on your machine).  herehttps://github.com/kovamd/kova    ;/a href=&quot;https:/u/TeaAlligator  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wstjn6/kova_v0712_markdown_presentation_software_now/</guid>
+      <pubDate>Mon, 28 Sep 2026 22:53:06 GMT</pubDate>
     </item>
     <item>
-      <title>如果有人想要更多练习，请在我的开源项目上寻找一些 UI/UX 帮助</title>
-      <link>https://www.reddit.com/r/opensource/comments/1u1oqv8/looking_for_some_ui_ux_help_on_my_open_source/</link>
-      <description><![CDATA[简而言之，去年我一直在开发文件系统数据迁移工具，而且我更像是一名后端工程师，因此代码的所有这些方面都非常可靠。但用户界面很糟糕，我对它进行了编码并尽了最大努力，但我不是前端人员，现在的用户界面更多的是用于演示目的/概念证明，而不是实际的完整功能。幸运的是，大部分的骨头都在那里，它只需要好好打磨，如果你想从事这个工作（或者只是那个），主网站也需要好好打磨。我需要额外的帮助。我有一些设计灵感，但我不是一个艺术家或前端人员，无法让它达到我想要的样子。 如果你想看一下，这是该项目的主要网站：https://www.sylos.io/  （哦，如果你想浏览所有存储库，源代码链接也在这里，但该网站更清楚地列出了内容该项目实际上更好一些，显示了可视化 UI 示例，但仍然： https://codeberg.org/sylos ) 更多技术背景的技术堆栈是： 后端内容：绝大多数是 Go 语言，一些 bash / shell 脚本用于测试目的，我使用的数据库是 Duck DB。 前端内容：典型的 HTML / CSS / TypeScript (React)。已经有很多东西为此做了，而且软件中的几乎所有主要页面都已经构建好了，所以它实际上只是润色和重新设计页面本身的设计/布局，使其看起来/流畅得更好。 老实说，任何帮助都比没有好，即使它是一个很小的贡献。如果您有兴趣，请告诉我，我可以将您连接到我的不和谐服务器，我们可以通过文本或电话或其他方式来回讨论它，我可以链接有关如何克隆和设置的说明，以便您可以开始调整和测试。 好的，谢谢大家，谢谢！   由   提交/u/MPGaming9000  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1u1oqv8/looking_for_some_ui_ux_help_on_my_open_source/</guid>
-      <pubDate>Wed, 10 Jun 2026 01:57:06 GMT</pubDate>
+      <title>OpenVue 1.0 официально вышел и вот что дальше: Volt, Vapor & 2.0</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wskac4/openvue_10_is_officially_out_and_heres_whats_next/</link>
+      <description><![CDATA[Быстрое обновление для всех, кто следит за проектом: OpenVue 1.0.0 официально в прямом эфире на npm. Для контекста, если вы пропустили предыдущие темы: OpenVue - это лицензированный форк PrimeVue 4.5.5, поддерживаемый в рамках OpenVi Foundation. Начиная с поста RC, вот что попало в 1.0:   Фильтрация TreeTable: Добавлены фильтры строк, меню фильтров и правила многократного ограничения, соответствующие DataTable. Дизайнер темы: Интегрированный визуальный редактор для настройки примитивных, семантических и компонентных токенов и предустановок экспортных тем. Полностью бесплатно, без аккаунтов и лицензионных ключей.  Deni: Выпущен первый бесплатный шаблон панели управления администратором, построенный с помощью OpenVue. DataTable fixs: Исправлена проблема с сохранением ширины колонки при динамическом переключении колонок.  Плюс множество небольших исправлений ошибок и улучшений в библиотеке и витрине.  Полный changelog: https://github.com/openvue/blob/master/CHANGELOG.md  То, над чем мы работаем сейчас OpenVue 1.1 Мы в настоящее время сосредоточены на:  Volt - возвращение исходных, ориентированных на Tailwind компонентов в экосистему OpenVue. Новая тема по умолчанию - придание OpenVue собственной визуальной идентичности, а не полная зависимость от существующих тем.  Более бесплатные шаблоны - расширение на Deni с дополнительными шаблонами и макетами приложений.  OpenVue 2.0  Долгосрочная цель 2.0 состоит в том, чтобы модернизировать внутренние компоненты вокруг Vue Vapor, Composition API и архитектуры TypeScript. Мы поддерживаем VDOM и Options API, поэтому речь не идет об отказе от существующей экосистемы Vue. Вместо этого 2.0 станет важной вехой, где мы сможем очистить и модернизировать внутренние устройства под капотом. В этом направлении уже обсуждается сообщество, если вы хотите присоединиться или посмотреть, что предлагают люди: https://github.com/orgs/openvi-foundation/discussions/644 Мы все еще относительно небольшой проект, поэтому обратная связь с сообществом имеет большое значение. Если вы используете OpenVue, тестируете его или просто следите за проектом, мы хотели бы услышать, что вы хотели бы видеть в 1.1, особенно в отношении Volt, тем, шаблонов и компонентов backlog. Docs &amp; Repo:  https://openvue.devhttps://github.com/openvi-foundation/openvue  Спасибо всем, кто участвовал, тестировал, сообщал о проблемах и следил за проектом с момента первого выпуска.    представлено   /u/sane6120    ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wskac4/openvue_10_is_officially_out_and_heres_whats_next/</guid>
+      <pubDate>Mon, 28 Sep 2026 17:03:35 GMT</pubDate>
     </item>
     <item>
-      <title>用于可重播 LLM 代理红队运行的开源 CLI</title>
-      <link>https://www.reddit.com/r/opensource/comments/1u1of9l/opensource_cli_for_replayable_llmagent_redteam/</link>
-      <description><![CDATA[我正在构建 RedThread，这是一个用于可重复的 LLM/agent 红队活动的开源 CLI。 存储库：https://github.com/matheusht/redthread 该项目还处于早期阶段，但基本方向正在发挥作用：开展小型活动、评分结果、保留痕迹，以及使结果可重播。 粗略的演示结果：3 次运行，33.3% ASR，一次成功，一次部分成功，一次失败。 我会缩小范围。不是安全产品。不是预防层。更像是供人们构建或测试 LLM 应用程序和代理的实用工具。   由   提交/u/Appressive-Zone148  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1u1of9l/opensource_cli_for_replayable_llmagent_redteam/</guid>
-      <pubDate>Wed, 10 Jun 2026 01:42:08 GMT</pubDate>
+      <title>Я создал Clous: управляемую компилятором, безопасную для типов платформу BaaS, которая устраняет дрейф схем.</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wseqdq/i_built_clous_a_complierdriven_typesafe_baas/</link>
+      <description><![CDATA[ Бэкенд-разработка часто оставляет программистов в рабочем процессе. Они должны записывать изменения базы данных с использованием моделей копий SQL в интерфейсы TypeScript вручную, обновлять спецификации OpenAPI вручную и создавать политики безопасности Row Level Security (RLS) с использованием сырых строк SQL. Каждый раз, когда структура базы данных изменяется, все эти части выходят из синхронизации. Это приводит к ошибкам и проблемам безопасности в приложении. Я создал Clous, основанный на компиляторах Backend-as-a-Service (BaaS) и безопасную для типов платформу ORM, начиная с основ.  Клус дает вам один источник истины. Вы определяете свою модель данных, используя схему TypeScript, а затем основной движок компилятора автоматически создает весь ваш бэкэнд. Это делается с помощью проверок, которые происходят до того, как код будет написан. На основе этого определения Clous создает три результата: высококачественные PostgreSQL DDL с политиками RLS и функциями помощника аутентификации; полные файлы определения TypeScript со строгими интерфейсами Row, Insert и Update; и спецификация OpenAPI 3.0, которая работает с инструментами документации или для создания клиентских SDK. База платформы теперь доступна на npm в двух пакетах.  Клаус/основной пакет является основным двигателем для компиляции и представления данных. Он работает менее чем за миллисекунду. У него нет внешних зависимостей, кроме Зода. Он проверяет, действительны ли внешние ключевые отношения и идентификаторы перед созданием какого-либо кода или SQL. Clous/cli является инструментом для разработчиков. Он позволяет автономно работать, например, создавать новые схемы с командой настройки, компилировать типы и DDL одним щелчком мыши, проверять ошибки и просматривать файлы для автоматической перекомпиляции при их изменении. CLI также имеет встроенную систему аутентификации и связывания проектов. Это предназначено для подключения к нашей панели управления веб-сайтом с помощью самостоятельной аутентификации.  Основной идеей Clous является вера в открытые стандарты и предоставление разработчикам свободы. Созданный им SQL следует формату PostgreSQL. Это означает, что он может работать на любой автономной системе, любом контейнере Docker или любом облачном сервисе, не блокируя вас в одном провайдере. Когда вы создаете код локально, вам не нужна учетная запись. Подключение к сети.  Пакеты Clous/cli и Clous/core доступны на npm. Я хотел бы услышать любые отзывы о дизайне, опыте для разработчиков или идеях для функций, которые были бы полезны, в компиляторе схем. ** Он все еще находится в стадии разработки и еще не полностью завершен проект.** Github Repo: https://github.com/efekanbahceci/clous    представлено   /u/subnwa     /1wseqdq/i built clous a complierdriven typesafe baas/&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wseqdq/i_built_clous_a_complierdriven_typesafe_baas/</guid>
+      <pubDate>Mon, 28 Sep 2026 13:32:11 GMT</pubDate>
     </item>
     <item>
-      <title>我应该如何开源自定义 Jetson 相机驱动程序？ （许可和 GitHub 建议）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1u1ipva/how_should_i_go_about_opensourcing_a_custom/</link>
-      <description><![CDATA[大家好， 我为 Nvidia Jetson 主板开发了一个自定义摄像头驱动程序和 ISP 配置文件，我很乐意将其作为开源项目与社区分享。 为了避免这篇文章给人一种自我推销的感觉，我不会在这里详细介绍，但如果需要，我绝对可以提供更多背景信息。 我计划在 GitHub 上分享它，但我对开源许可的经验为零。我应该在自己的帐户下创建一个公共存储库并上传吗？在推送代码之前，我应该牢记哪些许可事项，以确保其受到适当保护，但仍然对社区有用？ 任何建议或最佳实践将不胜感激！   由   提交 /u/Upper_Difficulty3907   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1u1ipva/how_should_i_go_about_opensourcing_a_custom/</guid>
-      <pubDate>Tue, 09 Jun 2026 21:38:12 GMT</pubDate>
+      <title>Кто-нибудь еще видит случайные поломки после недавних обновлений?</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wse4bn/is_anyone_else_seeing_random_breakage_after/</link>
+      <description><![CDATA[ Являлся самохостингом около 6 лет с небольшими проблемами, но в последние пару месяцев все сразу начало ломаться мелкими, раздражающими способами: тихие сбои в обновлении сертификатов, случайные Docker OOM убивают на неизменной рабочей нагрузке и работа cron, работающая с 2021 года, которая прекратила регистрацию без каких-либо ошибок. Друзья видят одно и то же в совершенно разных настройках (перемежающиеся сбои DKIM, туннели WireGuard, падающие после обновления ядра), и никто из нас не изменил ничего серьезного. Я запускаю BeAdmin для панели, и это было хорошо, поэтому это не один общий инструмент. Является ли чей-то стек дрейфующим после недавних обновлений ядра или пакета, или я просто имею дело со старением оборудования и неудачей?    представлено    /u/Savings Ladder 4240   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wse4bn/is_anyone_else_seeing_random_breakage_after/</guid>
+      <pubDate>Mon, 28 Sep 2026 13:06:16 GMT</pubDate>
     </item>
     </channel>
 </rss>

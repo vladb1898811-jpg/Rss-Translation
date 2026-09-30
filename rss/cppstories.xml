@@ -1,0 +1,1164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>C++ Истории</title>
+    <link>https://www.cppstories.com/</link>
+    <description>Последний контент на C++ Истории</description>
+    <lastBuildDate>Wed, 30 Sep 2026 11:23:45 GMT</lastBuildDate>
+    <item>
+      <title>Использование C++17 std::optional</title>
+      <link>https://www.cppstories.com/2018/05/using-optional/</link>
+      <description><![CDATA[Давайте возьмем пару из двух типов &lt;YourType, bool&gt; - что можно сделать с такой композицией?
+В этой статье я опишу std::optional - помощник “vocabulary” тип, добавленный в C++17. Это обертка, которая либо содержит значение вашего типа, либо пуста. Давайте посмотрим, где он может быть полезен и как вы можете его использовать.
+
+
+Обновлен в сентябре 2026 года с изменениями C++20, C++23 и C++26.
+
+
+Вступление
+
+
+
+Когда использовать
+
+
+ Когда использовать Optional
+
+ Рекомендуется использовать optional&lt;T&gt; в ситуациях, когда имеется ровно одна, четкая (для всех сторон) причина отсутствия значения типа  T, и где отсутствие значения столь же естественно, как и любое регулярное значение T
+
+Хотя иногда решение использовать опционально может быть размытым, вы не должны использовать его для обработки ошибок. Как это лучше всего подходит для случаев, когда значение пусто и это нормальное состояние программы.
+
+Основной пример
+
+
+::optional&lt;std::string&gt;  UI::FindUserNick()
+ if (nick available)
+ return { mStrNickName 
+ return std::nullopt; /то же, что и return {};
+
+//использование:
+::&lt;::&gt; &gt;
+if (UserNick)
+  Show(*UserNick);
+ В приведенном выше коде мы определяем функцию, которая возвращает необязательно содержащую строку. Если имя пользователя доступно, то он вернет строку. Если нет, то он возвращает nullopt. Позже мы можем назначить его необязательно и проверить (он преобразуется в bool), если он содержит какое-либо значение или нет. Опционально определяет operator*, чтобы мы могли легко получить доступ к содержащимся в нем данным.
+Значение:
+В следующих разделах вы увидите, как создать std::optional, работать с ним, передавать и даже то, что стоимость производительности вы, возможно, захотите рассмотреть.
+
+Серия C++17
+
+
+ Рефакторинг с помощью std::optional
+Использование std::optional (этот пост)
+ Обработка ошибок и std::optional
+О std::variant
+О std::any
+ Конструкция для std::optional, std::variant и std::any
+std::string view Производительность
+C++17 string searchers &amp; утилиты конверсии
+ Работа с std::filesystem
+Даже больше:
+
+ Покажите мне свой код: std::optional
+A Wall of Your std::optional Examples
+Menu Class - Пример современных функций C++17 STL
+
+
+
+
+Ресурсы о C++17 STL:
+
+C++17 Подробнее
+Бартек!
+C++17 - Полное руководство
+C++ Включая C++ 17 Кейт Грегори
+ Практический C++14 и C++17 Особенности - Джованни Диканио
+C++17 STL Cookbook
+
+OK, так что перейдем к std::optional.
+
+std::optional создание
+
+// empty:
+::необязательно&lt;int&gt; oEmpty::&lt;float&gt; &gt;::
+// direct:
+::optional&lt;int&gt; ();;10;
+std::optional oIntDeduced(); //deduction guides
+// make optional
+&lt;&quot;c1&quot;&gt;auto oDouble = std::make optional(auto oComplex =&gt;make optional&lt;::&gt;complex&gt;double(3.0);
+
+// in place
+ &lt;::&gt;complex&lt;&lt;&lt;&gt;&gt;&gt;&gt;::3.0
+// будет называть вектор с прямым входом {1, 2, 3}
+&lt;:::::::,,,,, , , , &lt;
+
+// copy/assign:
+auto oIntCopy =// https://godbolt.org/g/FPBSak
+struct  Точка 
+Pointint,   : : 
+
+ int x int y
+&lt;&gt;opt{::,,,1std::&lt;Point&gt; opt01
+Возвращение std::optional
+
+
+::optional&lt;std::string&gt;  TryParse( input
+ if (input.valid())
+ return input.asString
+ return std::nullopt::optional&lt;std::string&gt;  TryParse( input
+ ::&lt;std::string&gt;; 
+ if (input.valid())
+ oOut = input.asString
+ return oOut
+Доступ к хранимой ценности
+
+
+std::bad optional access
+value or(defaultVal) - возвращает значение, если оно доступно, или defaultVal в противном случае.
+
+Чтобы проверить, присутствует ли значение, вы можете использовать метод has value() или просто проверить if (опционально), поскольку опционально автоматически преобразуется в bool.
+Пример:
+// by operator*
+::необязательно&lt;int&gt; &gt; 10::&lt;&lt; &gt;  ;
+
+// by value()
+::&lt;::::&gt;ostr;;;
+::&lt;&lt; &quot;ostr&quot; &lt;&lt; ...
+catch (const std::bad optional access&amp; e
+  ::&lt;&lt; ...
+
+// by value or()
+std::optional&lt;double;odouble;// empty
+&lt;std::&lt;&lt; &lt;&lt; ..&gt;10.0&lt;&lt;&gt;&gt;
+ Таким образом, самый полезный способ, вероятно, просто проверить, есть ли значение, а затем получить к нему доступ:
+ //вычислительная строковая функция:
+ ::&gt;необязательно&lt;::::&gt; Maybe create hello&lt;&quot;p&gt;&gt;;&gt;
+ //...
+ if (auto ostr = maybe create hello(); ostr&gt;
+ ::cout &lt;&lt; &quot;ostr&quot;  else
+std::cout &lt;&lt; &quot;ostr isnull\n
+std::optional Операции
+
+
+
+Изменение стоимости
+
+
+#include &lt;optional&gt;#include &lt;iostream&gt;
+#include &lt;string&gt;
+class 
+public:
+ explicit(::string&amp;  :  std::cout &lt;&lt; &quot;UserName:: ::&lt;&lt; mName &lt;&lt; &quot;&gt;
+  ~UserName()
+  std::cout &lt;&lt; : ::&lt;&lt; mName &lt;&lt; &quot;&gt;
+ 
+private:
+ std::string mName
+int main()
+ std::optional&lt;UserName&gt; oEmpty
+ //заменить:
+ oEmpty. &quot;Steve&quot;;
+
+ // звонит ~Steve и создает новый Mark:
+ oEmpty.emplace();
+
+
+ // reset so it&#39;s empty again
+ oEmpty.reset();  //так же, как:
+ //oEmpty = std::nullopt;
+ // присвоить новое значение:
+ oEmpty.emplace(). Fred&quot;);
+ oEmpty = UserName(&quot;Joe&gt;@Coliru
+
+Сравнения
+
+
+#include &lt;optional&gt;#include &lt;iostream&gt;
+int main()
+ std::optional&lt;int&gt; oEmpty std::необязательно&lt;int&gt; oTwo();
+ std::optional&lt;int&gt; oTen();;10;
+
+ std::cout &lt;&lt;::boolalpha :: (oTen &gt; oTwo&gt;&gt;  :: (oTen &lt; &gt;&gt;
+ :: (oEmpty &lt;&gt;&gt;
+  (= ::::&gt;nullopt&gt;&gt;&gt;&gt;&gt; :: (oTen == 10&gt;&lt;&lt;&gt; &quot;&gt;&gt;true // (oTen &gt; oTwo)
+Ложный // (oTen &lt; oTwo)
+Оригинальное название: OEmpty &lt; oTwo
+true // (oEmpty == std::nullopt)
+Правда // (oTen == 10)
+ Код доступен здесь: @Coliru
+
+Примеры std::optional
+
+
+
+Имя пользователя с дополнительным никнеймом и возрастом
+
+
+#include &lt;optional&gt;#include &lt;iostream&gt;
+class UserRecord
+public:
+::name::optional::&gt;optional:::
+ : {}, ,  {, ,  ,  ,    
+  friend ::  : :,  ,  
+
+private:
+ std::string mName ::&lt;::::&gt; mNick std::optional&lt;int&gt; mAge
+
+:: :::&amp;&gt;
+ os &lt;&lt; пользователь...
+ if (пользователь.
+ os &lt;&lt; *user...
+  if (пользователь.mAge&gt;
+ os &lt;&lt; &lt;&lt; .mAge
+
+ return os
+int main()
+ UserRecord tim {  &quot;Tim&quot;, &quot;SuperTim&quot;, 16  UserRecord nano { , ,  ::
+
+ ::cout &lt;&lt; tim &lt;&lt;  std::cout &lt;&lt; @Coliru
+
+Парсинг ints из командной строки
+
+
+#include &lt;optional&gt;#include &lt;iostream&gt;
+#include &lt;string&gt;
+std::optional&lt;int&gt;  ParseInt(char*arg)
+ try
+ return { ::(::::&gt;string); &gt;; &gt;; &gt;; /или от chars...
+  catch (...)
+   :: &quot; не может преобразовать &quot;&quot; &quot;  &gt; 
+ return { 
+int main(int argc, char*[]]
+ if (argc &gt;= 3)
+  auto oFirst =  ParseInt(argv[1]);
+ auto oSecond =  ParseInt(argv[2]);
+
+ if (oFirst &amp;&amp; oSecond)
+   ::&lt;&lt;&gt; &lt;&lt;  
+ ::  &gt;;&gt;
+  @Coliru
+Приведенный выше код необязательно указывает, выполнили мы преобразование или нет. Обратите внимание, что мы фактически превратили обработку исключений в необязательную, поэтому мы пропускаем ошибки, которые могут появиться. Это может быть «спорным», как обычно, мы должны сообщать об ошибках.
+C++17 также предлагает std::from chars, который анализирует числа без каких-либо исключений или выделения памяти. См. мою статью C++ String Conversion: Exploring std::from chars in C++17 to C++26 для примеров, включая парсер, который возвращает std::optional&lt;int&gt;.
+
+Другие примеры
+
+
+A Wall of Your std::optional Examples - C++ Stories
+
+Производительность &amp; Учет памяти
+
+
+template &lt;typename T&gt;
+class optional
+ bool  initialized::&lt;),  , ,  
+
+public:
+ // Operations
+ об этой конструкции:
+
+“ И ни одна стандартная библиотека не может реализовать факультативный способ (они должны использовать союз, потому что constexpr). Таким образом, приведенный выше код показывает только пример, а не реальную реализацию.
+
+Правила выравнивания важны, поскольку стандарт определяет:
+
+Необязательный шаблон класса [опционально.опционально]:
+Содержащаяся стоимость распределяется в районе факультативного
+Хранилище, соответствующее типу T.
+
+Пример:
+// sizeof(double) = 8
+// sizeof(int) = 4
+std::optional&lt;double&gt;; /размер = 16 байтов
+std::optional&lt;int&gt; ; /размер = 8 байтов
+ В то время как тип bool обычно занимает только один байт, дополнительный тип должен подчиняться правилам выравнивания, и, таким образом, вся обертка больше, чем просто sizeof(YourType) + 1 байт.
+ Например, если у вас есть тип 
+struct  Диапазон 
+ std::optional&lt;double&gt; mMin std::optional&lt;double&gt; mMaxstruct  Диапазон 
+ bool mMinAvailable bool mMaxAvailable double mMin double mMax Тестовый код с помощью Compiler Explorer
+Вот отличное описание производительности и макета памяти, взятое из документации по повышению: Соображения по производительности - 1.67.0.
+И в  Эффективные дополнительные значения | Блог Анджея на C++ Автор обсуждает, как написать опциональную обертку, которая может быть немного быстрее
+Интересно, есть ли шанс сделать какую-то магию компилятора и повторно использовать некоторое пространство и поместить этот дополнительный «инициализированный флаг» в обернутый тип. Так что никакого дополнительного пространства не потребуется.
+
+Миграция из boost::optional
+
+
+N3793 - Предложение добавить класс полезности для представления факультативных объектов (пересмотр 4) - с 2013-10-03 Я нашел следующую таблицу (и попытался исправить ее, когда это возможно с текущим состоянием).
+
+
+
+
+
+aspect
+std::optional
+boost::optional (как 1.67.0)
+
+
+
+
+Движение семантики
+yes
+no да, текущий импульс
+
+
+no except
+yes
+no да, текущий импульс
+
+
+hash support
+yes
+no
+
+
+ a throwing value accessor
+yes
+yes
+
+
+ дословный тип (может использоваться в выражениях constexpr)
+yes
+no
+
+
+ на месте строительства
+&#39;emplace&#39;, tag &#39;in place&#39;
+emplace(), теги in place init if t, in place init t, утилита in place factory
+
+
+ Disengaged state tag
+nullopt
+none
+
+
+Необязательные ссылки
+C++17-23: нет; C++26: да (optional&lt;T&amp;&gt;)
+yes
+
+
+конверсия из optional&lt;U&gt; в optional&lt;T&gt;
+yes
+yes
+
+
+explicit convert to ptr (get ptr)
+no
+yes
+
+
+Руководства по вычету
+yes
+no
+
+
+
+
+
+Специальный случай: optional&lt;bool&gt; и optional&lt;T*&gt;
+
+
+boost::tribool.
+Более того, использование такого типа может быть запутанным, потому что ob преобразуется в bool, если внутри есть значение, и *ob возвращает сохраненное значение (если доступно).
+У вас аналогичная путаница с указателями:
+//не используйте так! Только пример!
+::&lt;int*&gt; opi { new10 &gt;
+if (opi &amp;&amp; *opi&gt;
+ ::&lt;&lt; **opi &lt;&lt; ::endl delete *opiif (opi)
+ std::cout &lt;&lt; &quot;opi по-прежнему не пуст!
+Изменения в C++20, C++23 и C++26
+
+
+
+C++20: Сравнение и constexpr
+
+
+#include &lt;compare&gt;#include &lt;optional&gt;
+constexpr std::optional&lt;int&gt; emptyconstexpr std::optional&lt;int&gt; two =constexpr std::optional&lt;int&gt; ten =
+static assert((two &lt;=&gt; ten) ); ; // сравнивает сохраненные значения
+static assert(empty &lt;=&gt; two) &lt; 0); / empty идет перед значением
+(empty &lt;=&gt; empty&gt; );
+ Сохраненные типы должны поддерживать требуемые сравнения. См. С++20 Спецификация.
+C++17 уже позволил построить опциональное значение из значения во время компиляции. P2231R1 добавлена отсутствующая поддержка constexpr для таких операций, как emplace(), reset(), назначение, замена и преобразование конструкторов. Он был принят во время работы над C++23 в качестве отчета defect против C++20.
+Например, с этим изменением мы можем написать:
+#include &lt;optional&gt;constexpr int compute()
+ std::optional&lt;int&gt; value value.emplace();
+ value.reset return value.value or();
+
+static assert(compute() == 7);
+См. @Compiler Explorer
+Операции хранимого типа также должны работать во время компиляции.
+
+C++23: Монадические операции
+
+
+P0798R8):
+
+transform() применяет функцию к сохраненному значению и завершает результат факультативным.
+ и then() вызывает функцию, которая уже возвращает опциональную, без добавления другой опции вокруг нее.
+or else() вызывает резервную функцию, когда опция пуста. Функция возвращает опцию того же типа.
+
+transform() и and then() пропускают вызов функции, когда опция пуста. Эти функции не улавливают исключений.
+Я привел примеры в отдельной статье:  Как использовать Monadic Operations для std::optional в C++23.
+C++23 также добавляет std::expected&lt;T, E&gt;. Подумайте об этом, когда абоненту нужно знать, почему операция не удалась, а не только доступно ли значение.
+
+C++26: поддержка диапазона
+
+
+P3168R2). Цепочка по опциональному проходит один раз, если есть ’s значение, или нет, если оно ’s пустое:
+::optional&lt;int&gt; value =&lt;42for (int x : 
+std::cout &lt;&lt; x &lt;&lt; ; /печатает 42 раза
+ Это также позволяет нам использовать std::views::join по ряду опций для посещения значений и пропуска пустых записей.
+
+C++26: Дополнительные ссылки
+
+
+P2988R12). Он может относиться к существующему объекту или быть пустым:
+int first = 10int second = 20
+std:&lt;int&amp;&gt; reffirst*ref = 15; //изменяется сначала
+ref.emplace(second); //теперь относится ко второму
+*ref = 25; 
+C++26: Защищенный доступ
+
+
+P3471R4). Без закаливания доступ к пустой опции таким образом все еще имеет неопределенное поведение. Используйте value(), если вы хотите исключение, когда опция пуста.
+См. здесь:
+#include &lt;optional&gt;#include &lt;print&gt;
+#include &lt;string&gt;
+int main()
+ ::&lt;::&gt;string&gt; nick = std::({}&quot;, *nick/ OK: содержит значение
+ std::(&quot;{}&quot;, nick-&gt;size()); / OK: содержит значение
+ nick.reset(); // теперь пустой
+ try
+  std::(&quot;{}&quot;, nickvalue  catch (const std::bad optional access&amp;
+  std::print( &quot;No nickname\n&quot;
+ 
+ //не удается проверить закалку, прокомментируйте эту строку
+ //std::print(&quot;{}\n&quot;, *nick);
+@Compiler Explorer
+С некомментированной линией I’m получаю:
+rogram stderr
+optional.h:524:libc++ Укрепление утверждения, что это-&gt;has value() не удалось: необязательный оператор* призвал к отключенному значению
+ Программа завершается сигналом SIGABRT (6)
+ Для получения дополнительной информации см. мой C++26: Standard Library Hardening Experiments. Поддержка этих функций C++26 зависит от вашего компилятора и стандартной библиотеки.
+
+Завернуть
+
+
+
+std::optional не будет использовать динамическое распределение 
+std::optional содержит значение 
+use operator *, operator-&gt;, value() или value or() для доступа к базовому значению.
+std::optional неявно преобразуется в bool, чтобы вы могли легко проверить, содержит ли он значение или нет.
+
+ В следующей статье  Я постараюсь объяснить обработку ошибок и почему опциональный вариант может быть не лучшим выбором.
+Я хотел бы поблагодарить Патриса Роя (@PatriceRoy1), Яцека Галовича (@jgalowicz) и Анджея Кржемиенского (akrzemi) за то, что нашли время, сделайте быстрый обзор этой статьи!]]></description>
+      <guid>https://www.cppstories.com/2018/05/using-optional/</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>C++26: стандартные библиотечные закаливания</title>
+      <link>https://www.cppstories.com/2026/hardening-experiments/</link>
+      <description><![CDATA[“Hardening” кажется очень популярным термином в C++ Мир в 2026 году. В этой статье мы рассмотрим, что означает это слово, и увидим некоторые основные примеры. Может ли закаленная библиотека сделать C++ полностью безопасным? Let’s find out.
+
+Основная идея
+
+
+::&lt;&gt; v { , ,,,  ,  ,  , v[i] = 10;/ для некоторых i
+.at(j&gt;=&gt;11/для некоторых j
+ Основное различие между этими двумя заключается в том, что  не контролируется (и может генерировать неопределенное поведение, если вы пытаетесь получить доступ к элементу, которого нет), в то время как .at() может выбросить std::out of range (так что это ’s четко определенное поведение).
+
+C++26 Изменения
+
+
+ Утверждения договора (с C++26) - cppreference.com
+ Это работает во время выполнения? Да, на самом деле он может работать в постоянных выражениях, но, что более важно, он работает во время выполнения.
+ Как это связано с такими вещами, как GLIBCXX ASSERTIONS,  ITERATOR DEBUG LEVEL и другими? C++26 пытается принести этим поставщикам определенные шашки и создать общий, четко определенный набор правил.
+
+
+Главный вопрос:
+
+
+Как это сделать?
+
+GCC/libstdc++:  GLIBCXX ASSERTIONS обеспечивает легкую проверку предварительных условий Стандартной библиотеки. Более широкая опция -fhardened позволяет использовать ее автоматически вместе с другими опциями безопасности.
+Clang/libc++: используйте  LIBCPP HARDENING MODE, с режимами NONE, FAST, EXTENSIVE и DEBUG.
+MSVC STL:  MSVC STL HARDENING=1 позволяет затвердевать глобально. Отдельные типы могут управляться с помощью макросов, таких как  MSVC STL HARDENING VECTOR и  MSVC STL HARDENING OPTIONAL.
+
+Примечание: На момент написания (август 2026 года) поставщики компиляторов и библиотек все еще завершают работу над функцией C++26. Приведенные ниже варианты являются текущими механизмами закалки поставщика и не обязательно представляют собой полные реализации P3471/P3697/P3878.
+
+Основные документы и предложения
+
+
+ Режимы закалки — документация libc++
+
+Чтобы указать закалку в Стандарте, это предложение вводит понятие  закаленное предварительное условие.  закаленное предварительное условие является предварительным условием, которое приводит к нарушению контракта в  закаленное выполнение. Добавление закалки в библиотеку в значительной степени состоит из превращения некоторых из существующих предварительных условий в  закаленные предварительные условия в спецификации.
+
+Какие условия выдвигаются кандидатами для более жесткой реализации?
+
+
+Нарушение предварительного условия приводит к проблеме безопасности памяти (доступ вне пределов доступа или доступ к неинициализированной памяти);
+ Сайт вызова имеет все необходимые данные для выполнения проверки;
+ Проверка может быть выполнена в постоянное время и накладывает относительно небольшие накладные расходы.
+
+
+
+C++26 закаленные условия
+
+
+https://en.cppreference.com/cpp/standard library
+
+Основной пример
+
+
+#include &lt;vector&gt;#include &lt;iostream&gt;
+int main()  ::&lt;int&gt; v { 1, ,  ,  ,  &gt;
+
+ int a = 10 std::cin &gt;&gt; a
+ v[a] 
+ std::cout &lt;&lt; &quot;hello world!&quot;Program returned: Программа stderr
+/383&lt;&lt;&quot;span class=&quot;o&quot;&gt;383&lt;&gt;383&lt;&lt;&lt;&quot;span&gt;&lt;&quot;span&gt;&lt;&quot;span&gt;&gt;&gt;&gt;&lt;&quot;span&gt;&gt;&lt;&quot;span&gt;&gt;&lt;&quot;span&gt;&gt;&lt;&quot;span&gt;&gt;&lt;&quot;span&gt;&gt;&lt;&quot;span&gt;&gt;&gt;&quot;n&gt;&quot;&gt;&gt;&gt;&gt;&lt;&quot;span&gt;&gt;&gt;&quot;n&quot;&gt;&gt;&gt;&gt;&gt;&lt;&quot;span&gt;&gt;&gt;&quot;n&quot;&gt;&gt;&gt;&gt;&lt;&quot;span&gt;&gt;&gt;&quot;n&gt;&gt;&gt;&gt;Program terminated with signal: SIGSEGV
+Hmm… он уже затвердел по умолчанию?
+См. @Compiler Explorer
+С GCC 16.1 нам даже не нужно явно включать затвердевание в неоптимизированной сборке. Текущий libstdc++ По умолчанию позволяет  GLIBCXX ASSERTIONS при компиляции без оптимизации. Как только оптимизация включена, эти утверждения по умолчанию отключены. Составьте -O2, и мы получим:
+Program returned: Программа stderr
+Program terminated with signal: SIGSEGV
+См. здесь @Compiler Explorer
+Другими словами, без оптимизации вы уже можете иметь некоторые проверки времени выполнения, включенные по умолчанию.
+С другой стороны, чтобы включить закаленный режим в оптимизированной сборке GCC, необходимо указать: -std=c++26 -O2 -D GLIBCXX ASSERTIONS
+Program returned: Программа stderr
+/383&lt;&lt;&quot;span class=&quot;o&quot;&gt;383&lt;&gt;383&lt;&lt;&lt;&quot;span&gt;&lt;&quot;span&gt;&lt;&quot;span&gt;&gt;&gt;&gt;&lt;&quot;span&gt;&gt;&lt;&quot;span&gt;&gt;&lt;&quot;span&gt;&gt;&lt;&quot;span&gt;&gt;&lt;&quot;span&gt;&gt;&lt;&quot;span&gt;&gt;&gt;&quot;n&gt;&quot;&gt;&gt;&gt;&gt;&lt;&quot;span&gt;&gt;&gt;&quot;n&quot;&gt;&gt;&gt;&gt;&gt;&lt;&quot;span&gt;&gt;&gt;&quot;n&quot;&gt;&gt;&gt;&gt;&lt;&quot;span&gt;&gt;&gt;&quot;n&gt;&gt;&gt;&gt;Program terminated with signal: SIGSEGV
+Мы также можем использовать -fhardened, который добавляет еще больше проверок безопасности, например:
+-D FORTIFY SOURCE=3
+-D GLIBCXX ASSERTIONS
+-ftrivial-auto-var-init=zero
+-fPIE -pie
+-Wl,-z,relro,-z,now
+-fstack-protectorstrong
+-fstack-clash-protection
+-fcf-protection=full
+На Clang Trunk I’m получается следующее:
+составлен с: -std=c++26 -stdlib=libc++ -D LIBCPP HARDENING MODE= LIBCPP HARDENING MODE DEBUG
+
+ Программа Stderr
+vector.h:414:libc++ Упрочнение утверждения   n &lt; размер() не удался: вектор[] индекс вне пределов
+ Программа завершается сигналом: SIGSEGV
+См. @compiler Explorer
+Примечание: libc++ предлагает режимы упрочнения NONE, FAST, EXTENSIVE и DEBUG. I’m использует DEBUG здесь, потому что он печатает полезную диагностику; libc++ рекомендует FAST для большинства производственных приложений.
+
+std::optional Доступ
+
+#include &lt;optional&gt;#include &lt;print&gt;
+#include &lt;string&gt;
+int main()
+ ::&lt;::&gt;string&gt; nick = std::({}&quot;, *nick/ OK: содержит значение
+ std::(&quot;{}&quot;, nick-&gt;size()); / OK: содержит значение
+ nick.reset(); // теперь пустой
+ try
+  std::(&quot;{}&quot;, nickvalue  catch (const std::bad optional access&amp;
+  std::print( &quot;No nickname\n&quot;
+ 
+ //не удается проверить закалку, прокомментируйте эту строку
+ //std::print(&quot;{}\n&quot;, *nick);
+@Compiler Explorer
+С некомментированной линией I’m получаю:
+rogram stderr
+optional.h:524:libc++ Укрепление утверждения, что это-&gt;has value() не удалось: необязательный оператор* призвал к отключенному значению
+ Программа завершается сигналом SIGABRT (6)
+
+Real-World Bugs Beyond std::vector
+
+
+
+
+
+Хотели бы вы видеть больше? 
+
+ В расширенной версии статьи @Patreon мы описываем следующие ошибки, которые были обнаружены при включении режима затвердевания: Называется «std::deque::back()» на пустом контейнере и Отсылка к пустому «std::optional»
+См. все .
+
+
+
+
+Сколько это стоит во время выполнения?
+
+
+
+
+
+Хотели бы вы видеть больше? 
+
+ В расширенной версии статьи @Patreon мы обсудим некоторые основные результаты сборки, а также реальные эксперименты.
+См. все .
+
+
+
+
+Резюме
+
+
+Ссылки и ссылки
+
+
+
+Технические ссылки
+
+
+ Compiler Options Hardening Guide for C and C++ | Рабочая группа OpenSSF Best Practices
+STL Закаливание · microsoft/STL Wiki · GitHub
+
+
+Книги
+
+
+ Secure Coding in C and C++ (SEI Series in Software Engineering) — Роберт Сикорд
+ Охватывая современный C++ безопасно, Джон Лакос, Витторио Ромео, Ростислав Хлебников и Алисдейр Мередит
+C++ Memory Management Патрис Рой
+]]></description>
+      <guid>https://www.cppstories.com/2026/hardening-experiments/</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Понимание std::counting semaphore и std::binary semaphore с C++20</title>
+      <link>https://www.cppstories.com/2026/semaphore/</link>
+      <description><![CDATA[В этой статье объясняются два типа семафоров, введенных в C++20: std::counting semaphore и std::binary semaphore. Сначала мы будем использовать счетной семафор, чтобы ограничить количество потоков, которые могут работать одновременно. Затем мы будем использовать двоичный семафор для отправки сигнала между потоками. Мы также рассмотрим время ожидания, небольшого помощника RAII и еще несколько деталей.
+
+Примечание: Обсуждаемые здесь функции синхронизации доступны на C++20. В примерах используется C++23 std::println для более чистого вывода.
+
+Let’s go.
+
+Основы
+
+
+
+API
+
+
+
+Ограничение параллелизма с std::counting semaphore
+
+#include &lt;chrono&gt;#include &lt;mutex&gt;
+#include &lt;print&gt;
+#include &lt;semaphore&gt; // &lt;&lt; новый заголовок!#include &lt;thread&gt;
+#include &lt;vector&gt;
+int main()  constexpr int workerCount = 8 constexpr int slotCount = 3
+ std::counting semaphore&lt;slotCount&gt; slotclass
+ std::mutex outputMutex int active = 0
+ auto worker = [&amp;
+ slots.acquire
+  std::lock guard lock(&gt;outputMutex ++active std::println &quot;worker {} enter; active={}&quot; id active
+ );
+ 
+ std::this thread:: std::chrono::milliseconds(250
+ );
+
+  std::lock guard lock(&gt;outputMutex --active std::println &quot;worker {} leave; active={}&quot; id active
+ );
+ 
+ slots.release 
+ std::&lt;std::jthread&gt; threads.reserve();
+
+for (i =0; &lt; workerCount;i&gt;
+ threads.
+@Compiler Explorer
+Семафор начинается с трех доступных слотов.
+Первые три работника называют acquire() и продолжают. Затем внутренний счетчик достигает нуля. Когда четвертый работник вызывает acquire(), ему приходится ждать.
+Как только один из активных работников завершает работу и вызывает release(), слот снова становится доступным. Один из рабочих может продолжить работу.
+Одна из возможных частей вывода:
+worker 0 enter; active= 1 1
+ рабочий 2 введен; активный=2
+ Рабочий 1 введен; активный=3
+worker 2 leave; active=2
+ Рабочий 4 введен; активный=3
+ Порядок может меняться между запусками, но active никогда не должен быть больше трех.
+Мутекс в этом примере не ограничивает количество рабочих. Он только защищает диагностический счетчик и сохраняет выход читаемым. Семафор - это часть, которая обеспечивает предел трех рабочих.
+Загрузка может немного изменить расписание потоков, но это не изменяет правило, навязанное семафором. Мутекс удерживается только для короткой операции печати, а не для моделируемой работы.
+ Именно поэтому код не является традиционным критическим разделом. Трем работникам разрешено работать вместе. Мы ограничиваем параллелизм, а не вынуждаем к полному взаимному исключению.
+Есть еще одна деталь: семафор знает, сколько слотов доступно, но он не знает, что представляют эти слоты. Если бы они стояли за три реальных подключения к базе данных, нам все равно нужен был бы отдельный контейнер, содержащий эти соединения.
+
+Возвращение слота с RAII
+
+
+template &lt;std::ptrdiff t LeastMaxValueclass SemaphoreGuard public:
+ explicit SemaphoreGuard std::counting semaphore&lt;LeastMaxValue&gt;&amp;  
+ : sem 
+ sem .acquire 
+ ~SemaphoreGuard()  sem .release 
+SemaphoreGuard(const SemaphoreGuard&amp;&gt;
+ SemaphoreGuard&amp; оператор= const SemaphoreGuard&amp;
+  = delete;
+
+private:
+ std::counting semaphore&lt;LeastMaxValue&gt;&amp; sem SemaphoreGuard guard{
+Сигнал с std::binary semaphore
+
+
+#include &lt;print&gt;#include &lt;semaphore&gt;
+#include &lt;thread&gt;
+int main()  std::binary semaphore startSignal{&gt;
+ std::binary semaphore doneSignal{
+ int result = 0
+ std::jthread worker[  startSignal.acquire
+ result = 42
+ doneSignal.release };
+
+ std::println(&quot;[main&gt;);
+ startSignal.release
+ doneSignal.acquire std::println(&quot;[основной] результат ={}&quot;, );
+@Compiler Explorer
+Оба семафорных счетчика начинаются с нуля.
+Работник останавливается на startSignal.acquire(). Основной поток вызывает startSignal.release(), который посылает стартовый сигнал и позволяет работнику продолжить работу.
+После написания result работник вызывает doneSignal.release(). Основная нить ждет этого сигнала перед чтением результата.
+Семафор также обрабатывает синхронизацию памяти. Основной поток видит записи, сделанные работником до release(), который позволил doneSignal.acquire() закончить.
+Это означает, что основной поток может безопасно читать result после doneSignal.acquire() Returns.
+После этого сигнал не возвращается, и это нормально. Он представлял собой одноразовое уведомление, а не многоразовый слот.
+
+Ждать с тайм-аутом
+
+
+#include &lt;chrono&gt;#include &lt;print&gt;
+#include &lt;semaphore&gt;
+#include &lt;thread&gt;
+int main()  std::counting semaphore&lt;1&gt; sem{
+ std::jthread notifier[  std::this thread:: std::chrono::milliseconds(200
+ );
+
+ sem.release };
+
+ if (sem.try acquire forstd::chrono::milliseconds())  std::println( &quot;Первое ожидание успешно&quot;;
+  else  std::println( &quot;First Wait Timed Out&quot;;
+ 
+ if (sem.try acquire forstd::chrono::milliseconds())  std::println( &quot;Второе ожидание успешно&quot;;
+  else  std::println( &quot;Second wait timed out&quot;);
+ @Compiler Explorer
+Обычный результат:
+ Первое время ожидания
+ Вторая попытка увенчалась успехом
+ Первый звонок перестает ждать, прежде чем уведомитель позвонит release(). Это не уменьшает счетчик.
+Позже уведомитель увеличивает счетчик, и второй вызов удаётся.
+Время ожидания не является точным графиком. Ожидание 100 миллисекунд означает, что функция не сообщит о тайм-ауте до истечения этой продолжительности. Операционная система может возобновить поток немного позже.
+
+Семафор, мутекс или переменная состояния?
+
+
+
+Подробности, которые стоит знать
+
+
+
+LeastMaxValue - нижняя граница
+
+
+std::counting semaphore&lt;3&gt;
+значение 3 означает, что реализация должна поддерживать счетчик не менее трех.
+Реальный максимум может быть больше. max() возвращает значение, поддерживаемое реализацией.
+Код приложения должен обычно использовать номер, который ему действительно нужен, и не зависеть от какого-либо дополнительного диапазона, предлагаемого одной стандартной библиотекой.
+
+Не увеличивайте счетчик после max()
+
+
+try acquire() может потерпеть неудачу
+
+
+
+Порядок ожидания не гарантируется
+
+
+
+Смотреть Жизнь
+
+
+
+Резюме
+
+
+Ссылки
+
+
+std::counting semaphore и std::binary semaphore - cppreference
+C++ рабочий проект: semaphores
+ Реализация семафоров C++20 - Разработчик Red Hat
+C++ Concurrency in Action, Second Edition, Энтони Уильямс
+ Сравнение с современным C++ Райнер Гримм
+
+
+Назад к тебе
+
+
+
+Используете ли вы семафоры в основном для ограничения одновременной работы или для передачи сигналов? Вы пробовали C++20 или сторонние библиотеки?]]></description>
+      <guid>https://www.cppstories.com/2026/semaphore/</guid>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Как присоединиться к диапазонам C++26</title>
+      <link>https://www.cppstories.com/2025/join_concat_ranges/</link>
+      <description><![CDATA[Современный C++ постоянно совершенствует свою библиотеку диапазонов, чтобы обеспечить более выразительные, гибкие и эффективные способы управления коллекциями. Обычно, когда вы хотите конкатенировать или сплющивать диапазоны, вы используете сырые петли или пользовательские алгоритмы. С адаптерами диапазона C++ ’ теперь у нас есть элегантный и эффективный способ обработки коллекций без лишних выделений.
+В этой статье мы рассмотрим три мощных адаптера диапазона, представленных в различных стандартах C++:
+
+std::ranges::concat view (C++26)
+std::ranges::join view (C++20)
+std::ranges::join with view (C++23)
+
+Let’s разбивает их различия, примеры использования.
+
+
+Обновлено в мае 2026 года: добавлены варианты построения  from range.
+
+
+std::ranges::concat view (C++26)
+
+#include &lt;print&gt;#include &lt;ranges&gt;
+#include &lt;vector&gt;
+#include &lt;array&gt;
+int main()  &lt;::::string&gt;v1{, &quot;hi&gt; ::::::&gt;string&gt; v2 , &quot;xyz&gt;  string arr[]{&quot;one&quot;,, , 
+ auto v1 rev =  | std::::; auto concat =::::,,, ,  ,  ,  ;
+
+ concat[0] = //доступ и запись
+ (auto&amp; elem : concat&gt;
+ std::print(), elem@Compiler Explorer
+ Результат:
+hello world abc xyz one two three
+ В приведенном ниже примере показано, как соединить три диапазона, v1 перевернут и затем объединены с v2 и arr. Обратите внимание, что мы также можем получить доступ к значению в позиции 0 и обновить его.
+И немного более сложный пример:
+#include &lt;print&gt;#include &lt;ranges&gt;
+#include &lt;vector&gt;
+#include &lt;list&gt;
+#include &lt;string&gt;
+struct Transaction  std::string type double amount
+int main()  std::vector&lt; Операция&gt; bank transactions{
+ {&quot;Deposit&quot;, 100.0 {, 50.0,
+ {&quot;Deposit&quot;, 200.0  std::list&lt; Операция &gt; credit card transactions{
+ {, 75.0, {, 50.0 
+ auto filtered bank = bank transactions
+ | ::::::filter[](constTransaction&amp;
+ return t.amount &gt;= 100.0 };
+
+ auto filtered credit = credit card transactions
+ | ::::::filter[](constTransaction&amp;
+ return t.amount &gt; 60.0 };
+
+ auto all transactions =::::(, filtered credit);
+
+ for (const auto&amp; t : 
+ :: - {} - {}$&quot;.type,;;
+@Compiler Explorer
+
+std::ranges::join view (C++20)
+
+#include &lt;iostream&gt;#include &lt;ranges&gt;
+#include &lt;vector&gt;
+int main() :::::&lt;,,, , , , , , ,  auto joined = ::::
+for (int i : 
+ std::println(@Compiler Explorer
+ Результат:
+&lt;1 2 3 4 5 6 7
+ Конечно, у нас могут быть разные вложенные диапазоны … и это может быть удобно для обработки строк:
+#include &lt;print&gt;#include &lt;ranges&gt;
+#include &lt;vector&gt;
+#include &lt;string&gt;
+#include &lt;map&gt;
+int main()   ::&lt;::::string&gt; слова {, , ,  &quot;World&quot;,  &quot;Coding&quot; };
+
+ /регулярный:
+  ::map&lt;char, int&gt;  freqfor (auto &amp;w :&gt;
+for (auto &amp;c :
+ freq[::tolower()];;
+
+ // join:
+  ::map&lt;char, int&gt;  freq2for(&amp;c :  | &gt;stdviewsjoin&gt;
+ freq2:::tolower();;
+
+for (&amp; [, ] : freq2&gt;
+ std::(&quot; -&gt;{}&quot;,, ,  ,  val@Compiler Explorer
+Как видите, благодаря views join мы можем сохранить один вложенный цикл и повторить его через один диапазон символов.
+
+std::ranges::join with view (C++23)
+
+#include &lt;iostream&gt;#include &lt;ranges&gt;
+#include &lt;vector&gt;
+#include &lt;string&gt;
+#include &lt;string view&gt;
+:: to uppercase(std::string view{&gt;
+ std::string result(for (char&amp; c :&gt;
+c::toupper(static cast&lt;unsignedchar(c));
+ return reult;
+
+int main() ::&lt;std::string view&gt; words , &quot;C++&quot;, &quot;ranges&quot;, &quot;library&quot;
+ 
+ auto words up =  | ::::( auto joined ::::::;;;);;;;;
+for (auto c : 
+ std::cout &lt;&lt; c
+Проводник компилятора
+Here’s the expected output:
+ C++ RANGES LIBRARY
+
+Создание новых контейнеров с точки зрения
+
+
+::::::::::&gt;&lt;&gt;&gt; //???
+
+autonew vector = make flat(#include &lt;print&gt;#include &lt;ranges&gt;
+#include &lt;string&gt;
+#include &lt;string view&gt;
+#include &lt;vector&gt;
+::&lt; (::::::
+ std::vector&lt;int&gt; outfor (value :   | &gt;stdviewsjoin&gt;
+ out.
+ return out
+::&lt; (::::::
+ auto joined =  | std:::: return { ... .
+
+::&lt; (::::::
+ return nested
+  | std::views::join
+  | ::::::&lt;::::&lt;;
+
+::&lt;  (::::::
+ auto joined =  | std:::: return std::::;;;
+
+int main() :::::&lt;,,, , , , , , ,  auto flat1 = make flat loop( auto flat2 = make flat iters
+ auto flat3 = make flat to
+ auto flat4 = make flat from range(
+for (&amp;&amp; : : , , , ,  , &gt;
+for (int value : 
+ std::print(), value std::println( 
+ &lt;::string&gt;слова{,,,,,.
+ auto entence = std::(
+ std:: from range ::join with(слова, , , ::)
+ );
+
+ std::println(&quot;{}&quot;;);
+@Compiler Explorer
+ Результат:
+&lt;1 2 3 4 5 6 7
+1 2 3 4 5 6 7
+1 2 3 4 5 6 7
+1 2 3 4 5 6 7
+C++ диапазоны являются мощными
+ Изменения C++23 произошли из следующего предложения: P1206R7 - Конверсии из диапазонов в контейнеры.
+
+Сравнение concat view, join view и join with view
+
+
+Резюме
+
+
+Ссылки
+
+
+C++23 Best Practices - Джейсон Тернер
+ Modern C++ Programming Cookbook — Мариус Бансила
+Программирование: принципы и практика использования C++ - Бьярне Страуструп
+
+Прочие:
+
+std::ranges::join view - cppreference.com
+std::ranges::join with view - cppreference.com
+std::ranges:::concat view - cppreference.com
+
+
+Назад к тебе
+
+
+
+Вы используете диапазоны?
+ Каковы ваши наиболее полезные взгляды алгоритмов альда на диапазоны?
+
+Поделитесь своими комментариями ниже]]></description>
+      <guid>https://www.cppstories.com/2025/join_concat_ranges/</guid>
+      <pubDate>Sat, 16 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>15 способов фильтрации контейнеров в современном C++</title>
+      <link>https://www.cppstories.com/2021/filter-cpp-containers/</link>
+      <description><![CDATA[Знаете ли вы, сколько способов реализации функции фильтра в C++?
+Хотя проблема относительно проста для понимания - возьмите контейнер, скопируйте элементы, которые соответствуют предикату, и верните новый контейнер - это хорошо для упражнений с C++ Стандартная библиотека и несколько идей. Мы также можем применить некоторые современные методы C++, включая C++23.
+Let’s start!
+
+
+Статья была написана в 2021 году и недавно обновлена в конце 2025 года, чтобы включить дополнительные методы из C++23.
+Кроме того, текст также переиздается на сайте ACCU:
+ACCU Overload, 33: 15 Different Ways to Filter Containers in Modern C++.
+
+
+Заявление о проблеме
+
+
+auto Filter(const Container&amp; cont, UnaryPredicate p)
+ Он берет контейнер и предикат и создает выходной контейнер с элементами (копиями), которые удовлетворяют предикату.
+Мы можем использовать его следующим образом:
+const::::string&gt;, , ,  , ,,, &quot;World&quot;, &quot;error&quot;, &quot;warning&quot;, , ,  ;
+
+filtered Filter,,[](&amp;!
+//отфильтрованное должно иметь &quot;Hello&quot;, &quot;World&quot;, &quot;error&quot;, &quot;warning&quot;, &quot;C++&quot;
+ Написание такой функции может быть хорошим упражнением с различными вариантами и алгоритмами в Стандартной библиотеке. Более того, наша функция скрывает внутренние механизмы, такие как итераторы, поэтому она больше похожа на версию на основе диапазона.
+Let’s начинается с первого варианта:
+
+Старая добрая сырая петля
+
+
+// filter v1
+&lt;template &lt;typename T, typename  Pred&gt;
+auto  FilterRaw(const ::vector&lt;T&gt;&amp; vec Pred p) {
+ std::vector&lt;T&gt; outfor (auto&amp;&amp; elem :&gt;
+ if (p)
+ out.push back( return out// filter v1 - старый способ
+&lt;template &lt;typename T, typename  Pred&gt;
+std::vector&lt;T&gt;  FilterRawOld(const ::vector&lt;T&gt;&amp; vec Pred p) {
+ std::vector&lt;T&gt; outfor(::&gt;::const iterator&gt;);!&gt;&gt;&gt;&gt;&gt; if (p)
+ out.push back
+ return out
+Фильтр по std::copy if
+
+
+// filter v2
+&lt;template &lt;typename T, typename  Pred&gt;
+auto  FilterCopyIf(::vector&lt;T&gt;&amp; vec Pred p) {
+ std::vector&lt;T&gt; out return out
+std::remove copy if
+
+// filter v3
+&lt;template &lt;typename T, typename  Pred&gt;
+auto  FilterRemoveCopyIf(const ::vector&lt;T&gt;&amp; vec Pred p) {
+ std::vector&lt;T&gt; out ::()(), ), 
+ ::(),  ,  ::);
+ return out
+Оригинальное название: Remove Erase Idiom
+
+
+// filter v4
+&lt;template &lt;typename T, typename  Pred&gt;
+auto  FilterRemoveErase(const ::vector&lt;T&gt;&amp; vec Pred p) {
+ auto out = vec return out
+Добавление C++20
+
+
+// filter v5
+&lt;template &lt;typename T, typename  Pred&gt;
+auto  FilterEraseЕсли(const ::vector&lt;T&gt;&amp; vec Pred p) {
+ auto out = vec ::(,  ,  ::);
+ return out
+Добавление некоторых диапазонов C++20
+
+
+// filter v6
+&lt;template &lt;typename T, typename  Pred&gt;
+auto  FilterRangesCopyIf(const ::vector&lt;T&gt;&amp; vec Pred p) {
+ std::vector&lt;T&gt; out ::::(,, ::), ;;&gt;
+ return out
+сделать его более общим
+
+
+// filter v7
+template &lt;typename TCont, typename  Pred&gt;
+auto  FilterEraseIfGen(const TCont&amp; cont,  Pred p) {
+ auto out = cont ::(,  ,  ::);
+ return out// filter v8
+template &lt;typename TCont, typename  Pred&gt;
+auto  FilterRangesCopyIfGen(const TCont&amp; vec,  Pred p) {
+ TCont out ::::(,, ::), ;;&gt;
+ return out::&lt;::::&gt;mySet , &quot;**txt&quot;,  &quot;World&quot;, &quot;error&quot;, &quot;warning&quot;, ,,  
+auto filtered =(, ).
+ return !elem.starts with();
+};
+ С другой стороны, если вы предпочитаете не копировать все элементы заранее, нам может потребоваться дополнительная работа.
+
+Generic “copy if”
+
+
+// filter v9
+&lt;typename,  typename =void&gt;
+struct has push back : std::false type 
+template &lt;typename T&gt;
+struct has push back&lt;T std::void t&lt;
+  :&lt;...:::&gt;&gt;
+ &gt;
+ &gt; : std::true type 
+template &lt;typename TCont, typename  Pred&gt;
+auto  FilterCopyIfGen(const TCont&amp; cont,  Pred p) {
+ TCont out if constexpr(has push back&lt;TCont&gt;::value&gt;
+ (), , ,,,,, , , &gt;, , , , , &lt;
+ else
+::(), (),&gt;:::;;
+
+ return outHow to Detect Function Overloads in C++17, std:: from chars Example - C++ Stories.
+Но поскольку C++20, мы можем использовать концепции и сделать код намного проще.
+template &lt;typename T&gt;
+concept =(container, typename::value type{&gt;
+ container.push back( Упростите код с помощью if constexpr и Concepts в C++17/C++20 - C++ Stories.
+
+Концепции C++20
+
+
+auto filtered FilterCopyIf(,,,,
+ return !elem.starts with();
+};
+ В приведенном выше коде я попытался использовать два аргумента для унарного предиката. В Visual Studio I’m появляется следующее сообщение об ошибке:
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\algorithm(1713,13): ошибка C2672: &quot;оператор   surrogate func&quot;: не найдено ни одной соответствующей перегруженной функции
+1&gt; C:\Users\Admin\Documents\GitHub\articles\filterElements\filters.cpp(38): сообщение: см. ссылку на инстантацию шаблона функций &#39; OutIt std::copy if&lt;std:: Vector const iterator&lt;std:: Vector val&lt;std:: Simple types&lt; Ty&gt;&gt;,Pred&gt;( InIt, InIt, OutIt, Pr):
+1&gt;
+ Не очень полезно, но после нескольких строк у нас есть четкая причина:
+error C2780: &quot;auto main:::&lt;lambda 4&gt;::operator()( T1 &amp;,int) const&quot;: ожидает 2 аргумента - 1 предоставленный
+ Мы можем экспериментировать с концепциями и ограничивать наш предикат std::predicate, существующий концепт из Стандартной библиотеки. В нашем случае нам нужна функция, которая берет один аргумент, а затем возвращает тип, конвертируемый в bool.
+// filter v10
+&lt;typename ,  ,  ::predicate&lt;T&gt; // &lt;&lt;
+auto  FilterCopyIfConcepts(::vector&lt;T&gt;&amp; vec Pred p) {
+ std::vector&lt;T&gt; out return outauto filtered  (, ,,
+ return !elem.starts with();
+};
+ Это приводит к следующему сообщению:
+1&gt; filters.cpp(143,19): ошибка C2672: &quot;FilterCopyIfConcepts&quot;: не найдено ни одной соответствующей перегруженной функции
+1&gt; filters.cpp(143,101): ошибка C7602: &quot;FilterCopyIfConcepts&quot;: связанные с этим ограничения не удовлетворены
+ Это лучше, поскольку у нас есть сообщения о нашей функции верхнего уровня, а не о внутренних, но было бы здорово понять, почему и какое ограничение было удовлетворено.
+
+Сделать его параллельным?
+
+
+// filter v11
+std::mutex mut(::::,,),,,,,,[out, mut,, ,
+ if (p)
+  std::unique lock lock();
+ out.push back(  };
+ Это, конечно, наивная версия, и сделает процесс сериализованным. Тема довольно продвинутая, поэтому, пожалуйста, посмотрите мой другой текст и эксперимент (filter v12):  Внедрение параллельной копии If в C++ - C++ Stories.
+
+Поддержка прямого фильтра с помощью ranges::filter view, C++23
+
+
+// filter v13
+&lt;typename ,  ,  ::predicate&lt;T&gt;
+auto  FilterRangesFilter(std::vector&lt;T&gt;&amp; vec Pred p) {
+ std::vector&lt;T&gt; outfor (const&amp; elem :  | &gt;stdviewsfilterp)
+ out.push back( return outCompiler Explorer
+
+Добавление ranges::to, C++23
+
+
+// filter v14
+&lt;typename ,  ,  ::predicate&lt;T&gt;
+auto  FilterRangesFilterTo(const ::vector&lt;T&gt;&amp; vec Pred p) {
+  возврат  |::::&gt;&gt;&gt;::::::здесь @Compiler Explorer
+Here’s пример:
+template&lt;,::: Pred&gt;
+auto  FilterRangesFilterTo(const  Cont&amp; vec,  Pred p) {
+ return  | ::::::&gt;&gt;:::: Cont&gt;();
+
+C++23: ленивая фильтрация с помощью std::generator
+
+
+template &lt;, , ::predicate&lt;const&amp;&gt;  Pred&gt;
+std::generator&lt;const T&amp;&gt; (const ::vector&lt;T&gt;&amp; vec Pred p) {
+for (const auto&amp; elem :{&gt;
+ if (p)
+ co yield elem  ::&lt;::string&gt; vec , &quot;**txt&quot;,  &quot;World&quot;, &quot;error&quot;, &quot;warning&quot;, ,,  
+
+auto gen =(, )
+ return !..&gt;starts with();
+};
+
+// Элементы производятся лениво, по требованию:
+ (const auto&amp; : : std::cout &lt;&lt;
+Резюме
+
+https://github.com/fenbf/articles/blob/master/filterElements/filters.cpp]]></description>
+      <guid>https://www.cppstories.com/2021/filter-cpp-containers/</guid>
+      <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
