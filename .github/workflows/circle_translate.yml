@@ -8,48 +8,48 @@ env:
   OPML_XML_URL_USE_PAGE: ${{ vars.OPML_XML_URL_USE_PAGE || 'false' }}
   OPML_XML_URL_ANCHOR: ${{ vars.OPML_XML_URL_ANCHOR || '' }}
 
-# Controls when the workflow will run
 on:
   schedule:
     - cron: '0 */3 * * *'
-
-  # 允许您从“操作”选项卡手动运行此工作流
   workflow_dispatch:
 
-# 工作流运行由一个或多个作业组成
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # Получаем репозиторий
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
           token: ${{ github.token }}
 
       - name: Set up Python
-        uses: actions/setup-python@v3
+        uses: actions/setup-python@v5
         with:
-          python-version: 3.8
+          python-version: '3.10'
 
       - name: Install dependencies
         run: |
-          sudo apt-get install libxml2-dev libxslt-dev
-          python -m pip install --upgrade pip
-          pip install mtranslate
-          pip install lxml
-          pip install html5lib
-          pip install jinja2
-          pip install googletrans
-          pip install googletrans==4.0.0-rc1 bs4
-          pip install beautifulsoup4 pygtrans feedparser rfeed
-          pip install --upgrade feedparser
-          pip install requests
+          sudo apt-get update
+          sudo apt-get install -y libxml2-dev libxslt-dev
 
-      - name: ls_show
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Translate RSS feeds
         run: |
           python my-mtranslate.py
-          python opml-generate.py --repo-slug "${{ env.OPML_XML_URL_REPO }}" --use-github-pages "${{ env.OPML_XML_URL_USE_PAGE }}" --xml-url-anchor "${{ env.OPML_XML_URL_ANCHOR }}"
+
+      - name: Generate OPML
+        run: |
+          python opml-generate.py \
+            --repo-slug "${{ env.OPML_XML_URL_REPO }}" \
+            --use-github-pages "${{ env.OPML_XML_URL_USE_PAGE }}" \
+            --xml-url-anchor "${{ env.OPML_XML_URL_ANCHOR }}"
+
+      - name: Show generated files
+        run: |
+          ls -al
           ls -al rss/
 
       - name: Push changes to remote repository
@@ -57,13 +57,16 @@ jobs:
           U_NAME: github-actions[bot]
           U_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
           GITHUB_TOKEN: ${{ github.token }}
+
         run: |
           if [[ -n "$(git status --porcelain)" ]]; then
-            pwd
+
             git config --local user.name "${U_NAME}"
             git config --local user.email "${U_EMAIL}"
 
+            echo "====== Git status ======"
             git status -s
+
             git add rss/*
             git add test.ini
             git add .github/workflows/circle_translate.yml
@@ -71,10 +74,11 @@ jobs:
 
             export TZ='Asia/Shanghai'
 
-            git commit -m "Github RSS Translate Auto Builder at `date +'%Y-%m-%d %H:%M'`"
+            git commit -m "Github RSS Translate Auto Builder at $(date +'%Y-%m-%d %H:%M')"
 
-            echo "======git push===="
-            git push --force origin ${{ github.ref_name }}
+            echo "====== Git push ======"
+            git push --force origin "${{ github.ref_name }}"
+
           else
             echo "No changes, skip push."
           fi
