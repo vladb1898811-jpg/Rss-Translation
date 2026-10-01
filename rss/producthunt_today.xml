@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Продуктовая охота — Лучшие продукты каждый день</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 01 Oct 2026 07:05:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 10:45:58 GMT</lastBuildDate>
     <item>
       <title>Stardrift для iOS</title>
       <link>https://www.producthunt.com/products/stardrift-for-ios</link>
@@ -20,16 +20,18 @@
       <pubDate>Wed, 30 Sep 2026 19:57:48 GMT</pubDate>
     </item>
     <item>
-      <title>Витра.</title>
-      <link>https://www.producthunt.com/products/vitra-ai-agentic-content-platform</link>
+      <title>Ило</title>
+      <link>https://www.producthunt.com/products/helo-2</link>
       <description><![CDATA[
-Агентская платформа для создания и локализации контента
+Независимый API электронной почты от бывших сотрудников Postmark
 
 
+Обсуждение
+!
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/vitra-ai-agentic-content-platform</guid>
-      <pubDate>Wed, 30 Sep 2026 19:36:03 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/helo-2</guid>
+      <pubDate>Wed, 30 Sep 2026 19:57:02 GMT</pubDate>
     </item>
     <item>
       <title>ясность</title>
@@ -46,24 +48,24 @@
       <pubDate>Wed, 30 Sep 2026 12:32:48 GMT</pubDate>
     </item>
     <item>
-      <title>Бадди Бросок</title>
-      <link>https://www.producthunt.com/products/buddy</link>
+      <title>Близнец</title>
+      <link>https://www.producthunt.com/products/twin-2</link>
       <description><![CDATA[
-Бросьте файлы, получите живой URL за считанные секунды
+Крошечный приятель, который живет на вашем Mac
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/buddy</guid>
-      <pubDate>Wed, 30 Sep 2026 09:20:05 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/twin-2</guid>
+      <pubDate>Wed, 30 Sep 2026 10:03:29 GMT</pubDate>
     </item>
     <item>
       <title>Чат.ш.</title>
       <link>https://www.producthunt.com/products/chat-sh</link>
       <description><![CDATA[
-Центр помощи, который я построил после обыска Интеркома.
+Центр помощи, который я построил после того, как поиски Интеркома прервались
 
 
 Обсуждение
@@ -72,6 +74,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/chat-sh</guid>
       <pubDate>Wed, 30 Sep 2026 05:27:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Люмина</title>
+      <link>https://www.producthunt.com/products/lume-floating-notes-for-windows</link>
+      <description><![CDATA[
+Заметки, которые появляются при коктейле мыши
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/lume-floating-notes-for-windows</guid>
+      <pubDate>Wed, 30 Sep 2026 05:20:55 GMT</pubDate>
     </item>
     <item>
       <title>DSH рабочий стол</title>
@@ -88,6 +104,34 @@
       <pubDate>Wed, 30 Sep 2026 02:21:19 GMT</pubDate>
     </item>
     <item>
+      <title>ShareCube</title>
+      <link>https://www.producthunt.com/products/sharecube</link>
+      <description><![CDATA[
+Поделитесь тем, что делают ваши агенты, получите обратную связь по точной линии
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/sharecube</guid>
+      <pubDate>Tue, 29 Sep 2026 23:21:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rate.fm</title>
+      <link>https://www.producthunt.com/products/rate-fm</link>
+      <description><![CDATA[
+Letterboxd для музыки на iPhone
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/rate-fm</guid>
+      <pubDate>Tue, 29 Sep 2026 23:04:07 GMT</pubDate>
+    </item>
+    <item>
       <title>Формалини</title>
       <link>https://www.producthunt.com/products/formalini</link>
       <description><![CDATA[
@@ -100,34 +144,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/formalini</guid>
       <pubDate>Tue, 29 Sep 2026 20:14:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Basedash chat чат панель предварительного просмотра</title>
-      <link>https://www.producthunt.com/products/basedash</link>
-      <description><![CDATA[
-Одна подсказка. Целая панель приборов, живите в чате.
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/basedash</guid>
-      <pubDate>Tue, 29 Sep 2026 19:14:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Америка.gov</title>
-      <link>https://www.producthunt.com/products/america-gov</link>
-      <description><![CDATA[
-Все, что вам нужно от правительства, начните здесь.
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/america-gov</guid>
-      <pubDate>Tue, 29 Sep 2026 18:38:12 GMT</pubDate>
     </item>
     <item>
       <title>Скриншоты OpenAI</title>
@@ -144,32 +160,32 @@
       <pubDate>Tue, 29 Sep 2026 18:35:29 GMT</pubDate>
     </item>
     <item>
-      <title>Сознание</title>
-      <link>https://www.producthunt.com/products/notchmind</link>
+      <title>Фаза C1®</title>
+      <link>https://www.producthunt.com/products/phare-c1</link>
       <description><![CDATA[
-Поместите вырезку MacBook в работу: музыка, файлы, таймеры и многое другое
+Дымовая сигнализация, которая обнаруживает огонь, а не тост.
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/notchmind</guid>
-      <pubDate>Tue, 29 Sep 2026 11:53:58 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/phare-c1</guid>
+      <pubDate>Tue, 29 Sep 2026 12:51:48 GMT</pubDate>
     </item>
     <item>
-      <title>Убежище Оттер</title>
-      <link>https://www.producthunt.com/products/otter-vault</link>
+      <title>Семитекса</title>
+      <link>https://www.producthunt.com/products/semitexa</link>
       <description><![CDATA[
-Поймать API-ключи в момент их появления, зашифрованные локально
+PHP-фреймворк, который ваш ИИ-агент может проверить
 
 
-Дискуссия
+Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/otter-vault</guid>
-      <pubDate>Tue, 29 Sep 2026 06:52:39 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/semitexa</guid>
+      <pubDate>Mon, 28 Sep 2026 15:35:07 GMT</pubDate>
     </item>
     <item>
       <title>Кюра</title>
@@ -186,32 +202,18 @@
       <pubDate>Mon, 28 Sep 2026 14:45:31 GMT</pubDate>
     </item>
     <item>
-      <title>Yedric.ai</title>
-      <link>https://www.producthunt.com/products/yedric-ai</link>
+      <title>Холо</title>
+      <link>https://www.producthunt.com/products/kholo</link>
       <description><![CDATA[
-Позволяет пользователям управлять SaaS с помощью естественного языка
+Возьмите автомобиль, ракету, даже ваше тело в 3D.
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/yedric-ai</guid>
-      <pubDate>Fri, 18 Sep 2026 14:46:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monospace от Directus</title>
-      <link>https://www.producthunt.com/products/directus</link>
-      <description><![CDATA[
-Управляемый уровень API для каждого приложения, человека и агента
-
-
-Дискуссия
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/directus</guid>
-      <pubDate>Tue, 15 Sep 2026 17:47:11 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/kholo</guid>
+      <pubDate>Sun, 20 Sep 2026 16:30:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
