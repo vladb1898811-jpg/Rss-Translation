@@ -4,7 +4,14 @@
     <title>Новые материалы: Редакторы</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>Этот субреддит ориентирован на постпрофессионалов. Вы пытаетесь стать профессионалом? Не стесняйтесь использовать нашу нить «ASK a PRO». Боковая суета? Используйте строку «Спросить Pro». Хобби? Для удовольствия? Наша сестринская суб-р/видео редактирование - это то, что вы хотите!</description>
-    <lastBuildDate>Thu, 01 Oct 2026 01:08:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 04:06:33 GMT</lastBuildDate>
+    <item>
+      <title>Какова лучшая практика в организации файлов, которые будут использоваться в нескольких проектах? (PrPRO)</title>
+      <link>https://www.reddit.com/r/editors/comments/1wumfiu/whats_the_best_practice_in_organizing_files_that/</link>
+      <description><![CDATA[ У меня есть папка с SFX, музыкой и т. Д., При использовании этих файлов в Premiere я должен импортировать затем из этой отдельной папки или скопировать то, что я собираюсь использовать в папку проекта сначала?    представлено   /u/Koichidank   ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1wumfiu/whats_the_best_practice_in_organizing_files_that/</guid>
+      <pubDate>Thu, 01 Oct 2026 01:18:35 GMT</pubDate>
+    </item>
     <item>
       <title>Как вы становитесь лучше, когда вы уже очень хороши?</title>
       <link>https://www.reddit.com/r/editors/comments/1wuc7ne/how_do_you_keep_getting_better_once_youre_already/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[ Это чередует воскресенья с нашим &quot;Reel Review.&quot;  Вот ключевые вещи, которые нужно сделать, прежде чем публиковать  Заголовок:Длина:Цель: Почему вы публикуете это?   Это может быть:  Что-то крутое, что я сделал  Победа клиента  Или да, даже обратная связь.   Если это обратная связь , вы должны найти два других сообщения, требующих обратной связи, и  дать примечания . Если вы этого не сделаете, моды посетят ваш дом   Вы можете опубликовать YT, , но мы бы предпочли  более профессиональные места посадки (включая frame.io) -- Скопируйте этот раздел ----    представленный   /u/AutoModerator   ]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1wrhcpp/show_your_work_sunday/</guid>
       <pubDate>Sun, 27 Sep 2026 11:00:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Поиск инструмента для видео-переводов в Premiere</title>
-      <link>https://www.reddit.com/r/editors/comments/1wqa0ev/looking_for_tool_for_video_translations_in/</link>
-      <description><![CDATA[Hi all, Я редактирую для видеорекламы, которую нужно перевести на несколько языков в нескольких размерах. Существует ли существующий инструмент, который может принимать одну ключевую последовательность и своп и создавать новые последовательности с соглашением именования и своп-текстом, предоставленным в csv или чем-то подобным. Похоже, что это должно быть возможно и не сложно, у меня аналогичная настройка в Figma. Есть ли у кого-нибудь какие-либо рекомендации?    представлено   /u/ProfessorHorsebach   ]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1wqa0ev/looking_for_tool_for_video_translations_in/</guid>
-      <pubDate>Fri, 25 Sep 2026 22:34:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

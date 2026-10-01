@@ -4,7 +4,28 @@
     <title>ChatGPT, искусственный интеллект и автоматизация</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>Вы очарованы чудесами автоматизации, загипнотизированы силой ChatGPT или заинтригованы бесконечными возможностями искусственного интеллекта и автоматизации? Не смотрите дальше! Наше яркое сообщество Reddit является идеальным центром для таких энтузиастов, как вы. Как член нашего сообщества, вы получите доступ к множеству ресурсов, в том числе: t Провоцирующие мысли дискуссии по автоматизации, ChatGPT и ИИ.   Эксклюзивное понимание последних достижений и отраслевых новостей</description>
-    <lastBuildDate>Thu, 01 Oct 2026 00:09:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 03:08:37 GMT</lastBuildDate>
+    <item>
+      <title>Как вы автоматизируете контент и задачи в социальных сетях?</title>
+      <link>https://www.reddit.com/r/automation/comments/1wumya7/how_are_you_automating_content_and_social_media/</link>
+      <description><![CDATA[Я изучал, как малые предприятия и маркетинговые команды обрабатывают повторяющийся контент и работают с ИИ в социальных сетях.  Я постоянно вижу, что автоматизация — это не только создание контента. Существует также работа по поддержанию согласованного голоса бренда, планированию сообщений, внесению изменений в существующий контент и управлению различными каналами. Мне интересно, как люди здесь подходят к этому.  &gt; Предпочитаете ли вы создавать свои собственные рабочие процессы автоматизации для контента и социальных сетей или использовать существующий инструмент и настраивать его вокруг вашего рабочего процесса?    представленный   /u/Fuzzy-Bathroom-8190   [link][comments]&lt;]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1wumya7/how_are_you_automating_content_and_social_media/</guid>
+      <pubDate>Thu, 01 Oct 2026 01:44:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intercognix открывает новый рубеж между областями знаний</title>
+      <link>https://www.reddit.com/r/automation/comments/1wumdez/intercognix_introduces_a_new_frontier_for/</link>
+      <description><![CDATA[  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1wumdez/intercognix_introduces_a_new_frontier_for/</guid>
+      <pubDate>Thu, 01 Oct 2026 01:15:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Нужны предложения для простого инструмента ИИ</title>
+      <link>https://www.reddit.com/r/automation/comments/1wulft2/need_suggestions_for_a_simple_ai_tool/</link>
+      <description><![CDATA[Привет, ребята, я планирую создать простой инструмент ИИ для людей в этой нише, что-то, что может быть полезно людям, посещающим эту подлодку, и они хотят использовать его бесплатно, простой инструмент, который может помочь вам в вашей работе. Пожалуйста, поделитесь некоторыми простыми идеями, и я посмотрю, что я могу сделать.    представлено   /u/Ragingboomerang   ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1wulft2/need_suggestions_for_a_simple_ai_tool/</guid>
+      <pubDate>Thu, 01 Oct 2026 00:30:46 GMT</pubDate>
+    </item>
     <item>
       <title>Кто-нибудь пробовал looplabs.run для автоматизации и управления действиями агента?</title>
       <link>https://www.reddit.com/r/automation/comments/1wuk7c4/anyone_tried_looplabsrun_for_automation_and/</link>
@@ -32,13 +53,6 @@
       <description><![CDATA[  /u/RealOppasTV    &lt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1wu3e70/minimax_m31_flash_just_droppedand_its_actually/</guid>
       <pubDate>Wed, 30 Sep 2026 12:17:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apify стал слишком дорогим. Что делать?</title>
-      <link>https://www.reddit.com/r/automation/comments/1wu34q8/apify_became_too_expensive_what_to_do/</link>
-      <description><![CDATA[Я использовал Apify для получения профилей LinkedIn для моего конвейера ИИ. Актер, которого я использовал, стоил 15 долларов, а я платил около 30 долларов за использование. Недавно актер переключился на оплату за мероприятие, и в этом месяце мой счет составляет более 80 долларов. Что мне делать? У меня уже есть настрой и я довольна актером, поэтому не хочу переключаться. У кого-нибудь была такая же проблема? Любые альтернативные решения? Спасибо    представлено   /u/mmehmed    [comments]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1wu34q8/apify_became_too_expensive_what_to_do/</guid>
-      <pubDate>Wed, 30 Sep 2026 12:04:45 GMT</pubDate>
     </item>
     <item>
       <title>Какие роли ИИ по требованию вы можете в значительной степени сделать с помощью ИИ? В поисках своего дубля</title>
@@ -74,20 +88,6 @@
       <description><![CDATA[Я разговаривал со многими людьми, управляющими агентствами и консультантами по ИИ, и я продолжаю видеть ту же картину.  Агентство создает скользкую демонстрацию агента. Через три месяца он тихо перестает работать, и никто со стороны клиента не может его исправить. Это почти никогда не модель. Агент работает на грязных данных клиента: таблицы со статусами свободного текста, пять версий одного и того же клиента, CRM никто не обновляет. Демо работало над чистыми выборочными данными. Производство не чистое.  Так что мне неудобно. Многое из того, что продается как автоматизация ИИ, на самом деле является неоплачиваемым проектом очистки данных с чат-ботом сверху. Агентства, которые последними будут те, кто взимает плату за исправление данных и структуры в первую очередь, и относятся к агенту как к легкой части.  Несколько вопросов для людей, которые на самом деле делают это:   Сколько ваших сборок все еще работает 6 месяцев спустя, не прикасаясь к ним? У вас есть взимание платы за очистку данных?  У кого-то был взимание платы за сборку?     представлено  /u/jebssz  [comments]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1wtpinc/ai_agencies_are_selling_prompt_wrappers_that/</guid>
       <pubDate>Tue, 29 Sep 2026 23:28:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ahrefs Brand Radar AI визуализация данных в еженедельный автоматизированный отчет, что люди вводят в него</title>
-      <link>https://www.reddit.com/r/automation/comments/1wtmv1h/ahrefs_brand_radar_ai_visibility_data_into_a/</link>
-      <description><![CDATA[ У нас уже есть еженедельная работа, которая привлекает рейтинги и трафик в лист и публикует резюме в Slack. Теперь маркетингу нужна видимость ИИ в том же резюме, и источник, который они выбрали, — это Ahrefs Brand Radar. Моя часть - подключить его. Что меня волнует, так это быстрые данные об уровне, которые я могу передавать неделю за неделей, а не 1 балл. Что это за люди?    представлено   /u/UggsleyPaddams   [link]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1wtmv1h/ahrefs_brand_radar_ai_visibility_data_into_a/</guid>
-      <pubDate>Tue, 29 Sep 2026 21:34:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Интеркогникс Джея Гонту: Неизвестное между известным</title>
-      <link>https://www.reddit.com/r/automation/comments/1wthzx0/jay_gontus_intercognix_the_unknown_between_the/</link>
-      <description><![CDATA[  https://betterauds.com/tech/intercognix-jay-gontu/]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1wthzx0/jay_gontus_intercognix_the_unknown_between_the/</guid>
-      <pubDate>Tue, 29 Sep 2026 18:27:21 GMT</pubDate>
     </item>
     <item>
       <title>Что бы вы построили, если бы хотели сделать что-то действительно полезное?</title>

@@ -4,7 +4,14 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Thu, 01 Oct 2026 01:11:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 04:10:07 GMT</lastBuildDate>
+    <item>
+      <title>Добавление очень простых 3d вне стандартной операционной системы - плавающие точки и базовая 3d графика</title>
+      <link>https://www.reddit.com/r/programming/comments/1wumd96/adding_very_basic_3d_outside_of_a_standard/</link>
+      <description><![CDATA[  представлено    /u/eccsoheccsseven   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wumd96/adding_very_basic_3d_outside_of_a_standard/</guid>
+      <pubDate>Thu, 01 Oct 2026 01:15:28 GMT</pubDate>
+    </item>
     <item>
       <title>c++ примитивы уровня операционной системы 1</title>
       <link>https://www.reddit.com/r/programming/comments/1wulzdy/c_operating_system_level_primitives_1/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  представлено   /u/Jernesstar    [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wtfh4j/in_defense_of_the_visual_cortex/</guid>
       <pubDate>Tue, 29 Sep 2026 16:54:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java против Groovy: 7 отличий + что приносит Groovy 6.0</title>
-      <link>https://www.reddit.com/r/programming/comments/1wtb4qi/java_vs_groovy_7_differences_what_groovy_60_brings/</link>
-      <description><![CDATA[  представлено    /u/henk53   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wtb4qi/java_vs_groovy_7_differences_what_groovy_60_brings/</guid>
-      <pubDate>Tue, 29 Sep 2026 14:08:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
