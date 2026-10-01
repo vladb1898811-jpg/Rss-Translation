@@ -4,7 +4,35 @@
     <title>Новые материалы: webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>Сообщество, посвященное всем вещам веб-разработки: как front-end, так и back-end. Для получения дополнительных вопросов, связанных с дизайном, попробуйте /r/web design.</description>
-    <lastBuildDate>Thu, 01 Oct 2026 16:43:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 19:47:47 GMT</lastBuildDate>
+    <item>
+      <title>Новая модель системы 1.5 превосходит jev по длинному снимку на всех 4 базовых линиях и занимает 1 место на скамейке image jev (да, ее мультимодальный режим).</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wv8wbs/new_system_15_model_beats_jev_by_a_long_shot_on/</link>
+      <description><![CDATA[  представлено    /u/boneMechBoy69420   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wv8wbs/new_system_15_model_beats_jev_by_a_long_shot_on/</guid>
+      <pubDate>Thu, 01 Oct 2026 19:30:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Лучшая спонсорская сигнализация / бэкэнд-хостинг для проекта с открытым исходным кодом?</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wv8v7a/best_sponsorship_signalingbackend_hosting_for/</link>
+      <description><![CDATA[Так что в настоящее время у меня есть проект с открытым исходным кодом о p2p файлообмене и он получил 200 звезд на github. Проект с открытым исходным кодом размещается на azure, так как я получил 1 год для студента проблема в том, что он скоро закончится, поэтому мне нужно найти альтернативу бесплатному бэкэнд-хостингу. Знают ли ребята о бэкэнд-хостинге, который предлагает бесплатный проект с открытым исходным кодом? К сожалению, я замечаю, что цифровой океан больше не предлагает то, что странно или я ошибаюсь     представлено   /u/PotentialPast6344   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wv8v7a/best_sponsorship_signalingbackend_hosting_for/</guid>
+      <pubDate>Thu, 01 Oct 2026 19:29:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Обеспечение наилучших практик с Jev в качестве Linter с использованием простых английских правил</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wv88om/enforcing_best_practices_with_jev_as_a_linter/</link>
+      <description><![CDATA[       submitted by   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wv88om/enforcing_best_practices_with_jev_as_a_linter/</guid>
+      <pubDate>Thu, 01 Oct 2026 19:06:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Coinbase переходит от React Native к Swift и Kotlin</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wv66cr/coinbase_is_going_fully_native_moving_from_react/</link>
+      <description><![CDATA[       представленный   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wv66cr/coinbase_is_going_fully_native_moving_from_react/</guid>
+      <pubDate>Thu, 01 Oct 2026 17:48:33 GMT</pubDate>
+    </item>
     <item>
       <title>Построенные ChatNexus и Nexus One — бесплатные легкие инструменты ИИ на страницах GitHub! Нужны ваши отзывы.</title>
       <link>https://www.reddit.com/r/webdev/comments/1wuxvvx/built_chatnexus_and_nexus_one_free_lightweight_ai/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[ За последние один-два месяца я заметил всплеск сканирования уязвимостей, возможно, в 10 раз больше, чем я наблюдал раньше. Дело в том, что это началось почти сразу, что странно, и я наблюдаю это на нескольких доменных именах. Это только я? Если нет, какие-либо указания относительно того, что происходит?    представлено   /u/svvnguy   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1wtyzi2/increased_vulnerability_scanning_activity_in_the/</guid>
       <pubDate>Wed, 30 Sep 2026 07:54:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Хранение изображений для истории чата</title>
-      <link>https://www.reddit.com/r/webdev/comments/1wts8xp/image_storage_for_chat_history/</link>
-      <description><![CDATA[Я работаю над чат-ботом электронной коммерции, который помогает потенциальным клиентам искать товарный запас. Эти пользователи могут быть кем угодно на сайте электронной коммерции и будут отправлять фотографии того, что они ищут. Чат-бот возвращает предложенные продукты.  Мой вопрос касается хранения предоставленных клиентом изображений. Я планирую хранить их в ведре Cloudflare r2, но пытаюсь решить, использовать ли кэш или использовать прямые URL-адреса ведра r2 для добавления изображения в чат после его загрузки. Преимущество кэширования заключается в том, что запросы на изображение, скорее всего, не будут касаться r2 (хотя объем запросов на каждое изображение, вероятно, будет довольно низким). Недостатком кэширования является то, что эти файлы будут доступны любому, у кого есть URL, пока они не будут удалены. Другим вариантом будет предварительно подписанный URL-адрес r2, который может быть настроен на инактивацию через несколько дней для предотвращения несанкционированного доступа к изображению. Недостатком будут прямые запросы на r2, но опять же объем должен быть низким, так как использование на самом деле только для этого конкретного чата. Что было бы лучшим подходом для этого? Я также открыт для использования других платформ хранения, если есть лучший вариант.    представлено   /u/rouge818   [link]&gt;   [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1wts8xp/image_storage_for_chat_history/</guid>
-      <pubDate>Wed, 30 Sep 2026 01:36:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Я сдал экзамен испанского пилота IAAP CPACC. Вот как я готовился и как это происходило.</title>
-      <link>https://www.reddit.com/r/webdev/comments/1wtmte3/i_took_the_iaap_cpacc_spanish_pilot_exam_here_is/</link>
-      <description><![CDATA[   /u/jonathanlinat    [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1wtmte3/i_took_the_iaap_cpacc_spanish_pilot_exam_here_is/</guid>
-      <pubDate>Tue, 29 Sep 2026 21:32:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Советы по первой роли в офисе Web Dev?</title>
-      <link>https://www.reddit.com/r/webdev/comments/1wtmhkc/advice_on_first_inoffice_web_dev_role/</link>
-      <description><![CDATA[Привет всем, Как говорится в заголовке, я на следующей неделе начну свою первую в офисе роль веб-разработчика! Довольно возбужденный, но и нервный, и, конечно, с синдромом самозванца. Я буду единственным разработчиком, и это будет мой первый раз, когда я работаю в офисе (я ранее только работал фрилансером).   Мне было интересно, есть ли у кого-либо какие-либо советы или конкретные вещи, на которые следует обратить внимание при запуске новой работы веб-разработчика?   Спасибо!     представлено   /u/tacoman756   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1wtmhkc/advice_on_first_inoffice_web_dev_role/</guid>
-      <pubDate>Tue, 29 Sep 2026 21:19:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Devs, которые все еще кодируют и / или работают с AI, каково ваше мнение о будущем разработчиков?</title>
-      <link>https://www.reddit.com/r/webdev/comments/1wtjes5/devs_that_are_still_coding_andor_with_ai/</link>
-      <description><![CDATA[Привет всем, Я разработчик полного стека, я работал со многими фреймворками, но кажется, что кодирование вручную больше не так ценно.  Где вы видите разницу между Devs, которые кодируют вручную (не менее 75%) в следующем году, и теми, кто кодирует целые приложения? Лично я любил кодировать вручную со страстью, но мы не должны игнорировать ИИ, поскольку он становится нашим исчезновением. Кроме требований человеческой ответственности, таких как исправление ошибок (на самом деле знание кода), инфраструктура, надежность и т.д. Как вы можете процветать как разработчик в сегодняшние времена или вы покинули поле?    представлено   /u/drifterpreneurs   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1wtjes5/devs_that_are_still_coding_andor_with_ai/</guid>
-      <pubDate>Tue, 29 Sep 2026 19:20:41 GMT</pubDate>
     </item>
     </channel>
 </rss>

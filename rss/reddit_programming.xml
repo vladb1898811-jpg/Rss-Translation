@@ -4,27 +4,27 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Thu, 01 Oct 2026 16:32:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 19:36:09 GMT</lastBuildDate>
+    <item>
+      <title>Мне надоело создавать местную среду, чтобы проверить идею WriteCode.in.</title>
+      <link>https://www.reddit.com/r/programming/comments/1wv6p5u/i_got_tired_of_setting_up_a_local_environment/</link>
+      <description><![CDATA[  представлено    /u/saitharunreddy   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wv6p5u/i_got_tired_of_setting_up_a_local_environment/</guid>
+      <pubDate>Thu, 01 Oct 2026 18:08:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Выходят новые версии Python, 3.10.x достигает EOL (а 3.15.0 запланирован на сегодня)!</title>
+      <link>https://www.reddit.com/r/programming/comments/1wv4hph/new_python_releases_are_out_310x_reaches_eol_and/</link>
+      <description><![CDATA[ Новые релизы, анонсированные сегодня, включая EOL для 3.10.x: https://blog.python.org/2026/10/python-31022-31117/  Примечание: В посте выше не упоминается 3.15 - предполагая, что они сделают отдельный пост позже сегодня, когда это выйдет.    представлено   /u/initcommit   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wv4hph/new_python_releases_are_out_310x_reaches_eol_and/</guid>
+      <pubDate>Thu, 01 Oct 2026 16:45:33 GMT</pubDate>
+    </item>
     <item>
       <title>Все переговоры Rails World 2026 теперь онлайн</title>
       <link>https://www.reddit.com/r/programming/comments/1wv3nxy/all_the_rails_world_2026_talks_are_now_online/</link>
       <description><![CDATA[DHH&#39;s Rails World talk получил здесь довольно много внимания, но на конференции было много событий, которые он не освещал.  Все остальные переговоры Rails World 2026 теперь тоже онлайн. Солидный кабель, горячая ячейка, трава в Rails 8.2, Активный поиск, безопасность реактора, Lexxy, MCP, шардинг, пользовательские генераторы... и еще куча информации о том, куда направляются Ruby и Rails. Полный плейлист: /u/robbyrussell   [link] [comments&gt;]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wv3nxy/all_the_rails_world_2026_talks_are_now_online/</guid>
       <pubDate>Thu, 01 Oct 2026 16:14:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>htp объяснил</title>
-      <link>https://www.reddit.com/r/programming/comments/1wv3b0p/htop_explained/</link>
-      <description><![CDATA[  представлено    /u/fagnerbrack   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wv3b0p/htop_explained/</guid>
-      <pubDate>Thu, 01 Oct 2026 16:00:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Вам трудно понять Git?</title>
-      <link>https://www.reddit.com/r/programming/comments/1wv15cf/do_you_have_a_hard_time_understanding_git/</link>
-      <description><![CDATA[Hello Git Community!  Как преподаватель, я знаю, как важно делиться знаниями. Вот почему я рад поделиться всеобъемлющим Git Cheat Sheet, который я создал. Он доступен как PDF и PNG. Это совершенно бесплатно, без регистрации по электронной почте или каких-либо других требований. Этот чит-лист является частью моего подробного блога / серии о Git. Вот ссылка: https://devopscycle.com/blog/the-ultimate-git-cheat-sheet Он проходит через основы Git, включая обязательства, ветви, слияния и пульты. Пост также включает в себя репозиторий public GitHub. Он поставляется со всем исходным кодом, доступным для всех, чтобы использовать и учиться. Это отличная отправная точка для внутреннего хакатона в вашем университете. Если вам нравится пост в блоге, Git Cheat Sheet или репозиторий GitHub, я был бы признателен, если вы поделитесь им. Ваши отзывы и опыт всегда приветствуются. Давайте учиться и расти вместе! Cheers,  Mr LA    представлено   /u/Mr LA   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wv15cf/do_you_have_a_hard_time_understanding_git/</guid>
-      <pubDate>Thu, 01 Oct 2026 14:37:59 GMT</pubDate>
     </item>
     <item>
       <title>Второй золотой шип: безопасность памяти через границу Валена и Руста</title>
