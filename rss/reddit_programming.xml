@@ -4,7 +4,14 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Thu, 01 Oct 2026 10:31:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:42:23 GMT</lastBuildDate>
+    <item>
+      <title>Готовность к результатам 2026 года: взгляд на результаты опроса разработчиков</title>
+      <link>https://www.reddit.com/r/programming/comments/1wuwzxc/getting_ready_for_2026_results_a_look_back_on/</link>
+      <description><![CDATA[  представлено    /u/mindondrugs    [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wuwzxc/getting_ready_for_2026_results_a_look_back_on/</guid>
+      <pubDate>Thu, 01 Oct 2026 11:30:55 GMT</pubDate>
+    </item>
     <item>
       <title>Добавление очень простых 3d вне стандартной операционной системы - плавающие точки и базовая 3d графика</title>
       <link>https://www.reddit.com/r/programming/comments/1wumd96/adding_very_basic_3d_outside_of_a_standard/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  представлено    /u/djminikin   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wth2ti/cargocrap_triaging_duplicates_with_typesafe/</guid>
       <pubDate>Tue, 29 Sep 2026 17:54:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>В защиту визуального кортекса</title>
-      <link>https://www.reddit.com/r/programming/comments/1wtfh4j/in_defense_of_the_visual_cortex/</link>
-      <description><![CDATA[  представлено   /u/Jernesstar    [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wtfh4j/in_defense_of_the_visual_cortex/</guid>
-      <pubDate>Tue, 29 Sep 2026 16:54:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,21 @@
     <title>Новые материалы: webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>Сообщество, посвященное всем вещам веб-разработки: как front-end, так и back-end. Для получения дополнительных вопросов, связанных с дизайном, попробуйте /r/web design.</description>
-    <lastBuildDate>Thu, 01 Oct 2026 10:42:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:53:58 GMT</lastBuildDate>
+    <item>
+      <title>Что вы думаете об этом конкретном дизайне?</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wuz5ob/what_do_you_think_about_this_particular_design/</link>
+      <description><![CDATA[   Youtube Music решает не добавлять типичную подобную кнопку в интерфейс, которую легко нажать, вместо этого она решила скрыть ее в этом контекстном меню вместе со всеми другими опциями. Что вы думаете об этом?  Друг, который является поклонником Google, говорит, что они, вероятно, специально добавили трение, по какой-то причине им полезно, чтобы пользователям было труднее любить песни. Может быть, потому что им нравятся только те песни, которые им нравятся? Может быть, потому, что это заставляет их слушать дольше? (Он также недавно признался после просмотра некоторых странных решений, что Google, вероятно, теперь полностью управляется роботами) На следующем изображении. Когда вам нравится песня, она показывает всплывающее окно внизу слева, напоминающее вам, что вам понравилась песня. Это всплывающее окно не закрывается автоматически, вы должны закрыть его вручную.  Что вы думаете об этом?  Я понимаю, что ссылка, которую он предоставляет, может быть полезна, чтобы быстро перейти к любимым песням, но может также легко перейти к любимым песням всегда. Мне просто больно от ОКР, мне кажется, что этого никогда не должно быть.    представлено    /u/NoYouDidLaugh   [link] [comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wuz5ob/what_do_you_think_about_this_particular_design/</guid>
+      <pubDate>Thu, 01 Oct 2026 13:15:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ежемесячный старт / Карьера Web Dev</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wuxkge/monthly_getting_started_web_dev_career_thread/</link>
+      <description><![CDATA[ В связи с растущим наплывом вопросов по этой теме было принято решение о выделении ежемесячной ветки, посвященной этой теме, для сокращения количества повторных постов по этой теме. Эти типы сообщений больше не будут разрешены в основной ветке.  Многие из этих вопросов также рассматриваются в подразделе FAQ или могут быть заданы в предыдущие ежемесячные темы карьеры для общих и открытых вопросов карьеры и Common Design Patterns   Вам также понадобится портфолио работ с 4-5 созданными вами личными проектами и резюме / резюме для подачи заявки на работу. План на 6-12 месяцев самостоятельного изучения и производства проекта для вашего портфолио перед подачей заявки на работу.    представленный   /u/AutoModerator   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wuxkge/monthly_getting_started_web_dev_career_thread/</guid>
+      <pubDate>Thu, 01 Oct 2026 12:00:32 GMT</pubDate>
+    </item>
     <item>
       <title>Обмен активами</title>
       <link>https://www.reddit.com/r/webdev/comments/1wur4n5/vite_asset_bundling/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[Привет всем, Я разработчик полного стека, я работал со многими фреймворками, но кажется, что кодирование вручную больше не так ценно.  Где вы видите разницу между Devs, которые кодируют вручную (не менее 75%) в следующем году, и теми, кто кодирует целые приложения? Лично я любил кодировать вручную со страстью, но мы не должны игнорировать ИИ, поскольку он становится нашим исчезновением. Кроме требований человеческой ответственности, таких как исправление ошибок (на самом деле знание кода), инфраструктура, надежность и т.д. Как вы можете процветать как разработчик в сегодняшние времена или вы покинули поле?    представлено   /u/drifterpreneurs   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1wtjes5/devs_that_are_still_coding_andor_with_ai/</guid>
       <pubDate>Tue, 29 Sep 2026 19:20:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Движение из Китая?</title>
-      <link>https://www.reddit.com/r/webdev/comments/1wtesq4/traffic_from_china/</link>
-      <description><![CDATA[     Несколько месяцев назад я опубликовал свой нечетный трафик из Китая, задаваясь вопросом, есть ли у кого-то еще и возможность того, что это боты. Я никогда от него не избавлялся. Я нахожу это сбивающим с толку, потому что это было не в тысячах в день, как другие боты, которые у меня были раньше. Раньше он происходил из одного конкретного города, Ланчжоу. Внезапно он перешел в Гонконг. Я думаю, что это не боты. Я думаю, что Китай действительно позволяет посетителям моего сайта (Databayou.com). Он просто направляет город в определенное место. Кто-нибудь это заметил?    представлено   /u/No Statement 3317   [link]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1wtesq4/traffic_from_china/</guid>
-      <pubDate>Tue, 29 Sep 2026 16:29:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Введение в другие интерфейсные рамки должно быть добавлено</title>
-      <link>https://www.reddit.com/r/webdev/comments/1wtcpxh/intro_to_other_frontend_frameworks_should_be_added/</link>
-      <description><![CDATA[      /u/AnotherNamelessFella   [link]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1wtcpxh/intro_to_other_frontend_frameworks_should_be_added/</guid>
-      <pubDate>Tue, 29 Sep 2026 15:11:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
