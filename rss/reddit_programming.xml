@@ -4,7 +4,49 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Thu, 01 Oct 2026 13:42:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:32:45 GMT</lastBuildDate>
+    <item>
+      <title>Все переговоры Rails World 2026 теперь онлайн</title>
+      <link>https://www.reddit.com/r/programming/comments/1wv3nxy/all_the_rails_world_2026_talks_are_now_online/</link>
+      <description><![CDATA[DHH&#39;s Rails World talk получил здесь довольно много внимания, но на конференции было много событий, которые он не освещал.  Все остальные переговоры Rails World 2026 теперь тоже онлайн. Солидный кабель, горячая ячейка, трава в Rails 8.2, Активный поиск, безопасность реактора, Lexxy, MCP, шардинг, пользовательские генераторы... и еще куча информации о том, куда направляются Ruby и Rails. Полный плейлист: /u/robbyrussell   [link] [comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wv3nxy/all_the_rails_world_2026_talks_are_now_online/</guid>
+      <pubDate>Thu, 01 Oct 2026 16:14:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>htp объяснил</title>
+      <link>https://www.reddit.com/r/programming/comments/1wv3b0p/htop_explained/</link>
+      <description><![CDATA[  представлено    /u/fagnerbrack   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wv3b0p/htop_explained/</guid>
+      <pubDate>Thu, 01 Oct 2026 16:00:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Вам трудно понять Git?</title>
+      <link>https://www.reddit.com/r/programming/comments/1wv15cf/do_you_have_a_hard_time_understanding_git/</link>
+      <description><![CDATA[Hello Git Community!  Как преподаватель, я знаю, как важно делиться знаниями. Вот почему я рад поделиться всеобъемлющим Git Cheat Sheet, который я создал. Он доступен как PDF и PNG. Это совершенно бесплатно, без регистрации по электронной почте или каких-либо других требований. Этот чит-лист является частью моего подробного блога / серии о Git. Вот ссылка: https://devopscycle.com/blog/the-ultimate-git-cheat-sheet Он проходит через основы Git, включая обязательства, ветви, слияния и пульты. Пост также включает в себя репозиторий public GitHub. Он поставляется со всем исходным кодом, доступным для всех, чтобы использовать и учиться. Это отличная отправная точка для внутреннего хакатона в вашем университете. Если вам нравится пост в блоге, Git Cheat Sheet или репозиторий GitHub, я был бы признателен, если вы поделитесь им. Ваши отзывы и опыт всегда приветствуются. Давайте учиться и расти вместе! Cheers,  Mr LA    представлено   /u/Mr LA   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wv15cf/do_you_have_a_hard_time_understanding_git/</guid>
+      <pubDate>Thu, 01 Oct 2026 14:37:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Второй золотой шип: безопасность памяти через границу Валена и Руста</title>
+      <link>https://www.reddit.com/r/programming/comments/1wv0fjv/the_second_golden_spike_memory_safety_across_the/</link>
+      <description><![CDATA[  представлено    /u/verdagon   [link] ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wv0fjv/the_second_golden_spike_memory_safety_across_the/</guid>
+      <pubDate>Thu, 01 Oct 2026 14:09:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Себастьян Лаг] - Я пытался сделать ручку, чтобы нарисовать карты Луны</title>
+      <link>https://www.reddit.com/r/programming/comments/1wv04z9/sebastian_lague_i_tried_making_a_pen_plotter_to/</link>
+      <description><![CDATA[  представлено    /u/Pink401k   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wv04z9/sebastian_lague_i_tried_making_a_pen_plotter_to/</guid>
+      <pubDate>Thu, 01 Oct 2026 13:57:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>C64 Mercenary: новый эксплойт-баг в 41-летней игре</title>
+      <link>https://www.reddit.com/r/programming/comments/1wuzsdv/c64_mercenary_a_novel_exploit_bug_in_a_41yearold/</link>
+      <description><![CDATA[  представлено    /u/a1r   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wuzsdv/c64_mercenary_a_novel_exploit_bug_in_a_41yearold/</guid>
+      <pubDate>Thu, 01 Oct 2026 13:43:07 GMT</pubDate>
+    </item>
     <item>
       <title>Готовность к результатам 2026 года: взгляд на результаты опроса разработчиков</title>
       <link>https://www.reddit.com/r/programming/comments/1wuwzxc/getting_ready_for_2026_results_a_look_back_on/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[ Первая версия, когда мне было 16 лет, была нацелена на то, чтобы простые сообщения преобразовывались в непонятные текстовые корпусы, а алгоритм позволял отображать множество выводов на один и тот же вход. Недавно я обновил его с помощью закрытых ключей и сопротивления частотной атаке, чтобы его можно было назвать шифрованием (обращение к аллитерации)     представлено    /u/ ILoveSaturdays   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wuaa7s/nondeterministic_encryption_method/</guid>
       <pubDate>Wed, 30 Sep 2026 16:57:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Автоматические усовершенствования типов</title>
-      <link>https://www.reddit.com/r/programming/comments/1wtyphe/on_automatic_type_refinements/</link>
-      <description><![CDATA[  представлено    /u/radekmie   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wtyphe/on_automatic_type_refinements/</guid>
-      <pubDate>Wed, 30 Sep 2026 07:36:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Слушайте  they theo theu ther the  theu thes thee ther thes the Redditors</title>
-      <link>https://www.reddit.com/r/programming/comments/1wtyfil/listen_to_your_users_the_redditors/</link>
-      <description><![CDATA[Следуйте за https://www.incredible.rs/blog/tui-games-in-80x24.html&gt;https://www.incredible.rs/blog/tui-games-in-80x24.html&lt;  представленный  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wtyfil/listen_to_your_users_the_redditors/</guid>
-      <pubDate>Wed, 30 Sep 2026 07:18:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Каждый должен знать SIMD</title>
-      <link>https://www.reddit.com/r/programming/comments/1wtv3vb/everyone_should_know_simd/</link>
-      <description><![CDATA[  представлено    /u/fagnerbrack   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wtv3vb/everyone_should_know_simd/</guid>
-      <pubDate>Wed, 30 Sep 2026 04:00:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zero-Growth Stack, Real Gains: как распределение стека может сэкономить 10% процессора в Go</title>
-      <link>https://www.reddit.com/r/programming/comments/1wtnwfs/zerogrowth_stack_real_gains_how_stack_allocation/</link>
-      <description><![CDATA[  представлено   /u/Ok Stomach6651   [link][comments&gt;]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wtnwfs/zerogrowth_stack_real_gains_how_stack_allocation/</guid>
-      <pubDate>Tue, 29 Sep 2026 22:16:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Проектирование высокопроизводительных матричных макетов памяти в Rust</title>
-      <link>https://www.reddit.com/r/programming/comments/1wtii9n/designing_highperformance_matrix_memory_layouts/</link>
-      <description><![CDATA[  представлено    /u/TechnologySubject259   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wtii9n/designing_highperformance_matrix_memory_layouts/</guid>
-      <pubDate>Tue, 29 Sep 2026 18:46:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Оригинальное название: Triaging Duplicates with TypeSafe</title>
-      <link>https://www.reddit.com/r/programming/comments/1wth2ti/cargocrap_triaging_duplicates_with_typesafe/</link>
-      <description><![CDATA[  представлено    /u/djminikin   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wth2ti/cargocrap_triaging_duplicates_with_typesafe/</guid>
-      <pubDate>Tue, 29 Sep 2026 17:54:02 GMT</pubDate>
     </item>
     </channel>
 </rss>

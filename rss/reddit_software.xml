@@ -4,7 +4,14 @@
     <title>Новые материалы: программное обеспечение</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>Все, что связано с программным обеспечением. Пожалуйста, следуйте нашим правилам, чтобы избежать наказания.</description>
-    <lastBuildDate>Thu, 01 Oct 2026 13:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:31:19 GMT</lastBuildDate>
+    <item>
+      <title>Инструмент с открытым исходным кодом для безопасного протирания свободного дискового пространства в Windows 11</title>
+      <link>https://www.reddit.com/r/software/comments/1wv2fdf/opensource_tool_for_securely_wiping_free_disk/</link>
+      <description><![CDATA[ Кто-нибудь знает хороший инструмент Windows 11, предпочтительно с открытым исходным кодом, который может безопасно стирать или перезаписывать свободное дисковое пространство?    представленный   /u/Nilex-x    [link]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wv2fdf/opensource_tool_for_securely_wiping_free_disk/</guid>
+      <pubDate>Thu, 01 Oct 2026 15:27:20 GMT</pubDate>
+    </item>
     <item>
       <title>Программное обеспечение ERP для аэрокосмической компании среднего размера (ITAR)</title>
       <link>https://www.reddit.com/r/software/comments/1wuym5r/erp_software_suggestions_for_a_medium_sized/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  представлено   /u/Additional-Amoeba-31    [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1wuim0z/hey_my_app_glassdesk_is_now_available_on_the/</guid>
       <pubDate>Wed, 30 Sep 2026 22:20:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Какое программное обеспечение я должен использовать, если я хочу самостоятельно разместить свой собственный канал IPTV?</title>
-      <link>https://www.reddit.com/r/software/comments/1wuikfz/what_software_should_i_use_if_i_want_to_casually/</link>
-      <description><![CDATA[Я думал, что было бы весело сделать свой собственный телеканал. Я бы хотел что-то, что забирает мои видеофайлы, позволяет мне запрограммировать расписание, а затем позволяет ему работать автоматически. Бонусные баллы, если я могу вставить антракты для «надлежащего телевизионного опыта».  Это что-то, что существует вне профессионального программного обеспечения? Предпочтительно с открытым исходным кодом? В детстве я помню, как смотрела, по крайней мере, один супер-маленький веб-телевизор, хозяйка какого-то форума, показывая все фильмы, которые они хотели, поэтому я предполагаю, что это вещь, доступная для людей, верно? Это было бы просто для меня и, может быть, для моих друзей.    представлено   /u/WorkingMansGarbage   [link]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wuikfz/what_software_should_i_use_if_i_want_to_casually/</guid>
-      <pubDate>Wed, 30 Sep 2026 22:18:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
