@@ -4,7 +4,21 @@
     <title>Искусственный интеллект</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>Высокосигнальный хаб для искусственного интеллекта!</description>
-    <lastBuildDate>Thu, 01 Oct 2026 03:10:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 06:12:26 GMT</lastBuildDate>
+    <item>
+      <title>Меркурий выпустил Mercury Decide, я сравнил его.</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wur5v1/mercury_released_mercury_decide_i_benchmarked_it/</link>
+      <description><![CDATA[Опять же, я не уроженец английского языка, ожидайте опечатку. Позвольте мне начать с Точности, основной балл бенчмарка. Jev 83,3% Solar Decide 57,8% Kev 72,2%Mercury Decide 66,7%  Но это не обычный бенчмарк, он использует незагрязненный корейский набор данных.   Dataset &amp; Больше информации  Он ориентирован на точечный анализ noul в реальном случае отчета чата.  Первая таблица - True/False Positive/Negative с порогом 0,5.  Система, основанная на этом эталоне, запрещает репортеру, если отчет является недействительным (отрицательным), поэтому важно снизить ложный негатив при фильтрации истинного негатива. Jev сделал ложный негатив для 3 из 90, в то время как Mercury Decide сделал 28.  Вторая таблица - это количество ложноотрицательного на разных порогах, чтобы найти наилучший баланс. Посмотрите на неловкий результат в Mercury Decide, он, вероятно, скажет &quot;нет&quot; почти в каждом возможном случае отчета, хуже, чем Kev. Наконец, ни одна модель принятия решений API пока не является «стабильной», чем Jev. Этот бенчмарк очень ориентирован на указанное использование: Понимание корейского слова и решение о том, нарушает ли журнал чата Roblox ToS.    представлено   /u/FlexDruk    [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wur5v1/mercury_released_mercury_decide_i_benchmarked_it/</guid>
+      <pubDate>Thu, 01 Oct 2026 05:29:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Что такое рв для пограничных лабораторий, таких как openAI и антропные</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wupame/what_is_the_moat_for_the_frontier_labs_like/</link>
+      <description><![CDATA[ С Google, Spacex и моделями с открытым весом, я действительно не понимаю, что у этих компаний есть. Похоже, что Google и Meta в конечном итоге выиграют из-за их распространения. Что мне здесь не хватает?    представлено   /u/gizman95    [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wupame/what_is_the_moat_for_the_frontier_labs_like/</guid>
+      <pubDate>Thu, 01 Oct 2026 03:44:42 GMT</pubDate>
+    </item>
     <item>
       <title>Калифорния запретила использовать ИИ для мониторинга мозгов и эмоций работников</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wuluhg/california_bans_using_ai_to_monitor_workers/</link>
@@ -20,13 +34,6 @@
       <pubDate>Wed, 30 Sep 2026 22:55:20 GMT</pubDate>
     </item>
     <item>
-      <title>Пентагон строит четырехзвездочное командование для автономной войны, а Илон Маск поможет спланировать свои будущие войны</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wuh98m/the_pentagon_is_building_a_fourstar_command_for/</link>
-      <description><![CDATA[ Пентагон строит четырехзвездочное командование для автономной войны, а Илон Маск поможет планировать свои будущие войны. Трамп хочет, чтобы его приятель Илон снова помог... Что может пойти не так...    представлено   /u/ross2000   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wuh98m/the_pentagon_is_building_a_fourstar_command_for/</guid>
-      <pubDate>Wed, 30 Sep 2026 21:23:38 GMT</pubDate>
-    </item>
-    <item>
       <title>Meta ответила после того, как Muse AI дал домашний адрес незнакомца на Facebook Marketplace</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wuh8cj/meta_responds_after_muse_ai_gave_stranger/</link>
       <description><![CDATA[  представлено   /u/IndicaOatmeal    [link] [comments]]]></description>
@@ -39,13 +46,6 @@
       <description><![CDATA[  представлено    /u/coinfanking    [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wua8fk/president_trump_orders_federal_agencies_to/</guid>
       <pubDate>Wed, 30 Sep 2026 16:55:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI CEO Panel (2026)</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wu6y8m/ai_ceo_panel_2026_satire/</link>
-      <description><![CDATA[Интервью с лидерами ИИ, подписавшими &quot;конституционное&quot; обязательство с Дарио Амодэем, Сундаром Пичаи, Дженсеном Хуангом - транслировалось на © Генеральный директор AI 2026.  Источник: /u/ProgrammingMamba189   [link] [comments&gt;]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wu6y8m/ai_ceo_panel_2026_satire/</guid>
-      <pubDate>Wed, 30 Sep 2026 14:49:53 GMT</pubDate>
     </item>
     <item>
       <title>Вопрос: Кто должен быть привлечен к ответственности, когда агенты ИИ совершают преступление? Трамп: Это не ИИ. Это Си. Сегодня мы официально изменили название.</title>
