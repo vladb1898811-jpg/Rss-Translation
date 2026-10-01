@@ -4,7 +4,28 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Wed, 30 Sep 2026 22:34:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 01:11:36 GMT</lastBuildDate>
+    <item>
+      <title>c++ примитивы уровня операционной системы 1</title>
+      <link>https://www.reddit.com/r/programming/comments/1wulzdy/c_operating_system_level_primitives_1/</link>
+      <description><![CDATA[  представлено    /u/wizard creator seth   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wulzdy/c_operating_system_level_primitives_1/</guid>
+      <pubDate>Thu, 01 Oct 2026 00:57:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Распределение памяти по страницам таблицы</title>
+      <link>https://www.reddit.com/r/programming/comments/1wulcti/page_table_memory_consumption/</link>
+      <description><![CDATA[  представлено    /u/andreiross   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wulcti/page_table_memory_consumption/</guid>
+      <pubDate>Thu, 01 Oct 2026 00:26:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Что может и не может проверить TLA+</title>
+      <link>https://www.reddit.com/r/programming/comments/1wuja3f/what_tla_can_and_cant_check/</link>
+      <description><![CDATA[  представлено   /u/mttd   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wuja3f/what_tla_can_and_cant_check/</guid>
+      <pubDate>Wed, 30 Sep 2026 22:50:32 GMT</pubDate>
+    </item>
     <item>
       <title>Это ошибка ядра! Обработка пользовательских ошибок страниц с помощью bpf fault</title>
       <link>https://www.reddit.com/r/programming/comments/1wugn5a/its_the_kernels_fault_custom_page_fault_handling/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>OpenZL v0.2 - декомпрессия в 2 раза быстрее, чем Zstandard</title>
       <link>https://www.reddit.com/r/programming/comments/1wuf5lf/openzl_v02_decompression_2x_faster_than_zstandard/</link>
-      <description><![CDATA[  представлено    /u/aqrit    [link] [comments]]]></description>
+      <description><![CDATA[  представлено   /u/aqrit   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wuf5lf/openzl_v02_decompression_2x_faster_than_zstandard/</guid>
       <pubDate>Wed, 30 Sep 2026 19:59:59 GMT</pubDate>
     </item>
@@ -43,7 +64,7 @@
     <item>
       <title>Слушайте  they theo theu ther the  theu thes thee ther thes the Redditors</title>
       <link>https://www.reddit.com/r/programming/comments/1wtyfil/listen_to_your_users_the_redditors/</link>
-      <description><![CDATA[Следуйте за https://www.incredible.rs/blog/tui-games-in-80x24.html&gt;https://www.incredible.rs/blog/tui-games-in-80x24.html&lt;  представленный  ]]></description>
+      <description><![CDATA[Следуйте за https://www.incredible.rs/blog/tui-games-in-80x24.html&gt;https://www.incredible.rs/blog/tui-games-in-80x24.html&lt; , представленный  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wtyfil/listen_to_your_users_the_redditors/</guid>
       <pubDate>Wed, 30 Sep 2026 07:18:23 GMT</pubDate>
     </item>
@@ -85,30 +106,9 @@
     <item>
       <title>Java против Groovy: 7 отличий + что приносит Groovy 6.0</title>
       <link>https://www.reddit.com/r/programming/comments/1wtb4qi/java_vs_groovy_7_differences_what_groovy_60_brings/</link>
-      <description><![CDATA[  представлено   /u/henk53   [link] [comments]]]></description>
+      <description><![CDATA[  представлено    /u/henk53   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wtb4qi/java_vs_groovy_7_differences_what_groovy_60_brings/</guid>
       <pubDate>Tue, 29 Sep 2026 14:08:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>девять пакетов npm для доставки червя, который распространился сам по себе</title>
-      <link>https://www.reddit.com/r/programming/comments/1wt8odk/nine_npm_packages_shipping_worm_that_spread_by/</link>
-      <description><![CDATA[  представлено    /u/BattleRemote3157  [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wt8odk/nine_npm_packages_shipping_worm_that_spread_by/</guid>
-      <pubDate>Tue, 29 Sep 2026 12:23:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Нужен 1+1, построен функциональный язык программирования</title>
-      <link>https://www.reddit.com/r/programming/comments/1wsx9fe/needed_11_built_a_functional_programming_language/</link>
-      <description><![CDATA[  представлено    /u/GenericAHHyoutuber   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wsx9fe/needed_11_built_a_functional_programming_language/</guid>
-      <pubDate>Tue, 29 Sep 2026 01:43:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Поддержка родной ржавчины в рабочих с новой целью Emscripten для васм-биндгена</title>
-      <link>https://www.reddit.com/r/programming/comments/1wsv1tt/supporting_native_rust_in_workers_with_the_new/</link>
-      <description><![CDATA[  представлено    /u/Ok Stomach6651   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wsv1tt/supporting_native_rust_in_workers_with_the_new/</guid>
-      <pubDate>Mon, 28 Sep 2026 23:59:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
