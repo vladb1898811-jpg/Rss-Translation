@@ -4,7 +4,14 @@
     <title>Обнимая лицо - Блог</title>
     <link>https://huggingface.co/blog</link>
     <description>Блог The Hugging Face</description>
-    <lastBuildDate>Thu, 01 Oct 2026 15:09:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 06:10:18 GMT</lastBuildDate>
+    <item>
+      <title>AutoSynthData: создание обучающих данных для корпоративных агентов</title>
+      <link>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</guid>
+      <pubDate>Fri, 02 Oct 2026 04:01:31 GMT</pubDate>
+    </item>
     <item>
       <title>Внедрение Olmo-core 3: открытая масштабируемая инфраструктура обучения для крупных МЧС</title>
       <link>https://huggingface.co/blog/allenai/olmocore3</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/Hcompany/neomme</guid>
       <pubDate>Thu, 03 Sep 2026 13:13:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Точная настройка модели 350M для улучшения структурированных результатов в 100 шагах GRPO</title>
-      <link>https://huggingface.co/blog/grpo-with-trl-ifstruct</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/grpo-with-trl-ifstruct</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

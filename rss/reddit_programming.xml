@@ -4,7 +4,14 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Fri, 02 Oct 2026 04:46:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 07:41:55 GMT</lastBuildDate>
+    <item>
+      <title>Post-Quantum Cryptography Resource Hub</title>
+      <link>https://www.reddit.com/r/programming/comments/1wvncok/postquantum_cryptography_resource_hub/</link>
+      <description><![CDATA[  представлено   /u/donutloop   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wvncok/postquantum_cryptography_resource_hub/</guid>
+      <pubDate>Fri, 02 Oct 2026 07:17:15 GMT</pubDate>
+    </item>
     <item>
       <title>Роберт Сикорд: «Небезопасная ржавчина» (2026)</title>
       <link>https://www.reddit.com/r/programming/comments/1wvf5qb/robert_seacord_unsafe_rust_rustconf_2026/</link>
@@ -13,16 +20,16 @@
       <pubDate>Thu, 01 Oct 2026 23:57:25 GMT</pubDate>
     </item>
     <item>
-      <title>Выпущены новые версии Python, 3.10.x достигает EOL (а 3.15.0 запланирован на сегодня)!</title>
+      <title>Выходят новые версии Python, 3.10.x достигает EOL (а 3.15.0 запланирован на сегодня)!</title>
       <link>https://www.reddit.com/r/programming/comments/1wv4hph/new_python_releases_are_out_310x_reaches_eol_and/</link>
-      <description><![CDATA[ Новые релизы, анонсированные сегодня, включая EOL для 3.10.x: https://blog.python.org/2026/10/python-31022-31117/  Примечание: В посте выше не упоминается 3.15 - предполагая, что они сделают отдельный пост позже сегодня, когда это выйдет.    представленный   /u/initcommit   [link] [comments]]]></description>
+      <description><![CDATA[ Новые релизы, анонсированные сегодня, включая EOL для 3.10.x: https://blog.python.org/2026/10/python-31022-31117/  Примечание: В посте выше не упоминается 3.15 - предполагая, что они сделают отдельный пост позже сегодня, когда это выйдет.    представлено   /u/initcommit   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wv4hph/new_python_releases_are_out_310x_reaches_eol_and/</guid>
       <pubDate>Thu, 01 Oct 2026 16:45:33 GMT</pubDate>
     </item>
     <item>
       <title>Все переговоры Rails World 2026 теперь онлайн</title>
       <link>https://www.reddit.com/r/programming/comments/1wv3nxy/all_the_rails_world_2026_talks_are_now_online/</link>
-      <description><![CDATA[DHH&#39;s Rails World talk получил здесь довольно много внимания, но на конференции было много событий, которые он не освещал.  Все остальные переговоры Rails World 2026 теперь тоже онлайн. Солидный кабель, горячая ячейка, трава в Rails 8.2, Активный поиск, безопасность реактора, Lexxy, MCP, шардинг, пользовательские генераторы ... и еще куча информации о том, куда направляются Ruby и Rails. Полный плейлист: /u/robbyrussell   [link] [comments&gt;]]></description>
+      <description><![CDATA[DHH&#39;s Rails World talk получил здесь довольно много внимания, но на конференции было много событий, которые он не освещал.  Все остальные переговоры Rails World 2026 теперь тоже онлайн. Солидный кабель, горячая ячейка, трава в Rails 8.2, Активный поиск, безопасность реактора, Lexxy, MCP, шардинг, пользовательские генераторы... и еще куча информации о том, куда направляются Ruby и Rails. Полный плейлист: /u/robbyrussell   [link] [comments&gt;]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wv3nxy/all_the_rails_world_2026_talks_are_now_online/</guid>
       <pubDate>Thu, 01 Oct 2026 16:14:12 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>[Себастьян Лаг] - Я пытался сделать ручку, чтобы нарисовать карты Луны</title>
       <link>https://www.reddit.com/r/programming/comments/1wv04z9/sebastian_lague_i_tried_making_a_pen_plotter_to/</link>
-      <description><![CDATA[  представлено   /u/Pink401k   [link] [comments]]]></description>
+      <description><![CDATA[  представлено    /u/Pink401k   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wv04z9/sebastian_lague_i_tried_making_a_pen_plotter_to/</guid>
       <pubDate>Thu, 01 Oct 2026 13:57:40 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>Что может и не может проверить TLA+</title>
       <link>https://www.reddit.com/r/programming/comments/1wuja3f/what_tla_can_and_cant_check/</link>
-      <description><![CDATA[  представлено   /u/mttd   [link] [comments]]]></description>
+      <description><![CDATA[  представлено    /u/mttd   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wuja3f/what_tla_can_and_cant_check/</guid>
       <pubDate>Wed, 30 Sep 2026 22:50:32 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>OpenZL v0.2 - декомпрессия в 2 раза быстрее, чем Zstandard</title>
       <link>https://www.reddit.com/r/programming/comments/1wuf5lf/openzl_v02_decompression_2x_faster_than_zstandard/</link>
-      <description><![CDATA[  представлено   /u/aqrit   [link] [comments]]]></description>
+      <description><![CDATA[  представлено    /u/aqrit    [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wuf5lf/openzl_v02_decompression_2x_faster_than_zstandard/</guid>
       <pubDate>Wed, 30 Sep 2026 19:59:59 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[  представлено   /u/LordOmbro    [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wucaqk/a_devlog_about_making_optimizing_a_bullet_hell/</guid>
       <pubDate>Wed, 30 Sep 2026 18:11:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Недетерминированный метод шифрования</title>
-      <link>https://www.reddit.com/r/programming/comments/1wuaa7s/nondeterministic_encryption_method/</link>
-      <description><![CDATA[ Первая версия, когда мне было 16 лет, была нацелена на то, чтобы простые сообщения преобразовывались в непонятные текстовые корпусы, а алгоритм позволял отображать множество выводов на один и тот же вход. Недавно я обновил его с помощью закрытых ключей и сопротивления частотной атаке, чтобы его можно было назвать шифрованием (обращение к аллитерации)     представлено    /u/ ILoveSaturdays   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wuaa7s/nondeterministic_encryption_method/</guid>
-      <pubDate>Wed, 30 Sep 2026 16:57:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
