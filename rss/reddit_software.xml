@@ -4,7 +4,35 @@
     <title>Новые материалы: программное обеспечение</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>Все, что связано с программным обеспечением. Пожалуйста, следуйте нашим правилам, чтобы избежать наказания.</description>
-    <lastBuildDate>Fri, 02 Oct 2026 13:50:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 16:14:12 GMT</lastBuildDate>
+    <item>
+      <title>Помогите пожалуйста</title>
+      <link>https://www.reddit.com/r/software/comments/1wvx31x/help_please/</link>
+      <description><![CDATA[ Это могут быть основные вопросы, о которых я заранее прошу прощения. Я получил степень бакалавра в области компьютерных наук с концентрацией ИИ. У меня есть код на Python, скрипт Java. У меня есть несколько проектов, которые я сделал, и теперь я хочу увидеть, как я могу сделать их установочным файлом, который я могу установить на любой компьютер (например, загрузку из магазина или просто .exe), я смотрел вокруг, и я, возможно, не смотрю в нужных местах, но я хотел бы, чтобы некоторые рекомендации, возможно, выглядели или инструмент, который люди используют для этого? Любые советы приветствуются.     представлено   /u/vizardlord    [link] ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wvx31x/help_please/</guid>
+      <pubDate>Fri, 02 Oct 2026 15:40:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Я создал кроссплатформенный инструмент с открытым исходным кодом (OFLH) для проверки/выпуска замков файлов и занятых сетевых портов (Windows, macOS, Linux).</title>
+      <link>https://www.reddit.com/r/software/comments/1wvwwbd/i_built_an_opensource_crossplatform_tool_oflh_to/</link>
+      <description><![CDATA[  представлено    /u/Technical Main 1422    [link] ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wvwwbd/i_built_an_opensource_crossplatform_tool_oflh_to/</guid>
+      <pubDate>Fri, 02 Oct 2026 15:33:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Открытый источник] Filee — бесплатный конвертер файлов с лицензией MIT для Windows: удерживайте ключ, перетаскивайте файлы, перетаскивайте их в формате</title>
+      <link>https://www.reddit.com/r/software/comments/1wvvhdn/open_source_filee_a_free_mitlicensed_file/</link>
+      <description><![CDATA[ Filee является открытым исходным кодом (MIT) и бесплатным, без рекламы или платного уровня. Исходный код: https://github.com/KnifeLemon/Filee Я разработчик. Привет! Я устал загружать файлы на веб-сайты конвертеров, поэтому я создал настольный конвертер, который работает полностью автономно. Как это работает: удерживайте ключ (Ctrl по умолчанию, настраиваемый) и перетаскивайте файлы. Меню в форме пончика открывается на курсоре; опустить файлы в формате и преобразованные файлы появляются рядом с оригиналами. Вы также можете использовать меню правого клика в File Explorer (верхний уровень в Windows 11), Send To или ярлык клавиатуры. - 180 форматов: изображения (в том числе HEIC, PSD, камера RAW), PDF, Word/Excel/PowerPoint, электронные книги (EPUB, MOBI, AZW3, CBZ), видео и аудио, архивы, CAD (DWG/DXF), шрифты, корейский HWP - Нет загрузки, нет рекламы, нет водяного знака, нет учетной записи, нет предела размера файла  - Преобразует DOCX/XLSX/PPTX без Microsoft Office - Параллельное преобразование пакетов; предустановки для качества, размера, слияния/разделения PDF, ZIP, папка вывода и имена  - Тяжелые двигатели (FFmpeg, LibreOffice, калибр, Ghostscript, Pandoc) являются дополнительными загрузками, которые вы выбираете в установщике или позже  - лицензированный MIT, C# / .NET 10 + Avalonia  Источник (MIT): https://github.com/KnifeLemon/Filee Загрузка: https://filee.sh  Установщик еще не подписан кодом, поэтому SmartScreen может сказать: Windows защитила ваш ПК. Обратная связь и запросы на формат очень приветствуются!    представлено   /u/KnifeLemon    [link] [comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wvvhdn/open_source_filee_a_free_mitlicensed_file/</guid>
+      <pubDate>Fri, 02 Oct 2026 14:37:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Я не могу сжечь свои CD</title>
+      <link>https://www.reddit.com/r/software/comments/1wvv4kq/i_cant_burn_my_cds/</link>
+      <description><![CDATA[Так что, как и любой другой человек, который пытается сжечь CD, я уверен, что вы знаете, что это разочаровывающая задача.  Я использовал itunes, Windows Media Player и Express Burn от NHC. Ничего не работает. Я начинаю верить, что это моя настоящая внешняя горелка/писатель? В WMP говорится, что диск полон и будет отказываться гореть правильно, я каждый раз получаю ошибку. Я попробовал трюк редактирования, но не имел фильтров для удаления. С явным ожогом я просто продолжаю получать ошибки msgs, с итунами я надеялся, но только что получил ER на моем физическом CD-плеере. Cds - это philips CD-R 52x. Кроме того, когда я просматриваю свойства на моей странице дисков, на ней написано 0bytes free?? tried on windows 10, затем tryed on windows 11.    подается   /u/Pretty-Extension5452   ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wvv4kq/i_cant_burn_my_cds/</guid>
+      <pubDate>Fri, 02 Oct 2026 14:22:52 GMT</pubDate>
+    </item>
     <item>
       <title>Как вы поддерживаете и развертываете клиентский код? Есть инструменты для этого?</title>
       <link>https://www.reddit.com/r/software/comments/1wvu68i/how_do_you_maintain_and_deploy_customerspecific/</link>
@@ -64,7 +92,7 @@
     <item>
       <title>Обновление Kerlyss v1.3: добавлена децентрализованная синхронизация Google Drive между Windows и Android (без серверов посредников)</title>
       <link>https://www.reddit.com/r/software/comments/1wvq6aj/kerlyss_v13_update_added_decentralized_google/</link>
-      <description><![CDATA[Hey r/Software! Быстрое обновление на Kerlyss (мой бесплатный &amp; музыкальный плеер с открытым исходным кодом для Windows и Android): новое обновление v1.3 выходит, и самым большим дополнением является наша новая децентрализованная облачная синхронизация  Вместо того, чтобы настраивать пользовательский бэкэнд или заставлять пользователей создавать учетную запись на проприетарных серверах, я хотел найти решение, в котором вы на 100% владеете своими данными:    Ваш Google Диск - ваша база данных:  Подключается напрямую через Google OAuth для хранения одного легкого синхронизирующего файла в собственном корне диска. Ноль центральных серверов: В середине нет сервера Kerlyss, собирающего данные или хранящего ваши плейлисты. Вы подключаете свою учетную запись Google только к своим устройствам.   Также улучшено в этом выпуске:  * Исправленное воспроизведение фона Android и ошибки увольнения уведомлений. Обтекаемый, минималистичный темный пользовательский интерфейс с таблеткой синхронизации в режиме реального времени в верхней панели. * Встроенный 5-диапазонный эквалайзер, импорт плейлистов Spotify и автономные загрузки.  Бесплатно, с открытым исходным кодом и без рекламы.  GitHub: https://github.com/D1gNa0/Kerlyss      /u/MelihKerema   [comments]]]></description>
+      <description><![CDATA[Hey r/Software! Быстрое обновление на Kerlyss (мой бесплатный &amp; музыкальный плеер с открытым исходным кодом для Windows и Android): новое обновление v1.3 выходит, и самым большим дополнением является наша новая децентрализованная облачная синхронизация  Вместо того, чтобы настраивать пользовательский бэкэнд или заставлять пользователей создавать учетную запись на проприетарных серверах, я хотел найти решение, в котором вы на 100% владеете своими данными:    Ваш Google Диск - ваша база данных:  Подключается напрямую через Google OAuth для хранения одного легкого синхронизирующего файла в собственном корне диска. Ноль центральных серверов: В середине нет сервера Kerlyss, собирающего данные или хранящего ваши плейлисты. Вы подключаете свою учетную запись Google только к своим устройствам.   Также улучшено в этом выпуске:  * Исправленное воспроизведение фона Android и ошибки увольнения уведомлений. Обтекаемый, минималистичный темный пользовательский интерфейс с таблеткой синхронизации в режиме реального времени в верхней панели. * Встроенный 5-диапазонный эквалайзер, импорт плейлистов Spotify и автономные загрузки.  Бесплатно, с открытым исходным кодом и без рекламы.  GitHub: https://github.com/D1gNa0/Kerlyss      /u/MelihKerema   [comments] ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1wvq6aj/kerlyss_v13_update_added_decentralized_google/</guid>
       <pubDate>Fri, 02 Oct 2026 10:20:45 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[ Какова должна быть текущая цена этих ram!?  the    представлено   /u/doodlextom   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1wvpmkj/ddr5_6000_mhz_64_gb_ram/</guid>
       <pubDate>Fri, 02 Oct 2026 09:47:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Orca, местный музыкальный плеер с открытым исходным кодом, созданный с помощью Rust, Tauri и Svelte</title>
-      <link>https://www.reddit.com/r/software/comments/1wvoilc/orca_a_local_open_source_music_player_built_with/</link>
-      <description><![CDATA[ Всем привет! Я работал над Orca, бесплатным локальным музыкальным проигрывателем с открытым исходным кодом для Windows.   Текущие функции включают в себя:    Просмотр исполнителя, альбома и жанра  Безразовое воспроизведение, очереди, плейлисты и поиск волновой формы  Синхронизированная или простая лирика из локальных файлов, встроенные теги  Автоматически извлекайте отсутствующие художественные работы исполнителя и альбома из iTunes или Deezer, а тексты (liblrc) Режим обложки  Фантомный режим сохраняет музыку, воспроизводящуюся с закрытым главным окном (результат в нижнем ram)   Это только в альфа-версии и Windows (на данный момент). Хотелось бы услышать, что вы думаете о проекте. Отчеты и вклады Bug также приветствуются! :) Repo Link: https://github.com/shubham-pathak1/orca Сайт: /u/Every Garden 871   [link] [comments&gt;]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wvoilc/orca_a_local_open_source_music_player_built_with/</guid>
-      <pubDate>Fri, 02 Oct 2026 08:35:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Как я могу исправить это (ваше устройство столкнулось с проблемой и нуждается в перезагрузке)</title>
-      <link>https://www.reddit.com/r/software/comments/1wvnz6l/how_can_i_fixthis_your_device_ran_into_a_problem/</link>
-      <description><![CDATA[Может ли кто-нибудь привести меня к исправлению этого plz]]    представлено   /u/HorrorBar7473   [link][comments&gt;]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wvnz6l/how_can_i_fixthis_your_device_ran_into_a_problem/</guid>
-      <pubDate>Fri, 02 Oct 2026 07:59:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Существует ли программное обеспечение, которое использует sam tts и помещает его в визуальный редактор?</title>
-      <link>https://www.reddit.com/r/software/comments/1wvlztb/is_there_a_software_that_uses_the_sam_tts_and_put/</link>
-      <description><![CDATA[Я думаю о чем-то похожем на это https://discordier.github.io/sam/  Каждая реализация, которую я нашел, была плагином для редактора кодеров. Я не собираюсь использовать его в целях разработки игр, и мне не очень нравится веб-сайт, связанный выше, потому что это странно использовать. Я не знаю, существует ли это, вероятно, нет, но, возможно, я ошибаюсь.    представлено   /u/FluffyPursuer      [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wvlztb/is_there_a_software_that_uses_the_sam_tts_and_put/</guid>
-      <pubDate>Fri, 02 Oct 2026 05:53:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Помощь с простым программным обеспечением</title>
-      <link>https://www.reddit.com/r/software/comments/1wvhs76/help_with_simple_software/</link>
-      <description><![CDATA[ Здравствуйте, мне нужно направление, и я очень мало знаю об этой области, поэтому pls имейте это в виду!! Я пытаюсь выяснить, как сделать / использовать простое программное обеспечение, которое будет распечатывать изображение при нажатии кнопки.  По сути, я хочу, чтобы на телефоне была кнопка (у меня есть доступ к Android или iOS), которую при нажатии вы распечатываете из папки фотографий, которые я сделаю. Я думаю, что (тепловой) принтер будет подключен через Bluetooth. В идеале я мог бы настроить, как экран / кнопка выглядит тоже. Может кто-нибудь помочь мне или указать мне в направлении видео на YouTube, которое может помочь мне? Я просто не знаю, что мне нужно искать, чтобы найти ответы, которые я ищу. В идеале это будет бесплатно или недорого. Спасибо:)     представлено   /u/iamfartmachine    [link] ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wvhs76/help_with_simple_software/</guid>
-      <pubDate>Fri, 02 Oct 2026 02:02:13 GMT</pubDate>
     </item>
     </channel>
 </rss>

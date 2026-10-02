@@ -4,7 +4,14 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Fri, 02 Oct 2026 13:52:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 16:15:13 GMT</lastBuildDate>
+    <item>
+      <title>безымянный</title>
+      <link>https://www.reddit.com/r/programming/comments/1wvwjyo/untitled/</link>
+      <description><![CDATA[  представлено    /u/Arakela   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wvwjyo/untitled/</guid>
+      <pubDate>Fri, 02 Oct 2026 15:20:39 GMT</pubDate>
+    </item>
     <item>
       <title>Частичное оценивание в трюфеле - динамическое обучение мета-компиляции</title>
       <link>https://www.reddit.com/r/programming/comments/1wvt9nw/partial_evaluation_in_truffle_dynamic/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>Восемь байтов — это уже число.</title>
       <link>https://www.reddit.com/r/programming/comments/1wvqovi/eight_bytes_are_already_a_number/</link>
-      <description><![CDATA[  представлено    /u/sebastianconcept    [link] [comments]]]></description>
+      <description><![CDATA[  представлено   /u/sebastianconcept   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wvqovi/eight_bytes_are_already_a_number/</guid>
       <pubDate>Fri, 02 Oct 2026 10:51:37 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>Выпущены новые версии Python, 3.10.x достигает EOL (а 3.15.0 запланирован на сегодня)!</title>
       <link>https://www.reddit.com/r/programming/comments/1wv4hph/new_python_releases_are_out_310x_reaches_eol_and/</link>
-      <description><![CDATA[ Новые релизы, анонсированные сегодня, включая EOL для 3.10.x: https://blog.python.org/2026/10/python-31022-31117/  Примечание: В посте выше не упоминается 3.15 - предполагая, что они сделают отдельный пост позже сегодня, когда это выйдет.    представленный   /u/initcommit   [link] [comments]]]></description>
+      <description><![CDATA[ Новые релизы, анонсированные сегодня, включая EOL для 3.10.x: https://blog.python.org/2026/10/python-31022-31117/  Примечание: В посте выше не упоминается 3.15 - предполагая, что они сделают отдельный пост позже сегодня, когда это выйдет.    представлено   /u/initcommit   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wv4hph/new_python_releases_are_out_310x_reaches_eol_and/</guid>
       <pubDate>Thu, 01 Oct 2026 16:45:33 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>Второй золотой шип: безопасность памяти через границу Валена и Руста</title>
       <link>https://www.reddit.com/r/programming/comments/1wv0fjv/the_second_golden_spike_memory_safety_across_the/</link>
-      <description><![CDATA[  представлено    /u/verdagon   [link] ]]></description>
+      <description><![CDATA[  представлено    /u/verdagon    [link] ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wv0fjv/the_second_golden_spike_memory_safety_across_the/</guid>
       <pubDate>Thu, 01 Oct 2026 14:09:28 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[  представлено   /u/mttd   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wuja3f/what_tla_can_and_cant_check/</guid>
       <pubDate>Wed, 30 Sep 2026 22:50:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Это ошибка ядра! Обработка пользовательских ошибок страниц с помощью bpf fault</title>
-      <link>https://www.reddit.com/r/programming/comments/1wugn5a/its_the_kernels_fault_custom_page_fault_handling/</link>
-      <description><![CDATA[  представлено   /u/mttd   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wugn5a/its_the_kernels_fault_custom_page_fault_handling/</guid>
-      <pubDate>Wed, 30 Sep 2026 20:59:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
