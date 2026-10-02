@@ -4,18 +4,39 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Fri, 02 Oct 2026 16:15:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 19:37:33 GMT</lastBuildDate>
+    <item>
+      <title>Arjay McCandless: 8 Backends на одном сервере за 12 долларов</title>
+      <link>https://www.reddit.com/r/programming/comments/1ww016f/arjay_mccandless_8_backends_on_the_same_12_server/</link>
+      <description><![CDATA[Мысль об этом была крутой.    представленная   /u/-Cacique   [link] ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ww016f/arjay_mccandless_8_backends_on_the_same_12_server/</guid>
+      <pubDate>Fri, 02 Oct 2026 17:38:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>C++ контроллер от первого лица</title>
+      <link>https://www.reddit.com/r/programming/comments/1wvybtk/c_first_person_controller/</link>
+      <description><![CDATA[  представлено    /u/wizard creator seth   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wvybtk/c_first_person_controller/</guid>
+      <pubDate>Fri, 02 Oct 2026 16:30:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Минский автомат в ncurses terminfo</title>
+      <link>https://www.reddit.com/r/programming/comments/1wvy0zi/a_minsky_machine_in_ncurses_terminfo/</link>
+      <description><![CDATA[ncurses terminfo может имитировать двухконтрольный Минский станок, делая повторные расширения параметров вычислительно универсальными.  Demo: паразитическое вычисление Фибоначчи внутри /usr/bin/top    представлено   /u/Dull Replacement8890   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wvy0zi/a_minsky_machine_in_ncurses_terminfo/</guid>
+      <pubDate>Fri, 02 Oct 2026 16:18:03 GMT</pubDate>
+    </item>
     <item>
       <title>безымянный</title>
       <link>https://www.reddit.com/r/programming/comments/1wvwjyo/untitled/</link>
-      <description><![CDATA[  представлено    /u/Arakela   [link] [comments]]]></description>
+      <description><![CDATA[  представлено   /u/Arakela   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wvwjyo/untitled/</guid>
       <pubDate>Fri, 02 Oct 2026 15:20:39 GMT</pubDate>
     </item>
     <item>
       <title>Частичное оценивание в трюфеле - динамическое обучение мета-компиляции</title>
       <link>https://www.reddit.com/r/programming/comments/1wvt9nw/partial_evaluation_in_truffle_dynamic/</link>
-      <description><![CDATA[  представлено   /u/grashalm01   [link] [comments]]]></description>
+      <description><![CDATA[  представлено    /u/grashalm01   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wvt9nw/partial_evaluation_in_truffle_dynamic/</guid>
       <pubDate>Fri, 02 Oct 2026 13:03:34 GMT</pubDate>
     </item>
@@ -41,7 +62,7 @@
       <pubDate>Thu, 01 Oct 2026 23:57:25 GMT</pubDate>
     </item>
     <item>
-      <title>Выпущены новые версии Python, 3.10.x достигает EOL (а 3.15.0 запланирован на сегодня)!</title>
+      <title>Выходят новые версии Python, 3.10.x достигает EOL (а 3.15.0 запланирован на сегодня)!</title>
       <link>https://www.reddit.com/r/programming/comments/1wv4hph/new_python_releases_are_out_310x_reaches_eol_and/</link>
       <description><![CDATA[ Новые релизы, анонсированные сегодня, включая EOL для 3.10.x: https://blog.python.org/2026/10/python-31022-31117/  Примечание: В посте выше не упоминается 3.15 - предполагая, что они сделают отдельный пост позже сегодня, когда это выйдет.    представлено   /u/initcommit   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wv4hph/new_python_releases_are_out_310x_reaches_eol_and/</guid>
@@ -50,21 +71,21 @@
     <item>
       <title>Все переговоры Rails World 2026 теперь онлайн</title>
       <link>https://www.reddit.com/r/programming/comments/1wv3nxy/all_the_rails_world_2026_talks_are_now_online/</link>
-      <description><![CDATA[DHH&#39;s Rails World talk получил здесь довольно много внимания, но на конференции было много событий, которые он не освещал.  Все остальные переговоры Rails World 2026 теперь тоже онлайн. Солидный кабель, горячая ячейка, трава в Rails 8.2, Активный поиск, безопасность реактора, Lexxy, MCP, шардинг, пользовательские генераторы ... и еще куча информации о том, куда направляются Ruby и Rails. Полный плейлист: /u/robbyrussell   [link] [comments&gt;]]></description>
+      <description><![CDATA[DHH&#39;s Rails World talk получил здесь довольно много внимания, но на конференции было много событий, которые он не освещал.  Все остальные переговоры Rails World 2026 теперь тоже онлайн. Солидный кабель, горячая ячейка, трава в Rails 8.2, Активный поиск, безопасность реактора, Lexxy, MCP, шардинг, пользовательские генераторы... и еще куча информации о том, куда направляются Ruby и Rails. Полный плейлист: /u/robbyrussell   [link] [comments&gt;]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wv3nxy/all_the_rails_world_2026_talks_are_now_online/</guid>
       <pubDate>Thu, 01 Oct 2026 16:14:12 GMT</pubDate>
     </item>
     <item>
       <title>Второй золотой шип: безопасность памяти через границу Валена и Руста</title>
       <link>https://www.reddit.com/r/programming/comments/1wv0fjv/the_second_golden_spike_memory_safety_across_the/</link>
-      <description><![CDATA[  представлено    /u/verdagon    [link] ]]></description>
+      <description><![CDATA[  представлено    /u/verdagon   [link] ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wv0fjv/the_second_golden_spike_memory_safety_across_the/</guid>
       <pubDate>Thu, 01 Oct 2026 14:09:28 GMT</pubDate>
     </item>
     <item>
       <title>[Себастьян Лаг] - Я пытался сделать ручку, чтобы нарисовать карты Луны</title>
       <link>https://www.reddit.com/r/programming/comments/1wv04z9/sebastian_lague_i_tried_making_a_pen_plotter_to/</link>
-      <description><![CDATA[  представлено   /u/Pink401k   [link] [comments]]]></description>
+      <description><![CDATA[  представлено    /u/Pink401k   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wv04z9/sebastian_lague_i_tried_making_a_pen_plotter_to/</guid>
       <pubDate>Thu, 01 Oct 2026 13:57:40 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[  представлено    /u/eccsoheccsseven   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wumd96/adding_very_basic_3d_outside_of_a_standard/</guid>
       <pubDate>Thu, 01 Oct 2026 01:15:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>c++ примитивы уровня операционной системы 1</title>
-      <link>https://www.reddit.com/r/programming/comments/1wulzdy/c_operating_system_level_primitives_1/</link>
-      <description><![CDATA[  представлено    /u/wizard creator seth   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wulzdy/c_operating_system_level_primitives_1/</guid>
-      <pubDate>Thu, 01 Oct 2026 00:57:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Распределение памяти по страницам таблицы</title>
-      <link>https://www.reddit.com/r/programming/comments/1wulcti/page_table_memory_consumption/</link>
-      <description><![CDATA[  представлено    /u/andreiross   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wulcti/page_table_memory_consumption/</guid>
-      <pubDate>Thu, 01 Oct 2026 00:26:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Что может и не может проверить TLA+</title>
-      <link>https://www.reddit.com/r/programming/comments/1wuja3f/what_tla_can_and_cant_check/</link>
-      <description><![CDATA[  представлено   /u/mttd   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wuja3f/what_tla_can_and_cant_check/</guid>
-      <pubDate>Wed, 30 Sep 2026 22:50:32 GMT</pubDate>
     </item>
     </channel>
 </rss>

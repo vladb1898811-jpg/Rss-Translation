@@ -4,7 +4,7 @@
     <title>Продуктовая охота — Лучшие продукты каждый день</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 02 Oct 2026 16:26:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 19:52:36 GMT</lastBuildDate>
     <item>
       <title>Кодин</title>
       <link>https://www.producthunt.com/products/codync</link>
@@ -18,6 +18,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/codync</guid>
       <pubDate>Fri, 02 Oct 2026 04:45:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Клеф</title>
+      <link>https://www.producthunt.com/products/cloudflare-clef</link>
+      <description><![CDATA[
+Модели решений с открытым исходным кодом от Cloudflare
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/cloudflare-clef</guid>
+      <pubDate>Thu, 01 Oct 2026 20:58:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Корабль</title>
+      <link>https://www.producthunt.com/products/shiphq</link>
+      <description><![CDATA[
+Создайте свою собственную студию приложений, основанную на ваших реальных приложениях
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/shiphq</guid>
+      <pubDate>Thu, 01 Oct 2026 16:57:17 GMT</pubDate>
     </item>
     <item>
       <title>Финбар</title>
@@ -48,18 +76,46 @@
       <pubDate>Thu, 01 Oct 2026 16:11:06 GMT</pubDate>
     </item>
     <item>
-      <title>пастильно</title>
-      <link>https://www.producthunt.com/products/pastily</link>
+      <title>Антропоспасатель</title>
+      <link>https://www.producthunt.com/products/anthroposcaper</link>
       <description><![CDATA[
-Ваш буфер обмена, но лучше
+2D план, получить 3D модель городской среды
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/pastily</guid>
-      <pubDate>Thu, 01 Oct 2026 10:09:16 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/anthroposcaper</guid>
+      <pubDate>Thu, 01 Oct 2026 13:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Открытый инспектор</title>
+      <link>https://www.producthunt.com/products/open-inspector</link>
+      <description><![CDATA[
+Наведите курсор на любой сайт, получите его систему дизайна. Открытый исходный код. Бесплатно.
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/open-inspector</guid>
+      <pubDate>Thu, 01 Oct 2026 13:30:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Никогда не скучать AI</title>
+      <link>https://www.producthunt.com/products/never-boring-ai</link>
+      <description><![CDATA[
+ИИ-агент, который пишет сообщения LinkedIn в вашем голосе
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/never-boring-ai</guid>
+      <pubDate>Thu, 01 Oct 2026 10:21:53 GMT</pubDate>
     </item>
     <item>
       <title>общаться</title>
@@ -76,35 +132,7 @@
       <pubDate>Thu, 01 Oct 2026 07:51:46 GMT</pubDate>
     </item>
     <item>
-      <title>Мокси</title>
-      <link>https://www.producthunt.com/products/moxie-2</link>
-      <description><![CDATA[
-Используйте любой ИИ с кодом Клода, переключайте учетные записи в середине задачи
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/moxie-2</guid>
-      <pubDate>Thu, 01 Oct 2026 06:39:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Утилита</title>
-      <link>https://www.producthunt.com/products/weftcut</link>
-      <description><![CDATA[
-Видеоредактор с открытым исходным кодом, которым может управлять ваш агент ИИ
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/weftcut</guid>
-      <pubDate>Wed, 30 Sep 2026 21:25:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>эсигна</title>
+      <title>синья</title>
       <link>https://www.producthunt.com/products/esigna</link>
       <description><![CDATA[
 Дизайн-студия для вашей электронной подписи
@@ -118,46 +146,46 @@
       <pubDate>Wed, 30 Sep 2026 16:04:43 GMT</pubDate>
     </item>
     <item>
-      <title>Сайон</title>
-      <link>https://www.producthunt.com/products/sayonic</link>
+      <title>JarvisCore</title>
+      <link>https://www.producthunt.com/products/jarviscore</link>
       <description><![CDATA[
-Голосовой помощник в выемке вашего Mac, который выполняет задачу
+Создавайте агентов как сверстников в ячеистой сети с нулевым доверием
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/sayonic</guid>
-      <pubDate>Tue, 29 Sep 2026 08:24:16 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/jarviscore</guid>
+      <pubDate>Wed, 30 Sep 2026 05:40:59 GMT</pubDate>
     </item>
     <item>
-      <title>Исполнитель: Manus</title>
-      <link>https://www.producthunt.com/products/cue-by-manus</link>
+      <title>Mintlify рабочий стол</title>
+      <link>https://www.producthunt.com/products/mintlify</link>
       <description><![CDATA[
-Личные агенты с личностью, управление жизнью кончается
+AI-нативное приложение для написания документации и знаний
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/cue-by-manus</guid>
-      <pubDate>Mon, 28 Sep 2026 21:53:09 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/mintlify</guid>
+      <pubDate>Wed, 30 Sep 2026 00:08:54 GMT</pubDate>
     </item>
     <item>
-      <title>Почта</title>
-      <link>https://www.producthunt.com/products/wmail-3</link>
+      <title>Неограниченный цифровой холст Gauth</title>
+      <link>https://www.producthunt.com/products/gauth-ai-course</link>
       <description><![CDATA[
-Красивое приложение для iPhone для Fastmail
+Репетитор ИИ на бесконечной доске, а не в чате
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/wmail-3</guid>
-      <pubDate>Mon, 28 Sep 2026 08:15:42 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/gauth-ai-course</guid>
+      <pubDate>Tue, 29 Sep 2026 12:33:13 GMT</pubDate>
     </item>
     <item>
       <title>Veltrix AI для электронной коммерции</title>
@@ -174,20 +202,6 @@
       <pubDate>Thu, 17 Sep 2026 15:49:25 GMT</pubDate>
     </item>
     <item>
-      <title>Syllaby AI Avatar 2.0</title>
-      <link>https://www.producthunt.com/products/syllaby-ai-avatar-2-0</link>
-      <description><![CDATA[
-Создайте свой собственный аватар за несколько секунд
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/syllaby-ai-avatar-2-0</guid>
-      <pubDate>Thu, 17 Sep 2026 07:24:53 GMT</pubDate>
-    </item>
-    <item>
       <title>Тихо</title>
       <link>https://www.producthunt.com/products/teachoo-2</link>
       <description><![CDATA[
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/teachoo-2</guid>
       <pubDate>Tue, 15 Sep 2026 19:39:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>фамулор</title>
-      <link>https://www.producthunt.com/products/famulor-telephony-ai</link>
-      <description><![CDATA[
-Ваш агент отвечает на звонки и следит за WhatsApp
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/famulor-telephony-ai</guid>
-      <pubDate>Mon, 31 Aug 2026 13:27:59 GMT</pubDate>
     </item>
     </channel>
 </rss>

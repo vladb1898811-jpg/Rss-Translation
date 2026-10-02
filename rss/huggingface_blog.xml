@@ -4,20 +4,20 @@
     <title>Обнимая лицо - Блог</title>
     <link>https://huggingface.co/blog</link>
     <description>Блог The Hugging Face</description>
-    <lastBuildDate>Fri, 02 Oct 2026 06:10:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 18:10:37 GMT</lastBuildDate>
+    <item>
+      <title>AstaBrief с открытым исходным кодом, быстрая модель генерации отчетов в Asta</title>
+      <link>https://huggingface.co/blog/allenai/astabrief</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/allenai/astabrief</guid>
+      <pubDate>Fri, 02 Oct 2026 15:19:50 GMT</pubDate>
+    </item>
     <item>
       <title>AutoSynthData: создание обучающих данных для корпоративных агентов</title>
       <link>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</guid>
       <pubDate>Fri, 02 Oct 2026 04:01:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Внедрение Olmo-core 3: открытая масштабируемая инфраструктура обучения для крупных МЧС</title>
-      <link>https://huggingface.co/blog/allenai/olmocore3</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/allenai/olmocore3</guid>
-      <pubDate>Thu, 01 Oct 2026 15:01:43 GMT</pubDate>
     </item>
     <item>
       <title>Открытая таблица лидеров TTS: масштабируемая оценка для многоязычного клонирования текста и голоса</title>
