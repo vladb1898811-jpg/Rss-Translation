@@ -4,7 +4,28 @@
     <title>Новые материалы: opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>Субреддит для всего, что связано с открытым исходным кодом (для этого контекста мы выходим из определения открытого исходного кода здесь http://en.wikipedia.org/wiki/Open source)</description>
-    <lastBuildDate>Thu, 01 Oct 2026 22:22:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 01:23:37 GMT</lastBuildDate>
+    <item>
+      <title>Можно ли юридически сделать смартфон, который может общаться с сотовыми сетями и интернетом, который не использует ничего, что опирается на корпоративные патенты?</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wvgi7j/is_it_legally_possible_to_make_a_smartphone_that/</link>
+      <description><![CDATA[ Я не помню, где я его читал, но я помню, что где-то читал, что технология сотовых модемов все еще застряла под патентом, особенно 5G. Правильно ли это, или есть какой-то способ сделать полностью открытый (аппаратный и программный) сотовый телефон, который может делать все, что может обычный коммерческий сотовый телефон?    представленный   /u/ferriematthew   [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wvgi7j/is_it_legally_possible_to_make_a_smartphone_that/</guid>
+      <pubDate>Fri, 02 Oct 2026 01:00:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Открытая система классификации</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wvg54l/introducing_the_open_categorization_system/</link>
+      <description><![CDATA[ Около десяти лет назад я пытался создать альтернативу Google, используя Dewey Decimal System для группировки веб-доменов по темам. Мое видение состояло в том, что веб-сайт был библиотекой, а домены — отдельными книгами. Рейтинги представляли собой смесь репутации домена и культурного значения.  OCLC очень защищает свой IP и любит подавать в суд. Излишне говорить, что мой проект был закрыт еще до того, как сошел с земли. Я работаю над возрождением проекта в рамках новой системы классификации (The Open Categorization System) и хотел бы получить любую помощь. Проект можно найти здесь: https://github.com/ki4jgt/Open-Categorization-System    представленный   /u/ki4jgt   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wvg54l/introducing_the_open_categorization_system/</guid>
+      <pubDate>Fri, 02 Oct 2026 00:43:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Выпущен Plembfin v1.3.1</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wvd4lx/plembfin_v131_released/</link>
+      <description><![CDATA[  представлено   /u/Lasikie    [link] [comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wvd4lx/plembfin_v131_released/</guid>
+      <pubDate>Thu, 01 Oct 2026 22:23:47 GMT</pubDate>
+    </item>
     <item>
       <title>Ergo - объяснимая политика Rego</title>
       <link>https://www.reddit.com/r/opensource/comments/1wvbodr/ergo_explainable_rego_policies/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[PLOMID - это проект инфраструктуры данных с открытым исходным кодом, который строится с нуля в Русте.  Текущая бета-версия включает в себя:   SQL JSON/данные документа Рабочие нагрузки временнóй серии Мотор хранения Транзакционные основы   Мы работаем над дополнительными векторными, графовыми, blob, распределенными и многорегиональными возможностями. Проект ориентирован на изучение общего базового уровня данных для приложений, которые в настоящее время объединяют несколько специализированных систем данных. Бета-загрузка: https://plomid.in/download/ Проект: https://github.com/PLOMID/plomid  Мы ищем разработчиков, заинтересованных в базах данных, Rust и системах хранения, чтобы попробовать бета-версию, проверить реализацию, сообщить о проблемах и внести техническую обратную связь. Это проект на ранней стадии, поэтому мы особенно заинтересованы в поиске вещей, которые еще не работают.    представлено    /u/PLOMID   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1wtns1k/plomid_beta_is_now_open_an_opensource_data/</guid>
       <pubDate>Tue, 29 Sep 2026 22:11:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Почему раскрытие взаимной уязвимости имеет значение для проектов с открытым исходным кодом: уроки последнего критического RCE в Vault</title>
-      <link>https://www.reddit.com/r/opensource/comments/1wtmzvk/why_mutual_vulnerability_disclosure_matters_for/</link>
-      <description><![CDATA[       Когда проекты с открытым исходным кодом имеют общую кодовую базу, безопасность должна быть совместным Наша инженерная команда на ControlPlane недавно связала четыре уязвимости для достижения полного, неаутентифицированного выполнения удаленного кода (RCE) как в OpenBao, так и в HashiCorp Vault. Это только второй RCE, когда-либо найденный в экосистеме Vault. OpenBao полностью исправлен (обновление до 2.6.3 или 2.7.0). Плохая новость, однако, заключается в том, что хранилище HashiCorp остается открытым. К сожалению, IBM отклонила запросы о создании политики взаимного раскрытия информации с проектом OpenBao. Без согласованного раскрытия конечные пользователи являются теми, кто несет риск     представленный   /u/the hypotenuse   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1wtmzvk/why_mutual_vulnerability_disclosure_matters_for/</guid>
-      <pubDate>Tue, 29 Sep 2026 21:39:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Как проверить, что инструмент с открытым исходным кодом не крадет данные?</title>
-      <link>https://www.reddit.com/r/opensource/comments/1wtmf82/how_do_i_verify_if_an_open_source_tool_isnt/</link>
-      <description><![CDATA[Все всегда говорят, что это открытый исходный код, но я не знаю, является ли инструмент безопасным для использования?    представлено   /u/drake1800   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1wtmf82/how_do_i_verify_if_an_open_source_tool_isnt/</guid>
-      <pubDate>Tue, 29 Sep 2026 21:16:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Тестирование файлов Генератор V0.4 релиз - 26+ форматов, поврежденные файлы, загрузка/названия предустановленных</title>
-      <link>https://www.reddit.com/r/opensource/comments/1wtj4wg/testing_files_generator_v04_release_26_formats/</link>
-      <description><![CDATA[  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1wtj4wg/testing_files_generator_v04_release_26_formats/</guid>
-      <pubDate>Tue, 29 Sep 2026 19:10:08 GMT</pubDate>
     </item>
     </channel>
 </rss>

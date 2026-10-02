@@ -4,11 +4,18 @@
     <title>Новые материалы: webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>Сообщество, посвященное всем вещам веб-разработки: как front-end, так и back-end. Чтобы узнать больше о дизайне, попробуйте /r/web design.</description>
-    <lastBuildDate>Thu, 01 Oct 2026 22:20:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 01:21:43 GMT</lastBuildDate>
+    <item>
+      <title>Оригинальное название: The Dropdown Behind the Curtain: A Wizard of Oz Guide to CSS Overflow Clipping</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wve8k1/the_dropdown_behind_the_curtain_a_wizard_of_oz/</link>
+      <description><![CDATA[ Я написал короткий разбивку классического интерфейсного бага: выпадающие вырезки нарезаются или обрезаются, когда они открываются внутри модала. Вместо сухого технического поста я объяснил его с помощью метафоры «Волшебник страны Оз» — потому что реальная причина ощущается как торнадо:   абсолютное позиционирование, оставляя нормальный поток  scroll контейнеров, создавая невидимые обрезки краев   правила переполнения, тихо сокращающие ваш пользовательский интерфейс    Пост также показывает практическое исправление с помощью Teleport + Floating UI. Если у вас когда-либо было выпадение исчезают или рубят пополам, это объясняет  почему это происходит.   [Showoff Saturday] The Dropdown-a-wizard-a-wizard-to-css-overflow-clipping-18di&quot;&gt; [Showoff Saturday] The Dropdown Behind the Curtain: A Wizard of Oz Mystery Hidden in Your CSS     представлено   /u/Environmental-F]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wve8k1/the_dropdown_behind_the_curtain_a_wizard_of_oz/</guid>
+      <pubDate>Thu, 01 Oct 2026 23:14:07 GMT</pubDate>
+    </item>
     <item>
       <title>Создан инструмент с открытым исходным кодом (TraceHub), чтобы доверять коду, созданному ИИ</title>
       <link>https://www.reddit.com/r/webdev/comments/1wvcjxe/built_an_opensource_selfhosted_tool_tracehub_to/</link>
-      <description><![CDATA[Эй, все,  Я все время позволял ИИ строить мои проекты сквозно, но просмотр бесконечного поколения кода стал изнурительным. Мое решение для поддержания моего здравомыслия и уверенности в себе: я позволил ИИ писать функции и писать тесты E2E Playwright. Я просматриваю все с помощью PR-диффов, и просмотр тестовых трасс дает мне мгновенный, надежный способ проверить поведение UI / UX без ручного нажатия. Чтобы упростить этот рабочий процесс, я создал TraceHub — инструмент с открытым исходным кодом, самостоятельно размещенный для отслеживания и управления этими рабочими процессами. - GitHub  Что он делает:  - Self-Hostable &amp; Open-Source: Полный контроль над вашими данными. - Trace Management: Предназначен для обеспечения четкой видимости потоков исполнения и проверки тестов.  Текущий статус &amp; Дорожная карта: Я уже написал первоначальные тесты Playwright в репо. Далее я настраиваю все на TraceHub — запускаю эти тесты через GitHub Actions, встраиваю их в размещенный экземпляр для проверки интеграции в реальном времени и сбрасываю официальные изображения Docker. Я бы хотел, чтобы ты проверил это, надрал шины и дал мне знать, что ты думаешь. Открыт для любых отзывов, вопросов или идей! Как вы обрабатываете качество кода с приложениями, созданными ИИ?    представлено   /u/Dan6erbond2   ]]></description>
+      <description><![CDATA[Эй, все,  Я все время позволял ИИ строить мои проекты сквозно, но просмотр бесконечного поколения кода стал изнурительным. Мое решение для поддержания моего здравомыслия и уверенности в себе: я позволил ИИ писать функции и писать тесты E2E Playwright. Я просматриваю все с помощью PR-диффов, и просмотр тестовых трасс дает мне мгновенный, надежный способ проверить поведение UI / UX без ручного нажатия. Чтобы упростить этот рабочий процесс, я создал TraceHub — инструмент с открытым исходным кодом, самостоятельно размещенный для отслеживания и управления этими рабочими процессами. - GitHub  Что это такое:   Self-Hostable &amp; Open-Source: Полный контроль над вашими данными. Trace Management: Предназначен для обеспечения четкой видимости потоков исполнения и проверки тестов.   Текущий статус &amp; Дорожная карта: Я уже написал первоначальные тесты Playwright в репо. Далее я настраиваю все на TraceHub — запускаю эти тесты через GitHub Actions, встраиваю их в размещенный экземпляр для проверки интеграции в реальном времени и сбрасываю официальные изображения Docker. Я бы хотел, чтобы ты проверил это, надрал шины и дал мне знать, что ты думаешь. Открыт для любых отзывов, вопросов или идей! Как вы обрабатываете качество кода с приложениями, созданными ИИ?    представлено   /u/Dan6erbond2   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1wvcjxe/built_an_opensource_selfhosted_tool_tracehub_to/</guid>
       <pubDate>Thu, 01 Oct 2026 21:58:57 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ Она может выглядеть правильно с первого взгляда. Что вы проверяете перед использованием?    представлено   /u/Gullible Prior9448  [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1wu21mk/what_part_of_aigenerated_code_needs_the_most/</guid>
       <pubDate>Wed, 30 Sep 2026 11:07:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Повышение активности сканирования уязвимостей в журналах</title>
-      <link>https://www.reddit.com/r/webdev/comments/1wtyzi2/increased_vulnerability_scanning_activity_in_the/</link>
-      <description><![CDATA[ За последние один-два месяца я заметил всплеск сканирования уязвимостей, возможно, в 10 раз больше, чем я наблюдал раньше. Дело в том, что это началось почти сразу, что странно, и я наблюдаю это на нескольких доменных именах. Это только я? Если нет, какие-либо указания относительно того, что происходит?    представлено   /u/svvnguy   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1wtyzi2/increased_vulnerability_scanning_activity_in_the/</guid>
-      <pubDate>Wed, 30 Sep 2026 07:54:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,28 @@
     <title>Новые материалы: Chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>Сообщество, посвященное музыке, которая получает максимум от меньшего. Музыка в стиле старых игр, например, C64, Atari, NES, Gameboy, Sega Genesis, Adlib, OPM, MOD и др.</description>
-    <lastBuildDate>Thu, 01 Oct 2026 22:16:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 01:18:09 GMT</lastBuildDate>
+    <item>
+      <title>SMB1 Overworld (Eurochip Style, 2A03)</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1wvfswk/smb1_overworld_eurochip_style_2a03/</link>
+      <description><![CDATA[    ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1wvfswk/smb1_overworld_eurochip_style_2a03/</guid>
+      <pubDate>Fri, 02 Oct 2026 00:27:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Я создал приложение для написания музыки Chiptune на iPhone.</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1wvfhaa/i_built_an_app_for_writing_chiptune_music_on/</link>
+      <description><![CDATA[     Hi I made a simple Chiptune app for iOS! Полные трекеры часто казались мне пугающими, поэтому я попытался создать что-то более простое для своего телефона. Он дает вам четыре канала: две импульсные волны, треугольник и шум. Вы нажимаете ноты на сетку, цепные узоры на песню и можете экспортировать WAV либо в виде плавного цикла, либо с естественным окончанием. В нем нет образцов. Каждый звук синтезируется, когда вы играете, как это делает аппаратное обеспечение. Треугольник ступенчатый, как настоящий, и шум исходит из 15-битного регистра сдвига, такого как 2A03. Это $0,99 на iPhone и iPad, и все это с открытым исходным кодом, если вы хотите увидеть, как звуки создаются или взять код для создания чего-то самостоятельно. App Store GitHub Project Site  Это первая версия, так что я хотел бы знать, чего не хватает. И если ты что-то с этим сделаешь, я бы хотел это услышать. Спасибо!    представлено   /u/proachute   [link] [comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1wvfhaa/i_built_an_app_for_writing_chiptune_music_on/</guid>
+      <pubDate>Fri, 02 Oct 2026 00:11:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Соник Бум на Gameboy</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1wvdbrc/sonic_boom_on_the_gameboy/</link>
+      <description><![CDATA[     &lt;   submitted by   [link]]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1wvdbrc/sonic_boom_on_the_gameboy/</guid>
+      <pubDate>Thu, 01 Oct 2026 22:32:43 GMT</pubDate>
+    </item>
     <item>
       <title>Tickertone-C6280: Synth VST для воспроизведения звука TurboGrafx16</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1wv04y9/tickertonec6280_synth_vst_to_play_the_sound_of/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[     Уилсон Филлипс - Hold On  Furnace Tracker, 1xYM2610B (OPNB) Вокальные образцы, визуализированные с помощью klattsch https://klatts.ch  VGM download: https://crsh.cc/f/f/4R5YKuBGzlnQ MP3 download: https://p&gt;Также на YT: /u/crashunited   [link] [comments&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1wt2oqo/boss_fight_against_wilson_phillips_in_a_neogeo/</guid>
       <pubDate>Tue, 29 Sep 2026 06:28:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Обратная связь на некоторых последних треках?</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1wswgjl/feedback_on_some_recent_tracks/</link>
-      <description><![CDATA[Я экспериментировал с созданием более джазовых/блюзовых треков, какую-либо конструктивную критику предложить? Клянусь, я не просто пытаюсь подключить мой Soundcloud lmao!    представлено   /u/SloppyKnobCrocker   [link] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1wswgjl/feedback_on_some_recent_tracks/</guid>
-      <pubDate>Tue, 29 Sep 2026 01:05:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Разговор о создании музыки для игры, которой не существует</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1wsi0m6/talking_about_coming_up_with_music_for_a_game/</link>
-      <description><![CDATA[     Yooooo hello!! У меня была глупая идея, связанная с Азумангой и SNES. Придумайте оригинальную и супер классную музыку для такой игры! Нет, это не ваш обычный галстук на доске / карте Azumanga в игре, я бы хотел, чтобы он был полным в RPG, но... Я музыкант, а не программист (хотя IDK, когда я подниму свою ленивую задницу и научусь кодировать), прежде чем я просто сделаю это. Вы знаете, обложки существующих треков Azumanga OST для SNES, просто для дерьма и хихикания, пока я, наконец, не почувствовал, что делаю что-то оригинальное здесь (это имеет отношение к определенной SEGA OP, которую я поставил там для припева, так что, эй!) У меня уже есть 8 обложек Azumanga, так почему бы не перейти к созданию пользовательских треков? Мне просто нужно быть немного более уверенным в том, что такое настоящая музыка Azumanga, вместо того, чтобы просто быть «счастливой и веселой» [/p&gt;    представленный   /u/Decent-Dish-149   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1wsi0m6/talking_about_coming_up_with_music_for_a_game/</guid>
-      <pubDate>Mon, 28 Sep 2026 15:40:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lake Under the Moon (композиция GameBoy, сделанная в GB Studio)</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1ws8nio/lake_under_the_moon_gameboy_chiptune_track_made/</link>
-      <description><![CDATA[      Это мой первый трек, но не первый трек. На данный момент я занимаюсь музыкой более 10 лет, но однажды YouTube рекомендовал мне видео с веб-версией музыкального редактора GB Studio. Это довольно хороший редактор, использующий его после многих лет использования fl studio был довольно интуитивно понятен и довольно прост, но для создания трека мне пришлось разделить его на 3 отдельных файла uge, потому что по какой-то причине после воспроизведения шаблона 30 становится очень медленным. Аудиорендер был сделан с BGB, а визуальные эффекты с corrscope     представлены   /u/Arflus   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1ws8nio/lake_under_the_moon_gameboy_chiptune_track_made/</guid>
-      <pubDate>Mon, 28 Sep 2026 08:07:05 GMT</pubDate>
     </item>
     </channel>
 </rss>

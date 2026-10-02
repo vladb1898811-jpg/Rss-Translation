@@ -4,7 +4,14 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Thu, 01 Oct 2026 22:11:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 01:13:32 GMT</lastBuildDate>
+    <item>
+      <title>Роберт Сикорд: «Небезопасная ржавчина» (2026)</title>
+      <link>https://www.reddit.com/r/programming/comments/1wvf5qb/robert_seacord_unsafe_rust_rustconf_2026/</link>
+      <description><![CDATA[  представлено    /u/ bijan     [link] [comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wvf5qb/robert_seacord_unsafe_rust_rustconf_2026/</guid>
+      <pubDate>Thu, 01 Oct 2026 23:57:25 GMT</pubDate>
+    </item>
     <item>
       <title>Выпущены новые версии Python, 3.10.x достигает EOL (а 3.15.0 запланирован на сегодня)!</title>
       <link>https://www.reddit.com/r/programming/comments/1wv4hph/new_python_releases_are_out_310x_reaches_eol_and/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[ Первая версия, когда мне было 16 лет, была нацелена на то, чтобы простые сообщения преобразовывались в непонятные текстовые корпусы, а алгоритм позволял отображать множество выводов на один и тот же вход. Недавно я обновил его с помощью закрытых ключей и сопротивления частотной атаке, чтобы его можно было назвать шифрованием (обращение к аллитерации)     представлено    /u/ ILoveSaturdays   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wuaa7s/nondeterministic_encryption_method/</guid>
       <pubDate>Wed, 30 Sep 2026 16:57:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Автоматические усовершенствования типов</title>
-      <link>https://www.reddit.com/r/programming/comments/1wtyphe/on_automatic_type_refinements/</link>
-      <description><![CDATA[  представлено    /u/radekmie   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wtyphe/on_automatic_type_refinements/</guid>
-      <pubDate>Wed, 30 Sep 2026 07:36:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
