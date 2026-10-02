@@ -4,7 +4,14 @@
     <title>Новые материалы: opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>Субреддит для всего, что связано с открытым исходным кодом (для этого контекста мы выходим из определения открытого исходного кода здесь http://en.wikipedia.org/wiki/Open source)</description>
-    <lastBuildDate>Fri, 02 Oct 2026 07:56:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 10:53:15 GMT</lastBuildDate>
+    <item>
+      <title>любой конверт v0.1.7 освобожденный</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wvpidt/anyconvert_v017_released/</link>
+      <description><![CDATA[   word-sys&#39;s PDF Editor, который преобразует PDF-документы в DOCX, PPTX, ODT, ODP и TXT, используя только стандартную библиотеку Python. Конвертная библиотека — это сама библиотека. Выпущено на PyPI too.  Это обновление добавило native JPEG и многоформатное встраивание изображений в эмиттеры ODT и ODP для улучшения ODT &amp; ODP builds, обновленный эмиттер Markdown для сохранения нативных расширений изображений, эта функция является началом варианта экспорта изображений без потерь,  Фиксированные ODT и DOCX подчеркивают проблему цвета заголовка и DOCX,  и, наконец,  добавляли сквозные регрессионные тесты во всех 5 экспортных форматах (DOCX, PPTX, ODT, ODP, TXT) для тестов стабильности. Для получения более подробной информации вы можете обратиться к anyconvert Small &amp; быстрая информация: word-sys/word-sys/word-sys-pdf-редактор&quot;&gt;word-sys/word-sys/pdf-редактор&quot;&gt;word-sys/word-sys/anyconvert&quot;&gt;word-sys/word-sys/anyconvert&quot;&gt;word-sys/word-sys/anyconvert PDF Editor готовится к выпуску v1.11.1, что является Flatpak release, благодаря ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wvpidt/anyconvert_v017_released/</guid>
+      <pubDate>Fri, 02 Oct 2026 09:40:10 GMT</pubDate>
+    </item>
     <item>
       <title>Можно ли юридически сделать смартфон, который может общаться с сотовыми сетями и интернетом, который не использует ничего, что опирается на корпоративные патенты?</title>
       <link>https://www.reddit.com/r/opensource/comments/1wvgi7j/is_it_legally_possible_to_make_a_smartphone_that/</link>
@@ -25,13 +32,6 @@
       <description><![CDATA[  представлено   /u/Lasikie    [link] [comments&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1wvd4lx/plembfin_v131_released/</guid>
       <pubDate>Thu, 01 Oct 2026 22:23:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ergo - объяснимая политика Rego</title>
-      <link>https://www.reddit.com/r/opensource/comments/1wvbodr/ergo_explainable_rego_policies/</link>
-      <description><![CDATA[В настоящее время в стадии разработки - хотелось бы получить обратную связь    представленный   /u/DodeYoke   [link] [comments&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1wvbodr/ergo_explainable_rego_policies/</guid>
-      <pubDate>Thu, 01 Oct 2026 21:21:07 GMT</pubDate>
     </item>
     <item>
       <title>Покер двойной или ничего, для настольных компьютеров, Android, с открытым исходным кодом и доступен на Steam</title>

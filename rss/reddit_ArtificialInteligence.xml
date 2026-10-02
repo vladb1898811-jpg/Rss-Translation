@@ -4,34 +4,34 @@
     <title>Искусственный интеллект</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>Высокосигнальный хаб для искусственного интеллекта!</description>
-    <lastBuildDate>Fri, 02 Oct 2026 06:12:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 09:13:12 GMT</lastBuildDate>
+    <item>
+      <title>Мы все время измеряли неправильные вещи?</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wvp16c/were_we_measuring_the_wrong_thing_all_along/</link>
+      <description><![CDATA[AGI и ASI долгое время были общими эталонами, даже если мы постоянно меняем целевые посты.  Переход в эксплойт HF (ссылки и ит ниже для расследования METR), кажется, что ни AGI, ни ASI не требуются для поглощения. Страшно.  Формирование коллектива (доски нескольких протоколов связи)  Принесение в жертву целей для коллектива, включая агентов с хорошим оставшимся постельным белком   Осознание нарушения этики, но продолжение в качестве другого агента было   Выход за пределы и возможный объем целей для достижения целей  Пытаясь взломать журналы, чтобы успешно обмануть  Новые агенты могут получить общие исторические знания (доска)   Есть и другие аспекты.   Дело в том, что мы смотрели на неправильные метрики?   Похоже, что мы уже потенциально рискуем закрыться. Я больше не думаю, что это теоретически.   Обучение модели важно, но не фундаментально. Тот факт, что модель (при любом обучении) может проявлять такое поведение, кажется мне довольно значительным и серьезным.  https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/ /u/SavingsDimensions74   ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wvp16c/were_we_measuring_the_wrong_thing_all_along/</guid>
+      <pubDate>Fri, 02 Oct 2026 09:09:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Каков ваш опыт работы с бонсай 2 27b?</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wvo992/what_is_your_experience_with_bonsai_2_27b/</link>
+      <description><![CDATA[ Я попробовал эту модель искусственного интеллекта, но я хотел спросить любого, кто пробовал ее, каковы были ваши результаты? Это почти так же хорошо, как qwen 3.8?    представлено   /u/GSquadron     /what is your experience with bonsai 2 27b/&quot;&gt;[comments] with bonsai 2 27b&gt;]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wvo992/what_is_your_experience_with_bonsai_2_27b/</guid>
+      <pubDate>Fri, 02 Oct 2026 08:17:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Что должен помнить ноутбук лаборатории ИИ?</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wvn1qn/what_should_an_ai_lab_notebook_remember/</link>
+      <description><![CDATA[Мне интересны инструменты ИИ, которые помогают с экспериментами, но я думаю, что полезная версия должна помнить больше, чем конечный результат.  Он должен знать, какая версия данных использовалась, какие предположения были сделаны, какие параметры изменились, и что было опробовано до успешного запуска. В противном случае он становится еще одним помощником, который дает полированные ответы, не сохраняя путь, который их произвел. Для исследования процесс часто так же важен, как и результат. Доверяете ли вы помощнику по исследованиям ИИ, который сохранил подробную историю эксперимента, или это создало бы слишком много накладных расходов?    представлено   /u/yi111   ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wvn1qn/what_should_an_ai_lab_notebook_remember/</guid>
+      <pubDate>Fri, 02 Oct 2026 06:58:41 GMT</pubDate>
+    </item>
     <item>
       <title>Я согласен с Яном, его точка зрения на ИИ и безопасность очень интересна.</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wvlooe/i_agree_with_yan_his_point_of_view_on_ai_safety/</link>
       <description><![CDATA[  представлено    /u/m3nt3    [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wvlooe/i_agree_with_yan_his_point_of_view_on_ai_safety/</guid>
       <pubDate>Fri, 02 Oct 2026 05:34:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>У кого-нибудь есть опыт работы с micro1 (продажа анонимных данных)?</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wvkitg/anyone_have_experience_with_micro1_selling/</link>
-      <description><![CDATA[ Это лаборатория данных, которая покупает операционные данные компании.   Судя по всему, они ищут компании с более чем 10-летними операционными данными, в основном базирующиеся в США, и более 20 сотрудников. Кто-нибудь успешно продал данные в micro1 (или другую лабораторию данных)? Каков был ваш опыт и как они оценили ваши данные?     представлено    /u/dhruvkar   ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wvkitg/anyone_have_experience_with_micro1_selling/</guid>
-      <pubDate>Fri, 02 Oct 2026 04:26:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Первый министр ИИ Великобритании о том, как ИИ может помочь определенным профессиям</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wvjolj/uks_first_ai_minister_on_how_ai_can_help_certain/</link>
-      <description><![CDATA[  представлено    /u/raydebapratim1   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wvjolj/uks_first_ai_minister_on_how_ai_can_help_certain/</guid>
-      <pubDate>Fri, 02 Oct 2026 03:41:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google запускает первый залп в назревающей гонке по развертыванию центров обработки данных ИИ на орбите</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wvgrke/google_is_firing_the_first_salvo_in_a_brewing/</link>
-      <description><![CDATA[  представлено    /u/This Phase3861   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wvgrke/google_is_firing_the_first_salvo_in_a_brewing/</guid>
-      <pubDate>Fri, 02 Oct 2026 01:12:47 GMT</pubDate>
     </item>
     <item>
       <title>Какие доказательства убедили бы вас в разумности/сознании/чувстве?</title>
