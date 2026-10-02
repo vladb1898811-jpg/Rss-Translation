@@ -4,7 +4,21 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Fri, 02 Oct 2026 19:37:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 22:34:54 GMT</lastBuildDate>
+    <item>
+      <title>0.17.0 Заметки о выпуске Язык программирования Zig</title>
+      <link>https://www.reddit.com/r/programming/comments/1ww6bea/0170_release_notes_â_the_zig_programming_language/</link>
+      <description><![CDATA[  представлено   /u/BrewedDoritos    [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ww6bea/0170_release_notes_â_the_zig_programming_language/</guid>
+      <pubDate>Fri, 02 Oct 2026 21:52:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPU-Initiated Communication: Рассекая до костей</title>
+      <link>https://www.reddit.com/r/programming/comments/1ww56qa/gpuinitiated_communication_dissecting_down_to_the/</link>
+      <description><![CDATA[  представлено    /u/mttd   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ww56qa/gpuinitiated_communication_dissecting_down_to_the/</guid>
+      <pubDate>Fri, 02 Oct 2026 21:04:44 GMT</pubDate>
+    </item>
     <item>
       <title>Arjay McCandless: 8 Backends на одном сервере за 12 долларов</title>
       <link>https://www.reddit.com/r/programming/comments/1ww016f/arjay_mccandless_8_backends_on_the_same_12_server/</link>
@@ -25,13 +39,6 @@
       <description><![CDATA[ncurses terminfo может имитировать двухконтрольный Минский станок, делая повторные расширения параметров вычислительно универсальными.  Demo: паразитическое вычисление Фибоначчи внутри /usr/bin/top    представлено   /u/Dull Replacement8890   ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wvy0zi/a_minsky_machine_in_ncurses_terminfo/</guid>
       <pubDate>Fri, 02 Oct 2026 16:18:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>безымянный</title>
-      <link>https://www.reddit.com/r/programming/comments/1wvwjyo/untitled/</link>
-      <description><![CDATA[  представлено   /u/Arakela   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wvwjyo/untitled/</guid>
-      <pubDate>Fri, 02 Oct 2026 15:20:39 GMT</pubDate>
     </item>
     <item>
       <title>Частичное оценивание в трюфеле - динамическое обучение мета-компиляции</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[  представлено    /u/mindondrugs    [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wuwzxc/getting_ready_for_2026_results_a_look_back_on/</guid>
       <pubDate>Thu, 01 Oct 2026 11:30:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Добавление очень простых 3d вне стандартной операционной системы - плавающие точки и базовая 3d графика</title>
-      <link>https://www.reddit.com/r/programming/comments/1wumd96/adding_very_basic_3d_outside_of_a_standard/</link>
-      <description><![CDATA[  представлено    /u/eccsoheccsseven   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wumd96/adding_very_basic_3d_outside_of_a_standard/</guid>
-      <pubDate>Thu, 01 Oct 2026 01:15:28 GMT</pubDate>
     </item>
     </channel>
 </rss>

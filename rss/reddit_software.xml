@@ -4,7 +4,28 @@
     <title>Новые материалы: программное обеспечение</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>Все, что связано с программным обеспечением. Пожалуйста, следуйте нашим правилам, чтобы избежать наказания.</description>
-    <lastBuildDate>Fri, 02 Oct 2026 19:36:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 22:33:29 GMT</lastBuildDate>
+    <item>
+      <title>Есть ли приложения, где я могу сравнить цены на продукты в разных магазинах рядом со мной?</title>
+      <link>https://www.reddit.com/r/software/comments/1ww522u/are_there_any_apps_where_i_can_compare_food/</link>
+      <description><![CDATA[  представлено    /u/mil0wCS   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ww522u/are_there_any_apps_where_i_can_compare_food/</guid>
+      <pubDate>Fri, 02 Oct 2026 20:59:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 Snipping Tool работает с Greenshot</title>
+      <link>https://www.reddit.com/r/software/comments/1ww3tcz/i_got_windows_11_snipping_tools_ocr_working_with/</link>
+      <description><![CDATA[Я всегда использовал Greenshot, но его опции OCR всегда были слабым местом для меня. Я использовал Capture2Text через плагин Greenshot External Command, но я регулярно использовал аппаратные модели/серийные номера OCR, и он довольно плохо боролся с такими вещами, как O против 0. Это немного проблема, когда вы пытаетесь захватить что-то вроде 21R4S0LJ00.  С другой стороны, Windows 11 Snipping Tool имеет удивительно хорошую OCR благодаря функции Text Actions. Поэтому я пошел в кроличью нору, выясняя, могу ли я использовать этот OCR-движок, не отказываясь от Greenshot. Я собрал Greenshot-OneOCR, который соединяет функцию Greenshot-OneOCR с двигателем OneOCR, включенным в Windows 11 Snipping Tool. Рабочий процесс в основном: Capture &gt; OneOCR &gt; Clipboard &gt; Ctrl+V  Это занимает около секунды или двух на моих машинах, и распознанный текст автоматически помещается в буфер обмена. Я протестировал его на куче аппаратных номеров моделей плюс обычный текст, пути, адреса электронной почты, котировки, знаки доллара и т. Д. Разница по сравнению с Capture2Text была достаточно значительной, чтобы я подумал, что кто-то другой может найти это полезным. В итоге я превратил его в небольшой установщик PowerShell, поэтому настройка не требует ручного копания пакета Snipping Tool. Он находит компоненты OneOCR из установленной копии Snipping Tool, загружает обертку CLI, в которой он нуждается, и печатает точные настройки внешней команды для вставки в Greenshot. GitHub: https://github.com/bobaflett/Greenshot-OneOCR Это только Windows 11, и OneOCR является недокументированным/внутренним компонентом Snipping Tool, поэтому всегда есть шанс, что Microsoft что-то изменит и сломает его позже.  Это началось как &quot;конечно, есть лучший вариант OCR для Greenshot&quot; проекта и немного вышло из-под контроля.    представлено   /u/bobaflett   &gt;]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ww3tcz/i_got_windows_11_snipping_tools_ocr_working_with/</guid>
+      <pubDate>Fri, 02 Oct 2026 20:08:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Любые советы для студента 4-го курса CSE, чтобы получить хорошую работу в области программного обеспечения</title>
+      <link>https://www.reddit.com/r/software/comments/1ww34o2/any_tips_for_4th_year_cse_student_to_get_a_good/</link>
+      <description><![CDATA[  представлено   /u/Western-Lettuce-5264    [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ww34o2/any_tips_for_4th_year_cse_student_to_get_a_good/</guid>
+      <pubDate>Fri, 02 Oct 2026 19:40:19 GMT</pubDate>
+    </item>
     <item>
       <title>Альтернатива Outertech Clipboard History Pro</title>
       <link>https://www.reddit.com/r/software/comments/1ww1xbj/alternative_to_outertech_clipboard_history_pro/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[Так что, как и любой другой человек, который пытается сжечь CD, я уверен, что вы знаете, что это разочаровывающая задача.  Я использовал itunes, Windows Media Player и Express Burn от NHC. Ничего не работает. Я начинаю верить, что это моя настоящая внешняя горелка/писатель? В WMP говорится, что диск полон и будет отказываться гореть правильно, я каждый раз получаю ошибку. Я попробовал трюк редактирования, но не имел фильтров для удаления. С явным ожогом я просто продолжаю получать ошибки msgs, с итунами я надеялся, но только что получил ER на моем физическом CD-плеере. Cds - это philips CD-R 52x. Кроме того, когда я просматриваю свойства на моей странице дисков, на ней написано 0bytes free?? , проверенный на Windows 10, затем опробованный на Windows 11.    представленный   /u/Pretty-Extension5452   ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1wvv4kq/i_cant_burn_my_cds/</guid>
       <pubDate>Fri, 02 Oct 2026 14:22:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Как вы поддерживаете и развертываете клиентский код? Есть инструменты для этого?</title>
-      <link>https://www.reddit.com/r/software/comments/1wvu68i/how_do_you_maintain_and_deploy_customerspecific/</link>
-      <description><![CDATA[  представлено    /u/Embarrassed-Survey61     [link] ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wvu68i/how_do_you_maintain_and_deploy_customerspecific/</guid>
-      <pubDate>Fri, 02 Oct 2026 13:43:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Кто-нибудь из Бинго Гиков может помочь?</title>
-      <link>https://www.reddit.com/r/software/comments/1wvtpnv/any_bingo_geeks_able_to_help/</link>
-      <description><![CDATA[ Если вы похожи на меня и одержимы DOS, мне это нравится, и я создал свою собственную версию оригинальной системы вызовов DOS-бинго. Тем не менее, я хочу проверить это с некоторыми настоящими билетами на бинго? Теперь я много знаю об этом, система будет иметь данные карты на N / S Look Up. Но как я могу заставить систему искать данные карты?  Чтобы было ясно, что это 1-90 Bingo на запасе Cowell Arrows!     представлено   /u/CrimsonEnigma132   [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wvtpnv/any_bingo_geeks_able_to_help/</guid>
-      <pubDate>Fri, 02 Oct 2026 13:22:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Я создал для себя простого pdf-зрителя/организатора.</title>
-      <link>https://www.reddit.com/r/software/comments/1wvt337/i_built_a_deadsimple_pdf_viewerorganizer_for/</link>
-      <description><![CDATA[Hi community, Пожалуйста, будьте добры и нежны, это моя первая попытка опубликовать что-то, даже это небольшое.  У меня есть ручная машина Windows в качестве ежедневного драйвера, и я всегда борюсь с просмотрщиком PDF от Adobe. Его раздутый, неуклюжий, часто падает и не позволяет мне разделиться / слиться. Я хотел создать что-то очень простое, что позволяет мне просматривать pdfs и печатать, но также легко объединять / разделять / организовывать. Он легкий, быстрый и простой в использовании. С тех пор я делился им с друзьями и семьей, и всем это, казалось, нравилось, поэтому я решил опубликовать его в MS Store. Все работает в автономном режиме, нет аналитики, файлов cookie или какой-либо онлайн-активности. Это единовременная плата, используйте вечно.  Если вы заинтересованы и можете попробовать, я включил промо-код ниже. Я знаю, что есть тонна зрителей PDF, но это то, что я хотел, и если кто-то найдет это полезным, это сделает меня счастливым. Я ценю любые комментарии или отзывы.  Ссылка магазина с кодом: /u/chickenpoop&gt;]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wvt337/i_built_a_deadsimple_pdf_viewerorganizer_for/</guid>
-      <pubDate>Fri, 02 Oct 2026 12:55:58 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>Новые материалы: opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>Субреддит для всего, что связано с открытым исходным кодом (для этого контекста мы выходим из определения открытого исходного кода здесь http://en.wikipedia.org/wiki/Open source)</description>
-    <lastBuildDate>Fri, 02 Oct 2026 19:51:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 22:48:50 GMT</lastBuildDate>
+    <item>
+      <title>Делайте свои собственные правила винта в YAML</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ww6xaq/declint_make_your_own_custom_lint_rules_in_yaml/</link>
+      <description><![CDATA[declint (docs) - это инструмент для создания собственных правил линта в YAML - правила дома, которые биржевые линтеры никогда не будут поставлять.  Например: ваш коллега написал , за исключением исключения: pass, и вы хотите знать, когда это происходит: version: 1 rules: -id: exceptpass pattern: &#39; Exception:\n *pass&#39; severity: warning message: &#39;swallowed exception&#39;   Правила — это просто регекс и сообщение. Когда регекс не может выразить чек, вы можете написать более сложное правило в Lua. Правила работают в вашем CI (встроенные PR-аннотации через --формат github) и в вашем редакторе через LSP (declint.nvim для Neovim). Каждое правило может нести встроенные приспособления, и тест declint запускает их. Установить: cargo install declint. Корабли с предустановками (Python, INI, Markdown, shell, Dockerfile, TOML, JSON, JS) и правилами сообщества можно тянуть одной линией. Обратная связь приветствуется.    представлено   /u/cs61bredditaccount   [link]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ww6xaq/declint_make_your_own_custom_lint_rules_in_yaml/</guid>
+      <pubDate>Fri, 02 Oct 2026 22:19:03 GMT</pubDate>
+    </item>
     <item>
       <title>Word-sys PDF редактор Готов к Flatpak!</title>
       <link>https://www.reddit.com/r/opensource/comments/1wvsnox/wordsys_pdf_editor_ready_for_flatpak/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[ Мой вопрос относится, например, к лицензированному программному обеспечению GPL, которое, как известно, находится за платным доступом или только через третью сторону. Знаете ли вы какие-либо такие примеры?  Я связал статью FSF о свободном программном обеспечении с коммерческим успехом.&quot; Есть часть на &quot;selling&quot;:   Продажа: Существует также возможность просто распространять копии бесплатного программного обеспечения, которое вы разработали за определенную плату. Конечно, вы должны предоставить исходный код при продаже. Люди могут свободно копировать и распространять исходный код, но если вы попросите людей заплатить за продукт, по крайней мере, некоторые из тех, кто ценит работу, вложенную в это программное обеспечение, сделают это. Это также связано со статьей GNU на  Продажа свободного программного обеспечения с предисловием:    Многие люди считают, что суть проекта GNU заключается в том, что вы не должны взимать плату за распространение копий программного обеспечения или что вы должны взимать как можно меньше, чтобы покрыть расходы. Это недоразумение.   Теперь, поскольку пользователь имеет немедленные права на перераспределение, это так, что мы привыкли видеть свободное программное обеспечение свободно доступным - по-видимому, это кажется более выгодным для оригинальных авторов распространять его публично самостоятельно без какой-либо платы.  Есть ли какой-либо известный случай продажи свободного программного обеспечения  - текущего или исторического - который не доступен бесплатно оригинальными авторами?  И если нет, то каков акцент на &quot;свободный как в речи, а не как в пиве&quot; не спорный момент?    представленный   /u/esiy0676   [link]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1wtsvtf/how_is_free_as_in_speech_not_as_in_beer_not_a/</guid>
       <pubDate>Wed, 30 Sep 2026 02:07:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Почему больше дизайнеров не вносят вклад в открытый исходный код?</title>
-      <link>https://www.reddit.com/r/opensource/comments/1wtprnf/why_dont_more_designers_contribute_to_open_source/</link>
-      <description><![CDATA[  представлено    /u/Winter Simple 159    contribute to open source/&gt;[link]&gt;   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1wtprnf/why_dont_more_designers_contribute_to_open_source/</guid>
-      <pubDate>Tue, 29 Sep 2026 23:40:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
