@@ -4,7 +4,7 @@
     <title>Продуктовая охота — Лучшие продукты каждый день</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 02 Oct 2026 01:24:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 05:01:50 GMT</lastBuildDate>
     <item>
       <title>ОТТЕР В</title>
       <link>https://www.producthunt.com/products/utter-in</link>
@@ -34,46 +34,6 @@
       <pubDate>Wed, 30 Sep 2026 19:57:48 GMT</pubDate>
     </item>
     <item>
-      <title>Ило</title>
-      <link>https://www.producthunt.com/products/helo-2</link>
-      <description><![CDATA[
-Независимый API электронной почты от бывших сотрудников Postmark
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/helo-2</guid>
-      <pubDate>Wed, 30 Sep 2026 19:57:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Витра.</title>
-      <link>https://www.producthunt.com/products/vitra-ai-agentic-content-platform</link>
-      <description><![CDATA[
-Агентская платформа для создания и локализации контента
-
-
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/vitra-ai-agentic-content-platform</guid>
-      <pubDate>Wed, 30 Sep 2026 19:36:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Близнец</title>
-      <link>https://www.producthunt.com/products/twin-2</link>
-      <description><![CDATA[
-Крошечный приятель, который живет на вашем Mac
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/twin-2</guid>
-      <pubDate>Wed, 30 Sep 2026 10:03:29 GMT</pubDate>
-    </item>
-    <item>
       <title>Чат.ш.</title>
       <link>https://www.producthunt.com/products/chat-sh</link>
       <description><![CDATA[
@@ -86,6 +46,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/chat-sh</guid>
       <pubDate>Wed, 30 Sep 2026 05:27:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenCompanion</title>
+      <link>https://www.producthunt.com/products/opencompanion</link>
+      <description><![CDATA[
+Начните, посмотрите и ответьте на CLI-кодирование ИИ из одного настольного приложения
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/opencompanion</guid>
+      <pubDate>Wed, 30 Sep 2026 02:23:34 GMT</pubDate>
     </item>
     <item>
       <title>ShareCube</title>
@@ -102,18 +76,32 @@
       <pubDate>Tue, 29 Sep 2026 23:21:44 GMT</pubDate>
     </item>
     <item>
-      <title>Basedash chat чат панель предварительного просмотра</title>
-      <link>https://www.producthunt.com/products/basedash</link>
+      <title>Формалини</title>
+      <link>https://www.producthunt.com/products/formalini</link>
       <description><![CDATA[
-Одна подсказка. Целая панель приборов, живите в чате.
+Docs to Data, BI, Personal Finance, Huge Dev Platform. Попробуй.
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/basedash</guid>
-      <pubDate>Tue, 29 Sep 2026 19:14:03 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/formalini</guid>
+      <pubDate>Tue, 29 Sep 2026 20:14:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Америка.gov</title>
+      <link>https://www.producthunt.com/products/america-gov</link>
+      <description><![CDATA[
+Все, что вам нужно от правительства, начните здесь.
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/america-gov</guid>
+      <pubDate>Tue, 29 Sep 2026 18:38:12 GMT</pubDate>
     </item>
     <item>
       <title>Скриншоты OpenAI</title>
@@ -142,20 +130,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/omnia-2</guid>
       <pubDate>Mon, 28 Sep 2026 16:47:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>ЕвГПТ</title>
-      <link>https://www.producthunt.com/products/jevgpt</link>
-      <description><![CDATA[
-Чат-бот построен на модели, которая не может писать
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/jevgpt</guid>
-      <pubDate>Mon, 28 Sep 2026 16:36:26 GMT</pubDate>
     </item>
     <item>
       <title>Семитекса</title>
@@ -212,6 +186,34 @@ PHP-фреймворк, который ваш ИИ-агент может про�
 ]]></description>
       <guid>https://www.producthunt.com/products/directus</guid>
       <pubDate>Tue, 15 Sep 2026 17:47:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Старли</title>
+      <link>https://www.producthunt.com/products/starlie</link>
+      <description><![CDATA[
+Быстрый, родной клиент Jira для Mac
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/starlie</guid>
+      <pubDate>Fri, 28 Aug 2026 14:25:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Auth Monster</title>
+      <link>https://www.producthunt.com/products/authmonster</link>
+      <description><![CDATA[
+Приложение 2FA, которое вам нравится использовать
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/authmonster</guid>
+      <pubDate>Sun, 26 Jul 2026 01:53:02 GMT</pubDate>
     </item>
     </channel>
 </rss>

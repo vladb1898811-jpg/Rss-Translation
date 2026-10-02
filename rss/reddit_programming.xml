@@ -4,7 +4,7 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Fri, 02 Oct 2026 01:13:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 04:46:02 GMT</lastBuildDate>
     <item>
       <title>Роберт Сикорд: «Небезопасная ржавчина» (2026)</title>
       <link>https://www.reddit.com/r/programming/comments/1wvf5qb/robert_seacord_unsafe_rust_rustconf_2026/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>Выпущены новые версии Python, 3.10.x достигает EOL (а 3.15.0 запланирован на сегодня)!</title>
       <link>https://www.reddit.com/r/programming/comments/1wv4hph/new_python_releases_are_out_310x_reaches_eol_and/</link>
-      <description><![CDATA[ Новые релизы, анонсированные сегодня, включая EOL для 3.10.x: https://blog.python.org/2026/10/python-31022-31117/  Примечание: В посте выше не упоминается 3.15 - предполагая, что они сделают отдельный пост позже сегодня, когда это выйдет.    представлено   /u/initcommit   [link] [comments]]]></description>
+      <description><![CDATA[ Новые релизы, анонсированные сегодня, включая EOL для 3.10.x: https://blog.python.org/2026/10/python-31022-31117/  Примечание: В посте выше не упоминается 3.15 - предполагая, что они сделают отдельный пост позже сегодня, когда это выйдет.    представленный   /u/initcommit   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wv4hph/new_python_releases_are_out_310x_reaches_eol_and/</guid>
       <pubDate>Thu, 01 Oct 2026 16:45:33 GMT</pubDate>
     </item>
@@ -29,7 +29,7 @@
     <item>
       <title>Второй золотой шип: безопасность памяти через границу Валена и Руста</title>
       <link>https://www.reddit.com/r/programming/comments/1wv0fjv/the_second_golden_spike_memory_safety_across_the/</link>
-      <description><![CDATA[  представлено    /u/verdagon    [link] ]]></description>
+      <description><![CDATA[  представлено    /u/verdagon   [link] ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wv0fjv/the_second_golden_spike_memory_safety_across_the/</guid>
       <pubDate>Thu, 01 Oct 2026 14:09:28 GMT</pubDate>
     </item>
