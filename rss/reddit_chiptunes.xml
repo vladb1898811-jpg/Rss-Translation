@@ -4,7 +4,21 @@
     <title>Новые материалы: Chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>Сообщество, посвященное музыке, которая получает максимум от меньшего. Музыка в стиле старых игр, например, C64, Atari, NES, Gameboy, Sega Genesis, Adlib, OPM, MOD и др.</description>
-    <lastBuildDate>Sat, 03 Oct 2026 16:02:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 19:58:26 GMT</lastBuildDate>
+    <item>
+      <title>Une Brume Matinale (оригинальная песня)</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1wwvbtu/une_brume_matinale_original_song/</link>
+      <description><![CDATA[    Некоторые вещи, которые нужно знать:  - Я родом из окариновой сцены/общины. Играл на инструменте ежедневно в течение 3 лет и сочинял в течение нескольких месяцев. Я обычно выступаю на фестивале ren faire/medieval, но трудно найти других мотивированных музыкантов, чтобы начать группу или какой-либо долгосрочный музыкальный проект. Недавно я получил Anbernic RG35XXSP с множеством моих любимых ретроигр, и именно тогда, когда мне пришло в голову, я, вероятно, мог превратить свои собственные оригинальные песни ocarina в 8-битный материал, не нуждаясь ни в ком.  - я сделал это с бесплатным приложением для 8-битного производителя на моем телефоне под названием PocketTune (NO AI) (https://play.google.com/store/apps/details?id=com.vjconnect\ software.pockettune) уже получил дюжину песен из этого и подсчета. - Да, я француз. Название можно перевести как &quot;Утренний туман&quot;, который звучит так, как будто он исполняется в одиночку на окарине, но хорошо... Это оказалось чем-то другим, когда он стал 8-битным (с которым я в порядке). Иногда песня должна жить свободно от своего создателя. Теперь, пожалуйста, скажите мне:  - Это хорошо? Я на правильном пути? (Путь, почему бы и нет, чтобы мои песни когда-нибудь использовались в домашних ретро-играх) Что такое лучшее приложение, чтобы получить? (Не поймите меня неправильно, я люблю это крошечное приложение, было здорово учиться на нем, но я чувствую, что после этих последних нескольких недель я мог бы использовать больше звуковых опций) У вас есть какие-нибудь хорошие советы или советы, чтобы спасти меня от будущей бесполезной борьбы? Почему это вызывает привыкание?  Большое спасибо!    представлено   /u/thedeladoshow   [link] [comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1wwvbtu/une_brume_matinale_original_song/</guid>
+      <pubDate>Sat, 03 Oct 2026 19:11:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Обсуждение GameCube SFX & The Mad Scientist</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1wwtut0/gamecube_sfx_the_mad_scientists_drumz/</link>
+      <description><![CDATA[  представлено   /u/DreamUHHH    [link] [comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1wwtut0/gamecube_sfx_the_mad_scientists_drumz/</guid>
+      <pubDate>Sat, 03 Oct 2026 18:10:33 GMT</pubDate>
+    </item>
     <item>
       <title>Моя 8-битная обложка "Весны"</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1wwpftt/my_8bit_cover_of_spring/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[Hi! Если у вас есть такой картридж, я бы хотел купить ваш монокартридж! Я стараюсь проверять ebay и реверберировать еженедельно, и я чувствую, что искал 4 года. Пожалуйста, ДМ, если у вас есть один или знаете, где я могу найти один! Я хотел бы купить его и покрыть доставку.  Извините, если это неправильный способ или неправильное место, чтобы спросить.    представлено   /u/sisterpenis   ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1wvj550/iso_nanoloop_mono_cartridge/</guid>
       <pubDate>Fri, 02 Oct 2026 03:11:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>SMB1 Overworld (Eurochip Style, 2A03)</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1wvfswk/smb1_overworld_eurochip_style_2a03/</link>
-      <description><![CDATA[    ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1wvfswk/smb1_overworld_eurochip_style_2a03/</guid>
-      <pubDate>Fri, 02 Oct 2026 00:27:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Я создал приложение для написания музыки Chiptune на iPhone.</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1wvfhaa/i_built_an_app_for_writing_chiptune_music_on/</link>
-      <description><![CDATA[     Hi I made a simple Chiptune app for iOS! Полные трекеры часто казались мне пугающими, поэтому я попытался создать что-то более простое для своего телефона. Он дает вам четыре канала: две импульсные волны, треугольник и шум. Вы нажимаете ноты на сетку, цепные узоры на песню и можете экспортировать WAV либо в виде плавного цикла, либо с естественным окончанием. В нем нет образцов. Каждый звук синтезируется, когда вы играете, как это делает аппаратное обеспечение. Треугольник ступенчатый, как настоящий, и шум исходит из 15-битного регистра сдвига, такого как 2A03. Это $0,99 на iPhone и iPad, и все это с открытым исходным кодом, если вы хотите увидеть, как звуки создаются или взять код для создания чего-то самостоятельно. App Store GitHub Project Site  Это первая версия, так что я хотел бы знать, чего не хватает. И если ты что-то с этим сделаешь, я бы хотел это услышать. Спасибо!    представлено   /u/proachute   [link] [comments&gt;]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1wvfhaa/i_built_an_app_for_writing_chiptune_music_on/</guid>
-      <pubDate>Fri, 02 Oct 2026 00:11:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

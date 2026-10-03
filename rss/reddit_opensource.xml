@@ -4,7 +4,28 @@
     <title>Новые материалы: opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>Субреддит для всего, что связано с открытым исходным кодом (для этого контекста мы выходим из определения открытого исходного кода здесь http://en.wikipedia.org/wiki/Open source)</description>
-    <lastBuildDate>Sat, 03 Oct 2026 16:09:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 20:06:17 GMT</lastBuildDate>
+    <item>
+      <title>Chop Chop: простой видеоразделитель</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wwukid/chop_chop_a_simple_video_splitter/</link>
+      <description><![CDATA[Hi, all!  Я заметил, что как на Linux, так и на Windows очень трудно найти бессмысленный видеоразделитель с нормальным графическим интерфейсом и без рекламы. Вот почему я разработал chop-chop. Это очень простой, красивый, бессмысленный видео-сплиттер для Linux и Windows. Хотя и Linux, и Windows выпускают общий код, ни один из графических интерфейсов не является портом: в Linux chop-chop использует GTK-3 и язык дизайна; в Windows он также использует API Windows и язык дизайна! Кроме того, чтобы быть невероятно быстрым, он также использует многопоточность из коробки. Это приложение с открытым исходным кодом и совершенно бесплатно, но если вы не хотите беспокоиться, я также предлагаю установщики Windows и Linux (Ubuntu только на данный момент). Надеюсь, это вам пригодится!  Загрузить его по адресу: https://gullMagic2//chop-chop/ree/main  Windows installer: ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wwukid/chop_chop_a_simple_video_splitter/</guid>
+      <pubDate>Sat, 03 Oct 2026 18:40:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>RequestScript & Stellarium - новый способ запуска API</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wwuf96/requestscript_stellarium_a_novel_way_to_run_apis/</link>
+      <description><![CDATA[ Всем привет! Я представляю два новых проекта, которые я разрабатывал последние пару лет, которые, я думаю, теперь готовы для прайм-тайма и большего количества участников. TLDR: RequestScript - это новый язык программирования, который объявляется в корпусе запроса на HTTP-сервер. Stellarium - это децентрализованная платформа API, которая запускает RequestScript и обрабатывает монетизацию API. Что такое RequestScript  RequestScript - это язык программирования, который объявляется в корпусе запроса серверу. На него влияют Kotlin и Typescript: // sent to http://localhost:3000/run request MyRequest { const a = 2 const b = 3 const c = a + b return &quot;Hello World!&quot; }   Вы можете определить Ресурсы на языке хоста и ссылаться на них в RequestScript. &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; Вы также можете определить многоразовые запросы, называемые Contracts, которые сохраняются на сервере и могут быть выполнены по запросу. contract path.to.MyContract@1.2.3(имя: строка) { return &quot;Hello ${name}&quot; }  Стелларий - это место, где вещи становятся действительно интересными.Что такое Stellarium? Стелларий - это децентрализованная платформа API, которая позволяет любому выполнять RequestScript и вызывать серверные ресурсы и контракты по сети. Вы можете эффективно вызывать ресурсы и комбинировать их выход через узлы, размещенные на разных языках. Очень просто создавать ресурсы и делиться ими. Ненависть к кодам состояния HTTP, логике повторного использования и т.д. Создайте свои API в RequestScript Resources. У вас есть любимая библиотека в Go, которую вы хотели бы позвонить на Java? Экспортируйте его как ресурс в узле Go и вызовите его на узле Java в типизированном виде с помощью RequestScript. Цель состоит в том, чтобы создать глобальную децентрализованную сеть API. Монетизация Стеллариум также упрощает монетизацию API, поскольку отдельные используемые вами токены RequestScript могут быть собраны и отправлены в его управляющий узел для оплаты. Только заплатите за точное выполнение заявления или функцию ресурса, которую вы вызываете.  Если вы заинтересованы в том, чтобы внести свой вклад или узнать больше, вот репозитории:   RequestScript Stellarium  Все просто выходит из-под контроля и очень много работы в процессе. Более подробная документация появится в ближайшее время!    представлено   /u/Puppymonkebaby    [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wwuf96/requestscript_stellarium_a_novel_way_to_run_apis/</guid>
+      <pubDate>Sat, 03 Oct 2026 18:34:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lyra Viewer 0.6.0 (macOS, Windows, Linux)</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wwtktv/lyra_viewer_060_macos_windows_linux/</link>
+      <description><![CDATA[     &gt;Lyra - это GPU-ускоренный, минималистичный, надежный просмотрщик изображений для просмотра текстур, ссылок и графических активов. Это так же удобно, как и обычный зритель для JPEG, PNG, HEIC, WebP и остальной части вашей фотобиблиотеки. Текстуры (DDS, KTX, KTX2) и карты HDR (EXR, HDR) Фотошоп-документы (PSD/PSB) с иерархией слоев TIFF в глубину: BigTIFF, многостраничные документы, 1-64-битные образцы (подписанные, неподписанные, плавающие) JPEG XL и поддержка широкого спектра дисплея P3  EDR (HDR-дисплей) на macOS   Работает в автономном режиме: нет телеметрии, нет обновлений, нет облака, нет функций ИИ, нет экранов, нет электрона. Прочитайте только по дизайну, чтобы он никогда не касался ваших файлов. Установите: Homebrew (macOS), Flathub или .deb через APT (Linux), Scoop (Windows). Repo (MIT):  Я работаю над этим сольным проектом почти два года. Обратная связь, запросы к функциям и изображения, которые должны открываться, но не очень приветствуются. Трекеры: https://github.com/lyra-viewer/Lyra/issues    представлено   /u/amaurote1   [link] [comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wwtktv/lyra_viewer_060_macos_windows_linux/</guid>
+      <pubDate>Sat, 03 Oct 2026 17:59:32 GMT</pubDate>
+    </item>
     <item>
       <title>PrivMeta: инструмент удаления метаданных с открытым исходным кодом для конфиденциальных людей</title>
       <link>https://www.reddit.com/r/opensource/comments/1wwiaqg/privmeta_an_opensource_metadata_removal_tool_for/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[ Я знаю, что уже есть куча игровых движков с открытым исходным кодом (я должен был изменить имя этого, чтобы избежать торговых марок из-за этого). Abyss (и его язык программирования) размещаются самостоятельно и компилируются   (и пишутся в Hash)  abyss имеет уникальную особенность - вы можете редактировать исходный код в самом движке.  Abyss использует пользовательский язык программирования Hash  Hash разработан, чтобы быть простым и легким для изучения. Цель состоит в том, чтобы со временем вы изменили что-то об этом и сделали это лучше для вас.  (Хэш-документация встроена в пропасть, поэтому я не буду больше объяснять) Дайте мне знать, что вы думаете о моем первом проекте с открытым исходным кодом. Я уверен, что доволен этим  Github ссылка: https://github.com/thecodegangster/abyss-engine/tree/main (файл html является исходным кодом, мне нравятся автономные приложения html, я думаю, что они аккуратны) Обновление: Я добавил: Система для взаимодействия с javascript apis, хранилищем браузера, звуковым редактором и библиотечной системой, которая позволяет создавать правки, которые могут быть объединены в чужой движок с легкостью     представленный   /u/thecodegangster    [link]&gt;[comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1wuq02z/my_open_source_game_engine_abyss/</guid>
       <pubDate>Thu, 01 Oct 2026 04:22:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Crossflight: кросс-процессная защита от кэша для кэша, который вы уже используете (v0.3.2)</title>
-      <link>https://www.reddit.com/r/opensource/comments/1wuevl5/crossflight_crossprocess_cache_stampede/</link>
-      <description><![CDATA[    &lt;&lt;   submitted by   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1wuevl5/crossflight_crossprocess_cache_stampede/</guid>
-      <pubDate>Wed, 30 Sep 2026 19:49:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>У нас нет рвов, и у нас нет открытого исходного кода</title>
-      <link>https://www.reddit.com/r/opensource/comments/1wu9v9v/we_have_no_moat_and_neither_does_open_source/</link>
-      <description><![CDATA[  представлено   /u/eggbrain   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1wu9v9v/we_have_no_moat_and_neither_does_open_source/</guid>
-      <pubDate>Wed, 30 Sep 2026 16:41:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Обратная связь с политикой AI</title>
-      <link>https://www.reddit.com/r/opensource/comments/1wtwfxg/feedback_on_ai_policy/</link>
-      <description><![CDATA[Hey r/opensource, я соло-поддерживаю &#39;python-json-logger&#39;.  Недавно я начал получать много взносов, генерируемых ИИ, поэтому пришло время установить политику. Для тех из вас, кто также поддерживает проекты, которые допускают вклад ИИ, есть ли у кого-либо какие-либо отзывы или рекомендации? Моя запланированная политика находится в Этот PR на GitHub:  Политика ИИ  Использование инструментов ИИ допускается при следующих условиях:   Использование инструментов ИИ должно быть объявлено. Например, в описании PR или через выделенных пользователей / фиксеров.  Должен быть объявлен конкретный инструмент / провайдер ИИ. Инструменты ИИ должны находиться под наблюдением реального человека, который несет ответственность за все сделанные взносы.  Использование инструментов ИИ снижает ожидания от любого вклада.  Не будьте мясопрокси. Уважайте время обслуживающего персонала, гарантируя, что генерируемые взносы действительно ценны.    Заранее спасибо!    представлено   /u/nicholashairs   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1wtwfxg/feedback_on_ai_policy/</guid>
-      <pubDate>Wed, 30 Sep 2026 05:15:30 GMT</pubDate>
     </item>
     </channel>
 </rss>

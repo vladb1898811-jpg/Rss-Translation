@@ -4,7 +4,28 @@
     <title>Новые материалы: программное обеспечение</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>Все, что связано с программным обеспечением. Пожалуйста, следуйте нашим правилам, чтобы избежать наказания.</description>
-    <lastBuildDate>Sat, 03 Oct 2026 15:57:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 19:53:44 GMT</lastBuildDate>
+    <item>
+      <title>Sasha: быстрый двухпановый файловый менеджер в Rust & Svelte</title>
+      <link>https://www.reddit.com/r/software/comments/1wwv6zg/sasha_a_fast_dualpane_file_manager_in_rust_svelte/</link>
+      <description><![CDATA[  представлено    /u/Saymoriss   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wwv6zg/sasha_a_fast_dualpane_file_manager_in_rust_svelte/</guid>
+      <pubDate>Sat, 03 Oct 2026 19:06:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>BetterTrumpet 3.4 выйдет</title>
+      <link>https://www.reddit.com/r/software/comments/1wwtklx/bettertrumpet_34_is_out/</link>
+      <description><![CDATA[  представлено   /u/xammen   [link] [comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wwtklx/bettertrumpet_34_is_out/</guid>
+      <pubDate>Sat, 03 Oct 2026 17:59:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Тестеры нужны] Гиппократ — нативный Windows HUD, который я создал для своих собственных сессий FL Studio, теперь ищу людей, чтобы сломать его (Win 10/11)</title>
+      <link>https://www.reddit.com/r/software/comments/1wwsgx8/testers_needed_hippocrates_a_native_windows_hud_i/</link>
+      <description><![CDATA[  представлено    /u/Hairy Feeling 3223     [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wwsgx8/testers_needed_hippocrates_a_native_windows_hud_i/</guid>
+      <pubDate>Sat, 03 Oct 2026 17:13:07 GMT</pubDate>
+    </item>
     <item>
       <title>[Тестеры нужны] Гиппократ — нативный Windows HUD, который я создал для своих собственных сессий FL Studio, теперь ищу людей, чтобы сломать его (Win 10/11)</title>
       <link>https://www.reddit.com/r/software/comments/1wwpxm2/testers_needed_hippocrates_a_native_windows_hud_i/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[Я ищу программное обеспечение для управления задачами Windows/текст/список, которое содержит  - многоштатные флажки. См. связанную ссылку  - Экспортируемый в простой текст (разметка тоже хорошая) и печать. Позволяет пользовательские состояния и изображения (локальный svg или png). - Нет веб-просмотра. - GUI, а не TUI/CLI - Тегирование приятно   Прямо сейчас я использую ObsidianMD и простой текст на любой быстрой программе заметок или электронной таблице, которые у меня есть, но хотел бы использовать что-то меньшее, предназначенное для списков.  https://community.obsidian.md/plugins/multistate-checkboxes    представленный   [link]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1wwha9x/lf_multistate_lists/</guid>
       <pubDate>Sat, 03 Oct 2026 07:39:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tasket++ (новый выпуск 2.1): автоматически имитируйте действия Windows (бесплатно и с открытым исходным кодом)</title>
-      <link>https://www.reddit.com/r/software/comments/1wwh1nc/tasket_new_21_release_simulate_your_windows/</link>
-      <description><![CDATA[Tasket++ позволяет определять собственные клики, нажатия клавиш, позиции курсора и системные операции, а затем воспроизводить их именно тогда, когда вы хотите. Это простой инструмент Windows, который обрабатывает повторяющиеся рабочие процессы для вас: автоматически отправлять сообщения, вставлять текст в любом месте, делать тихие скриншоты, запускать или закрывать приложения, настраивать громкость или запускать последовательность выключения в конце дня. Все работает локально, без телеметрии, без облака и без сложности. Что он может делать: - Переигрывать определяемые пользователем позиции курсора и нажатия клавиш - Вставлять предопределенный текст в любом месте - Выполнять системные действия: открывать файлы/программы, изменять громкость, делать бесшумные скриншоты, отключать, выполнять операции с файлами/папками - Запускать задачи в определенное время, при запуске, или запускать через настольный ярлык - Запускать задачи один раз, в петлях, или бессрочно - Дискретный режим: запускается тихо из лотка - Используйте командную строку для автозапуска задачи: Tasket++.exe &quot;TaskName&quot; &lt;delayInSeconds (&gt;0)&gt; &lt;NumberOfLoop (-1 для бесконечности)&gt; - Легко обмениваться задачами между разными ПК: просто импортируйте файл sav Локальный, портативный, бесплатный, с открытым исходным кодом. Privacy intact. Fully fonctionnal, доступно сейчас! Microsoft Store: https://apps.microsoft.com/detail/xp9cjlhwvxs49p Portable (v2.1): https://files.amirhammoutene.dev/Tasket++/2.1/Tasket++ v2.1.zip Source: contact@amirhammoutene.dev] (mailto:contact@amirhammoutene.dev)  Ничто не кодируется вибрацией, я никогда не использовал ИИ (за исключением выбора цветов пользовательского интерфейса, предложенного Copilot). Зачатие является подлинным, я не знал о подобных инструментах, когда начал его разрабатывать. Я ищу тестировщиков или быструю обратную связь (за пределами его визуального аспекта), пожалуйста, дайте попробовать и прокомментировать здесь :)    представлено   /u/AmirHammoutene   [link][comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wwh1nc/tasket_new_21_release_simulate_your_windows/</guid>
-      <pubDate>Sat, 03 Oct 2026 07:24:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPadOS версия 16.7.16 Дофаминовые петли при эксплуатации ядра.</title>
-      <link>https://www.reddit.com/r/software/comments/1wwe64q/ipados_version_16716_dopamine_loops_when/</link>
-      <description><![CDATA[  представлено   /u/qoped247    [link] ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wwe64q/ipados_version_16716_dopamine_loops_when/</guid>
-      <pubDate>Sat, 03 Oct 2026 04:32:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Notchify, Dynamic Island для Windows: обновление текстов - живая синхронизированная лирика, виджет текстов и остров, следующий за вашим курсором</title>
-      <link>https://www.reddit.com/r/software/comments/1wwc1je/notchify_dynamic_island_for_windows_the_lyrics/</link>
-      <description><![CDATA[https://png&amp;a92b89436c0fc299c0f4b1.png;ato=png&amp;a92b894gtny5th1.png;auto=png&amp;a92b894gtny5th1.png;auto=png&amp;yv933gtny5h4b192.png/yyv93gtny5th1.png;width=1919&amp;format=png&amp;p&gt;1998be8d7dd5af4efa04a&lt; Это продолжение, и все дело в музыке. Видео показывает это лучше, чем слова, но вот что изменилось. Лирики, везде музыка:   Живая лирика на острове:  в то время как песня играет, рухнувший остров показывает слова, которые поются прямо сейчас, в коротких группах, которые катятся в песне. Лирики в игроке: парят на острове, и игрок расширяется с полной лирикой рядом с элементами управления. Нажмите на любую строку, и песня прыгнет к этому моменту.  Виджет лирики: вся песня на фоне, который течет с цветами вашего альбома, с текущей строкой, заполняющей букву за буквой. Перейдите, чтобы прокрутить песню.  Pin it:  Нажмите кнопку на виджете текстов, и остров остается открытым, показывая только тексты, чтобы вы могли держать их на экране во время работы.    Он работает со Spotify, Apple Music и всем остальным, что отображается в средствах управления Windows, и он следует вашей теме, включая светлые темы.   Для настроек с несколькими мониторами:   Следуйте курсору: новая опция отображения, которая перемещает остров на любой экран, над которым вы работаете, мгновенно. Теперь вы выбираете дисплей из простых карт в настройках.   Он находится в Microsoft Store, с короткой бесплатной пробной версией:  Уведомить   В прошлый раз многие из вас просили больше способов использовать остров, пока играет музыка, и этот релиз вышел прямо из этого. Если вы хотите что-то сделать, скажите мне. Прочитал все комментарии.    представлено   /u/ProsperoTR    ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wwc1je/notchify_dynamic_island_for_windows_the_lyrics/</guid>
-      <pubDate>Sat, 03 Oct 2026 02:35:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
