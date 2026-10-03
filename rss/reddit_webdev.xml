@@ -4,7 +4,14 @@
     <title>Новые материалы: webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>Сообщество, посвященное всем вещам веб-разработки: как front-end, так и back-end. Для получения дополнительных вопросов, связанных с дизайном, попробуйте /r/web design.</description>
-    <lastBuildDate>Fri, 02 Oct 2026 22:45:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 01:48:55 GMT</lastBuildDate>
+    <item>
+      <title>Как вытащить массив из объекта в Api</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ww9f3s/how_do_you_pull_the_array_out_of_an_object_in_an/</link>
+      <description><![CDATA[     Использование Javascript в использовании API ресурса - это игроки, но это объект и мне нужна информация о массивах внутри него. Вот что у меня есть, что я делаю неправильно?    представлено   /u/Ok Satisfaction9602   [link] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ww9f3s/how_do_you_pull_the_array_out_of_an_object_in_an/</guid>
+      <pubDate>Sat, 03 Oct 2026 00:17:12 GMT</pubDate>
+    </item>
     <item>
       <title>Тип рабочего стола CMS</title>
       <link>https://www.reddit.com/r/webdev/comments/1ww5gpe/news_desk_type_cms/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       представленный   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1wv66cr/coinbase_is_going_fully_native_moving_from_react/</guid>
       <pubDate>Thu, 01 Oct 2026 17:48:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ежемесячный старт / Карьера Web Dev</title>
-      <link>https://www.reddit.com/r/webdev/comments/1wuxkge/monthly_getting_started_web_dev_career_thread/</link>
-      <description><![CDATA[ В связи с растущим наплывом вопросов по этой теме было принято решение о выделении ежемесячной ветки, посвященной этой теме, для сокращения количества повторных постов по этой теме. Эти типы сообщений больше не будут разрешены в основной ветке.  Многие из этих вопросов также рассматриваются в подразделе FAQ или могут быть заданы в предыдущие ежемесячные темы карьеры для общих и открытых вопросов карьеры и Common Design Patterns   Вам также понадобится портфолио работ с 4-5 созданными вами личными проектами и резюме / резюме для подачи заявки на работу. План на 6-12 месяцев самостоятельного изучения и производства проекта для вашего портфолио перед подачей заявки на работу.    представленный   /u/AutoModerator   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1wuxkge/monthly_getting_started_web_dev_career_thread/</guid>
-      <pubDate>Thu, 01 Oct 2026 12:00:32 GMT</pubDate>
     </item>
     </channel>
 </rss>

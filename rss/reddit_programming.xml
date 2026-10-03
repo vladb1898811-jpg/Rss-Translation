@@ -4,7 +4,21 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Fri, 02 Oct 2026 22:34:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 01:37:35 GMT</lastBuildDate>
+    <item>
+      <title>Самая большая проблема в мире</title>
+      <link>https://www.reddit.com/r/programming/comments/1wwa9f3/the_biggest_problem_in_the_world/</link>
+      <description><![CDATA[  представлено    /u/IcaJalapenos   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wwa9f3/the_biggest_problem_in_the_world/</guid>
+      <pubDate>Sat, 03 Oct 2026 01:00:36 GMT</pubDate>
+    </item>
+    <item>
+      <title><input type="password" maxlength="20"> считается вредным, и почему я не смог войти в Vanguard</title>
+      <link>https://www.reddit.com/r/programming/comments/1ww842a/input_typepassword_maxlength20_is_considered/</link>
+      <description><![CDATA[  представлено    /u/tanin47     [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ww842a/input_typepassword_maxlength20_is_considered/</guid>
+      <pubDate>Fri, 02 Oct 2026 23:14:57 GMT</pubDate>
+    </item>
     <item>
       <title>0.17.0 Заметки о выпуске Язык программирования Zig</title>
       <link>https://www.reddit.com/r/programming/comments/1ww6bea/0170_release_notes_â_the_zig_programming_language/</link>
@@ -18,13 +32,6 @@
       <description><![CDATA[  представлено    /u/mttd   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ww56qa/gpuinitiated_communication_dissecting_down_to_the/</guid>
       <pubDate>Fri, 02 Oct 2026 21:04:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arjay McCandless: 8 Backends на одном сервере за 12 долларов</title>
-      <link>https://www.reddit.com/r/programming/comments/1ww016f/arjay_mccandless_8_backends_on_the_same_12_server/</link>
-      <description><![CDATA[Мысль об этом была крутой.    представленная   /u/-Cacique   [link] ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ww016f/arjay_mccandless_8_backends_on_the_same_12_server/</guid>
-      <pubDate>Fri, 02 Oct 2026 17:38:40 GMT</pubDate>
     </item>
     <item>
       <title>C++ контроллер от первого лица</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[  представлено    /u/a1r   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wuzsdv/c64_mercenary_a_novel_exploit_bug_in_a_41yearold/</guid>
       <pubDate>Thu, 01 Oct 2026 13:43:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Готовность к результатам 2026 года: взгляд на результаты опроса разработчиков</title>
-      <link>https://www.reddit.com/r/programming/comments/1wuwzxc/getting_ready_for_2026_results_a_look_back_on/</link>
-      <description><![CDATA[  представлено    /u/mindondrugs    [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wuwzxc/getting_ready_for_2026_results_a_look_back_on/</guid>
-      <pubDate>Thu, 01 Oct 2026 11:30:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
