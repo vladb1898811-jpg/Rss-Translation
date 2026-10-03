@@ -4,7 +4,14 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Sat, 03 Oct 2026 04:45:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 07:42:48 GMT</lastBuildDate>
+    <item>
+      <title>Структура данных Skip List</title>
+      <link>https://www.reddit.com/r/programming/comments/1wwfp40/skip_list_data_structure/</link>
+      <description><![CDATA[  представлено    /u/Comfortable-Fan-580   [link] [comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wwfp40/skip_list_data_structure/</guid>
+      <pubDate>Sat, 03 Oct 2026 06:02:19 GMT</pubDate>
+    </item>
     <item>
       <title><input type="password" maxlength="20"> считается вредным, и почему я не смог войти в Vanguard</title>
       <link>https://www.reddit.com/r/programming/comments/1ww842a/input_typepassword_maxlength20_is_considered/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  представлено    /u/a1r   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wuzsdv/c64_mercenary_a_novel_exploit_bug_in_a_41yearold/</guid>
       <pubDate>Thu, 01 Oct 2026 13:43:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Готовность к результатам 2026 года: взгляд на результаты опроса разработчиков</title>
-      <link>https://www.reddit.com/r/programming/comments/1wuwzxc/getting_ready_for_2026_results_a_look_back_on/</link>
-      <description><![CDATA[  представлено    /u/mindondrugs    [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wuwzxc/getting_ready_for_2026_results_a_look_back_on/</guid>
-      <pubDate>Thu, 01 Oct 2026 11:30:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
