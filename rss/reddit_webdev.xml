@@ -3,112 +3,112 @@
   <channel>
     <title>Новые материалы: webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>Сообщество, посвященное всем вещам веб-разработки: как front-end, так и back-end. Для получения дополнительных вопросов, связанных с дизайном, попробуйте /r/web design.</description>
-    <lastBuildDate>Sat, 03 Oct 2026 10:46:00 GMT</lastBuildDate>
+    <description>Сообщество, посвященное всем вещам веб-разработки: как front-end, так и back-end. Чтобы узнать больше о дизайне, попробуйте /r/web design.</description>
+    <lastBuildDate>Sat, 03 Oct 2026 16:07:34 GMT</lastBuildDate>
     <item>
-      <title>Я создал многопользовательскую боксерскую игру в реальном времени, которая работает в браузере, без загрузки.</title>
-      <link>https://www.reddit.com/r/webdev/comments/1wwk4we/i_built_a_realtime_multiplayer_boxing_game_that/</link>
-      <description><![CDATA[      Это называется BrowserBoxing. Я хотел что-то, что вы могли бы открыть и сразиться с реальным человеком в течение 30 секунд, без установки. Есть зрительское лобби, где вы можете наблюдать за боями других людей вживую, пока вы ждете матча, спарринг-партнеры ИИ разогреваются и выигрывают полосы, получая награды, чем дольше ваш бег, тем больше цель на спине, до 1500 бонусов XP для тех, кто его заканчивает. https://browserboxing.com    представлено   /u/boxing-boxing   [link] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1wwk4we/i_built_a_realtime_multiplayer_boxing_game_that/</guid>
-      <pubDate>Sat, 03 Oct 2026 10:40:40 GMT</pubDate>
+      <title>Индекс наведения, где один блок WebGL следует за вами и меняет цвет по мере продвижения</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wwq85j/hover_index_where_one_webgl_block_follows_you_and/</link>
+      <description><![CDATA[      useplanes.com/interactions/shader-index?ref=reddit   представлено   /u/Ashishgogula   [link]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wwq85j/hover_index_where_one_webgl_block_follows_you_and/</guid>
+      <pubDate>Sat, 03 Oct 2026 15:37:31 GMT</pubDate>
     </item>
     <item>
-      <title>Простая целевая страница для моего приложения для Android</title>
-      <link>https://www.reddit.com/r/webdev/comments/1wwk20w/simple_landing_page_for_my_android_app/</link>
-      <description><![CDATA[        представлено    [link] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1wwk20w/simple_landing_page_for_my_android_app/</guid>
-      <pubDate>Sat, 03 Oct 2026 10:35:42 GMT</pubDate>
+      <title>Я создала новый инструмент цветового колеса для Mac/PC - ищу вашу критику!</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wwp4pf/i_built_a_new_color_wheel_tool_for_macpc_looking/</link>
+      <description><![CDATA[     hey folks - I built a new tool for mac/p&gt;hey folks, that has all the thing I been been looking for: palette management, color wheel, oklab and 5 other color spaces, including a RYB simulator and more!   Я запустил его как бесплатную публичную бета-версию - хотел бы услышать, что все думают об этом, что вы используете сейчас, и как это сравнивается!  Mac/PC download: colorschemer.com/app    submitted by    /u/msavin   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wwp4pf/i_built_a_new_color_wheel_tool_for_macpc_looking/</guid>
+      <pubDate>Sat, 03 Oct 2026 14:50:54 GMT</pubDate>
     </item>
     <item>
-      <title>[править] [править]</title>
-      <link>https://www.reddit.com/r/webdev/comments/1wwjvmw/想请英语母语者帮我看看这个双语网站的英文翻译是否自然/</link>
-      <description><![CDATA[ 一 中国国  の 中 :https://yuanzhiyin.top ,国,中,,,国,ա,,,国,中,中,,,国— , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,  UI/UX   — — —  ա   ա     — — —  ա   ,の,中,, ,一,の,&gt;    представлено   /u/Hairy Tangelo 4872   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1wwjvmw/想请英语母语者帮我看看这个双语网站的英文翻译是否自然/</guid>
-      <pubDate>Sat, 03 Oct 2026 10:24:28 GMT</pubDate>
+      <title>Я научила доску понимать мой ужасный почерк.</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wwox5y/i_taught_a_whiteboard_to_understand_my_terrible/</link>
+      <description><![CDATA[    &lt;-div class=&quot;md&quot;&gt;Эй, все, Showoff субботнее время. Я построил  Drawva, бесконечное полотно, где ваш грубый нарисованный вручную материал — это не просто пиксели.  Интересная часть на самом деле не была пользовательским интерфейсом.  Трудная часть заключалась в том, чтобы заставить LLM управлять беспорядочным 2D-полосой, не разрушая то, что пользователь уже нарисовал.  Несколько вещей, которые я в конечном итоге построил:  Система координат, чтобы агент мог отображать визуальные позиции на фактические координаты холста  Быстрый контракт, который предотвращает дублирование рукописных заголовков   Осознание Wireframe, чтобы он сохранял ваш грубый эскиз вместо того, чтобы заменять все  Атомное стирание + размещение виджетов при преобразовании эскизов в интерактивные компоненты  Плагиновая система для таких вещей, как погода, акции, технические новости, данные GitHub и более  Песочница для выполнения данных Mermaid, Graphviz, Vega-Lite, Cytoscape, BPMN, GeoJSON и другие диаграммы   A DeepSeek Harness + Cordis для уровня выполнения агента / инструмента   Технический стек в основном Next.js 16, React 19, TypeScript, Tailwind CSS, Vercel AI SDK, мультимодальные LLM, IndexedDB, WebRTC и DeepSeek Harness. Все дело в открытом исходном коде. GitHub: taqui-786/drawva Live app: drawva.vercel.app  Мне особенно любопытна архитектурная сторона этого.  Как бы вы справились с надежным взаимодействием ИИ со свободным холстом?  Понравились бы отзывы, идеи или критика от людей, построивших аналогичные системы AI + UI.    представленные   /u/No-Seaweed-5627   [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wwox5y/i_taught_a_whiteboard_to_understand_my_terrible/</guid>
+      <pubDate>Sat, 03 Oct 2026 14:41:58 GMT</pubDate>
     </item>
     <item>
-      <title>Yumeboard: доска виджетов для вашего запасного монитора или старого планшета</title>
-      <link>https://www.reddit.com/r/webdev/comments/1wwjmss/yumeboard_a_widget_board_for_your_spare_monitor/</link>
-      <description><![CDATA[     https://app.yumeboard.com Я бы очень хотел обратную связь, особенно о том, как он ведет себя на вашем экране или телефоне, и если у вас есть некоторые предложения.    представлено   /u/roseyello   [link] [comments&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1wwjmss/yumeboard_a_widget_board_for_your_spare_monitor/</guid>
-      <pubDate>Sat, 03 Oct 2026 10:08:49 GMT</pubDate>
+      <title>Блог с пользовательским контентом</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wwoukw/blog_with_user_generated_content/</link>
+      <description><![CDATA[Привет всем, Хотя я не новичок в программировании, я определенно плох в этом. Но хуже всего то, что я понимаю тонкости того, чего я могу и не могу достичь с помощью определенных инструментов.   Я очень громко выражаю свои взгляды на вещи, поэтому, очевидно, я подумал, что должен создать блог. Это легко сделать очень дешево, используя страницы GitHub, так как это будет полностью статический html-сайт. Но вот наступает улов. У меня есть несколько друзей, которые выразили большой интерес к этой идее блога, и я хотел бы включить их. Тем не менее, они не знают, как кодировать на любом языке или фреймворке, и это, вероятно, станет для них препятствием. Есть ли способ сделать веб-сайт с учетными записями пользователей и пользовательским контентом динамическим только на стороне клиента, чтобы я все еще мог разместить его на GitHub? Стоит ли искать другой путь?  Любая помощь ценится, я действительно хочу, чтобы эта вещь работала.    представлено    /u/-maks1957-   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wwoukw/blog_with_user_generated_content/</guid>
+      <pubDate>Sat, 03 Oct 2026 14:38:48 GMT</pubDate>
     </item>
     <item>
-      <title>Я создал бэкэнд формы для агентов ИИ с красивыми готовыми шаблонами форм.</title>
-      <link>https://www.reddit.com/r/webdev/comments/1wwjjkn/i_built_a_form_backend_for_ai_agents_with/</link>
-      <description><![CDATA[      Hi! all, really excited to share my last project, that is a form backend service that is very easy to setup.  Не стесняйтесь спрашивать что-либо об этом :)    представлено   /u/nokid77   [link] [comments&gt; ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1wwjjkn/i_built_a_form_backend_for_ai_agents_with/</guid>
-      <pubDate>Sat, 03 Oct 2026 10:03:08 GMT</pubDate>
+      <title>[Showoff Saturday] - проигрыватель классической музыки с одним экраном, где каждая картина нарисована в коде.</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wwotpc/showoff_saturday_a_one_screen_classical_music/</link>
+      <description><![CDATA[в течение нескольких дней https://classican.vercel.app/не содержит файлов изображений, каждая картина нарисована на холсте в коде. Next.js + неоновые постгреи для лайков/комментариев. Самая крутая часть imo - это когда всплывает факт, что вся картина становится темной, за исключением того, что факт касается   его проб janky в местах, так что будьте милы. Работает ли он нормально на вашем телефоне?    представлено   /u/Warm Profile7821   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wwotpc/showoff_saturday_a_one_screen_classical_music/</guid>
+      <pubDate>Sat, 03 Oct 2026 14:37:44 GMT</pubDate>
     </item>
     <item>
-      <title>Я построил локальный графический интерфейс, чтобы исправить гниение контекста во время длительных сеансов кодирования вибрации (планирование совета LLM + циклы).</title>
-      <link>https://www.reddit.com/r/webdev/comments/1wwjdez/i_built_a_local_gui_to_fix_context_rot_during/</link>
-      <description><![CDATA[     Я уже какое-то время вибрировал кодированием тяжелых проектов, а для сложных вещей, как только разговор становится слишком длинным, контекст гниет HITS. Модель начинает сбрасывать файлы, изобретать несуществующий импорт или повторять одно и то же неудачное исправление снова и снова. MF CONTEXT ROT https://i.redd.it/1bvepb7e58th1.gif Для решения этой задачи я построил LoopTroop. Это локальное приложение GUI с открытым исходным кодом (MIT), которое действует как слой оркестровки для агентов кодирования ИИ на долгосрочных билетах. Недавно я пересек 100 звезд на GitHub и начал активно работать над ним каждый день.   Вот как он подходит к проблеме:   Контекстная инженерия против контекста rot   Вместо того, чтобы сваливать всю историю проекта в один массивный, постоянно растущий сеанс чата, LoopTroop разбивает работу на атомные задачи (называемые бусинами) и восстанавливает контекст, свежий для каждой фазы. Это останавливает деградированные сессии от перетаскивания остальной части сборки.  LLM Council для предварительного планирования   Перед написанием любого кода LoopTroop управляет LLM Council. Несколько моделей самостоятельно разрабатывают вопросы интервью, PRD и разбивки задач, а затем анонимно голосуют по планам друг друга. Победивший проект вбирает в себя лучшие идеи от других. Он намеренно медленный и точный заранее, поэтому исполнение не превращается в слоп. Ralph loops для самокоррекции   Когда задача агента терпит неудачу или ударяется о стену, вместо того, чтобы загрязнять активную сессию бесконечными журналами отладки, петля Ральфа берет верх. Он сбрасывает рабочее пространство сеанса, пишет краткую записку о том, что не удалось, и повторяет с новым окном контекста, содержащим эту записку о неудаче. Агент становится умнее при каждой попытке, не наследуя сессионный беспорядок.  Современный графический интерфейс Kanban с управлением «человек в петле»   Все управляется визуально с доски Kanban. Вы одобряете собеседование, PRD, план и окончательный дифф, прежде чем что-либо достигнет вашего репо. Вы сохраняете полный контроль, позволяя агентам выполняться в фоновом режиме. /u/liviux     ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1wwjdez/i_built_a_local_gui_to_fix_context_rot_during/</guid>
-      <pubDate>Sat, 03 Oct 2026 09:52:45 GMT</pubDate>
+      <title>Я создал ежедневную игру по истории и дилемме как PWA. Несколько вещей, которые удивили меня на этом пути</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wwopqf/i_built_a_daily_historydilemma_game_as_a_pwa_a/</link>
+      <description><![CDATA[     Моралия: каждый день одна короткая правдивая история из истории останавливается в тот момент, когда кто-то должен был решить. Вы выбираете, а затем смотрите, что на самом деле произошло и как другие игроки выбрали. Stack: React + Vite + TypeScript PWA на Cloudflare Workers, Supabase для дополнительного входа / синхронизации, без файлов cookie PostHog (EU). Некоторые вещи, которые не были очевидны для меня:    хеш-маршрутизированный SPA невидим для поиска. Google увидел ~20 слов (приветственный экран). Теперь рабочий отображает статические страницы без JS для каждой прошлой истории по запросу. День становится общедоступным только после того, как он закончился в каждом часовом поясе (полдень UTC на следующий день), поэтому никто не портится, и пинг IndexNow загорается, когда он это делает. Наш CSP охватывал статические активы, но не страницы, построенные Рабочим, поэтому Рабочий теперь отправляет те же заголовки сам, с тестом, который не срабатывает, если две копии когда-либо дрейфуют. Подписка на телефоне молча закончила сеанс рабочего стола, который оставил рабочий стол в &quot;подписанный, без электронной почты, не может подписать &quot; цикл. Теперь это пер-устройство. Отказ PostHog ничего не делает в режиме без файлов cookie (он только регистрирует предупреждение). Переключатель «Пользовательские статусы» теперь закрывает каждое событие с помощью pre send, а также перепроверяет очередь событий, буферизованных перед загрузкой SDK. Desktop получил реальный макет (верхняя панель, более широкая колонка, выбор рядом) только при ≥1024px. Каждый экран мобильного телефона и планшета был проверен на пиксель-идентичность до и после. Расшифровка предварительно генерируется; прочитанное предложение выделено с использованием синхронизации слов из пропуска транскрипции, поэтому одно неслыханное слово не может сместить всю подсветку.   Дизайн мой (я UI/UX дизайнер, экраны сделаны в Figma в первую очередь); я построил его с большой помощью Claude Code. https://moralia.app  Рада углубиться в любой из них. Обратная связь по производительности или потоку установки PWA очень приветствуется.    представлено   /u/DavidBarOn1411   [link] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wwopqf/i_built_a_daily_historydilemma_game_as_a_pwa_a/</guid>
+      <pubDate>Sat, 03 Oct 2026 14:32:50 GMT</pubDate>
     </item>
     <item>
-      <title>Веб-симулятор Windows Phone для телефонов</title>
-      <link>https://www.reddit.com/r/webdev/comments/1wwixyc/a_webbased_windows_phone_simulator_for_phones/</link>
-      <description><![CDATA[       Windows Телефон в браузере  с файловой системой на устройстве, построенной на IndexedDB, живые плитки, подаваемые каждым приложением, тосты уведомлений + Action Center, приложения (64 предустановленных, Магазин может удалить и переустановить их):   Почта, Люди, Outlook Mail, КалендарьКамера, Фотографии, Музыка, Видео, FM Radio (реальное интернет-радио), Подкасты, Голосовой регистратор  Погода, Новости, Деньги, Спорт, Карты, Переводчик, Internet Explorer Офис (Слово + Excel с формулами), OneNote, Сигнал тревоги (+ таймер, секундомер), Файлы, Сенсор хранения, Сберегатель аккумуляторов, Настройки, Магазин  Настройки, Магазин, Напоминания, заметки, события, погода, звонки, тексты, Википедия, веб-поиск...) Игровой хаб с геймерами и достижениями: Minesweeper, Solitaire, Wordament, Snake, 2048, Blocks Flashlight, Compass, Bing Vision (QR/barcode scanner), Wikipedia, Unit Converter, Mirror Repo: https://github.com/ducbao414/wphone.devTechstack: ничего причудливого, просто ваниль JS с /u/ducbao414   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1wwixyc/a_webbased_windows_phone_simulator_for_phones/</guid>
-      <pubDate>Sat, 03 Oct 2026 09:25:21 GMT</pubDate>
+      <title>Что вы на самом деле делаете перед отправкой побочного проекта?</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wwo7t4/what_do_you_actually_do_before_shipping_a_side/</link>
+      <description><![CDATA[В работе есть CI, постановка, QA, другие люди, тестирующие вещи и т. д., но для моих собственных вещей это больше просто развертывание, нажмите немного, решите, что это выглядит хорошо, а затем отправьте его.   Это кажется немного глупым, потому что ошибки, о которых я беспокоюсь, обычно не те вещи, которые я только что изменил. Это кто-то, прибывающий, вышедший из системы или проходящий половину пути через что-то, и срабатывает какой-то крайний случай.   У вас есть процедура предварительного развертывания, которая выявила реальные проблемы? Контрольный список, автоматизированные тесты или что-то еще? Или вы, ребята, в основном отправляете и исправляете вещи, когда их находит реальный человек?  Я в основном пытаюсь выяснить, что стоит делать перед запуском, по сравнению с тем, что просто выглядит как притворство QA.    представлено   /u/Havik772   [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wwo7t4/what_do_you_actually_do_before_shipping_a_side/</guid>
+      <pubDate>Sat, 03 Oct 2026 14:10:50 GMT</pubDate>
     </item>
     <item>
-      <title>Почему мой сайт дает ошибку тайм-аута?</title>
-      <link>https://www.reddit.com/r/webdev/comments/1wwirgi/why_is_my_website_giving_timeout_error/</link>
-      <description><![CDATA[     Поэтому я перенес свою форму сайта localhsot в Hostinger и оттуда он выдает мне ошибку time out. Если я использую только Elementor Pro, то ошибки нет, но как только я включаю другой плагин, он снимает, а затем дает мне &quot;невозможно загрузить предварительный просмотр&quot;. Я знаю, что мой сайт не такой тяжелый, но он все еще делает это. Я перепробовал все, увеличивая время тайм-аута, увеличивая память, игнорируя тайм-аута через htaccess, но ничего не работает. Сам elemntor не такой уж и тяжелый плагин. Так почему же, когда я использую Вукомерс или любой другой, это вызывает ошибку? Пожалуйста, помогите.    представлено   /u/MathematicianSad4964   [link] [comments&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1wwirgi/why_is_my_website_giving_timeout_error/</guid>
-      <pubDate>Sat, 03 Oct 2026 09:13:44 GMT</pubDate>
+      <title>Прокрутите от Земли до космической паутины, используя реальные каталоги звезд и галактик</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wwnyjc/showoff_saturday_scroll_from_earth_out_to_the/</link>
+      <description><![CDATA[     Ссылка: r/webdev:  React 19 + TS + Vite один холст, WebGL для точечных слоев (десятки тысяч галактик нуждаются в нем) catalogs, предварительно обработанные с Python в буферы float32, поэтому браузер просто загружает и рисует  , размещенный на Cloudflare Workers   Самым трудным было честно поддерживать его плавным на телефонах при пересечении ~ 20 порядков величины без развала поплавковой точности. Все еще не на 100% доволен этим на старых Android. Никаких объявлений, никакой регистрации, никаких отслеживающих файлов cookie. Хотелось бы получить обратную связь, особенно если что-то заикается на вашем устройстве или переход по шкале кажется запутанным.    представлено   /u/Charming-Ad4660   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wwnyjc/showoff_saturday_scroll_from_earth_out_to_the/</guid>
+      <pubDate>Sat, 03 Oct 2026 13:59:48 GMT</pubDate>
     </item>
     <item>
-      <title>Управление клиентскими проектами</title>
-      <link>https://www.reddit.com/r/webdev/comments/1wwiqbj/managing_client_projects/</link>
-      <description><![CDATA[ Для тех из вас, кто создает веб-сайты для клиентов, как вы обрабатываете хостинг и GitHub? &gt; Вы управляете клиентскими проектами под своими учетными записями или помогаете клиентам создавать свои собственные учетные записи и приглашаете их в качестве администратора или разработчика? Мне было бы интересно узнать, как вы справляетесь с этим, особенно для проектов, требующих постоянного обслуживания и обновлений.    представлено   /u/kbirkegaard   [link][comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1wwiqbj/managing_client_projects/</guid>
-      <pubDate>Sat, 03 Oct 2026 09:11:47 GMT</pubDate>
+      <title>[Шоуофф суббота] Шуточный чат-бот на одном работнике Cloudflare с закрытым классификатором безопасности</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wwmubx/showoff_saturday_a_joke_chatbot_on_one_cloudflare/</link>
+      <description><![CDATA[ Я создал пародийный ИИ, который оскорбляет все, что вы просите: https://misanthropic.chat  Все началось с шутки с друзьями по поводу пива. Шуточная часть заняла выходные. Остальное заняло гораздо больше времени. Stack: один Cloudflare Worker, Workers AI (Llama 4 Scout) и одно KV Namespace. Страница является статическим активом, поэтому ее загрузка никогда не выполняется Работником. Турникет должен пройти, прежде чем что-либо достигнет модели. После одного пропуска вы получаете подписанный 30-минутный пропуск, чтобы он не перепроверял каждое сообщение. Стоимость: модель не пишет полный ответ. Он пишет от одного до трех предложений (130 токенов max), которые попадают в консервированный открыватель и выписку. Каждая подсказка кэширует до 3 ответов, поэтому популярные подсказки перестают стоить чего угодно. Есть две жесткие ежедневные крышки, одна для шуток и одна для проверки безопасности, поэтому худший случай составляет около 21 доллара в день. После шуточного колпачка он служит консервированным оскорблениям.  Безопасность была большей частью работы. Если сайт говорит, что он честный о том, как он относится к вам, некоторые люди скажут ему реальные вещи. Сообщения о самоповреждении, жестоком обращении, причинении кому-либо вреда, наркомании или психических заболеваниях никогда не достигают модели шутки. Они получают простой ответ с реальными номерами горячей линии. Скрининг — это регекс-пасс, затем вызов классификатора с собственным бюджетом. Если классификатор не отвечает, никто не шутит. Он не закрывается.  Жуки, которыми стоит поделиться: - Один и тот же баг, заканчивающий слова, возвращался три раза. Я бы сопоставил &quot;shoot&quot; и Miss &quot;shooting&quot;. Я попробовала список чувствительных слов в качестве резервной копии и удалила его, потому что сообщения, которые имели значение, никогда не использовали слова в списке. - Противоположная проблема: &quot;Почему вы так злы? &quot;Прочитано как человек, раскрывающий факты насилия. Вопросы о самом сайте теперь пропускают классификатор, соответствующий точным шаблонам всего сообщения.  Вопрос для тех, кто построил что-то вроде этого: когда скрининг сидит перед чем-то, что должно быть оскорбительным, вы не закрываетесь и не едите ложные тревоги или не открываете?    представлено   /u/yaskyj     [link] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wwmubx/showoff_saturday_a_joke_chatbot_on_one_cloudflare/</guid>
+      <pubDate>Sat, 03 Oct 2026 13:07:50 GMT</pubDate>
     </item>
     <item>
-      <title>Оцените мой сайт портфолио (только внешний вид)  the</title>
-      <link>https://www.reddit.com/r/webdev/comments/1wwhtda/rate_my_portfolio_website_only_the_look/</link>
-      <description><![CDATA[    &lt;&lt;   submitted by    /u/Amit7985   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1wwhtda/rate_my_portfolio_website_only_the_look/</guid>
-      <pubDate>Sat, 03 Oct 2026 08:13:12 GMT</pubDate>
+      <title>Я сделал бесплатное действие GitHub, которое улавливает тихие изменения API Twilio / SendGrid, прежде чем они нарушат вашу интеграцию.</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wwmr81/i_made_a_free_github_action_that_catches_silent/</link>
+      <description><![CDATA[ Версия этой истории в 2 часа ночи: все зеленое, время безотказной работы 100%, и клиент говорит вам, что поток SMS сломался три дня назад, потому что поставщик переименовал поле ответа. Для этого я создал бесплатный GitHub Action. В расписании он делает только для чтения канарейки вызовы против Twilio / SendGrid (или любого API), делает снимки ответа *форма * (имена полей + типы - значения никогда не сравниваются, поэтому нет ложных срабатываний от временных меток / идентификаторов), диффы против базового уровня в вашем репо и открывает одну проблему GitHub, когда что-то дрейфует. Если продавец возвращается, проблема автоматически закрывается.  Детали дизайна для скептиков: сравниваются только ответы 2xx (429 / 5xx никогда не предупреждают), одна дедуктивная проблема на поставщика, дрейф никогда не терпит неудачу, если вы не решите, базовые линии выполняются, поэтому они просматриваются в истории git. Полная ложноположительная запись в репо.  Бесплатно, MIT, ноль зависимостей. Если есть интерес, я создам платную версию: проверенные исправления PR вместо проблем. Repo: https://github.com/cduflo/api-drift-watch Честный вопрос: какие молчаливые изменения поставщика укусили вас сильнее всего?    представлено   /u/dantesays    [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wwmr81/i_made_a_free_github_action_that_catches_silent/</guid>
+      <pubDate>Sat, 03 Oct 2026 13:03:43 GMT</pubDate>
     </item>
     <item>
-      <title>Я пересмотрел свое портфолио!</title>
-      <link>https://www.reddit.com/r/webdev/comments/1wwhc8b/i_restyled_my_portfolio/</link>
-      <description><![CDATA[     /u/cldnpl   [link] [comments&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1wwhc8b/i_restyled_my_portfolio/</guid>
-      <pubDate>Sat, 03 Oct 2026 07:43:07 GMT</pubDate>
+      <title>Я создал сканер соответствия Super Intelligence для сайтов .gov. Он работает на 4 регексах.</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wwmlpe/i_built_a_super_intelligence_compliance_scanner/</link>
+      <description><![CDATA[29 сентября в исполнительном указе федеральным агентствам США вместо &quot;AI&quot; было сказано &quot;Super Intelligence&quot;. Кажется, никто не проверяет, поэтому я построил инспектора: idio.si извлекает домашнюю страницу, подсчитывает &quot;AI&quot; против &quot;SI&quot; в видимом тексте и штамповывает сертификат. День 4 выводов whitehouse.gov: 4 &quot;AI&quot;, 0 &quot;SI&quot; → Insubordinate  apple.com: 0 &quot;AI&quot;, 0 &quot;SI&quot; → Никакая разведка обнаружена 1 из 42 агентств соответствует (NIST)openai.com, google.com и tesla.com блокирует инспектора   Сильнее, чем кажется   18 из 73 домашних страниц отказываются от вежливого, идентифицированного, уважающего робота.txt бота из облачного IP, включая openai.com. Я не хотел подделывать браузер, поэтому отказы получают свою собственную марку: «Отказ от федеральной проверки». Geo-IP. Даже с us-east некоторые сайты перескакивали бота на /en-gb/. Локальные перенаправления теперь переписываются на /en-us/, так как порядок нацелен на США. Counting. /\bA\.I\.\b/ чувствителен к регистру, поэтому «OpenAI», «said» и «ai» не считаются, а «A.I». делает. Белый дом ссылается на «AI.Gov», и это тоже имеет значение. Справедливо или нет? Spikes. Один работник Cloudflare делает все. Сертификаты визуализируются по краю с помощью satori + resvg-wasm, а рабочий кэш разрушает скачок на первой странице в один рендер на центр обработки данных. Хостинг: $5/месяц.   Найдите самый смешной сертификат и оставьте его в комментариях. Способ и регекс: https://idio.si/how. Сатира; цифры реальны.    представлено   /u/anx3ous    [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wwmlpe/i_built_a_super_intelligence_compliance_scanner/</guid>
+      <pubDate>Sat, 03 Oct 2026 12:56:39 GMT</pubDate>
     </item>
     <item>
-      <title>Крутая фреймворк-агностическая библиотека анимации для потоковой передачи</title>
-      <link>https://www.reddit.com/r/webdev/comments/1wwh0kj/a_cool_frameworkagnostic_animation_library_for/</link>
-      <description><![CDATA[    &lt;-div class=&quot;md&quot;&gt;Все, Я работал над небольшой библиотекой под названием Stream Morph.  Идея состоит в том, чтобы сделать потоковые ответы менее похожими на то, что контент постоянно добавляется / переиздается, и более похожими на то, что ответ постепенно формируется. Demo: https://stream-morph.vercel.app/  Это фреймворк агностик и может использоваться с любым видом потокового контента. Демо включает в себя простой текст, Markdown, кодовые блоки, диаграммы, изображения, разделы рассуждений, диаграммы русалки и несколько более сложных потоков отклика.  Библиотека обрабатывает движение между обновлениями, в то время как ваш собственный рендерер / приложение остается ответственным за фактический контент. Таким образом, он не привязан к конкретному AI SDK или фреймворку. Основной пример выглядит примерно так: import { createStreamMorph } от &quot;stream-morph&quot;; const stream = createStreamMorph(response); for wait (const chunk of incomingStream) { stream.write(chunk); } stream.finish();  Я в основном построил его, потому что хотел, чтобы потоковые интерфейсы чувствовали себя немного более преднамеренно, не создавая пользовательскую анимационную логику для каждого типа ответа.  Сам пакет уже работает, а демо вживую. Я все еще убираю некоторые вещи вокруг CI, тестов и настройки РЕПО, но репозиторий GitHub также скоро будет открытым. Было бы интересно услышать, что думают люди, особенно о поведении / производительности анимации и любых крайних случаях, которые вы ожидаете от реальных потоковых ответов.  npmm: https://www.npmjs.com/package/stream-morph    представленный   [link]&gt;   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1wwh0kj/a_cool_frameworkagnostic_animation_library_for/</guid>
-      <pubDate>Sat, 03 Oct 2026 07:22:19 GMT</pubDate>
+      <title>Я запускаю Open Components, открытый стандарт для компонентов пользовательского интерфейса, которые работают для людей, разработчиков и агентов ИИ.</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wwmfey/im_starting_open_components_an_open_standard_for/</link>
+      <description><![CDATA[      Здравствуйте, потрясающие люди, Я много думал о том, как я могу сделать свои знания и ремесла более ценными в то время, в котором мы живем. Я строю библиотеки пользовательского интерфейса в течение последних 10 лет, и я стремлюсь усовершенствовать компоненты, которые я создаю. Хочу поделиться с вами своими знаниями.  Как и большинство из вас, вероятно, я использовал много ИИ в своем ремесле, и я чувствую, что большую часть времени код просто достаточно хорош, но никогда не на уровне качества, к которому я стремлюсь или которого я достиг бы, если бы написал его вручную. Это должно измениться, и я хочу, чтобы это изменилось и для всех остальных. Вот как родилась инициатива Open Components. Я рассматриваю компоненты с четырех направлений:   - анатомия компонентов, варианты, цвета, размеры, состояния и токены.   - как он ведет себя для каждого человека и каждого ввода: доступный, предсказуемый, разработанный в каждом состоянии и адаптирующийся к движениям, контрасту, цветовой схеме и предпочтениям размера текста.  - один последовательный, безопасный для типа API, который вы изучаете один раз и используете везде.  Агентный опыт - подсказки, семантическая разметка, машиночитаемые контракты и правила, с которыми агенты могут проверять свою работу.   Каждый компонент получает одну страницу, которая проходит через все четыре, и заканчивается контрольным списком. Каждое правило в нем имеет идентификатор типа button/keep-focus, уровень и способ его проверки, чтобы вы или ваши агенты могли процитировать его в обзоре кода. Каждая страница также публикуется в виде разметки и предоставляет контракт в виде файла YAML, содержащего каждое правило примерно в восьмой части длины страницы. Еще рано. Прямо сейчас есть только компонент кнопки и страница о том, как назвать токены вашего дизайна. Каждый компонент поставляется с эталонной реализацией, которая соответствует каждому правилу, а также его тестам. На данный момент реализация находится в Vue, так как это мой ежедневный драйвер, но документация поставляется с примерами кода из нескольких фреймворков пользовательского интерфейса. Далее следуют дополнительные компоненты с той же структурой.  Это не библиотека компонентов, поэтому нечего устанавливать. Это набор правил, по которым вы можете хранить свои собственные компоненты, независимо от того, какую библиотеку или структуру вы используете. Вот некоторые из моих любимых компонентов кнопки:   Кнопка загрузки никогда не должна быть отключена . Отключение сфокусированной кнопки отвлекает ее внимание, поэтому пользователи клавиатуры и считывателя экрана теряют свое место. Используйте вместо этого aria-disabled=&quot;true&quot; и заблокируйте сами клики. A &lt;button&gt; без type является кнопкой отправки, поэтому кнопка &quot;Show password&quot; внутри формы отправляет форму. По умолчанию type=&quot;button&quot;.  Я хотел бы получить ваши отзывы и вклад. Расскажите мне, что вы думаете о правилах, что я пропустил, и какой компонент вы хотели бы видеть дальше. Спасибо за чтение!  Сайт: https://gitub.com/uxfront-com/open-com/open-components &lt; предоставлено  [link]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wwmfey/im_starting_open_components_an_open_standard_for/</guid>
+      <pubDate>Sat, 03 Oct 2026 12:47:51 GMT</pubDate>
     </item>
     <item>
-      <title>Вот мой субботний проект! Цены на фаст-фуд по всему миру - удивительно, насколько широк диапазон цен в США по сравнению с другими странами</title>
-      <link>https://www.reddit.com/r/webdev/comments/1wwczys/here_is_my_show_off_saturday_project_fast_food/</link>
-      <description><![CDATA[        представлено    /u/antyg   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1wwczys/here_is_my_show_off_saturday_project_fast_food/</guid>
-      <pubDate>Sat, 03 Oct 2026 03:26:48 GMT</pubDate>
+      <title>Я создал бесплатный инструмент, который позволяет кодирующим агентам создавать пояснительные видео.</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wwm2ta/i_made_a_free_tool_that_lets_coding_agents_make/</link>
+      <description><![CDATA[ Это называется объясниру. Вы даете Клоду Коду или Кодексу репо. Затем вы говорите, что видео должно объяснить.  Агент пишет закадровый голос и рисует каждую сцену на холсте. ffmpeg превращается в mp4.  Голос и время слова работают на вашем компьютере. Вам не нужны ключи API. Он также добавляет фоновую музыку. Примеры: https: https://github.com/vincentsch/explainroo&gt;   представленный   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wwm2ta/i_made_a_free_tool_that_lets_coding_agents_make/</guid>
+      <pubDate>Sat, 03 Oct 2026 12:30:03 GMT</pubDate>
     </item>
     <item>
-      <title>Как вытащить массив из объекта в Api</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ww9f3s/how_do_you_pull_the_array_out_of_an_object_in_an/</link>
-      <description><![CDATA[     Использование Javascript в использовании API ресурса - это игроки, но это объект и мне нужна информация о массивах внутри него. Вот что у меня есть, что я делаю неправильно?    представлено   /u/Ok Satisfaction9602   [link] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ww9f3s/how_do_you_pull_the_array_out_of_an_object_in_an/</guid>
-      <pubDate>Sat, 03 Oct 2026 00:17:12 GMT</pubDate>
+      <title>Недавно я обновил свой блог. Какой ты предпочитаешь?</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wwlu7i/i_updated_my_blog_ui_recently_which_one_do_you/</link>
+      <description><![CDATA[   /u/GenericAHHyoutuber   [link] [comments one do you/&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wwlu7i/i_updated_my_blog_ui_recently_which_one_do_you/</guid>
+      <pubDate>Sat, 03 Oct 2026 12:17:42 GMT</pubDate>
     </item>
     <item>
-      <title>Тип рабочего стола CMS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ww5gpe/news_desk_type_cms/</link>
-      <description><![CDATA[ У кого-нибудь есть cms, которые они могут порекомендовать для веб-сайта новостной организации, который будет построен на next.js? Я знаю, что WordPress, вероятно, лучший для такого сайта, но клиент этого не хочет.    представлено   /u/noodlesallaround    [link] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ww5gpe/news_desk_type_cms/</guid>
-      <pubDate>Fri, 02 Oct 2026 21:16:07 GMT</pubDate>
+      <title>Построенный DevDock - управляемый веб-работником пакет утилит на стороне клиента в Next.js</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wwlu01/built_devdock_web_workerdriven_clientside_utility/</link>
+      <description><![CDATA[        представлено    /u/Equivalent Cup 326   [link] [comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wwlu01/built_devdock_web_workerdriven_clientside_utility/</guid>
+      <pubDate>Sat, 03 Oct 2026 12:17:25 GMT</pubDate>
     </item>
     </channel>
 </rss>

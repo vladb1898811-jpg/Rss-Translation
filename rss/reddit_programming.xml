@@ -4,7 +4,7 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Sat, 03 Oct 2026 10:34:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 15:58:54 GMT</lastBuildDate>
     <item>
       <title>Go JSON v2 в Go 1.27: что ломается при миграции из кодирования/json</title>
       <link>https://www.reddit.com/r/programming/comments/1wwifin/go_json_v2_in_go_127_what_breaks_when_you_migrate/</link>
@@ -29,7 +29,7 @@
     <item>
       <title>0.17.0 Заметки о выпуске Язык программирования Zig</title>
       <link>https://www.reddit.com/r/programming/comments/1ww6bea/0170_release_notes_â_the_zig_programming_language/</link>
-      <description><![CDATA[  представлено   /u/BrewedDoritos    [link] [comments]]]></description>
+      <description><![CDATA[  представлено    /u/BrewedDoritos    [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ww6bea/0170_release_notes_â_the_zig_programming_language/</guid>
       <pubDate>Fri, 02 Oct 2026 21:52:43 GMT</pubDate>
     </item>
@@ -50,14 +50,14 @@
     <item>
       <title>Минский автомат в ncurses terminfo</title>
       <link>https://www.reddit.com/r/programming/comments/1wvy0zi/a_minsky_machine_in_ncurses_terminfo/</link>
-      <description><![CDATA[ncurses terminfo может имитировать двухконтрольный Минский станок, делая повторные расширения параметров вычислительно универсальными.  Demo: паразитическое вычисление Фибоначчи внутри /usr/bin/top    представлено   /u/Dull Replacement8890   ]]></description>
+      <description><![CDATA[ncurses terminfo может имитировать двухконтрольный Минский станок, делая повторные расширения параметров вычислительно универсальными.  Demo: паразитическое вычисление Фибоначчи внутри /usr/bin/top    представлено   /u/Dull Replacement8890   [link] ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wvy0zi/a_minsky_machine_in_ncurses_terminfo/</guid>
       <pubDate>Fri, 02 Oct 2026 16:18:03 GMT</pubDate>
     </item>
     <item>
       <title>Частичное оценивание в трюфеле - динамическое обучение мета-компиляции</title>
       <link>https://www.reddit.com/r/programming/comments/1wvt9nw/partial_evaluation_in_truffle_dynamic/</link>
-      <description><![CDATA[  представлено    /u/grashalm01   [link] [comments]]]></description>
+      <description><![CDATA[  представлено   /u/grashalm01   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wvt9nw/partial_evaluation_in_truffle_dynamic/</guid>
       <pubDate>Fri, 02 Oct 2026 13:03:34 GMT</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <pubDate>Thu, 01 Oct 2026 23:57:25 GMT</pubDate>
     </item>
     <item>
-      <title>Выходят новые версии Python, 3.10.x достигает EOL (а 3.15.0 запланирован на сегодня)!</title>
+      <title>Выпущены новые версии Python, 3.10.x достигает EOL (а 3.15.0 запланирован на сегодня)!</title>
       <link>https://www.reddit.com/r/programming/comments/1wv4hph/new_python_releases_are_out_310x_reaches_eol_and/</link>
       <description><![CDATA[ Новые релизы, анонсированные сегодня, включая EOL для 3.10.x: https://blog.python.org/2026/10/python-31022-31117/  Примечание: В посте выше не упоминается 3.15 - предполагая, что они сделают отдельный пост позже сегодня, когда это выйдет.    представлено   /u/initcommit   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wv4hph/new_python_releases_are_out_310x_reaches_eol_and/</guid>
@@ -92,21 +92,21 @@
     <item>
       <title>Все переговоры Rails World 2026 теперь онлайн</title>
       <link>https://www.reddit.com/r/programming/comments/1wv3nxy/all_the_rails_world_2026_talks_are_now_online/</link>
-      <description><![CDATA[DHH&#39;s Rails World talk получил здесь довольно много внимания, но на конференции было много событий, которые он не освещал.  Все остальные переговоры Rails World 2026 теперь тоже онлайн. Солидный кабель, горячая ячейка, трава в Rails 8.2, Активный поиск, безопасность реактора, Lexxy, MCP, шардинг, пользовательские генераторы... и еще куча информации о том, куда направляются Ruby и Rails. Полный плейлист: /u/robbyrussell   [link] [comments&gt;]]></description>
+      <description><![CDATA[DHH&#39;s Rails World talk получил здесь довольно много внимания, но на конференции было много событий, которые он не освещал.  Все остальные переговоры Rails World 2026 теперь тоже онлайн. Солидный кабель, горячая ячейка, трава в Rails 8.2, Активный поиск, безопасность реактора, Lexxy, MCP, шардинг, пользовательские генераторы ... и еще куча информации о том, куда направляются Ruby и Rails. Полный плейлист: /u/robbyrussell   [link] [comments&gt;]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wv3nxy/all_the_rails_world_2026_talks_are_now_online/</guid>
       <pubDate>Thu, 01 Oct 2026 16:14:12 GMT</pubDate>
     </item>
     <item>
       <title>Второй золотой шип: безопасность памяти через границу Валена и Руста</title>
       <link>https://www.reddit.com/r/programming/comments/1wv0fjv/the_second_golden_spike_memory_safety_across_the/</link>
-      <description><![CDATA[  представлено    /u/verdagon   [link] ]]></description>
+      <description><![CDATA[  представлено    /u/verdagon    [link] ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wv0fjv/the_second_golden_spike_memory_safety_across_the/</guid>
       <pubDate>Thu, 01 Oct 2026 14:09:28 GMT</pubDate>
     </item>
     <item>
       <title>[Себастьян Лаг] - Я пытался сделать ручку, чтобы нарисовать карты Луны</title>
       <link>https://www.reddit.com/r/programming/comments/1wv04z9/sebastian_lague_i_tried_making_a_pen_plotter_to/</link>
-      <description><![CDATA[  представлено    /u/Pink401k   [link] [comments]]]></description>
+      <description><![CDATA[  представлено   /u/Pink401k   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wv04z9/sebastian_lague_i_tried_making_a_pen_plotter_to/</guid>
       <pubDate>Thu, 01 Oct 2026 13:57:40 GMT</pubDate>
     </item>

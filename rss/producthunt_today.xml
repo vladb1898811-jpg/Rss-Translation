@@ -4,26 +4,12 @@
     <title>Продуктовая охота — Лучшие продукты каждый день</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 03 Oct 2026 10:49:49 GMT</lastBuildDate>
-    <item>
-      <title>Сапиен</title>
-      <link>https://www.producthunt.com/products/sapien-4</link>
-      <description><![CDATA[
-Исследование рынка ИИ с синтетическими популяциями
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/sapien-4</guid>
-      <pubDate>Sat, 03 Oct 2026 02:30:10 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sat, 03 Oct 2026 16:10:20 GMT</lastBuildDate>
     <item>
       <title>Muse Gadgets</title>
       <link>https://www.producthunt.com/products/muse-22</link>
       <description><![CDATA[
-Набор с открытым исходным кодом Meta для создания собственных гаджетов ИИ
+Набор с открытым исходным кодом Meta для создания собственных гаджетов AI
 
 
 Обсуждение
@@ -34,18 +20,32 @@
       <pubDate>Sat, 03 Oct 2026 02:07:11 GMT</pubDate>
     </item>
     <item>
-      <title>Юби</title>
-      <link>https://www.producthunt.com/products/yubi-2</link>
+      <title>Kindle 2026</title>
+      <link>https://www.producthunt.com/products/kindle-2026</link>
       <description><![CDATA[
-Поговорите со своим Mac и позвольте Yubi набирать текст.
+Меньший, более быстрый Kindle с дисплеем с фронтальным экраном
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/yubi-2</guid>
-      <pubDate>Fri, 02 Oct 2026 16:37:26 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/kindle-2026</guid>
+      <pubDate>Fri, 02 Oct 2026 16:02:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>eu/jev</title>
+      <link>https://www.producthunt.com/products/bevel-software</link>
+      <description><![CDATA[
+Первая Jev-подобная модель, размещенная в ЕС
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/bevel-software</guid>
+      <pubDate>Fri, 02 Oct 2026 13:47:50 GMT</pubDate>
     </item>
     <item>
       <title>Сингулярность</title>
@@ -90,6 +90,20 @@
       <pubDate>Wed, 30 Sep 2026 22:07:19 GMT</pubDate>
     </item>
     <item>
+      <title>Агентская активность</title>
+      <link>https://www.producthunt.com/products/agent-activity</link>
+      <description><![CDATA[
+Посмотрите, что ваши агенты ИИ делают
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/agent-activity</guid>
+      <pubDate>Wed, 30 Sep 2026 16:56:38 GMT</pubDate>
+    </item>
+    <item>
       <title>кубик</title>
       <link>https://www.producthunt.com/products/cubicle-2</link>
       <description><![CDATA[
@@ -102,20 +116,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/cubicle-2</guid>
       <pubDate>Tue, 29 Sep 2026 19:41:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Предпочитать</title>
-      <link>https://www.producthunt.com/products/prefer-2</link>
-      <description><![CDATA[
-Уровень исполнения для AEO
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/prefer-2</guid>
-      <pubDate>Tue, 29 Sep 2026 13:37:08 GMT</pubDate>
     </item>
     <item>
       <title>FeelMyMac</title>
@@ -132,6 +132,20 @@
       <pubDate>Mon, 28 Sep 2026 21:07:30 GMT</pubDate>
     </item>
     <item>
+      <title>Ноутбук</title>
+      <link>https://www.producthunt.com/products/notchware</link>
+      <description><![CDATA[
+Музыка и AI-агент в вашем MacBook
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/notchware</guid>
+      <pubDate>Sat, 26 Sep 2026 20:51:19 GMT</pubDate>
+    </item>
+    <item>
       <title>Уотмейт</title>
       <link>https://www.producthunt.com/products/wattmate</link>
       <description><![CDATA[
@@ -144,20 +158,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/wattmate</guid>
       <pubDate>Fri, 25 Sep 2026 11:11:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>MacCam</title>
-      <link>https://www.producthunt.com/products/maccam</link>
-      <description><![CDATA[
-Приложение Apple никогда не поставлялось для Mac
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/maccam</guid>
-      <pubDate>Fri, 25 Sep 2026 11:00:07 GMT</pubDate>
     </item>
     <item>
       <title>ZooWork</title>
@@ -174,20 +174,6 @@
       <pubDate>Thu, 24 Sep 2026 04:22:40 GMT</pubDate>
     </item>
     <item>
-      <title>Кило</title>
-      <link>https://www.producthunt.com/products/kilo</link>
-      <description><![CDATA[
-Ваш тренер по фитнесу в iMessage
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/kilo</guid>
-      <pubDate>Tue, 22 Sep 2026 00:11:54 GMT</pubDate>
-    </item>
-    <item>
       <title>SCMD</title>
       <link>https://www.producthunt.com/products/scmd</link>
       <description><![CDATA[
@@ -200,6 +186,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/scmd</guid>
       <pubDate>Mon, 21 Sep 2026 21:15:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>miso.com</title>
+      <link>https://www.producthunt.com/products/miso-com</link>
+      <description><![CDATA[
+Бронируйте авиабилеты и отели через iMessage
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/miso-com</guid>
+      <pubDate>Fri, 18 Sep 2026 15:06:57 GMT</pubDate>
     </item>
     <item>
       <title>Deskcord.chat</title>
