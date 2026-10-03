@@ -4,7 +4,42 @@
     <title>Новые материалы: программное обеспечение</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>Все, что связано с программным обеспечением. Пожалуйста, следуйте нашим правилам, чтобы избежать наказания.</description>
-    <lastBuildDate>Sat, 03 Oct 2026 07:41:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 10:33:23 GMT</lastBuildDate>
+    <item>
+      <title>Редактор документов, похожий на сайт Google?</title>
+      <link>https://www.reddit.com/r/software/comments/1wwjkuv/a_document_editor_that_looks_like_google_site/</link>
+      <description><![CDATA[Heyah, Здесь довольно странный вопрос. Но я хотел бы знать, есть ли инструмент, который может работать как сайт Google. Я лично использовал сайт Google для работы с некоторыми документами, не намереваясь публиковать их как общедоступный сайт. Но мне нравится рендер в браузере, как он работает для создания текста и т. Д., Простой способ добавления изображений и т. Д.   Я пробовал Obsidian, но результат не тот же. Есть ли инструмент, который может сделать что-то подобное? Странная просьба, которую я знаю. Очевидные ответы могут быть офисным пакетом и решением, но я хотел бы работать с файлами типа .md или чем-то подобным. Спасибо!     представлено   /u/Aligatueur    ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wwjkuv/a_document_editor_that_looks_like_google_site/</guid>
+      <pubDate>Sat, 03 Oct 2026 10:05:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Я создал SSH-клиент — обычно Pro Cloud Sync, бесплатно, если вы запрашиваете его.</title>
+      <link>https://www.reddit.com/r/software/comments/1wwhuwk/i_built_an_ssh_client_normally_pro_cloud_sync/</link>
+      <description><![CDATA[  представлено    /u/PeachDev    [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wwhuwk/i_built_an_ssh_client_normally_pro_cloud_sync/</guid>
+      <pubDate>Sat, 03 Oct 2026 08:16:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Porter: Open Source Cross Platform Port Manager</title>
+      <link>https://www.reddit.com/r/software/comments/1wwhnsc/porter_open_source_cross_platform_port_manager/</link>
+      <description><![CDATA[Знакомьтесь, Портер, небольшое приложение, которое я создал, чтобы заставить исчезнуть одно ежедневное раздражение.  Если вы создаете приложения или веб-сайты, вы, вероятно, видели это: вы пытаетесь начать свой проект, и он говорит, что порт уже используется. Порт — это просто дверной проем, который приложение использует для общения с вашим компьютером, а в нем тихо сидит что-то еще. Узнать, что обычно означает путешествие в кроличью нору.  Портер показывает вам все в одном простом окне:  • Посмотрите, какие порты бесплатны, а какие взяты, обновите в прямом эфире  • Узнайте, какое приложение использует порт  • Закройте все, что застряло с одним щелчком  • Выберите порты, которые вы используете больше всего, чтобы они всегда находились в верхней части  • Поиск мгновенно  • Переключение между чистым тёмным режимом и светлым режимом  • Сделайте все больше или меньше, чтобы соответствовать вашему экрану • Получите уведомление, когда новая версия выйдет Он работает на Windows, Mac и Linux, он легок на вашем компьютере и совершенно бесплатен. Это первый публичный релиз, так что мне бы очень понравилась ваша обратная связь. Чего не хватает, что сбивает с толку, что вы хотите дальше? Загрузить его здесь: https://github.com/t21dev/porter-app/releases/latest    представлено   /u/TriptoAfsin   [link]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wwhnsc/porter_open_source_cross_platform_port_manager/</guid>
+      <pubDate>Sat, 03 Oct 2026 08:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Я создал Exorcist, очиститель Windows. Скажи мне, что с ним не так.</title>
+      <link>https://www.reddit.com/r/software/comments/1wwhblj/i_built_exorcist_a_windows_cleaner_tell_me_whats/</link>
+      <description><![CDATA[ Я создал Exorcist, потому что удаление приложений в Windows оставляет гигабайты позади, и ни один инструмент не сообщает вам, что на самом деле представляют собой оставшиеся папки. Пожалуйста, дайте предложения или поднимите любые вопросы, если они есть. Или что еще я могу предложить.  Что он делает сейчас: сканирует AppData / ProgramData для детей-сирот, находит большие файлы + байт-идентичные дубликаты, маркирует все безопасное для очистки / Сначала проверить / Пропущено с простым английским объяснением. Все идет в корзину, сухая по умолчанию. Никогда не удаляйте авто. Repo: https://github.com/swaroopstack/Exorcist Я хочу брутальной честности, а не звезд:   Что не так? — проведите сканирование, скажите мне любую папку, в которой она неправильно обозначена или неправильно обозначена. Скриншоты приветствуются.  Какая функция заставит вас фактически переключиться с того, что вы используете сейчас?  Доверяли бы вы этому? — Что вам нужно, чтобы запустить чистый — выполнить на вашей машине?   Каждый реальный ответ попадает в дорожную карту. Спасибо.    представлено   /u/Sure-Corgi74   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wwhblj/i_built_exorcist_a_windows_cleaner_tell_me_whats/</guid>
+      <pubDate>Sat, 03 Oct 2026 07:42:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Многогосударственные списки LF</title>
+      <link>https://www.reddit.com/r/software/comments/1wwha9x/lf_multistate_lists/</link>
+      <description><![CDATA[Я ищу программное обеспечение для управления задачами Windows/текст/список, которое содержит  - многоштатные флажки. См. связанную ссылку  - Экспортируемый в простой текст (разметка тоже хорошая) и печать. Позволяет пользовательские состояния и изображения (локальный svg или png). - Нет веб-просмотра. - GUI, а не TUI/CLI - Тегирование приятно   Прямо сейчас я использую ObsidianMD и простой текст на любой быстрой программе заметок или электронной таблице, которые у меня есть, но хотел бы использовать что-то меньшее, выделенное для списков.  https://community.obsidian.md/plugins/multistate-checkboxes    представленный   [link]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wwha9x/lf_multistate_lists/</guid>
+      <pubDate>Sat, 03 Oct 2026 07:39:39 GMT</pubDate>
+    </item>
     <item>
       <title>Tasket++ (новый выпуск 2.1): автоматически имитируйте действия Windows (бесплатно и с открытым исходным кодом)</title>
       <link>https://www.reddit.com/r/software/comments/1wwh1nc/tasket_new_21_release_simulate_your_windows/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[ Мне очень нравится легкий вес и скорость этой программы, но последние версии появились около 10 лет назад. Разработчик не отвечает на электронные письма.  Мои требования следующие:   Можно привязать к одной кнопке клавиатуры (желательно Caps Lock) Должен быть быстрым (как в моменте) Должен иметь стандартный текст (или &quot;stickies&quot;), доступный путем нажатия одной кнопки после запуска программы. Это означает, что после того, как вы нажмете [Caps Lock], вы нажмете [1], и текст, который вы сохранили в этом положении, затем будет вставлен.  Должен быть в состоянии обрабатывать Rich Text Format для этих &quot;прилипалы&quot;.    Я готов заплатить за это премиальную цену.     представленный   /u/Kaptein Kast   [link] [comments&gt;&lt;/]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ww1xbj/alternative_to_outertech_clipboard_history_pro/</guid>
       <pubDate>Fri, 02 Oct 2026 18:52:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Я создал систему уведомлений в стиле Dynamic Island для Windows 11 с помощью ИИ! Что вы, ребята, думаете</title>
-      <link>https://www.reddit.com/r/software/comments/1ww1bt7/i_made_dynamic_islandstyle_notification_system/</link>
-      <description><![CDATA[Привет всем! .  Меня всегда раздражали баннеры уведомлений Windows 11 по умолчанию, покрывающие угол моего экрана. Поэтому я решил создать **Curl** — плавную систему уведомлений Apple Dynamic Island для Windows 11. Что делает это особенным, так это то, что я создал это полностью с помощью ИИ! Как кто-то экспериментировал с кодированием с помощью ИИ, я хотел подтолкнуть его к созданию чего-то ультра-оптимизированного и нативного.  ##  the Link &amp; Code: - **GitHub Repo: ** https://github.com/neel0012-r/Curl-Apple-Dynamic-Island-notification-system-for-Windows-11 - ** Загрузите Исполняемый файл: ** Проверьте вкладку Релизы на GitHub!  ##  the Мне нужна ваша помощь! Поскольку это было построено с помощью ИИ, я хочу продолжать совершенствовать его с помощью сообщества: 1.Пожалуйста, попробуйте и дайте мне знать, если вы столкнетесь с какими-либо ошибками! 2.Какие функции я должен добавить в V2? (Управление медиаплеером, состояние батареи, погода и т.д.)   Хотелось бы услышать ваши мысли, отзывы и предложения. Если вам нравится проект, ★ на GitHub будет означать мир! Спасибо! ❤️    представлено   /u/Soft-Blacksmith-2531   [link][comments&gt;]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ww1bt7/i_made_dynamic_islandstyle_notification_system/</guid>
-      <pubDate>Fri, 02 Oct 2026 18:29:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Восстановление CF до заводских дефолтов</title>
-      <link>https://www.reddit.com/r/software/comments/1ww0sp1/restore_cf_to_factory_defaults/</link>
-      <description><![CDATA[ Кто-нибудь знает, как восстановить компактную карту флэш-памяти с форматом Windows в ее первоначальном заводском формате? Потому что в некоторых устройствах компактная карта флэш-памяти не будет работать, если она отформатирована с Windows.    представлена   /u/ipc110   [link]&gt;   ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ww0sp1/restore_cf_to_factory_defaults/</guid>
-      <pubDate>Fri, 02 Oct 2026 18:08:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Вопрос для пользователей IDM</title>
-      <link>https://www.reddit.com/r/software/comments/1ww0gn0/question_for_idm_users/</link>
-      <description><![CDATA[ Не раздражает ли кого-нибудь еще то, как диалог «Загрузить информацию о файлах» всегда по умолчанию относится к общей категории?  Я часто использую IDM для загрузки музыкальных файлов и настраиваю категорию «Музыка», которая автоматически направляет все в мою папку «Музыка». Но каждый раз, когда я нажимаю на ссылку для загрузки, я должен нажать на выпадающее меню, а затем вручную выбрать категорию «Музыка». Я несколько раз писал разработчику по электронной почте, чтобы добавить опцию, в которой IDM будет фактически по умолчанию в вашу последнюю используемую категорию, но по причине они по-прежнему отказываются это делать. Кто-нибудь знает, почему?    представлено   /u/zeroedit   [link] ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ww0gn0/question_for_idm_users/</guid>
-      <pubDate>Fri, 02 Oct 2026 17:55:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Открытый источник] Taskuary - бесплатное местное приложение, которое превращает ваши рабочие задачи в подсказки</title>
-      <link>https://www.reddit.com/r/software/comments/1wvzze7/open_source_taskuary_a_free_local_app_that_turns/</link>
-      <description><![CDATA[ Идея заключалась в том, что каждый день люди отправляют мне предметы для обновления в программах, которые я поддерживаю, и я получаю github PR и всевозможные задачи. Решение состояло в том, чтобы построить сортировку, которая обрабатывает всю работу агентам, и я просто одобряю. В конце концов я создал его, теперь он отслеживает мои серверы sql на наличие проблем, следы веб-сайтов и тому подобное. Концепция заключалась в том, чтобы сделать детерминированные шаги (стиль Jev, который ограничивает выходное пространство) внутри чата, чтобы ускорить предварительно построенный материал. Ссылка на демо: https://taskuary.com/demo/     представленный   /u/Appropriate-Path-461  [link]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wvzze7/open_source_taskuary_a_free_local_app_that_turns/</guid>
-      <pubDate>Fri, 02 Oct 2026 17:36:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Мне нужен медиаплеер для Windows.</title>
-      <link>https://www.reddit.com/r/software/comments/1wvzyvo/i_need_a_media_player_for_windows/</link>
-      <description><![CDATA[ Вот почему я покидаю VLC:   Большую часть времени, когда я слушаю лекции, мне приходится много раз приостанавливать игру, из-за чего какая-то часть звука сокращается примерно на 2-3 секунды, из-за чего каждый раз, когда я приостанавливаю игру, мне приходится возвращаться на 5 секунд. Чем дольше я приостанавливаю видео, тем дольше становится задержка. И я не знаю точно, что эта проблема вызвана окнами или медиаплеером. Примечание: я слушаю лекции с наушниками Bluetooth.    представлено    /u/AlonePerson6174    [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wvzyvo/i_need_a_media_player_for_windows/</guid>
-      <pubDate>Fri, 02 Oct 2026 17:36:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
