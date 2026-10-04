@@ -4,7 +4,49 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Sat, 03 Oct 2026 19:54:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 03:36:39 GMT</lastBuildDate>
+    <item>
+      <title>C++ Математика - кто-то сказал математика</title>
+      <link>https://www.reddit.com/r/programming/comments/1wx1kb2/c_math_did_someone_say_math/</link>
+      <description><![CDATA[  представлено    /u/wizard creator seth   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wx1kb2/c_math_did_someone_say_math/</guid>
+      <pubDate>Sat, 03 Oct 2026 23:56:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>c++ отображение тонов</title>
+      <link>https://www.reddit.com/r/programming/comments/1wx10be/c_tone_mapping/</link>
+      <description><![CDATA[  представлено    /u/wizard creator seth   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wx10be/c_tone_mapping/</guid>
+      <pubDate>Sat, 03 Oct 2026 23:27:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Создание математической модели для лучших индийских клавиатур</title>
+      <link>https://www.reddit.com/r/programming/comments/1wx0bai/making_a_mathematical_model_for_better_indic/</link>
+      <description><![CDATA[  представлено   /u/ZoneZealousideal4073   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wx0bai/making_a_mathematical_model_for_better_indic/</guid>
+      <pubDate>Sat, 03 Oct 2026 22:53:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>От SSH к REST: Модернизация EMR-данных Slack</title>
+      <link>https://www.reddit.com/r/programming/comments/1wx02m9/from_ssh_to_rest_a_securitydriven_modernization/</link>
+      <description><![CDATA[  представлено    /u/Ok Stomach6651   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wx02m9/from_ssh_to_rest_a_securitydriven_modernization/</guid>
+      <pubDate>Sat, 03 Oct 2026 22:41:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Гибридное распределение ядра: от перераспределения до надежного совместного использования</title>
+      <link>https://www.reddit.com/r/programming/comments/1wwzeu7/hybrid_core_allocation_from_overallocation_to/</link>
+      <description><![CDATA[  представлено   /u/Ok Stomach6651   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wwzeu7/hybrid_core_allocation_from_overallocation_to/</guid>
+      <pubDate>Sat, 03 Oct 2026 22:09:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Поиск 552 МиБ в пословице Миден с Ингом</title>
+      <link>https://www.reddit.com/r/programming/comments/1wwxncp/finding_552_mib_in_the_miden_prover_with_ying/</link>
+      <description><![CDATA[  представлено    /u/redixhumayun   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wwxncp/finding_552_mib_in_the_miden_prover_with_ying/</guid>
+      <pubDate>Sat, 03 Oct 2026 20:50:10 GMT</pubDate>
+    </item>
     <item>
       <title>Go JSON v2 в Go 1.27: что ломается при миграции из кодирования/json</title>
       <link>https://www.reddit.com/r/programming/comments/1wwifin/go_json_v2_in_go_127_what_breaks_when_you_migrate/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[  представлено   /u/sebastianconcept   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wvqovi/eight_bytes_are_already_a_number/</guid>
       <pubDate>Fri, 02 Oct 2026 10:51:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Post-Quantum Cryptography Resource Hub</title>
-      <link>https://www.reddit.com/r/programming/comments/1wvncok/postquantum_cryptography_resource_hub/</link>
-      <description><![CDATA[  представлено   /u/donutloop   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wvncok/postquantum_cryptography_resource_hub/</guid>
-      <pubDate>Fri, 02 Oct 2026 07:17:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Роберт Сикорд: «Небезопасная ржавчина» (2026)</title>
-      <link>https://www.reddit.com/r/programming/comments/1wvf5qb/robert_seacord_unsafe_rust_rustconf_2026/</link>
-      <description><![CDATA[  представлено    /u/ bijan     [link] [comments&gt;]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wvf5qb/robert_seacord_unsafe_rust_rustconf_2026/</guid>
-      <pubDate>Thu, 01 Oct 2026 23:57:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Выпущены новые версии Python, 3.10.x достигает EOL (а 3.15.0 запланирован на сегодня)!</title>
-      <link>https://www.reddit.com/r/programming/comments/1wv4hph/new_python_releases_are_out_310x_reaches_eol_and/</link>
-      <description><![CDATA[ Новые релизы, анонсированные сегодня, включая EOL для 3.10.x: https://blog.python.org/2026/10/python-31022-31117/  Примечание: В посте выше не упоминается 3.15 - предполагая, что они сделают отдельный пост позже сегодня, когда это выйдет.    представлено   /u/initcommit   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wv4hph/new_python_releases_are_out_310x_reaches_eol_and/</guid>
-      <pubDate>Thu, 01 Oct 2026 16:45:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Все переговоры Rails World 2026 теперь онлайн</title>
-      <link>https://www.reddit.com/r/programming/comments/1wv3nxy/all_the_rails_world_2026_talks_are_now_online/</link>
-      <description><![CDATA[DHH&#39;s Rails World talk получил здесь довольно много внимания, но на конференции было много событий, которые он не освещал.  Все остальные переговоры Rails World 2026 теперь тоже онлайн. Солидный кабель, горячая ячейка, трава в Rails 8.2, Активный поиск, безопасность реактора, Lexxy, MCP, шардинг, пользовательские генераторы ... и еще куча информации о том, куда направляются Ruby и Rails. Полный плейлист: /u/robbyrussell   [link] [comments&gt;]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wv3nxy/all_the_rails_world_2026_talks_are_now_online/</guid>
-      <pubDate>Thu, 01 Oct 2026 16:14:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Второй золотой шип: безопасность памяти через границу Валена и Руста</title>
-      <link>https://www.reddit.com/r/programming/comments/1wv0fjv/the_second_golden_spike_memory_safety_across_the/</link>
-      <description><![CDATA[  представлено    /u/verdagon    [link] ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wv0fjv/the_second_golden_spike_memory_safety_across_the/</guid>
-      <pubDate>Thu, 01 Oct 2026 14:09:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Себастьян Лаг] - Я пытался сделать ручку, чтобы нарисовать карты Луны</title>
-      <link>https://www.reddit.com/r/programming/comments/1wv04z9/sebastian_lague_i_tried_making_a_pen_plotter_to/</link>
-      <description><![CDATA[  представлено   /u/Pink401k   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wv04z9/sebastian_lague_i_tried_making_a_pen_plotter_to/</guid>
-      <pubDate>Thu, 01 Oct 2026 13:57:40 GMT</pubDate>
     </item>
     </channel>
 </rss>

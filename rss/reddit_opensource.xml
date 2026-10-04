@@ -4,7 +4,14 @@
     <title>Новые материалы: opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>Субреддит для всего, что связано с открытым исходным кодом (для этого контекста мы выходим из определения открытого исходного кода здесь http://en.wikipedia.org/wiki/Open source)</description>
-    <lastBuildDate>Sat, 03 Oct 2026 20:06:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 03:45:04 GMT</lastBuildDate>
+    <item>
+      <title>SULCUS - это проактивная память и контекстная система на основе ржавчины с открытым исходным кодом</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wx5a3n/sulcus_is_an_open_source_rust_based_postgres/</link>
+      <description><![CDATA[       ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wx5a3n/sulcus_is_an_open_source_rust_based_postgres/</guid>
+      <pubDate>Sun, 04 Oct 2026 03:12:12 GMT</pubDate>
+    </item>
     <item>
       <title>Chop Chop: простой видеоразделитель</title>
       <link>https://www.reddit.com/r/opensource/comments/1wwukid/chop_chop_a_simple_video_splitter/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[ Хотел поделиться приложением, над которым работаю с конца 2022 года - JellyBox нативная кроссплатформенная jellyfin/navidrome/emby клиент. Он работает на ios/macos/android/windows/linux (проверяется годами на большинстве дистрибутивов). UI/UX были созданы отдельно для настольных и мобильных устройств при повторном использовании некоторых компонентов для фамильярности.  Это может сделать:   Воспроизведение вашей музыки во всех форматах (lol) Поддерживает несколько библиотек  Spotify-подобных автогенерированных плейлистов  Режим воспроизведения переключателей между подключенными устройствами или удаленного управления ими.Режим воспроизведения аудиофайлов для настольных и ландшафтных телефоновПрогрессивное прекаширование (для удержания вас с музыкой в плохих зонах подключения)Загрузки в офлайн-режиме, включая синхронизированные загрузки (когда приложение загружает недостающие песни при добавлении на сервер) Repo здесь - ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1wv0aos/jellybox_a_native_crossplatform_music_client_for/</guid>
       <pubDate>Thu, 01 Oct 2026 14:03:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Игровой движок с открытым исходным кодом: Abyss</title>
-      <link>https://www.reddit.com/r/opensource/comments/1wuq02z/my_open_source_game_engine_abyss/</link>
-      <description><![CDATA[ Я знаю, что уже есть куча игровых движков с открытым исходным кодом (я должен был изменить имя этого, чтобы избежать торговых марок из-за этого). Abyss (и его язык программирования) размещаются самостоятельно и компилируются   (и пишутся в Hash)  abyss имеет уникальную особенность - вы можете редактировать исходный код в самом движке.  Abyss использует пользовательский язык программирования Hash  Hash разработан, чтобы быть простым и легким для изучения. Цель состоит в том, чтобы со временем вы изменили что-то об этом и сделали это лучше для вас.  (Хэш-документация встроена в пропасть, поэтому я не буду больше объяснять) Дайте мне знать, что вы думаете о моем первом проекте с открытым исходным кодом. Я уверен, что доволен этим  Github ссылка: https://github.com/thecodegangster/abyss-engine/tree/main (файл html является исходным кодом, мне нравятся автономные приложения html, я думаю, что они аккуратны) Обновление: Я добавил: Система для взаимодействия с javascript apis, хранилищем браузера, звуковым редактором и библиотечной системой, которая позволяет создавать правки, которые могут быть объединены в чужой движок с легкостью     представленный   /u/thecodegangster    [link]&gt;[comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1wuq02z/my_open_source_game_engine_abyss/</guid>
-      <pubDate>Thu, 01 Oct 2026 04:22:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
