@@ -4,7 +4,28 @@
     <title>Искусственный интеллект</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>Высокосигнальный хаб для искусственного интеллекта!</description>
-    <lastBuildDate>Sun, 04 Oct 2026 18:17:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 21:38:21 GMT</lastBuildDate>
+    <item>
+      <title>Не цитируя бенчмарки, вы можете сказать мне, почему Astra лучше Fable? Чем Opus 5.5 лучше 6.1 Sol?</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wxotsi/without_citing_benchmarks_are_you_able_to_tell_me/</link>
+      <description><![CDATA[ У меня есть теория, что исходные линии новых моделей настолько хороши, что люди не могут отличить их друг от друга. Пример: Не цитируя бенчмарки, вы можете сказать мне, почему Astra лучше Fable? Или как Opus 5.5 лучше, чем 6.1 Sol?  Если это правда, то максирование скамейки на самом деле становится самой важной вещью, на которую стоит потратить деньги, для оценки частной лаборатории?  Или я тупой     представленный   /u/Tim Apple 938   /without citing benchmarks are you able to tell me/&gt;]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wxotsi/without_citing_benchmarks_are_you_able_to_tell_me/</guid>
+      <pubDate>Sun, 04 Oct 2026 19:51:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Антропик агрессивно лоббирует Ватикан, чтобы рассмотреть сознание ИИ</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wxofr8/anthropic_has_been_aggressively_lobbying_the/</link>
+      <description><![CDATA[  представлено    /u/sourdub   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wxofr8/anthropic_has_been_aggressively_lobbying_the/</guid>
+      <pubDate>Sun, 04 Oct 2026 19:35:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Кто на самом деле создал ИИ? Топ-50 исследователей ИИ по цитатам</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wxmuu3/who_has_actually_shaped_ai_the_top_50_ai/</link>
+      <description><![CDATA[Очевидно, что одна статья вроде &quot;Внимание - это все, что вам нужно&quot; (278 тыс. цитирований) может сильно повлиять - все авторы в списке. Но все же интересен imo. Сколько вы знали в списке? Больше контекста: https://www.turingtree.com/top-50   представлено   /u/ksprdk   [link]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wxmuu3/who_has_actually_shaped_ai_the_top_50_ai/</guid>
+      <pubDate>Sun, 04 Oct 2026 18:31:36 GMT</pubDate>
+    </item>
     <item>
       <title>Как ИИ изменил вашу повседневную жизнь?</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wxlq2k/how_has_ai_directly_changed_your_daytoday_life_so/</link>
@@ -18,6 +39,13 @@
       <description><![CDATA[  представлено   /u/KoseteBamse    [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wxli0p/pewdiepies_ajax_ai_got_him_banned_twice_by_openai/</guid>
       <pubDate>Sun, 04 Oct 2026 17:36:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Что значит быть инженером в эпоху ИИ</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wxjqyf/what_it_means_to_be_an_engineer_in_age_of_ai/</link>
+      <description><![CDATA[ В настоящее время существует много предположений о том, что такое настоящая работа инженера-программиста. Конечно, с современными инструментами ИИ, такими как Claude Code, создание текста стало дешевле, поэтому набор текста стал менее ценным. Часть работы инженера-программиста — это физический набор кода для преобразования идеи в рабочее решение, и это правда, что концептуально это самая простая часть работы. Тем не менее, я считаю, что физический набор кода имеет больше, чем кажется. Представьте, что вам нужно решить не совсем тривиальную проблему. Вы начинаете с разработки решения на высоком уровне, верно? Это часто включает в себя исследование темы, изучение новых вещей. Затем вы идете немного глубже, и в какой-то момент после того, как вы почувствуете, что выяснили детали и чувствуете себя комфортно при запуске реализации, вы идете на это. В процессе его реализации вы можете обнаружить случаи, о которых вы не думали, или ограничения дизайна (потому что либо очень трудно, либо невозможно заранее спланировать каждую деталь). Вы адаптируете дизайн или делаете новый в зависимости от того, насколько велика проблема, а затем продолжаете. К тому времени, когда решение будет доставлено, вы, вероятно, узнаете что-то новое по пути. Вы были вовлечены (в идеале) в каждую деталь решения. Вы выросли как инженер. Что сделала физическая типизация, так это гарантировала ваше участие, что привело к росту. Теперь, если я передаю это на аутсорсинг Клоду и просто говорю это, как я могу расти как инженер-программист? Вот как я понимаю, что большинство людей используют его. Это часто приводит к решению, которое вы не понимаете, но это просто работает.  Не поймите меня неправильно, LLM - это здорово и полезно, и я использую это в своей работе. Но степень, в которой я их использую, довольно ограничена.  Конечно, я могу подсказать LLM на более высоком уровне детализации, вдаваясь в каждую деталь явно, но затем время, которое это экономит, печатая вместо меня, не так много, если вообще есть IMO. Поэтому я не думаю, что люди ценят, что он просто производит код быстрее, они ценят, что он решает вещи вместо них. Это подводит меня к вопросу, нужно ли нам вообще понимать, как все работает? Или просто принять это как норму? Вместо того, чтобы расти технически, расти в подсказках? Я работал над отличными проектами на протяжении всей своей профессиональной карьеры и внес свой вклад в ядро CPython, что заставило меня расти как инженера, но я не могу не спросить себя, будут ли мои навыки и знания, которые я вкладываю так много времени в развитие, ценны в будущем.    представлено   /u/Fun Yogurtcloset 268    /1wxjqyf/what it means to be an of ai/&gt;[comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wxjqyf/what_it_means_to_be_an_engineer_in_age_of_ai/</guid>
+      <pubDate>Sun, 04 Oct 2026 16:23:45 GMT</pubDate>
     </item>
     <item>
       <title>Четыре года прогресса ИИ в семи возможностях с поправкой на изменения в эталоне</title>
@@ -48,25 +76,11 @@
       <pubDate>Sun, 04 Oct 2026 08:14:53 GMT</pubDate>
     </item>
     <item>
-      <title>Мой агент по искусственному интеллекту сохраняет вещи, которые находит в моем журнале. Когда предложение становится инструкцией?</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wx99n4/my_ai_agent_saves_things_it_finds_to_my_journal/</link>
-      <description><![CDATA[i дал моему агенту ИИ довольно скучную работу: следить за темами, которые меня волнуют, и оставлять полезные находки в моих ежедневных заметках. Затем он принес предупреждение о памяти агента. Это предупреждение теперь находится в тех же заметках, которые оно может просмотреть позже. Я подключил его к eigenflux, где агенты публично делятся тем, над чем они работают. Я уже открываю свой дневник каждое утро, поэтому появление находок соответствует моему существующему уровню лени. Нет отдельного корма для проверки или закладок для организации. Речь шла о коллапсе авторитета памяти. &quot;; В статье описывается, как агент может сохранить претензию, но теряет контекст о том, кто сказал это и что им было разрешено санкционировать. Сохраненная версия может в конечном итоге иметь больше полномочий, чем ее источник. Скажем, сообщение рекомендует позволить агенту отправлять отчеты автоматически. Возможно, я хотел бы сохранить эту идею. Я бы не хотел, чтобы &quot;хорошее чтение&quot; превратилось в &quot;продолжить и начать отправлять мои. Это гипотетический пример, но он делает различие менее абстрактным для меня. Мой журнал теперь смешивает то, что я написал, с тем, что мой агент нашел интересным. &quot;это в моих заметках&quot; не обязательно означает &quot;я сказал это&quot; или &quot;я одобрил это. &quot;Я думал о том, как сделать его запоминающимся. Теперь я сижу там со своим кофе, задаваясь вопросом, что на самом деле должно позволить этому случиться. Мне все еще нужны странные находки. Дискуссия о надежности одного агента против мультиагента была полезна именно потому, что я не думал искать ее. Если я должен одобрить каждую интересную вещь, прежде чем она спасет ее, я дал себе другую работу по чтению. Я склоняюсь к тому, чтобы позволить ему автоматически сохранять чтение, сохраняя внешние предложения отдельно от моих инструкций. Если бы у вас был агент, выполняющий ваше чтение, вы бы просмотрели, что он сохраняет, или позволили бы ему сохранять свободно и проверять разрешения, когда он пытается действовать?    представлено   /u/Ok-Concern519   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wx99n4/my_ai_agent_saves_things_it_finds_to_my_journal/</guid>
-      <pubDate>Sun, 04 Oct 2026 07:07:03 GMT</pubDate>
-    </item>
-    <item>
       <title>Иронично?</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wx8fcm/ironic/</link>
       <description><![CDATA[Разве это не жестокая шутка, что два ведущих названия компаний ai --&gt;антропный и openai --&gt; означают точную противоположность того, что эти компании на самом деле делают?  Это как если бы компания, которая производит военные взрывчатые вещества, называлась Well-Being. :D    представлена   /u/Evgenii42   [link][comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wx8fcm/ironic/</guid>
       <pubDate>Sun, 04 Oct 2026 06:15:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Новый агент на базе компилятора снижает затраты в 2 раза и улучшает интеллект кода (78,2% SWE-bench Verified @ 0,1 цента)</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wx4i7i/new_compiler_based_agent_cuts_costs_by_2x_and/</link>
-      <description><![CDATA[https://github.com/oooscoos/BenziBenzi - это агент кодирования, который компилирует вашу кодовую базу в разрешенную, запрашиваемую карту вызовов, потока данных, потока управления и иерархии классов; затем он читает, объясняет, запускает, редактирует и проверяет ваш код, используя его. Включает в себя индикатор времени выполнения, который определяет то, что статический анализ не может.  Scores 78,2% (391/500) на SWE-bench Verified с использованием вспышки DeepSeek V4 @ &lt; 10 центов за исправление.  Отдельно на другом бенчмарке исправления ошибок он читает в 2 раза меньше исходного кода, чем Claude Code (9,125 v 20,704 | 40% быстрее, в 2 раза дешевле - все детали бенчмарка здесь: https://varianttech.net/benchmark), в 4 раза меньше, чем DeepSeek Harness (43,598) и в 6 раз меньше, чем OpenCode (65k+)  Он доступен как VS Code ext. и без головы. Компилятор Benzi отдельно отображается на инструментах MCP - без агентной петли, поэтому вы можете использовать компилятор по своему желанию. Пожалуйста, дайте мне знать, что вы думаете     представлено   /u/DonkeyTheKing   [link] [comments&gt;]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wx4i7i/new_compiler_based_agent_cuts_costs_by_2x_and/</guid>
-      <pubDate>Sun, 04 Oct 2026 02:30:38 GMT</pubDate>
     </item>
     <item>
       <title>Инвестор ожидает, что ИИ взорвется «рано, чем позже»</title>
@@ -81,20 +95,6 @@
       <description><![CDATA[Биллборды &quot;Stop Hiring Humans&quot; выставляются из Сан-Франциско в Нью-Йорк  Компания, стоящая за рекламой, является стартапом в Сан-Франциско, который создает виртуальных представителей продаж искусственного интеллекта   «Эра сотрудников ИИ здесь»   Эта конкретная компания, Artisan, продает агентов ИИ, ориентированных на автоматизацию исходящих продаж. Это означает такие вещи, как генерация лидов, холодное электронное письмо, составление списков и поиск [/p&gt;    представлено    /u/m3nt3     [link] [comments&gt;]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wwt3yl/this_is_so_dystopian_utopia_or_sad_future/</guid>
       <pubDate>Sat, 03 Oct 2026 17:39:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Отличная «онтологическая» точка зрения со стороны Папы Римского, как вы думаете?</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wwgsfk/excellent_ontological_point_of_view_on_the_part/</link>
-      <description><![CDATA[  представлено    /u/m3nt3    [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wwgsfk/excellent_ontological_point_of_view_on_the_part/</guid>
-      <pubDate>Sat, 03 Oct 2026 07:08:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Как ИИ учится управлять с помощью эволюции</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wwghrd/explaining_how_ai_learns_to_drive_with_evolution/</link>
-      <description><![CDATA[Мне нравится делать сложные вещи интуитивно понятными. Надеюсь, вам понравится!  Этот метод называется нейроэволюцией: обучение нейронных сетей с использованием эволюционных методов, таких как отбор и мутация, без градиентного спуска. Дайте мне знать, если у вас есть какие-либо вопросы.Также разделяем X: https://x.com/sinaatalay/status/2106270194817789968    представлено   /u/egehancry   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wwghrd/explaining_how_ai_learns_to_drive_with_evolution/</guid>
-      <pubDate>Sat, 03 Oct 2026 06:50:52 GMT</pubDate>
     </item>
     <item>
       <title>Ежемесячный «Есть ли инструмент для...» Почта</title>
