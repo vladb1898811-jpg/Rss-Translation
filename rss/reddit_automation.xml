@@ -4,7 +4,21 @@
     <title>ChatGPT, искусственный интеллект и автоматизация</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>Вы очарованы чудесами автоматизации, загипнотизированы силой ChatGPT или заинтригованы бесконечными возможностями искусственного интеллекта и автоматизации? Не смотрите дальше! Наше яркое сообщество Reddit является идеальным центром для таких энтузиастов, как вы. Как член нашего сообщества, вы получите доступ к множеству ресурсов, в том числе: Спровоцирующие размышления дискуссии по автоматизации, ChatGPT и ИИ.   Эксклюзивное понимание последних достижений и отраслевых новостей</description>
-    <lastBuildDate>Sun, 04 Oct 2026 11:20:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 18:14:26 GMT</lastBuildDate>
+    <item>
+      <title>Тестирование рабочих процессов агентов без подключения реальных счетов</title>
+      <link>https://www.reddit.com/r/automation/comments/1wxgmw4/testing_agent_workflows_without_connecting_real/</link>
+      <description><![CDATA[  представлено    /u/Common Dream9420   [link] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1wxgmw4/testing_agent_workflows_without_connecting_real/</guid>
+      <pubDate>Sun, 04 Oct 2026 14:10:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Кто-то попросил меня автоматизировать аккуратное размещение объемных изображений в PowerPoint, поэтому я построил это.</title>
+      <link>https://www.reddit.com/r/automation/comments/1wxet6n/someone_asked_me_to_automate_neatly_arranging/</link>
+      <description><![CDATA[ Недавно коллега спросил, есть ли способ автоматически вставлять десятки изображений в PowerPoint без необходимости вручную изменять размер, обрезать и выравнивать их по одному.  Делать это вручную на слайде 16:9 на удивление утомительно, особенно при попытке поддерживать соотношение сторон с постоянными краями. Поэтому я создал инструмент автоматизации под названием &quot;OpenURLs App&quot;, который вычисляет динамические координаты сетки (ряды, столбцы, поля) и управляет PowerPoint непосредственно через автоматизацию Win32 для пакетного ввода и автоматического подгонки изображений. Как вы, ребята, обычно обрабатываете макеты массовых медиа в PowerPoint? Полагаетесь ли вы на макросы VBA, скрипты Python или что-то еще?    представлено   /u/Spiritual Balance298   [comments]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1wxet6n/someone_asked_me_to_automate_neatly_arranging/</guid>
+      <pubDate>Sun, 04 Oct 2026 12:43:53 GMT</pubDate>
+    </item>
     <item>
       <title>Я немного запуталась, мне нужна твоя помощь.</title>
       <link>https://www.reddit.com/r/automation/comments/1wxax6y/im_a_bit_confused_i_need_your_help/</link>
@@ -55,25 +69,11 @@
       <pubDate>Sat, 03 Oct 2026 12:06:27 GMT</pubDate>
     </item>
     <item>
-      <title>В прошлом месяце я отправил холодное письмо в логистическую компанию.</title>
-      <link>https://www.reddit.com/r/automation/comments/1wwij5b/i_sent_a_cold_email_to_a_logistics_company_last/</link>
-      <description><![CDATA[Я отправил холодное электронное письмо в логистическую компанию в прошлом месяце.no sales deck.&gt;копирование данных.&gt;отправка обновлений.&gt;&gt;&gt;&gt;]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1wwij5b/i_sent_a_cold_email_to_a_logistics_company_last/</guid>
-      <pubDate>Sat, 03 Oct 2026 08:59:44 GMT</pubDate>
-    </item>
-    <item>
       <title>Любой, кто использует ECC github repo и имеет отличный результат, поделится своими историями.</title>
       <link>https://www.reddit.com/r/automation/comments/1wwgjd5/anyone_who_is_using_ecc_github_repo_and_has_had_a/</link>
       <description><![CDATA[  представлено    /u/Honest-Let-7219   ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1wwgjd5/anyone_who_is_using_ecc_github_repo_and_has_had_a/</guid>
       <pubDate>Sat, 03 Oct 2026 06:53:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Мне нравится использовать DockerOperator.</title>
-      <link>https://www.reddit.com/r/automation/comments/1ww9wf4/i_love_using_the_dockeroperator/</link>
-      <description><![CDATA[  представлено   /u/evansmarcus    [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ww9wf4/i_love_using_the_dockeroperator/</guid>
-      <pubDate>Sat, 03 Oct 2026 00:41:47 GMT</pubDate>
     </item>
     <item>
       <title>Как я автоматизировал свой путь до 5 миллионов просмотров в инстаграме одним видеоклипом.</title>

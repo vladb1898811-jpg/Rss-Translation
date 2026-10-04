@@ -4,7 +4,28 @@
     <title>Новые материалы: Chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>Сообщество, посвященное музыке, которая получает максимум от меньшего. Музыка в стиле старых игр, например, C64, Atari, NES, Gameboy, Sega Genesis, Adlib, OPM, MOD и др.</description>
-    <lastBuildDate>Sun, 04 Oct 2026 12:55:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 19:39:23 GMT</lastBuildDate>
+    <item>
+      <title>Генератор Chiptune MIDI</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1wxlohn/chiptune_midi_generator/</link>
+      <description><![CDATA[i built notebin.fm строго как страстный проект для моей любви к MIDI-трекам и чиптунам. i работаю над открытой библиотекой, похожей на freesound.org, но для MIDI и алгоритмического MIDI-скетчпада для написания чиптунов. Прямо сейчас двигатель заблокирован на 8-битных голосовых ограничениях NES, чтобы дать вам быстрый 8-барный мотив при взгляде на пустой трекер или сетку DAW.  нет платных экранов, нет рекламы. бесплатная регистрация позволяет сохранять, редактировать и управлять вашими рулонами MIDI. Мне повезло, что это самофинансируемый проект, поэтому я не прошу 10 долларов за 5 MIDI-генов или что-то подобное. Как это работает:  * 8-битные ограничения NES: каждое семя выводит 4-канальный файл .mid, отображаемый на 8-битные голосовые макеты (Melody, Chords/Arps, Triangle Bass и Noise Drums). * Правила, а не аудиорендеры: использует кодовые правила теории музыки для гармонизации масштаба и лидерства голоса, выводя чистые, нерендерированные заметки MIDI. Предварительный просмотр в браузере: семена прослушивания непосредственно в браузере через образцы Web Audio и Freesound перед загрузкой. * Постоянные адреса: Каждое семя получает постоянную ссылку, поэтому вы всегда получаете одни и те же заметки по этому URL.  Вот живой пример из двигателя:  Sunset-757 (Boss Fight in Am при 180 BPM): https://notebin.fm/gen/boss-sunset-757В поисках обратной связи: Прежде чем перейти к 16-битным консольным чипам, таким как SNES (SPC700) или Neo Geo (синтез FM), я хотел бы получить ваши мысли о том, как ощущаются голосовые механизмы NES. Хорошо ли отображается разделение каналов для настройки трекера / DAW?  Что он не делает: Он не будет писать полную песню или экспортировать трекеры напрямую. Это всего лишь 8-барная отправная точка, так что вы можете перетащить .mid в свою настройку и сделать фактическую композицию. Приветствуя любую обратную связь по генератору здесь:  https://notebin.fm/generate    представлено   /u/bhagatriks    [link][comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1wxlohn/chiptune_midi_generator/</guid>
+      <pubDate>Sun, 04 Oct 2026 17:43:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sonic Gap — Sprite Collision</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1wxhajl/sonic_gap_sprite_collision/</link>
+      <description><![CDATA[      представленный  /u/Otherwise Basis 6328  &lt;]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1wxhajl/sonic_gap_sprite_collision/</guid>
+      <pubDate>Sun, 04 Oct 2026 14:40:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kid Racers - SP - Mega Drive/Genesis</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1wxfcxk/kid_racers_sp_mega_drivegenesis/</link>
+      <description><![CDATA[  Kid Racers - ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1wxfcxk/kid_racers_sp_mega_drivegenesis/</guid>
+      <pubDate>Sun, 04 Oct 2026 13:11:28 GMT</pubDate>
+    </item>
     <item>
       <title>Барабанщик Мачина Иди!</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1wxdnf2/drum_machina_go/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[     Я был вдохновлен RRthiel&#39;s &quot;What A Mario World&quot; EP и хотел сделать свой собственный дубль на альтернативную музыку Retro Super Mario Bros, на этот раз для Mario Bros. DS. Было весело сделать песню максимально веселой и гостеприимной!    представлено   /u/Kidayaam   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1wwdqml/overworld_my_be/</guid>
       <pubDate>Sat, 03 Oct 2026 04:07:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Это все еще лучший оригинальный трек, который я выпустил, если вы хотите его проверить.</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1wwav9f/this_is_still_the_best_original_track_ive/</link>
-      <description><![CDATA[     Мне не нравится репостирование (bc redundancy), но мне нечего лучше публиковать здесь. У меня все еще есть проблемы с откладыванием моих треков. Я хотел бы быть таким же творчески компетентным и последовательным, как и другие. Тем не менее, я надеюсь, что вам понравится.     представлено   /u/KingK3nnyDaGreat   [link] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1wwav9f/this_is_still_the_best_original_track_ive/</guid>
-      <pubDate>Sat, 03 Oct 2026 01:32:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Путешествие в вечность, Большой Джим</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1ww2g7x/voyage_to_eternity_by_big_jim/</link>
-      <description><![CDATA[Кто-нибудь знает, где я могу найти песню &quot;Путешествие в вечность&quot; большого Джима? Я нашел несколько раскладушек, где я могу найти файл s3m в нескольких местах, но без миди. Пожалуйста, дайте мне знать, если вы знаете, где я могу получить его одна из моих fav песен  i попытался опубликовать в r/midi, но я не смог, потому что они ненавидят все когда-либо umm, но я был перенаправлен сюда idk, если это все еще правильное место, чтобы сделать это, но idk    представленный   /u/yes imgrub    [link]]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1ww2g7x/voyage_to_eternity_by_big_jim/</guid>
-      <pubDate>Fri, 02 Oct 2026 19:13:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Тип Capcom побит</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1ww23k4/capcom_type_beat/</link>
-      <description><![CDATA[              &lt;/]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1ww23k4/capcom_type_beat/</guid>
-      <pubDate>Fri, 02 Oct 2026 18:59:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
