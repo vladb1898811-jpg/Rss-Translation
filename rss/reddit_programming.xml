@@ -4,7 +4,14 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Sun, 04 Oct 2026 03:36:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 05:58:05 GMT</lastBuildDate>
+    <item>
+      <title>Создание среды выполнения браузера для автоматизации без Chromium</title>
+      <link>https://www.reddit.com/r/programming/comments/1wx839w/building_a_browser_runtime_for_automation_without/</link>
+      <description><![CDATA[  представлено   /u/moreveal   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wx839w/building_a_browser_runtime_for_automation_without/</guid>
+      <pubDate>Sun, 04 Oct 2026 05:55:04 GMT</pubDate>
+    </item>
     <item>
       <title>C++ Математика - кто-то сказал математика</title>
       <link>https://www.reddit.com/r/programming/comments/1wx1kb2/c_math_did_someone_say_math/</link>
@@ -27,7 +34,7 @@
       <pubDate>Sat, 03 Oct 2026 22:53:29 GMT</pubDate>
     </item>
     <item>
-      <title>От SSH к REST: Модернизация EMR-данных Slack</title>
+      <title>От SSH до REST: Модернизация EMR-данных Slack</title>
       <link>https://www.reddit.com/r/programming/comments/1wx02m9/from_ssh_to_rest_a_securitydriven_modernization/</link>
       <description><![CDATA[  представлено    /u/Ok Stomach6651   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wx02m9/from_ssh_to_rest_a_securitydriven_modernization/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>0.17.0 Заметки о выпуске Язык программирования Zig</title>
       <link>https://www.reddit.com/r/programming/comments/1ww6bea/0170_release_notes_â_the_zig_programming_language/</link>
-      <description><![CDATA[  представлено    /u/BrewedDoritos    [link] [comments]]]></description>
+      <description><![CDATA[  представлено   /u/BrewedDoritos    [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ww6bea/0170_release_notes_â_the_zig_programming_language/</guid>
       <pubDate>Fri, 02 Oct 2026 21:52:43 GMT</pubDate>
     </item>
@@ -92,23 +99,16 @@
     <item>
       <title>Минский автомат в ncurses terminfo</title>
       <link>https://www.reddit.com/r/programming/comments/1wvy0zi/a_minsky_machine_in_ncurses_terminfo/</link>
-      <description><![CDATA[ncurses terminfo может имитировать двухконтрольный Минский станок, делая повторные расширения параметров вычислительно универсальными.  Demo: паразитическое вычисление Фибоначчи внутри /usr/bin/top    представлено   /u/Dull Replacement8890   [link] ]]></description>
+      <description><![CDATA[ncurses terminfo может имитировать двухконтрольный Минский станок, делая повторные расширения параметров вычислительно универсальными.  Demo: паразитическое вычисление Фибоначчи внутри /usr/bin/top    представлено   /u/Dull Replacement8890   ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wvy0zi/a_minsky_machine_in_ncurses_terminfo/</guid>
       <pubDate>Fri, 02 Oct 2026 16:18:03 GMT</pubDate>
     </item>
     <item>
       <title>Частичное оценивание в трюфеле - динамическое обучение мета-компиляции</title>
       <link>https://www.reddit.com/r/programming/comments/1wvt9nw/partial_evaluation_in_truffle_dynamic/</link>
-      <description><![CDATA[  представлено   /u/grashalm01   [link] [comments]]]></description>
+      <description><![CDATA[  представлено    /u/grashalm01   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wvt9nw/partial_evaluation_in_truffle_dynamic/</guid>
       <pubDate>Fri, 02 Oct 2026 13:03:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Восемь байтов — это уже число.</title>
-      <link>https://www.reddit.com/r/programming/comments/1wvqovi/eight_bytes_are_already_a_number/</link>
-      <description><![CDATA[  представлено   /u/sebastianconcept   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wvqovi/eight_bytes_are_already_a_number/</guid>
-      <pubDate>Fri, 02 Oct 2026 10:51:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
