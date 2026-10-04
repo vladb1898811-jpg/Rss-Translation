@@ -4,7 +4,21 @@
     <title>ChatGPT, искусственный интеллект и автоматизация</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>Вы очарованы чудесами автоматизации, загипнотизированы силой ChatGPT или заинтригованы бесконечными возможностями искусственного интеллекта и автоматизации? Не смотрите дальше! Наше яркое сообщество Reddit является идеальным центром для таких энтузиастов, как вы. Как член нашего сообщества, вы получите доступ к множеству ресурсов, в том числе: Спровоцирующие размышления дискуссии по автоматизации, ChatGPT и ИИ.   Эксклюзивное понимание последних достижений и отраслевых новостей</description>
-    <lastBuildDate>Sun, 04 Oct 2026 04:37:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 11:20:37 GMT</lastBuildDate>
+    <item>
+      <title>Я немного запуталась, мне нужна твоя помощь.</title>
+      <link>https://www.reddit.com/r/automation/comments/1wxax6y/im_a_bit_confused_i_need_your_help/</link>
+      <description><![CDATA[Я собираюсь держать его коротким: я путаюсь между созданием систем автоматизации для клиентов, использующих инструменты без кода, такие как n8n, Zapier и Make, или с использованием стека с высоким кодом, такого как LangGraph, LangChain, Python, FastAPI... и т. д.  Какой стек лучше для доставки продукта автоматизации клиенту? Примечание: - Я знаю, что клиенты даже не будут знать, что я использую для решения своих проблем, пока я не доставлю его, но они будут судить, когда я достигаю стоимости хостинга/использования (высокий код намного меньше, чем без кода, когда речь идет об использовании системы автоматизации на ежедневной основе)    представленный   /u/XunooL   [comments]&lt;]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1wxax6y/im_a_bit_confused_i_need_your_help/</guid>
+      <pubDate>Sun, 04 Oct 2026 08:52:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Construí una herramienta de código abierto para ejecutar agentes de IA locales de forma visual... en dispositivos viejos solo con CPU.</title>
+      <link>https://www.reddit.com/r/automation/comments/1wx8orw/construí_una_herramienta_de_código_abierto_para/</link>
+      <description><![CDATA[  представлено    /u/Fit-Conversation856    [link] [comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1wx8orw/construí_una_herramienta_de_código_abierto_para/</guid>
+      <pubDate>Sun, 04 Oct 2026 06:31:52 GMT</pubDate>
+    </item>
     <item>
       <title>Создан способ автоматизации телефонных приложений, которые не имеют api в массовом масштабе (поддержка ай-агента)</title>
       <link>https://www.reddit.com/r/automation/comments/1wwy2ka/built_a_way_to_automate_phone_apps_that_have_no/</link>
@@ -53,20 +67,6 @@
       <description><![CDATA[  представлено    /u/Honest-Let-7219   ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1wwgjd5/anyone_who_is_using_ecc_github_repo_and_has_had_a/</guid>
       <pubDate>Sat, 03 Oct 2026 06:53:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Какой из них твой любимый?</title>
-      <link>https://www.reddit.com/r/automation/comments/1wwebeh/which_one_is_your_favorite/</link>
-      <description><![CDATA[  Мне больше нравится оригинал.  представленный  [link]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1wwebeh/which_one_is_your_favorite/</guid>
-      <pubDate>Sat, 03 Oct 2026 04:40:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Какой из них твой любимый?</title>
-      <link>https://www.reddit.com/r/automation/comments/1wwe362/which_one_is_your_favorite/</link>
-      <description><![CDATA[  представлено    /u/costafilh0   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1wwe362/which_one_is_your_favorite/</guid>
-      <pubDate>Sat, 03 Oct 2026 04:27:43 GMT</pubDate>
     </item>
     <item>
       <title>Мне нравится использовать DockerOperator.</title>

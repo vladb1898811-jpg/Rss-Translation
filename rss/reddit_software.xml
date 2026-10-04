@@ -4,7 +4,49 @@
     <title>Новые материалы: программное обеспечение</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>Все, что связано с программным обеспечением. Пожалуйста, следуйте нашим правилам, чтобы избежать наказания.</description>
-    <lastBuildDate>Sun, 04 Oct 2026 05:56:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 12:49:02 GMT</lastBuildDate>
+    <item>
+      <title>Водный знак pdf бесплатно?!</title>
+      <link>https://www.reddit.com/r/software/comments/1wxeprw/watermark_a_pdf_for_free/</link>
+      <description><![CDATA[Эй, все, Я продолжал сталкиваться с одной и той же проблемой: мне нужно было водяные знаки PDF-файлов, и каждый вариант был либо раздутым настольным программным обеспечением, либо сайтом, который засунул платный экран в мое лицо после загрузки. Так что я создал pdfwatermark.in. Вот что он делает:  -Добавьте текстовые или графические водяные знаки в положение PDF -Контроль, непрозрачность, вращение и размер  -Примените на все страницы или только выбранные из них -Работает в браузере, без программного обеспечения для установки  Быстрые советы, если вы используете водяные знаки PDF в целом: Использовать около 20-30% непрозрачности, чтобы документ оставался читаемым. Диагональные текстовые водяные знаки труднее вырезать, чем угловые.  Отметьте копию, но не ваш оригинальный файл.  Раскрытие информации: Я разработчик, поэтому я предвзят. Я бы очень хотел знать, какие функции отсутствуют или что вас раздражает в подобных инструментах. Ссылка: pdfwatermark.in  Потратил ли я время на токены или его штраф?    представленный   /u/Ok Camp 2471   [comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wxeprw/watermark_a_pdf_for_free/</guid>
+      <pubDate>Sun, 04 Oct 2026 12:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Я создал бесплатный Open Source Downloads Organizer для Windows, macOS и Linux — в поисках честных отзывов</title>
+      <link>https://www.reddit.com/r/software/comments/1wxbwgc/i_built_a_free_opensource_downloads_organizer_for/</link>
+      <description><![CDATA[Скачиваемая папка быстро заполняется: документы, скриншоты, установщики, архивы... и в конечном итоге поиск чего-то становится другой задачей.  Я хотел простой способ сохранить эту папку управляемой, сохраняя контроль над тем, куда идут мои файлы. Это стало Downloads Organizer, бесплатным настольным приложением с открытым исходным кодом, которое работает локально. Вот что он предлагает:   Правила редактирования  для организации файлов по расширению или имени файла.  Предварительный просмотр перед перемещением , чтобы вы могли проверить пункт назначения. Необходимая автоматическая сортировка , с догоняющим моментом, когда приложение запускается снова.  Переместите историю и проверьте undo, когда вам нужно изменить ход.   Поддерживает  Windows, macOS и Linux. Нет аккаунта, облачных загрузок или телеметрии. Ваши файлы остаются на вашем компьютере. Источник и скриншоты: https://github.com/kashnordeen/downloads-organizerЗагрузки: Быстрая установка примечание: сборки Windows в настоящее время не подписаны, а сборки macOS не нотариально заверены, поэтому могут появиться подсказки Приложение SignPath для подписи Windows находится на рассмотрении.  Я был бы признателен за честную обратную связь, особенно при первой настройке, редактировании правил и четкости предварительного просмотра файлов.  Что вам нужно увидеть, прежде чем доверять приложению для организации папки Downloads?   представлено   /u/kash nordeen   [link]&gt;[comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wxbwgc/i_built_a_free_opensource_downloads_organizer_for/</guid>
+      <pubDate>Sun, 04 Oct 2026 09:55:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>ИИ разрушает проект Open Source</title>
+      <link>https://www.reddit.com/r/software/comments/1wxbfap/ai_is_ruining_open_source_project/</link>
+      <description><![CDATA[ Я занялся разработкой программного обеспечения в 13 лет, потому что это дало мне возможность решать проблемы и видеть их последствия. Всегда было здорово вернуться и увидеть, как ваши работы используются людьми.  В компании, в которой я работал, все написано Клодом. Прошли те времена, когда можно было читать/думать/анализировать и внедрять решения. Что вы чувствуете, когда все выдают один и тот же код? Как получается, что люди, которые даже не знают текущий стандарт, над которым они работают, производят ~ 1000 строк кода в день? Я старался поддерживать старомодный способ программирования, но не мог конкурировать с Клодом Кодом. Поэтому я научился им пользоваться. Не важно, по крайней мере, я могу наслаждаться программированием дома. Я предложил функцию для проекта с открытым исходным кодом. К тому времени, когда я собирался реализовать его, кто-то попросил Клода создать реализацию. За исключением некоторых особенностей, Клод превзошел меня почти в каждой части кода. Какой смысл программировать что-либо еще, если ИИ может сделать это лучше?    представлено   /u/PuzzleheadedTune1366   [link]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wxbfap/ai_is_ruining_open_source_project/</guid>
+      <pubDate>Sun, 04 Oct 2026 09:24:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>v0.5.0 Boost11 - Крошечный переключатель режима питания Windows11/10</title>
+      <link>https://www.reddit.com/r/software/comments/1wxadjx/v050_boost11_tiny_windows1110_power_mode_switcher/</link>
+      <description><![CDATA[ Переключите Windows между Balanced иHigh performance  в один клик. Крошечный коммутатор режима без зависимости, написанный на C++. https://github.com/morrisonion/Boost11  Этот проект полностью с открытым исходным кодом и лицензирован под GNU gpl v3  Требования   Windows 11/Windows 10     представлено   /u/Fast Control1465   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wxadjx/v050_boost11_tiny_windows1110_power_mode_switcher/</guid>
+      <pubDate>Sun, 04 Oct 2026 08:16:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Melodex: бесплатный настольный проигрыватель с открытым исходным кодом для местной музыки, интернет-радио и открытий</title>
+      <link>https://www.reddit.com/r/software/comments/1wx9m4z/melodex_a_free_opensource_desktop_player_for/</link>
+      <description><![CDATA[Я создал Melodex для людей с местными музыкальными коллекциями, которым нужен более простой способ найти что-то за пределами их обычной ротации.  Flow создает путь прослушивания, который объединяет знакомые треки с музыкой, которую вы не играли какое-то время, и позволяет вам управлять, когда вы слушаете. Он также играет на интернет-радио и включает в себя плейлисты, тексты и историю прослушивания. Melodex бесплатен и с открытым исходным кодом для macOS, Windows и Linux — не требуется учетная запись или подписка. Для тех, кто любит возиться, есть также документация и провайдер SDK для добавления собственных онлайн-источников музыки. v0.7.13: https://github.com/Cliff-Lee/releases/tag/v0.7.13 Я разработчик. Обратная связь с приложением, особенно все, что сбивает с толку или мешает слушать музыку, будет очень кстати.    представлено    /u/Choice Standard9959   [link] [comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wx9m4z/melodex_a_free_opensource_desktop_player_for/</guid>
+      <pubDate>Sun, 04 Oct 2026 07:28:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCM — открытый исходный код, бесплатная поисковая система с фото / видео на основе ai</title>
+      <link>https://www.reddit.com/r/software/comments/1wx8cl9/scm_open_sourced_free_aipowered_photovideo_search/</link>
+      <description><![CDATA[  представлено    /u/gh0stsintheshell   [link] [comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wx8cl9/scm_open_sourced_free_aipowered_photovideo_search/</guid>
+      <pubDate>Sun, 04 Oct 2026 06:10:42 GMT</pubDate>
+    </item>
     <item>
       <title>Бесплатное приложение с открытым исходным кодом macOS NullPlayer теперь поддерживает ALL Winamp (2.x, ClassicPro, 5) и ALL Windows Media Player (7, 7.1, XP (8), 9, 10, 11 и 12) Skins. NullPlayer - это чистая комната и единственный медиаплеер с универсальной поддержкой кожи.</title>
       <link>https://www.reddit.com/r/software/comments/1wx4qz9/free_open_source_macos_nullplayer_app_now/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[  представлено   /u/xammen   [link] [comments&gt;]]></description>
       <guid>https://www.reddit.com/r/software/comments/1wwtklx/bettertrumpet_34_is_out/</guid>
       <pubDate>Sat, 03 Oct 2026 17:59:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Тестеры нужны] Гиппократ — нативный Windows HUD, который я создал для своих собственных сессий FL Studio, теперь ищу людей, чтобы сломать его (Win 10/11)</title>
-      <link>https://www.reddit.com/r/software/comments/1wwsgx8/testers_needed_hippocrates_a_native_windows_hud_i/</link>
-      <description><![CDATA[  представлено    /u/Hairy Feeling 3223     [link]  [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wwsgx8/testers_needed_hippocrates_a_native_windows_hud_i/</guid>
-      <pubDate>Sat, 03 Oct 2026 17:13:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Тестеры нужны] Гиппократ — нативный Windows HUD, который я создал для своих собственных сессий FL Studio, теперь ищу людей, чтобы сломать его (Win 10/11)</title>
-      <link>https://www.reddit.com/r/software/comments/1wwpxm2/testers_needed_hippocrates_a_native_windows_hud_i/</link>
-      <description><![CDATA[  представлено    /u/Hairy Feeling 3223     [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wwpxm2/testers_needed_hippocrates_a_native_windows_hud_i/</guid>
-      <pubDate>Sat, 03 Oct 2026 15:24:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Привет! Новое для субмарины.</title>
-      <link>https://www.reddit.com/r/software/comments/1wwoj06/hello_new_to_sub/</link>
-      <description><![CDATA[  представлено   /u/HereInYourBedroom   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wwoj06/hello_new_to_sub/</guid>
-      <pubDate>Sat, 03 Oct 2026 14:24:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>MPC-BE Задержка при открытии нового файла или переходе от одного файла к другому в плейлисте</title>
-      <link>https://www.reddit.com/r/software/comments/1wwnaeq/mpcbe_delay_when_opening_a_new_file_or_when_going/</link>
-      <description><![CDATA[ Именно так, как говорится в названии. Я использовал MPC-BE на своем ноутбуке в течение многих лет. Недавно я получил компьютер и загрузил MPC-BE на нем, так как я люблю видеоплеер, к сожалению, каждый раз, когда я использую его для открытия файла, для загрузки файла требуется 3-4 секунды. Такая же задержка происходит, когда он переходит от одного файла к другому в плейлисте. Windows Media Player загружает его мгновенно, поэтому я склонен полагать, что это проблема с MPC-BE, а не с самим компьютером. Мои водители в курсе, и я на окнах 11.  Спасибо за помощь!    представлено   /u/Arnav1029    [comments] ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wwnaeq/mpcbe_delay_when_opening_a_new_file_or_when_going/</guid>
-      <pubDate>Sat, 03 Oct 2026 13:28:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Музыка Amazon «все работает, но ни один интернет не делает облако грустным»</title>
-      <link>https://www.reddit.com/r/software/comments/1wwmjog/amazon_music_all_work_but_no_internet_makes_a/</link>
-      <description><![CDATA[ Я пытался исправить старую версию музыки Amazon, насколько я знаю, последнюю версию для Windows XP, проблема в названии, я отследил, что файл является libcef.dll (фреймворк Chrome), так как это просто древняя версия этих современных веб-приложений, которые используют флаг сертификата AI, безрезультатно, я пытался открыть его в ida, но я не имею понятия, что на нем есть, любые руководства ida будут полезны, а также    &amp; #32; представленный &amp; #32;  /u/Medical Aerie8779   ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wwmjog/amazon_music_all_work_but_no_internet_makes_a/</guid>
-      <pubDate>Sat, 03 Oct 2026 12:53:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Я сделал приложение для Mac, которое превращает ваш экран в ленту веб-камеры, так что вы можете спрятать окна от него по середине звонка.</title>
-      <link>https://www.reddit.com/r/software/comments/1wwlxtt/i_made_a_mac_app_that_turns_your_screen_into_a/</link>
-      <description><![CDATA[  представлено    /u/Reasonable-Bass9893   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wwlxtt/i_made_a_mac_app_that_turns_your_screen_into_a/</guid>
-      <pubDate>Sat, 03 Oct 2026 12:22:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
