@@ -4,7 +4,14 @@
     <title>Новые материалы: opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>Субреддит для всего, что связано с открытым исходным кодом (для этого контекста мы выходим из определения открытого исходного кода здесь http://en.wikipedia.org/wiki/Open source)</description>
-    <lastBuildDate>Sun, 04 Oct 2026 23:08:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 01:44:24 GMT</lastBuildDate>
+    <item>
+      <title>Фрэнсис является действующим фреймворком и механизмом рабочего процесса для приложений Go, больших и малых (с более чем 10 000 развертываний)</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wxu4hd/francis_is_the_actor_framework_workflow_engine/</link>
+      <description><![CDATA[  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wxu4hd/francis_is_the_actor_framework_workflow_engine/</guid>
+      <pubDate>Sun, 04 Oct 2026 23:49:35 GMT</pubDate>
+    </item>
     <item>
       <title>Kaskas, нативный macOS с открытым исходным кодом, компаньон с местными идеями активности</title>
       <link>https://www.reddit.com/r/opensource/comments/1wxgg9a/kaskas_an_open_source_native_macos_break/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Я сделал это: Играйте в покер дважды или ничего, и удвоите свой кредит, правильно угадав следующую карту и этап азартных игр. Игра поддерживает пользовательские графические пакеты, созданные сообществом, включая карты и обои  Исходный код доступен, и вы можете купить его на паре за $2. в настоящее время есть скидка $2.  Steam link: https://store.steampowered.com//app/4701190/Poker Double or Nothing/Исходный код: https://github.com/dbojan/poker dbojan or nothing  Существует также версия Android. (apk на странице github) Сделано с помощью Godot Engine. Упаковки сообщества: дополнительные пакеты карт с обоями (упаковка в Documents/pokerdon): https://github.com/dbojan/cards    представлено   /u/dbojan76     [link] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1wv40y0/poker_double_or_nothing_for_desktop_android_open/</guid>
       <pubDate>Thu, 01 Oct 2026 16:27:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>JellyBox - родной кроссплатформенный музыкальный клиент для Jellyfin/Emby/Navidrome.</title>
-      <link>https://www.reddit.com/r/opensource/comments/1wv0aos/jellybox_a_native_crossplatform_music_client_for/</link>
-      <description><![CDATA[ Хотел поделиться приложением, над которым работаю с конца 2022 года - JellyBox нативный кроссплатформенный jellyfin/navidrome/emby клиент. Работает на ios/macos/android/windows/linux (проверяется годами на большинстве дистрибутивов). UI/UX были созданы отдельно для настольных и мобильных устройств при повторном использовании некоторых компонентов для фамильярности.  Это может сделать:   Воспроизведение вашей музыки во всех форматах (lol) Поддерживает несколько библиотек  Spotify-подобные автогенерированные плейлисты  Режим воспроизведения переключателей между подключенными устройствами или пультом дистанционного управления.Режим воспроизведения аудиовизуальных сигналов Прогрессивное прекаширование для телефоновЗагрузки в офлайн-режиме, включая синхронизированные загрузки (когда приложение загружает недостающие песни при добавлении на сервер)Repo здесь - ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1wv0aos/jellybox_a_native_crossplatform_music_client_for/</guid>
-      <pubDate>Thu, 01 Oct 2026 14:03:50 GMT</pubDate>
     </item>
     </channel>
 </rss>

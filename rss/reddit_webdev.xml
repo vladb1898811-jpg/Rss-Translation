@@ -4,7 +4,14 @@
     <title>Новые материалы: webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>Сообщество, посвященное всем вещам веб-разработки: как front-end, так и back-end. Для получения дополнительных вопросов, связанных с дизайном, попробуйте /r/web design.</description>
-    <lastBuildDate>Sun, 04 Oct 2026 23:05:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 01:41:03 GMT</lastBuildDate>
+    <item>
+      <title>Reddit взялся за ИИ 2 года назад</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wxu9zb/reddits_take_on_ai_2_years_ago/</link>
+      <description><![CDATA[  представлено   /u/deliadam11   [link] [comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wxu9zb/reddits_take_on_ai_2_years_ago/</guid>
+      <pubDate>Sun, 04 Oct 2026 23:57:26 GMT</pubDate>
+    </item>
     <item>
       <title>Почему мы до сих пор спорим о CSS в 2026 году?</title>
       <link>https://www.reddit.com/r/webdev/comments/1wxmmcz/why_we_are_still_arguing_over_css_in_2026/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[ Привет всем, я сделал 6-градусную игру для музыкальных коллабораций, где вы соединяете артистов через общие функции / сотрудников. Отличный способ проверить свои музыкальные и хип-хоп знания. Дай мне знать, что ты думаешь! Это называется Artist2Artist    представлено   /u/lilalgorithm   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1wx1c9k/artist2artist_puzzle_web_game_for_musichip_hop/</guid>
       <pubDate>Sat, 03 Oct 2026 23:45:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Speeedy - альтернатива Spreeder с открытым исходным кодом</title>
-      <link>https://www.reddit.com/r/webdev/comments/1wwzhod/speeedy_an_open_source_spreeder_alternative/</link>
-      <description><![CDATA[     https://speeedy.pages.dev    представленный   /u/Lee-chaolan   [link]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1wwzhod/speeedy_an_open_source_spreeder_alternative/</guid>
-      <pubDate>Sat, 03 Oct 2026 22:13:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
