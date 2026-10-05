@@ -4,7 +4,21 @@
     <title>Новые материалы: программное обеспечение</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>Все, что связано с программным обеспечением. Пожалуйста, следуйте нашим правилам, чтобы избежать наказания.</description>
-    <lastBuildDate>Mon, 05 Oct 2026 01:29:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 04:27:39 GMT</lastBuildDate>
+    <item>
+      <title>BurnGuard - рабочее пространство с открытым исходным кодом, которое работает на коде Клода или Кодексе, за который вы уже платите.</title>
+      <link>https://www.reddit.com/r/software/comments/1wxyk4b/burnguard_opensource_design_workspace_that_runs/</link>
+      <description><![CDATA[ Claude Design хранит ваши файлы в хостинговом рабочем пространстве и запускает использование вашего плана. Я создал BurnGuard, чтобы хранить их на вашем компьютере и использовать код Claude или Codex CLI, который у вас уже есть. Это настольное приложение для Windows и macOS. Вы выбираете систему дизайна, описываете, что вы хотите, и она создает веб-сайты, слайды и графику рядом с живым холстом. Он поставляется с 41 системой проектирования, каждая со своими собственными правилами навигации, героями и планировкой колонн. Вы можете редактировать на холсте или оставлять прикрепленные комментарии, затем экспортировать HTML, PDF, PPTX или PNG или публиковать сайт на свой собственный Vercel. Файлы остаются локальными.  Что пока не очень хорошо: генерация не является мгновенной (однострочная целевая страница в демо-версии README заняла около пяти минут), слайды PPTX выходят в виде изображений с текстом в заметках динамика, а установщики не подписаны, поэтому вы получаете предупреждение о безопасности при первом запуске. macOS — это только Apple Silicon. Я автор. Это бесплатно и Apache-2.0: https://github.com/ashmoonori-afk/BurnGuard     представлено   /u/Aggressive-Narwhal-3     [link]&lt;]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wxyk4b/burnguard_opensource_design_workspace_that_runs/</guid>
+      <pubDate>Mon, 05 Oct 2026 03:38:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Неуместен ли сейчас пересмотр кода?</title>
+      <link>https://www.reddit.com/r/software/comments/1wxy8qu/is_code_review_irrelevant_now/</link>
+      <description><![CDATA[  представлено    /u/sainivarnit    [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wxy8qu/is_code_review_irrelevant_now/</guid>
+      <pubDate>Mon, 05 Oct 2026 03:20:19 GMT</pubDate>
+    </item>
     <item>
       <title>Как найти потерянное приложение?</title>
       <link>https://www.reddit.com/r/software/comments/1wxvt74/how_to_find_a_lost_app/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[Скачиваемая папка быстро заполняется: документы, скриншоты, установщики, архивы... и в конечном итоге поиск чего-то становится другой задачей.  Я хотел простой способ сохранить эту папку управляемой, сохраняя контроль над тем, куда идут мои файлы. Это стало Downloads Organizer, бесплатным настольным приложением с открытым исходным кодом, которое работает локально. Вот что он предлагает:   Правила редактирования  для организации файлов по расширению или имени файла.  Предварительный просмотр перед перемещением , чтобы вы могли проверить пункт назначения. Необходимая автоматическая сортировка , с догоняющим моментом, когда приложение запускается снова.  Переместите историю и проверьте undo, когда вам нужно изменить ход.   Поддерживает  Windows, macOS и Linux. Нет аккаунта, облачных загрузок или телеметрии. Ваши файлы остаются на вашем компьютере. Источник и скриншоты: https://github.com/kashnordeen/downloads-organizerЗагрузки: Быстрая установка примечание: сборки Windows в настоящее время не подписаны, а сборки macOS не нотариально заверены, поэтому могут появиться подсказки Приложение SignPath для подписи Windows находится на рассмотрении.  Я был бы признателен за честную обратную связь, особенно при первой настройке, редактировании правил и четкости предварительного просмотра файлов.  Что вам нужно увидеть, прежде чем доверять приложению для организации папки Downloads?   представлено   /u/kash nordeen   [link]&gt;[comments&gt;]]></description>
       <guid>https://www.reddit.com/r/software/comments/1wxbwgc/i_built_a_free_opensource_downloads_organizer_for/</guid>
       <pubDate>Sun, 04 Oct 2026 09:55:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>ИИ разрушает проект Open Source</title>
-      <link>https://www.reddit.com/r/software/comments/1wxbfap/ai_is_ruining_open_source_project/</link>
-      <description><![CDATA[ Я занялся разработкой программного обеспечения в 13 лет, потому что это дало мне возможность решать проблемы и видеть их последствия. Всегда было здорово вернуться и увидеть, как ваши работы используются людьми.  В компании, в которой я работал, все написано Клодом. Прошли те времена, когда можно было читать/думать/анализировать и внедрять решения. Что вы чувствуете, когда все выдают один и тот же код? Как получается, что люди, которые даже не знают текущий стандарт, над которым они работают, производят ~ 1000 строк кода в день? Я старался поддерживать старомодный способ программирования, но не мог конкурировать с Клодом Кодом. Поэтому я научился им пользоваться. Не важно, по крайней мере, я могу наслаждаться программированием дома. Я предложил функцию для проекта с открытым исходным кодом. К тому времени, когда я собирался реализовать его, кто-то попросил Клода создать реализацию. За исключением некоторых особенностей, Клод превзошел меня почти в каждой части кода. Какой смысл программировать что-либо еще, если ИИ может сделать это лучше?    представлено   /u/PuzzleheadedTune1366   [link]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wxbfap/ai_is_ruining_open_source_project/</guid>
-      <pubDate>Sun, 04 Oct 2026 09:24:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>v0.5.0 Boost11 - Крошечный переключатель режима питания Windows11/10</title>
-      <link>https://www.reddit.com/r/software/comments/1wxadjx/v050_boost11_tiny_windows1110_power_mode_switcher/</link>
-      <description><![CDATA[ Переключите Windows между Balanced иHigh performance  в один клик. Крошечный коммутатор режима без зависимости, написанный на C++. https://github.com/morrisonion/Boost11  Этот проект полностью с открытым исходным кодом и лицензирован под GNU gpl v3  Требования   Windows 11/Windows 10     представлено   /u/Fast Control1465   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wxadjx/v050_boost11_tiny_windows1110_power_mode_switcher/</guid>
-      <pubDate>Sun, 04 Oct 2026 08:16:40 GMT</pubDate>
     </item>
     </channel>
 </rss>

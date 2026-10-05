@@ -4,7 +4,21 @@
     <title>Новые материалы: Chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>Сообщество, посвященное музыке, которая получает максимум от меньшего. Музыка в стиле старых игр, например, C64, Atari, NES, Gameboy, Sega Genesis, Adlib, OPM, MOD и др.</description>
-    <lastBuildDate>Mon, 05 Oct 2026 01:35:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 04:34:20 GMT</lastBuildDate>
+    <item>
+      <title>Новый альбом группы Floppy Beast</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1wxyzrz/my_new_music_album_floppy_beast/</link>
+      <description><![CDATA[ Это не совсем чиптюн, хотя, но достаточно близко - музыка, сделанная со звуками дисководов.  https://www.youtube.com/watch?v=9ffCgpFcmt8https://shiru8bit.bandcamp.com/album/floppy-beast&lt; представлено  ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1wxyzrz/my_new_music_album_floppy_beast/</guid>
+      <pubDate>Mon, 05 Oct 2026 04:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Идея звукового чипа или что-то в этом роде</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1wxx7e2/a_sound_chip_idea_or_something/</link>
+      <description><![CDATA[     Так что это своего рода сумасшедшая идея у меня была. Практически 6-канальный чип с дробными импульсными волнами, Tri/Saw Envelopes, Wavetable, LSFR Noise и PCM. Плюс пульс/конверт/шум смешивания, стерео и зеркальные функции. Это дерьмовая схема задницы, но, надеюсь, вы можете понять, что предназначено (забыли добавить зеркалирование к нему). Я на самом деле не работаю над этим, это просто еще одна моя бесполезная идея. У меня только элементарный уровень средней школы с изучением ИС и цифровой электроники. Если кто-то знает больше о технической стороне звуковых чипов, я был бы признателен за некоторый вклад. Просто чтобы знать, может ли он функционировать как реальный чип. Вы можете сказать, что это объединение нескольких чипов, хотя я не смог найти ничего на Furnace, что делает все это. Вот почему я сделал &quot;schematic&quot;. Я также рассматривал FM в этом, но я не уверен, как это будет работать. Честно говоря, что я делаю, у меня просто есть амбициозные мысли, я думаю.    представлено   /u/KingK3nnyDaGreat   [link]]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1wxx7e2/a_sound_chip_idea_or_something/</guid>
+      <pubDate>Mon, 05 Oct 2026 02:25:11 GMT</pubDate>
+    </item>
     <item>
       <title>Генератор Chiptune MIDI</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1wxlohn/chiptune_midi_generator/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[  представлено    /u/ThatTastedPurpl   [link] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1wwhz06/i_made_a_modern_style_daw_to_make_music_for_the/</guid>
       <pubDate>Sat, 03 Oct 2026 08:23:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>BitBLT - Путешествия: 13/14 - Киборг Улеоборга</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1wwhhc2/bitblt_travels_1314_cyborg_of_uleåborg/</link>
-      <description><![CDATA[         представлено    /u/Alternative Low9672   [link]&gt;]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1wwhhc2/bitblt_travels_1314_cyborg_of_uleåborg/</guid>
-      <pubDate>Sat, 03 Oct 2026 07:52:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>"Чужой мир" - это я!</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1wwdqml/overworld_my_be/</link>
-      <description><![CDATA[     Я был вдохновлен RRthiel&#39;s &quot;What A Mario World&quot; EP и хотел сделать свой собственный дубль на альтернативную музыку Retro Super Mario Bros, на этот раз для Mario Bros. DS. Было весело сделать песню максимально веселой и гостеприимной!    представлено   /u/Kidayaam   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1wwdqml/overworld_my_be/</guid>
-      <pubDate>Sat, 03 Oct 2026 04:07:54 GMT</pubDate>
     </item>
     </channel>
 </rss>

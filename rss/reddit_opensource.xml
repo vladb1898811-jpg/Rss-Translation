@@ -4,7 +4,14 @@
     <title>Новые материалы: opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>Субреддит для всего, что связано с открытым исходным кодом (для этого контекста мы выходим из определения открытого исходного кода здесь http://en.wikipedia.org/wiki/Open source)</description>
-    <lastBuildDate>Mon, 05 Oct 2026 01:44:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 04:43:25 GMT</lastBuildDate>
+    <item>
+      <title>Крошечный робот в телефоне моего отца нуждался в гавани</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wxwmw8/the_tiny_robot_in_my_dads_phone_needed_a_harbor/</link>
+      <description><![CDATA[Поэтому я уже некоторое время трахаюсь с Muse. Сделал стройки, сломал вещи, починил их. Забавный материал.  Затем я попытался поделиться одним с отцом. У него есть то, что он называет крошечным роботом, живущим в его телефоне. И пытается объяснить ему, как установить навык? Абсолютный кошмар. GitHub может стать для него Матрицей. Нет неуважения, я люблю фильм. Именно поэтому и существует Skill Harbor. Одно место, где все навыки, подсказки и построения живут вместе. Вы находите что-то, что вам нравится, копируете подсказку об установке, вставляете ее в Muse. Нет спеланкинга GitHub, нет 47-ступенчатых учебников.  Большая часть бесплатно. Некоторые строители взимают небольшую плату за более крупные вещи, это их призыв, деньги идут прямо к ним через Stripe, я никогда не прикасаюсь к ним. Она все еще маленькая. Я добавляю вещи каждую неделю. Если вы создали что-то крутое для своего крошечного робота, вы можете перечислить его бесплатно. Разорви его на части, я возьму. Я отдал свой старый rx580 моему крошечному роботу, и теперь он использует его для написания своего блога, вдохновленного тем, что мы сделали или наблюдали. Посмотрите, если хотите.    представлено   /u/toohightottype     [link][comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wxwmw8/the_tiny_robot_in_my_dads_phone_needed_a_harbor/</guid>
+      <pubDate>Mon, 05 Oct 2026 01:55:46 GMT</pubDate>
+    </item>
     <item>
       <title>Фрэнсис является действующим фреймворком и механизмом рабочего процесса для приложений Go, больших и малых (с более чем 10 000 развертываний)</title>
       <link>https://www.reddit.com/r/opensource/comments/1wxu4hd/francis_is_the_actor_framework_workflow_engine/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  представлено   /u/Lasikie    [link] [comments&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1wvd4lx/plembfin_v131_released/</guid>
       <pubDate>Thu, 01 Oct 2026 22:23:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Покер двойной или ничего, для настольных компьютеров, Android, с открытым исходным кодом и доступен на Steam</title>
-      <link>https://www.reddit.com/r/opensource/comments/1wv40y0/poker_double_or_nothing_for_desktop_android_open/</link>
-      <description><![CDATA[Я сделал это: Играйте в покер дважды или ничего, и удвоите свой кредит, правильно угадав следующую карту и этап азартных игр. Игра поддерживает пользовательские графические пакеты, созданные сообществом, включая карты и обои  Исходный код доступен, и вы можете купить его на паре за $2. в настоящее время есть скидка $2.  Steam link: https://store.steampowered.com//app/4701190/Poker Double or Nothing/Исходный код: https://github.com/dbojan/poker dbojan or nothing  Существует также версия Android. (apk на странице github) Сделано с помощью Godot Engine. Упаковки сообщества: дополнительные пакеты карт с обоями (упаковка в Documents/pokerdon): https://github.com/dbojan/cards    представлено   /u/dbojan76     [link] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1wv40y0/poker_double_or_nothing_for_desktop_android_open/</guid>
-      <pubDate>Thu, 01 Oct 2026 16:27:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
