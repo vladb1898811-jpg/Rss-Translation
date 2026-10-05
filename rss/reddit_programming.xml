@@ -4,14 +4,7 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Mon, 05 Oct 2026 04:29:04 GMT</lastBuildDate>
-    <item>
-      <title>Ваш телефон Xiaomi может отправлять вам фишинговые уведомления.</title>
-      <link>https://www.reddit.com/r/programming/comments/1wxr63h/your_xiaomi_phone_may_be_sending_you_phishing/</link>
-      <description><![CDATA[TLDR: объявления на телефоне Xiaomi могут имитировать значки уже установленных вами приложений.  В моем случае было показано какое-то фишинговое приложение &quot;spotify casino&quot;, как если бы оно было законным уведомлением. Это поддельное уведомление приводит к фактическим настройкам приложения spotify при нажатии «больше» на уведомления.  Похоже, что в MIUI есть некоторые приложения с белым списком (т.е. приложение для системной рекламы), которые могут показывать уведомления от имени других приложений     представленные   /u/Cload    [link] [comments&gt;]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wxr63h/your_xiaomi_phone_may_be_sending_you_phishing/</guid>
-      <pubDate>Sun, 04 Oct 2026 21:30:23 GMT</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Oct 2026 07:31:06 GMT</lastBuildDate>
     <item>
       <title>"8-pinski" - EIGHT(!) intro для MSDOS</title>
       <link>https://www.reddit.com/r/programming/comments/1wxoefa/8pinski_eight_bytes_intro_for_msdos/</link>
@@ -109,6 +102,13 @@
       <description><![CDATA[ncurses terminfo может имитировать двухконтрольный Минский станок, делая повторные расширения параметров вычислительно универсальными.  Demo: паразитическое вычисление Фибоначчи внутри /usr/bin/top    представлено   /u/Dull Replacement8890   ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wvy0zi/a_minsky_machine_in_ncurses_terminfo/</guid>
       <pubDate>Fri, 02 Oct 2026 16:18:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Частичное оценивание в трюфеле - динамическое обучение мета-компиляции</title>
+      <link>https://www.reddit.com/r/programming/comments/1wvt9nw/partial_evaluation_in_truffle_dynamic/</link>
+      <description><![CDATA[  представлено    /u/grashalm01   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wvt9nw/partial_evaluation_in_truffle_dynamic/</guid>
+      <pubDate>Fri, 02 Oct 2026 13:03:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
