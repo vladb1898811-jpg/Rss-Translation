@@ -4,20 +4,20 @@
     <title>Новые материалы: opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>Субреддит для всего, что связано с открытым исходным кодом (для этого контекста мы выходим из определения открытого исходного кода здесь http://en.wikipedia.org/wiki/Open source)</description>
-    <lastBuildDate>Mon, 05 Oct 2026 13:42:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:43:56 GMT</lastBuildDate>
+    <item>
+      <title>Чтобы противостоять изменениям в корпоративном дизайне, я создал расширение с открытым исходным кодом, которое замораживает более 170 популярных сайтов в 2019 году.</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wychj9/to_push_back_against_corporate_design_changes_i/</link>
+      <description><![CDATA[ Каждые несколько месяцев сайты, с которыми мы ознакомились, обновляются без нашего участия. В один прекрасный день шорты YouTube пересекают все каналы, а на следующий день появляется ИИ, готовый обобщить каждый пост. В ответ я сделал расширение Chrome, которое замораживает дизайн сайта в то время, когда он чувствовал себя более функциональным. Он бесплатный, локальный, с открытым исходным кодом, ненавязчивый и адаптированный для 170+ самых популярных веб-сайтов. Это своего рода идея использования old.reddit.com применяется ко всем другим сайтам, которые вы используете. Хотите сохранить современные функции на некоторых сайтах? Вы можете переключать расширение только для работы над некоторыми из них.  Рекомендовать веб-сайты / проблемы с отчетами: https://github.com/PigeonFlare/net19/issues Попробуйте сами: /u/Cow Fam   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wychj9/to_push_back_against_corporate_design_changes_i/</guid>
+      <pubDate>Mon, 05 Oct 2026 16:06:09 GMT</pubDate>
+    </item>
     <item>
       <title>Бесплатный ASO CLI с открытым исходным кодом: популярность ключевых слов, сложность и отслеживание рангов</title>
       <link>https://www.reddit.com/r/opensource/comments/1wy86g4/free_open_source_aso_cli_keyword_popularity/</link>
       <description><![CDATA[ Я не хотел платить ежемесячную подписку на данные ключевых слов App Store, поэтому я написал CLI с открытым исходным кодом, который получает его прямо от Apple. Что он делает   Популярность от Apple Search Ads (бесплатная Apple) Аккаунт объявлений, нет необходимости в кампаниях или выставлении счетов)    Сложность оценка, предложения по ключевым словам, текущие топовые приложения для термина   Отслеживание рангов  с историей в локальном файле SQLite Metadata linter для заголовка, подзаголовка и поля ключевых слов   Installnpm i -g hristo2612/aso-cli &amp;&amp; aso setup   Попробуйте  aso Ключевые слова &quot;белый шум, звуки сна&quot; aso предложит медитацию aso Search &quot;habit tracker&quot;  Plain Node, одна зависимость, лицензированный MIT. Работает локально, без счета, без телеметрии. Единственные сетевые запросы идут в Apple.  Repo: github.com/hristo2612/aso-cli    представлено   /u/chrisBhappy   [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1wy86g4/free_open_source_aso_cli_keyword_popularity/</guid>
       <pubDate>Mon, 05 Oct 2026 13:10:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Фрэнсис является действующим фреймворком и механизмом рабочего процесса для приложений Go, больших и малых (с более чем 10 000 развертываний)</title>
-      <link>https://www.reddit.com/r/opensource/comments/1wxu4hd/francis_is_the_actor_framework_workflow_engine/</link>
-      <description><![CDATA[  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1wxu4hd/francis_is_the_actor_framework_workflow_engine/</guid>
-      <pubDate>Sun, 04 Oct 2026 23:49:35 GMT</pubDate>
     </item>
     <item>
       <title>Kaskas, нативный macOS с открытым исходным кодом, компаньон с местными идеями активности</title>
@@ -62,13 +62,6 @@
       <pubDate>Fri, 02 Oct 2026 22:19:03 GMT</pubDate>
     </item>
     <item>
-      <title>Word-sys PDF редактор Готов к Flatpak!</title>
-      <link>https://www.reddit.com/r/opensource/comments/1wvsnox/wordsys_pdf_editor_ready_for_flatpak/</link>
-      <description><![CDATA[       ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1wvsnox/wordsys_pdf_editor_ready_for_flatpak/</guid>
-      <pubDate>Fri, 02 Oct 2026 12:35:45 GMT</pubDate>
-    </item>
-    <item>
       <title>Здравствуйте, я создал Lanshare, местное одноранговое приложение для обмена файлами.</title>
       <link>https://www.reddit.com/r/opensource/comments/1wvrcoc/hello_i_built_lanshare_a_local_peerpeer_file/</link>
       <description><![CDATA[     Я создал Lanshare, потому что хотел простой способ перемещения файлов между моими собственными компьютерами без облачных загрузок, USB-накопителей или учетных записей. Он находит другие устройства в той же сети Wi-Fi или Ethernet и отправляет файлы непосредственно между ними. Проект полностью с открытым исходным кодом, не стесняйтесь проводить аудит и настраиваться по своему вкусу. Lanshare поддерживает Windows, MacOS (Apple Silicon) и Linux. Надеюсь, вам понравится!    представлено   /u/TheIdiotDev   [link] [comments&gt;]]></description>
@@ -109,6 +102,13 @@
       <description><![CDATA[  представлено   /u/Lasikie    [link] [comments&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1wvd4lx/plembfin_v131_released/</guid>
       <pubDate>Thu, 01 Oct 2026 22:23:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>JellyBox - родной кроссплатформенный музыкальный клиент для Jellyfin/Emby/Navidrome.</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wv0aos/jellybox_a_native_crossplatform_music_client_for/</link>
+      <description><![CDATA[ Хотел поделиться приложением, над которым работаю с конца 2022 года - JellyBox нативный кроссплатформенный jellyfin/navidrome/emby клиент. Работает на ios/macos/android/windows/linux (проверяется годами на большинстве дистрибутивов). UI/UX были созданы отдельно для настольных и мобильных устройств при повторном использовании некоторых компонентов для фамильярности.  Это может сделать:   Воспроизведение вашей музыки во всех форматах (lol) Поддерживает несколько библиотек  Spotify-подобные автогенерированные плейлисты  Режим воспроизведения переключателей между подключенными устройствами или пультом дистанционного управления.Режим воспроизведения аудиовизуальных сигналов Прогрессивное прекаширование для телефоновЗагрузки в офлайн-режиме, включая синхронизированные загрузки (когда приложение загружает недостающие песни при добавлении на сервер)Repo здесь - ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wv0aos/jellybox_a_native_crossplatform_music_client_for/</guid>
+      <pubDate>Thu, 01 Oct 2026 14:03:50 GMT</pubDate>
     </item>
     </channel>
 </rss>

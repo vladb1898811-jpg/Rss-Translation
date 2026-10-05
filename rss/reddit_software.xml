@@ -4,13 +4,62 @@
     <title>Новые материалы: программное обеспечение</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>Все, что связано с программным обеспечением. Пожалуйста, следуйте нашим правилам, чтобы избежать наказания.</description>
-    <lastBuildDate>Mon, 05 Oct 2026 13:26:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:28:49 GMT</lastBuildDate>
     <item>
-      <title>25М | Старший инженер | Нойда | В поисках чего-то серьезного (свидание сначала, потом брак)</title>
-      <link>https://www.reddit.com/r/software/comments/1wy8g1u/25m_senior_engineer_noida_looking_for_something/</link>
-      <description><![CDATA[  представлено    /u/CandleGold6670   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wy8g1u/25m_senior_engineer_noida_looking_for_something/</guid>
-      <pubDate>Mon, 05 Oct 2026 13:22:43 GMT</pubDate>
+      <title>Я думаю, что я должен создать программное обеспечение для редактирования видео для бесплатного навсегда с открытым исходным кодом для мобильного пользователя, если вы поможете мне построить этот тип приложения, включая все функции, такие как редактирование композиций и графики, если кто-то заинтересован в создании взволнованного проекта для мобильного пользователя.</title>
+      <link>https://www.reddit.com/r/software/comments/1wybotr/i_am_thinking_i_should_build_some_video_editing/</link>
+      <description><![CDATA[  представлено   /u/Extension Wallaby 43     [link] ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wybotr/i_am_thinking_i_should_build_some_video_editing/</guid>
+      <pubDate>Mon, 05 Oct 2026 15:36:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Я создал веб-приложение для системного дизайна. Вместо того, чтобы просто рисовать диаграмму HLD, вы можете буквально запускать их в детерминистской среде.</title>
+      <link>https://www.reddit.com/r/software/comments/1wyb5xt/i_made_a_web_app_for_system_design_instead_of/</link>
+      <description><![CDATA[Do tell your opinion.    подается   /u/Shiroi Shinjitsu   [link]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wyb5xt/i_made_a_web_app_for_system_design_instead_of/</guid>
+      <pubDate>Mon, 05 Oct 2026 15:15:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Папка GimmeService в %LocalAppData%</title>
+      <link>https://www.reddit.com/r/software/comments/1wyayxw/gimmeservice_folder_in_localappdata/</link>
+      <description><![CDATA[ Недавно я нашел пустую папку на моем ПК с 2020 года. Я понятия не имею, что это может быть, и даже что я делал шесть лет назад. Первоначально я думал, что это связано с Neverwinter (установлено из Steam), но переустановка программного обеспечения не воссоздала папку. C:\Users\{USERNAME}\AppData\Local\GimmeService %LocalAppData%\GimmeService  Папка полностью пуста, и нет ссылки на нее в реестре, приложениях для запуска или планировщике задач. Это, по-видимому, не злонамеренно, но мне очень любопытно, откуда это взялось.    представлено   /u/jobunocru    [link] ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wyayxw/gimmeservice_folder_in_localappdata/</guid>
+      <pubDate>Mon, 05 Oct 2026 15:08:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nober - рабочее пространство с открытым исходным кодом, чтобы организовать всю мою школьную жизнь</title>
+      <link>https://www.reddit.com/r/software/comments/1wyavss/nober_an_opensource_workspace_to_organize_my/</link>
+      <description><![CDATA[https://github.com/SamonsLol/nober-organizer  Если вы в настоящее время используете что-то вроде Notion, Google Calendar + менеджер задач или несколько различных приложений для управления школой, я бы особенно хотел знать, как вы все организуете.    представлено   /u/Accomplished-Link605   ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wyavss/nober_an_opensource_workspace_to_organize_my/</guid>
+      <pubDate>Mon, 05 Oct 2026 15:04:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Мне надоело угадывать размеры PDF, поэтому я создал бесплатное правило PDF, которое работает полностью в браузере.</title>
+      <link>https://www.reddit.com/r/software/comments/1wyank4/i_got_tired_of_guessing_pdf_sizes_so_i_built_a/</link>
+      <description><![CDATA[ Я продолжал сталкиваться с одной и той же проблемой: кто-то отправляет PDF, и мне нужно знать, действительно ли это A4, будь то поля 15 мм или как далеко друг от друга находятся две вещи. Инструмент измерения Acrobat неуклюжий, и большинство онлайн-инструментов требуют загрузки. Так что я создал PdfRuler. Вы открываете PDF и получаете реальные линейки в мм, см, дюймах, точках или px. Несколько вещей, которые мне понравились:  Наведите курсор для точного X/Y, нажмите две точки для длины, поперечной, нижней и угловой  - Один ключ (A) читает инструкции по рисованию страницы и размер каждой коробки. Он использует векторные данные, а не пиксели, поэтому карта 61 x 91 мм читает 61 x 91 мм  - Удары по краям, уровень замков Shift или сантехника, направляющие вытаскивают из линейки  - Те же показания при 50% или 500% зум, потому что все рассчитывается в точках PDF  - Сохраните копию с нарисованными на ней измерениями   Все работает на стороне клиента. Нет загрузки, нет аккаунта, ничего не хранится. На посадочной странице есть демо-версия, на которую вы можете нажать без PDF. Link: https://p&gt;      представлено   /u/mutantstroke    [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wyank4/i_got_tired_of_guessing_pdf_sizes_so_i_built_a/</guid>
+      <pubDate>Mon, 05 Oct 2026 14:55:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Что происходит с моим Э! (Adobe After Effects)</title>
+      <link>https://www.reddit.com/r/software/comments/1wyafml/what_is_happening_to_my_ae_adobe_after_effects/</link>
+      <description><![CDATA[Мне нужно решение или объяснение     представлено   /u/Full Recognition4830   [link]&gt;]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wyafml/what_is_happening_to_my_ae_adobe_after_effects/</guid>
+      <pubDate>Mon, 05 Oct 2026 14:46:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Любой бесплатный просмотрщик / редактор pdf, который позволяет подписывать документы с помощью сертификата?</title>
+      <link>https://www.reddit.com/r/software/comments/1wy96oh/any_free_pdf_viewereditor_that_lets_you_sign/</link>
+      <description><![CDATA[В частности, программное обеспечение, которое позволяет подписывать pdf-документы с использованием квалифицированной подписи ЕС (QES).     представлено   /u/Training Ball 3345    [link]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wy96oh/any_free_pdf_viewereditor_that_lets_you_sign/</guid>
+      <pubDate>Mon, 05 Oct 2026 13:55:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Бесплатный редактор PDF для добавления текста?</title>
+      <link>https://www.reddit.com/r/software/comments/1wy8orz/any_free_pdf_editor_to_add_text/</link>
+      <description><![CDATA[ Все те, которые я видел, нуждаются в пробной версии, даже когда я ищу бесплатно, если я хочу редактировать текст     представленный   /u/Fair Ambition6522   ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wy8orz/any_free_pdf_editor_to_add_text/</guid>
+      <pubDate>Mon, 05 Oct 2026 13:33:22 GMT</pubDate>
     </item>
     <item>
       <title>ALTRun - пусковая установка в стиле Альфреда для Windows, полностью написанная в AutoHotkey v2 (с открытым исходным кодом <1 МБ)</title>
@@ -60,55 +109,6 @@
       <description><![CDATA[ Claude Design хранит ваши файлы в хостинговом рабочем пространстве и запускает использование вашего плана. Я создал BurnGuard, чтобы хранить их на вашем компьютере и использовать код Claude или Codex CLI, который у вас уже есть. Это настольное приложение для Windows и macOS. Вы выбираете систему дизайна, описываете, что вы хотите, и она создает веб-сайты, слайды и графику рядом с живым холстом. Он поставляется с 41 системой проектирования, каждая со своими собственными правилами навигации, героями и планировкой колонн. Вы можете редактировать на холсте или оставлять прикрепленные комментарии, затем экспортировать HTML, PDF, PPTX или PNG или публиковать сайт на свой собственный Vercel. Файлы остаются локальными.  Что пока не очень хорошо: генерация не является мгновенной (однострочная целевая страница в демо-версии README заняла около пяти минут), слайды PPTX выходят в виде изображений с текстом в заметках динамика, а установщики не подписаны, поэтому вы получаете предупреждение о безопасности при первом запуске. macOS — это только Apple Silicon. Я автор. Это бесплатно и Apache-2.0: https://github.com/ashmoonori-afk/BurnGuard     представлено   /u/Aggressive-Narwhal-3     [link]&lt;]]></description>
       <guid>https://www.reddit.com/r/software/comments/1wxyk4b/burnguard_opensource_design_workspace_that_runs/</guid>
       <pubDate>Mon, 05 Oct 2026 03:38:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Неуместен ли сейчас пересмотр кода?</title>
-      <link>https://www.reddit.com/r/software/comments/1wxy8qu/is_code_review_irrelevant_now/</link>
-      <description><![CDATA[  представлено    /u/sainivarnit    [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wxy8qu/is_code_review_irrelevant_now/</guid>
-      <pubDate>Mon, 05 Oct 2026 03:20:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Как найти потерянное приложение?</title>
-      <link>https://www.reddit.com/r/software/comments/1wxvt74/how_to_find_a_lost_app/</link>
-      <description><![CDATA[Здравствуйте,Постараюсь не торопиться. В 2019 году я загрузил приложение для Android, в котором вы можете сообщать о случаях сексуального насилия по месту жительства, а также добавлять имена и писать именно то, что произошло. При сохранении он будет отображаться на карте с булавками на ней, как карта типа сексуального преступника. Я просто хочу вернуть себе имя!  Это не «безопасный город» или «она толпа», потому что я посмотрел на них. Я использовал ту же электронную почту, и ни одна учетная запись не появляется при входе. Причина, по которой я спрашиваю, заключается в том, что преступник был занят и имел несколько жертв. Я пытался вернуться и найти отчет, который я сделал много лет назад, чтобы представить своего рода свидетельские показания, чтобы показать, что в основном этот троглодит имеет долгую историю употребления наркотиков и изнасилования женщин. Я также сообщил в полицию на следующий день после того, как это произошло, что ничего не сделало; так что теперь я застрял, пытаясь вернуться к этому внезапно ненаходимому приложению, чтобы показать, что я пытался использовать все имеющиеся в моем распоряжении возможности, чтобы по крайней мере пролить свет на то, что сделал этот мудак. Даже в моей электронной почте ничего нет. Что может быть связано с функцией анонимной отчетности приложения.  Я даже проверил свою историю приложений на своей учетной записи, чтобы узнать, могу ли я проверить свои загрузки в 2019 году, и там ничего нет... на самом деле очень тревожно, что во многих местах, где я раньше сообщал о чем-то настолько катастрофическом, либо больше не существует, либо у меня ужасный учет. Любые советы о том, как найти это приложение?    представлено   /u/intelligentnomad   [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wxvt74/how_to_find_a_lost_app/</guid>
-      <pubDate>Mon, 05 Oct 2026 01:13:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>За последний месяц я создал бесплатное приложение с открытым исходным кодом для Windows. Вот путешествие, и я хотел бы получить ваши отзывы</title>
-      <link>https://www.reddit.com/r/software/comments/1wxsdbj/i_built_a_free_open_source_offline_dictation_app/</link>
-      <description><![CDATA[ Раскрытие первого VoxScribe является бесплатным и открытым исходным кодом MIT. Есть дополнительное обновление Pro за 14 долларов один раз для дополнительных, но все основное приложение бесплатно без учетной записи. Ссылка находится внизу.  Что это: вы держите горячий ключ в любом месте Windows, говорите, выпускаете, и текст вводится в любое приложение с фокусом. Распознавание речи выполняется локально на вашем компьютере, поэтому ваш аудио никогда не загружается. Как все прошло. Первая версия использовала автоматическое обнаружение речи, и это был беспорядок на тихих микрофонах. Он пропустил настоящую речь и вызвал шум, который заставил модель изобрести предложения. Я уронил его для простого разговора, который оказался более надежным и легким для понимания. Тогда настоящее оборудование сломало все, что, как я думал, работало. Наушники Bluetooth почти не давали сигнала, пока я не переключил аудиодрайверы. Микрофон с ноутбуком разбился, потому что я навязал неправильную частоту выборки. Текст был зашифрован в чатах, пока я не замедлил набор текста. Защитник Windows пометил установщик, пока я не отключил опцию упаковки. Каждый из них научил меня тестировать больше, чем на собственной машине. Он вырос, так как вы можете импортировать аудио и видео файлы и получать текст или субтитры .srt, есть разговорные команды для пунктуации и отмены, около 28 языков с переводом на английский режим и пользовательские замены слов. На прошлой неделе пользователь сообщил, что он застрял на загрузке после неудачной загрузки модели. Я исправил это, а затем прочитал всю свою кодовую базу и обнаружил еще восемь проблем, поэтому следующая версия также исправила их. Я также исправил свою собственную формулировку конфиденциальности, потому что приложение отправляет один анонимный пинг запуска, который вы можете отключить в настройках. Там, где он стоит, около 80 загрузок, около 20 человек, которые фактически открыли его, и один человек, оплачивающий Pro. Так что я учусь больше на обратной связи, чем на цифрах.  Что я хотел бы знать от вас: работает ли это в ваших приложениях, и какие из них не работают? Какова точность вашего акцента и микрофона? Есть ли что-то, что помешает вам попробовать это, например, предупреждение неподписанного установщика? И что заставило бы вас фактически использовать его каждый день? Источник и загрузка: https://github.com/ahmedhmam1994/voxscribe-ai-voice-dictation    представленный   /u/Strong-Leg-9636   [link]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wxsdbj/i_built_a_free_open_source_offline_dictation_app/</guid>
-      <pubDate>Sun, 04 Oct 2026 22:23:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Организация фотографий на ПК локально с помощью ИИ?</title>
-      <link>https://www.reddit.com/r/software/comments/1wxrx8l/organizing_photos_on_pc_locally_with_ai/</link>
-      <description><![CDATA[ Я загружал свои фотографии с телефона на ПК, чтобы хранить их на жестких дисках, и мне нужно какое-то программное обеспечение, которое будет организовывать мои фотографии. Возможность поиска на основе людей или вещей — это то, что я ищу. Я думал, что могу использовать какой-то ИИ для этого, но я не хочу, чтобы мои данные собирались где-либо, так что что-то локальное. Я очень смущен этой темой, так как многие люди говорят о самохостинге, и я мало что знаю об этом. У меня есть игровой ПК с хорошими характеристиками и большим количеством памяти, просто нужна помощь в организации вещей. Если кто-то может дать мне краткое изложение того, как это сделать и какое программное обеспечение использовать, мне нужно где-то начать.    представлено   /u/Chey1028    [link]&gt;   [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wxrx8l/organizing_photos_on_pc_locally_with_ai/</guid>
-      <pubDate>Sun, 04 Oct 2026 22:03:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Инстаграм изменил клиента?</title>
-      <link>https://www.reddit.com/r/software/comments/1wxrpv1/instagram_modded_client/</link>
-      <description><![CDATA[ Несколько дней назад я сделал здесь пост с просьбой о некоторых приложениях и расширениях для очистки контента.  Пользователь ответил, что он использует кучу из них, но на самом деле не назвал ни одного из них, и не ответил, когда я спросил. Один из них включал в себя измененный клиент Instagram, который, по его словам, удаляет страницу и барабаны и показывает контент только от людей, за которыми вы следите. &quot;  Кто-нибудь знает имя такого клиента, который делает это?  Спасибо!    представлено   /u/mr-bonsai-  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wxrpv1/instagram_modded_client/</guid>
-      <pubDate>Sun, 04 Oct 2026 21:54:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Я создал голосового помощника ИИ для Windows, который фактически управляет вашим ПК (открывает приложения, устанавливает напоминания, ищет в Интернете).</title>
-      <link>https://www.reddit.com/r/software/comments/1wxogbc/i_built_a_voice_ai_assistant_for_windows_that/</link>
-      <description><![CDATA[ Всем привет! В прошлом, когда я создавал NEXA, персональный помощник ИИ, который живет на вашем ПК с Windows. Я хотел что-то вроде JARVIS, что не просто чат, но на самом деле делает* вещи на моем компьютере. ** Что он может сделать:** - .️ ** Голосовой контроль**: всегда слушать, &quot;NEXA&quot; разбудить слово, или нажать на разговор. Вы можете поговорить об этом, чтобы прервать. - member️ ** Запускает ваш ПК **: открывает приложения и игры, находит файлы, контролирует громкость, яркость, темный режим и носители  - . * * Живые ответы **: веб-поиск, погода, новости, игровые предложения **: Epic бесплатные игры, подсчеты игроков Steam, акции  - . * * Таймеры, сигналы тревоги и напоминания **, плюс утренняя сводка, когда вы запускаете свой ПК  - . * * Подключение к вашему материалу **: Электронная почта, календарь, разлад, Telegram, Slack, GitHub, Steam, - . * * Запоминает вас **: долговременная память, которую вы можете просмотреть и удалить  - * * Персональность **: JARVIS, друг Chill или Sassy   ** Безопасность всегда спрашивала вас в первую очередь, она Это все еще рано, и я постоянно улучшаю его, так что я действительно люблю обратную связь: что бы вы хотели, чтобы такой помощник сделал? Чего не хватает? Если вы хотите попробовать это, все в нашем Разногласии: https://discord.gg/kbEva4szXQ Счастлив ответить на любые вопросы в разногласии! 🙂    представлено   /u/Milen 0   ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wxogbc/i_built_a_voice_ai_assistant_for_windows_that/</guid>
-      <pubDate>Sun, 04 Oct 2026 19:36:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Официальный сайт Wiztree не работает</title>
-      <link>https://www.reddit.com/r/software/comments/1wxjtos/wiztree_official_site_not_working/</link>
-      <description><![CDATA[ По какой-то причине я допустил ошибку DNS. Мой диск D случайно заполнен, и я пытаюсь понять, почему    представлено   /u/dannydarko3636     [link] ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wxjtos/wiztree_official_site_not_working/</guid>
-      <pubDate>Sun, 04 Oct 2026 16:26:51 GMT</pubDate>
     </item>
     </channel>
 </rss>

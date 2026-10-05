@@ -4,7 +4,7 @@
     <title>Обнимая лицо - Блог</title>
     <link>https://huggingface.co/blog</link>
     <description>Блог The Hugging Face</description>
-    <lastBuildDate>Sun, 04 Oct 2026 02:49:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 15:11:53 GMT</lastBuildDate>
     <item>
       <title>Агент сказал, что это было сделано. База данных не согласована.</title>
       <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
@@ -55,6 +55,13 @@
       <pubDate>Mon, 28 Sep 2026 09:44:05 GMT</pubDate>
     </item>
     <item>
+      <title>Добро пожаловать в RL Environments</title>
+      <link>https://huggingface.co/blog/rl-environments</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/rl-environments</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Ускорение моделей языка зрения с помощью LFM2.5-VL-DSpark</title>
       <link>https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark</link>
       <description><![CDATA[]]></description>
@@ -101,13 +108,6 @@
       <link>https://huggingface.co/blog/asyncgrpo-lora-hfjobs</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/asyncgrpo-lora-hfjobs</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Реконструкция Automatic1111 с помощью Gradio Workflow</title>
-      <link>https://huggingface.co/blog/gradio-workflow-1111</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/gradio-workflow-1111</guid>
       <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     </channel>

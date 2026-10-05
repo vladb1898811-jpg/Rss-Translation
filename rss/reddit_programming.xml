@@ -4,7 +4,14 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Mon, 05 Oct 2026 13:28:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:30:15 GMT</lastBuildDate>
+    <item>
+      <title>Разработчики Windows получили встроенный Linux Container Runtime: WSL Containers</title>
+      <link>https://www.reddit.com/r/programming/comments/1wy9p7v/windows_developers_get_a_builtin_linux_container/</link>
+      <description><![CDATA[  представлено    /u/CackleRooster   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wy9p7v/windows_developers_get_a_builtin_linux_container/</guid>
+      <pubDate>Mon, 05 Oct 2026 14:16:22 GMT</pubDate>
+    </item>
     <item>
       <title>Еще один шаг к Элм 1.0</title>
       <link>https://www.reddit.com/r/programming/comments/1wy7in8/another_step_towards_elm_10/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[ncurses terminfo может имитировать двухконтрольный Минский станок, делая повторные расширения параметров вычислительно универсальными.  Demo: паразитическое вычисление Фибоначчи внутри /usr/bin/top    представлено   /u/Dull Replacement8890   ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wvy0zi/a_minsky_machine_in_ncurses_terminfo/</guid>
       <pubDate>Fri, 02 Oct 2026 16:18:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Частичное оценивание в трюфеле - динамическое обучение мета-компиляции</title>
-      <link>https://www.reddit.com/r/programming/comments/1wvt9nw/partial_evaluation_in_truffle_dynamic/</link>
-      <description><![CDATA[  представлено    /u/grashalm01   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wvt9nw/partial_evaluation_in_truffle_dynamic/</guid>
-      <pubDate>Fri, 02 Oct 2026 13:03:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
