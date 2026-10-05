@@ -4,7 +4,14 @@
     <title>Новые материалы: Chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>Сообщество, посвященное музыке, которая получает максимум от меньшего. Музыка в стиле старых игр, например, C64, Atari, NES, Gameboy, Sega Genesis, Adlib, OPM, MOD и др.</description>
-    <lastBuildDate>Mon, 05 Oct 2026 16:35:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 19:35:34 GMT</lastBuildDate>
+    <item>
+      <title>Обложка SPC700 (SPC700 Cover)</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1wygy95/クチナシの木が朽ちる前に_spc700_cover/</link>
+      <description><![CDATA[  &gt;&gt;&gt; представленный  ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1wygy95/クチナシの木が朽ちる前に_spc700_cover/</guid>
+      <pubDate>Mon, 05 Oct 2026 18:56:01 GMT</pubDate>
+    </item>
     <item>
       <title>BitBLT - Путешествия: 14/14 - Долгий путь домой</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1wyd1m7/bitblt_travels_1414_long_way_home/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[https://strandz.it/jigdaw/simple.html Я работаю над спецификацией для плагинов для веб-сайтов. Чтобы надрать шины, с помощью значительного помощника ИИ я создаю DAW на основе браузера. Но это действительно ранние дни, большая работа. Тем не менее, учитывая, что маленький экран не очень полезен для полноценного DAW, я сделал мини-плеер. Первый предустановлен chiptunes, основанный на порту эмулятора 8astard. После загрузки предустановленного вы можете прокрутить вниз, чтобы изменить параметры. The beat &amp; tune генерируются алгоритмически, есть много ручек для игры.  Он может быть установлен локально, но потребуется сеть всякий раз, когда новый плагин загружается. Спецификация плагина Jig находится здесь: https://danja.github.io/jigdaw/    представлено   /u/danja    [link] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1wwjq72/a_beepy_toy_for_mobile/</guid>
       <pubDate>Sat, 03 Oct 2026 10:14:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Тест на чиптюн</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1wwimt6/bug_fixed_chiptune_test/</link>
-      <description><![CDATA[     submitted by  /u/iTheist7]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1wwimt6/bug_fixed_chiptune_test/</guid>
-      <pubDate>Sat, 03 Oct 2026 09:05:39 GMT</pubDate>
     </item>
     </channel>
 </rss>

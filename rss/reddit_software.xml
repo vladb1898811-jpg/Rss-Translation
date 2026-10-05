@@ -4,7 +4,35 @@
     <title>Новые материалы: программное обеспечение</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>Все, что связано с программным обеспечением. Пожалуйста, следуйте нашим правилам, чтобы избежать наказания.</description>
-    <lastBuildDate>Mon, 05 Oct 2026 16:28:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 19:28:46 GMT</lastBuildDate>
+    <item>
+      <title>С ИИ барьер для входа рушится: какие проекты по-прежнему имеют ценность?</title>
+      <link>https://www.reddit.com/r/software/comments/1wyff0x/with_ai_the_barrier_to_entry_is_collapsing_which/</link>
+      <description><![CDATA[ С помощью инструментов генерации кода каждый может клонировать небольшое приложение в выходные. Из-за этого многие проекты теряют свое преимущество.  Я предполагаю, что те, кто держится лучше всего, полагаются на сообщество, эксклюзивные данные, очень конкретную нишу или доверие (открытый исходный код, конфиденциальность). Простые обертки вокруг модели кажутся наиболее хрупкими. Как ты это видишь? Какие типы проектов по-прежнему выглядят многообещающими для вас?    представлено   /u/Solofonirina   ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wyff0x/with_ai_the_barrier_to_entry_is_collapsing_which/</guid>
+      <pubDate>Mon, 05 Oct 2026 17:57:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Faststone Capture без mp4</title>
+      <link>https://www.reddit.com/r/software/comments/1wyevfn/faststone_capture_no_mp4_option/</link>
+      <description><![CDATA[Последний Faststone Capture 11.3 не имеет возможности размещать видео как .mp4. Он говорит, что есть, но это только wmv  Конечно, они игнорируют корреспонденцию.     представлено   /u/EclecticSignal    [link]&gt;   ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wyevfn/faststone_capture_no_mp4_option/</guid>
+      <pubDate>Mon, 05 Oct 2026 17:37:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Приложение SimpleBrain</title>
+      <link>https://www.reddit.com/r/software/comments/1wye99p/simplebrain_app/</link>
+      <description><![CDATA[ Эй, я проводил мозговой штурм этой идеи и получил бы некоторую обратную связь. Теперь я знаю, что первый комментарий будет &quot; Вы на самом деле не сделали это, Клод закодировал это для вас, и да, это правда, но это не принимает путь мысли о создании. Я взял некоторые вещи, которые мне нравились из других источников, но не мог преодолеть болевые точки и откровенно не любил их. Как исследование роуминга, обсидиан, понятие. И сделал свой. Хотелось бы получить обратную связь и то, что вы думаете об этом. Simple Brain Youtube Footage    представленный   /u/ResponsibleTone7412   [link]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wye99p/simplebrain_app/</guid>
+      <pubDate>Mon, 05 Oct 2026 17:14:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ГЭЛПППППП</title>
+      <link>https://www.reddit.com/r/software/comments/1wydhse/helpppppppp/</link>
+      <description><![CDATA[Поэтому у меня есть семестровый проект по предметной инженерии требований к программному обеспечению. Тема — «Приложение для системы управления арендой автомобилей», для которого мы должны собрать требования к приложению так же, как компания-разработчик программного обеспечения может собрать требования от клиента. Учитель попросил нас собрать идеи об этом вне класса. Поэтому, пожалуйста, дайте идеи или функционально, которые приходят на ум, которые могут быть реализованы в приложении для проката автомобилей. Это может быть что угодно, от простой идеи до сложной функционально.    представлено   /u/epicghost005    [link] ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wydhse/helpppppppp/</guid>
+      <pubDate>Mon, 05 Oct 2026 16:44:49 GMT</pubDate>
+    </item>
     <item>
       <title>Я думаю, что я должен создать программное обеспечение для редактирования видео для бесплатного навсегда с открытым исходным кодом для мобильного пользователя, если вы поможете мне построить этот тип приложения, включая все функции, такие как редактирование композиций и графики, если кто-то заинтересован в создании взволнованного проекта для мобильного пользователя.</title>
       <link>https://www.reddit.com/r/software/comments/1wybotr/i_am_thinking_i_should_build_some_video_editing/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[Я был поражен этой простой идеей, потому что я провожу так много времени на моем компьютере, копируя вещи.  Поэтому я создал простое приложение под названием clipten, которое позволяет копировать и вставлять нормально, но без открытия менеджера буфера обмена или поиска по истории буфера обмена.  Ваши клавиши становятся слотами для буфера обмена — просто используйте   + C / V + номер.  У вас может быть до 11 слотов для копирования.     представлено   /u/Good Barracuda8259   [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1wy58pm/need_to_check_out_what_this_new_clipboard_manager/</guid>
       <pubDate>Mon, 05 Oct 2026 10:38:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Создан суперреалистичный автопилот для кодирования и письма. Это также невидимо для совместного использования экрана.</title>
-      <link>https://www.reddit.com/r/software/comments/1wy4rna/made_a_super_realistic_autotyper_for_coding_and/</link>
-      <description><![CDATA[ Делает ошибки, переделывает их, оставляет делать, и вы можете изменить любую настройку, которую вы хотите. Невидим для совместного использования экрана. Free и Open Source.  Link: https://github.com/TheAgencyMGE/autotyper    представлено   /u/Admirable-Put7423   [link]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wy4rna/made_a_super_realistic_autotyper_for_coding_and/</guid>
-      <pubDate>Mon, 05 Oct 2026 10:09:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Наш общий лист заказов постоянно искалечен, теперь, когда 4 из нас редактируют его</title>
-      <link>https://www.reddit.com/r/software/comments/1wy3y4y/our_shared_order_sheet_keeps_getting_mangled_now/</link>
-      <description><![CDATA[ Мы запускаем наш трекер заказов с одного листа Google, около 180 строк. На прошлой неделе кто-то отфильтровал его, чтобы найти строку, забыл очистить фильтр перед сортировкой, и часть чисел оказалась застрявшей против неправильных приказов. 2 клиенты получили неправильные количества, прежде чем мы поймали его. Изо дня в день я даже не могу сказать, кто что управлял. Большую часть моей недели я отбираю такие вещи вместо самих заказов. Не ищите большой ERP, просто где-то несколько неспециалистов могут редактировать свой собственный бит, не взрывая весь лист. Если вы переместили свою команду с общей электронной таблицы, что вы в конечном итоге на?     представленный   /u/Skenderi-Ashreet   ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wy3y4y/our_shared_order_sheet_keeps_getting_mangled_now/</guid>
-      <pubDate>Mon, 05 Oct 2026 09:16:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Поиск вдохновения, идеи для чего строить</title>
-      <link>https://www.reddit.com/r/software/comments/1wy3rat/looking_for_inspiration_ideas_for_what_to_build/</link>
-      <description><![CDATA[  представлено   /u/isene    [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wy3rat/looking_for_inspiration_ideas_for_what_to_build/</guid>
-      <pubDate>Mon, 05 Oct 2026 09:04:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>BurnGuard - рабочее пространство с открытым исходным кодом, которое работает на коде Клода или Кодексе, за который вы уже платите.</title>
-      <link>https://www.reddit.com/r/software/comments/1wxyk4b/burnguard_opensource_design_workspace_that_runs/</link>
-      <description><![CDATA[ Claude Design хранит ваши файлы в хостинговом рабочем пространстве и запускает использование вашего плана. Я создал BurnGuard, чтобы хранить их на вашем компьютере и использовать код Claude или Codex CLI, который у вас уже есть. Это настольное приложение для Windows и macOS. Вы выбираете систему дизайна, описываете, что вы хотите, и она создает веб-сайты, слайды и графику рядом с живым холстом. Он поставляется с 41 системой проектирования, каждая со своими собственными правилами навигации, героями и планировкой колонн. Вы можете редактировать на холсте или оставлять прикрепленные комментарии, затем экспортировать HTML, PDF, PPTX или PNG или публиковать сайт на свой собственный Vercel. Файлы остаются локальными.  Что пока не очень хорошо: генерация не является мгновенной (однострочная целевая страница в демо-версии README заняла около пяти минут), слайды PPTX выходят в виде изображений с текстом в заметках динамика, а установщики не подписаны, поэтому вы получаете предупреждение о безопасности при первом запуске. macOS — это только Apple Silicon. Я автор. Это бесплатно и Apache-2.0: https://github.com/ashmoonori-afk/BurnGuard     представлено   /u/Aggressive-Narwhal-3     [link]&lt;]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wxyk4b/burnguard_opensource_design_workspace_that_runs/</guid>
-      <pubDate>Mon, 05 Oct 2026 03:38:09 GMT</pubDate>
     </item>
     </channel>
 </rss>

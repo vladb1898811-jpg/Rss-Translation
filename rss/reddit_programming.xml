@@ -4,13 +4,20 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Mon, 05 Oct 2026 16:30:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 19:30:22 GMT</lastBuildDate>
     <item>
-      <title>Разработчики Windows получили встроенный Linux Container Runtime: WSL Containers</title>
-      <link>https://www.reddit.com/r/programming/comments/1wy9p7v/windows_developers_get_a_builtin_linux_container/</link>
-      <description><![CDATA[  представлено    /u/CackleRooster   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wy9p7v/windows_developers_get_a_builtin_linux_container/</guid>
-      <pubDate>Mon, 05 Oct 2026 14:16:22 GMT</pubDate>
+      <title>Война с миром: Push-уведомление наносит ответный удар</title>
+      <link>https://www.reddit.com/r/programming/comments/1wye9aq/war_on_peace_the_push_notification_strikes_back/</link>
+      <description><![CDATA[  представлено    /u/GenericAHHyoutuber   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wye9aq/war_on_peace_the_push_notification_strikes_back/</guid>
+      <pubDate>Mon, 05 Oct 2026 17:14:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Достижение безопасности памяти</title>
+      <link>https://www.reddit.com/r/programming/comments/1wydryt/achieving_memory_safety/</link>
+      <description><![CDATA[ Это касается безопасности памяти в целом и того, как безопасность памяти Seed7 была улучшена в release 2026-07-11. Seed7 - это язык программирования, который заботится о maintainability, portability, performance и GitHub. Вопросы, которые не находятся в FAQ можно задать по адресу r/seed7.  Также есть разговор о  Безопасность и управление памятью , который представляет Seed7 и объясняет безопасность и управление памятью. Пожалуйста, дайте мне знать, что вы думаете, и подумайте о том, чтобы сыграть главную роль в проекте на GitHub, спасибо!    представленном   /u/ThomasMertes   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wydryt/achieving_memory_safety/</guid>
+      <pubDate>Mon, 05 Oct 2026 16:55:31 GMT</pubDate>
     </item>
     <item>
       <title>Еще один шаг к Элм 1.0</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[  представлено    /u/mttd   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ww56qa/gpuinitiated_communication_dissecting_down_to_the/</guid>
       <pubDate>Fri, 02 Oct 2026 21:04:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Минский автомат в ncurses terminfo</title>
-      <link>https://www.reddit.com/r/programming/comments/1wvy0zi/a_minsky_machine_in_ncurses_terminfo/</link>
-      <description><![CDATA[ncurses terminfo может имитировать двухконтрольный Минский станок, делая повторные расширения параметров вычислительно универсальными.  Demo: паразитическое вычисление Фибоначчи внутри /usr/bin/top    представлено   /u/Dull Replacement8890   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wvy0zi/a_minsky_machine_in_ncurses_terminfo/</guid>
-      <pubDate>Fri, 02 Oct 2026 16:18:03 GMT</pubDate>
     </item>
     </channel>
 </rss>

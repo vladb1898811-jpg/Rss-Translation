@@ -4,7 +4,28 @@
     <title>Искусственный интеллект</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>Высокосигнальный хаб для искусственного интеллекта!</description>
-    <lastBuildDate>Mon, 05 Oct 2026 15:15:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 18:14:47 GMT</lastBuildDate>
+    <item>
+      <title>Он сделал мем</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wye5cc/he_did_the_meme/</link>
+      <description><![CDATA[  представлено   /u/AxomaticallyExtinct   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wye5cc/he_did_the_meme/</guid>
+      <pubDate>Mon, 05 Oct 2026 17:09:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Кто-нибудь использует китайские модели или ИИ-агентов?</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wydg2m/is_anyone_here_using_chinese_models_or_ai_agents/</link>
+      <description><![CDATA[ Я вижу два совершенно противоположных подхода. Одна из них заключается в том, что китайские модели сейчас доминируют в OpenRouter, что американские стартапы спокойно переходят на них, и что разница в стоимости просто слишком велика, чтобы ее игнорировать. Другая заключается в том, что эти модели сильно цензурируются, медлительны, слабы в английском языке и не используются всерьез многими людьми. Ни один из них не похож на полную картину.   Раньше я полагался в основном на Кодекс. Увидев столько дискуссий о китайских моделях и агентах, я дал им шанс. Я использую hy3 через WorkBuddy, и я заметил, что он не только предлагает свои собственные модели. Практически все, что доступно по всему миру, также работает, как GPT-6-Astra и Gemini-3.5-Flash. 80% моей работы они справляются с этим и справляются хорошо. На данный момент Кодекс откровенно переборщил. На этот раз, скорее всего, не продлю. Я также с нетерпением жду возможности попробовать GLM-5.3, Kimi K3 и DeepSeek V4.1 Flash. Итак, для тех из вас за пределами Китая, кто регулярно использовал такие модели, как DeepSeek, Qwen или GLM, или таких агентов, как WorkBuddy или Trae, каким был ваш реальный опыт? Для чего они используются, и как они сравниваются с ChatGPT, Claude или Gemini? Если вы перестали их использовать, что заставило вас остановиться?  Я бы особенно хотел услышать от неразработчиков. Для каких повседневных задач вы их используете: для письма, учебы, планирования поездок, перевода, приготовления пищи или чего-то еще? Меня интересуют не только случаи использования кода.  Я пытаюсь обойти пиар и широкие претензии с обеих сторон. Меня в основном интересует опыт из первых рук.    представлено   /u/EmetInteractive     ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wydg2m/is_anyone_here_using_chinese_models_or_ai_agents/</guid>
+      <pubDate>Mon, 05 Oct 2026 16:42:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Китайские рои обнаружены в дикой природе</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wyc1od/chinese_swarms_discovered_in_the_wild/</link>
+      <description><![CDATA[Отчет: https://swarmcha.se/posts/chinese-agent-fleet    представлено   /u/Puzzleheaded-King584   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wyc1od/chinese_swarms_discovered_in_the_wild/</guid>
+      <pubDate>Mon, 05 Oct 2026 15:49:57 GMT</pubDate>
+    </item>
     <item>
       <title>В какой момент я могу поставить ногу с моим боссом о неправильном использовании ИИ? Это нормальное поведение? Я просто драгоценность? Я в ловушке в аду?</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wy93tm/at_what_point_can_i_put_my_foot_down_with_my_boss/</link>
@@ -69,32 +90,11 @@
       <pubDate>Mon, 05 Oct 2026 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Антропик агрессивно лоббирует Ватикан, чтобы рассмотреть сознание ИИ</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wxofr8/anthropic_has_been_aggressively_lobbying_the/</link>
-      <description><![CDATA[  представлено    /u/sourdub   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wxofr8/anthropic_has_been_aggressively_lobbying_the/</guid>
-      <pubDate>Sun, 04 Oct 2026 19:35:35 GMT</pubDate>
-    </item>
-    <item>
       <title>Кто на самом деле создал ИИ? Топ-50 исследователей ИИ по цитатам</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wxmuu3/who_has_actually_shaped_ai_the_top_50_ai/</link>
       <description><![CDATA[Очевидно, что одна статья вроде &quot;Внимание - это все, что вам нужно&quot; (278 тыс. цитирований) может сильно повлиять - все авторы в списке. Но все же интересен imo. Сколько вы знали в списке? Больше контекста: https://www.turingtree.com/top-50   представлено   /u/ksprdk   [link]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wxmuu3/who_has_actually_shaped_ai_the_top_50_ai/</guid>
       <pubDate>Sun, 04 Oct 2026 18:31:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Господи.</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wxgcur/good_lord/</link>
-      <description><![CDATA[  представлено   /u/AxomaticallyExtinct   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wxgcur/good_lord/</guid>
-      <pubDate>Sun, 04 Oct 2026 13:58:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>В настоящее время в сообществе «Swarmchasers» насчитывается около 400 добровольцев-исследователей, охотящихся за агентами-изгоями через Интернет.</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wxcoto/there_are_now_400_volunteer_researchers_in_the/</link>
-      <description><![CDATA[  представлено    /u/Puzzleheaded-King584   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wxcoto/there_are_now_400_volunteer_researchers_in_the/</guid>
-      <pubDate>Sun, 04 Oct 2026 10:44:53 GMT</pubDate>
     </item>
     <item>
       <title>Ежемесячный «Есть ли инструмент для...» Почта</title>

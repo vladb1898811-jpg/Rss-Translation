@@ -4,14 +4,7 @@
     <title>Новые материалы: webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>Сообщество, посвященное всем вещам веб-разработки: как front-end, так и back-end. Для получения дополнительных вопросов, связанных с дизайном, попробуйте /r/web design.</description>
-    <lastBuildDate>Mon, 05 Oct 2026 16:40:21 GMT</lastBuildDate>
-    <item>
-      <title>Это глупая идея? llama.cpp + WebGPU = LLM на стороне клиента</title>
-      <link>https://www.reddit.com/r/webdev/comments/1wydalb/is_this_a_dumb_idea_llamacpp_webgpu_clientside/</link>
-      <description><![CDATA[     /u/N Many-Fan8138   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1wydalb/is_this_a_dumb_idea_llamacpp_webgpu_clientside/</guid>
-      <pubDate>Mon, 05 Oct 2026 16:36:55 GMT</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Oct 2026 19:40:50 GMT</lastBuildDate>
     <item>
       <title>Когда фоновая работа вызывает платную api и терпит неудачу на полпути, что вы делаете?</title>
       <link>https://www.reddit.com/r/webdev/comments/1wyc0jg/when_a_background_job_calls_a_paid_api_and_fails/</link>
@@ -62,13 +55,6 @@
       <pubDate>Mon, 05 Oct 2026 11:11:57 GMT</pubDate>
     </item>
     <item>
-      <title>Frontend Web Developer и Python Flask Developer начинаются с $50</title>
-      <link>https://www.reddit.com/r/webdev/comments/1wy5mvi/for_hire_frontend_web_developer_python_flask/</link>
-      <description><![CDATA[Эй! Я Мохаммад Джалил, веб-разработчик Frontend и разработчик Python Flask, доступный для внештатной работы. Что я предлагаю:   &gt; Frontend (HTML/CSS/JavaScript):  - Сайты для бизнеса  &gt; Python Flask: - Secure Web Applications - Authentication &amp; 2FA - AES-256 Encryption- AES-256:- Starting at $50: https://jalil99123.github.io/jaliljawadi.github.io&gt;&gt;https://jalililjawadi  Fiverr: &gt;https://www.fiverr.com/jaliljawadi &lt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1wy5mvi/for_hire_frontend_web_developer_python_flask/</guid>
-      <pubDate>Mon, 05 Oct 2026 11:01:49 GMT</pubDate>
-    </item>
-    <item>
       <title>OXC против Biome?</title>
       <link>https://www.reddit.com/r/webdev/comments/1wy5g0z/oxc_vs_biome/</link>
       <description><![CDATA[ Для новых проектов, которые вы бы выбрали?     представлено   /u/igor-septimus    [link] ]]></description>
@@ -109,6 +95,20 @@
       <description><![CDATA[- Каждый ход проверяется на сервере, и сервер сохраняет часы.- Еженедельные предложения по вызову приходят из пула, который решатель проверяет в рабочих нитях (выигрышных и аналогичной длины). Я опубликовал открытую &quot;попытку разорвать его&quot; страницу с тем, что считается перерывом и правилами (только ваша собственная учетная запись, без нагрузочного тестирования): https://vsolitaire.com/en/break-it Любопытно, что бы вы попробовали сначала.    представлено   /u/Tech4Morocco   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1wxah5b/showoff_saturday_a_solitaire_game_where_the/</guid>
       <pubDate>Sun, 04 Oct 2026 08:23:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Построен веб-ноутбук с выбором столбцов и мультикурсором с нуля с использованием нативного DOM. Понравились бы ваши отзывы!</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wx6hjx/built_a_web_notepad_with_column_selection/</link>
+      <description><![CDATA[   Привет всем, Вместо того, чтобы использовать тяжелые редакторские фреймворки, такие как Monaco или CodeMirror, я хотел увидеть, как далеко я могу продвинуть нативную веб-платформу. &gt;Особенности, построенные с нуля: Одноконтейнер Markdown Preview: Прямой встроенный предварительный просмотр без разрушения исходного текста или стека истории. Нулевая задержка: Индексированная DB локальное кэширование для мгновенного запуска 0ms. Live Demo: https://app.qlp.jp/vanilla pad/en/ https://app.qlp.jp/vanilla pad/demo/ (Обратите внимание: прямоугольный выбор, мультикурсор, и все клавишные ярлыки предназначены только для PC/Desktop использования). Кроме того, некоторые операции, такие как сохранение, отключены в демонстрационном режиме. Обратная связь, которую я ищу: Ощущение выбора колонки: попробуйте удерживать Alt и перетаскивать текст в демо. Чувствуете ли вы себя отзывчивым и интуитивно понятным? Крестовый браузер Quirks: Я много работал над устранением довольствующихся причуд (например, невидимых символов с нулевой шириной), но я хотел бы знать, если что-то ломается в вашем браузере (особенно Safari/Firefox). Edge Cases: Любое странное поведение с Undo/Redo или многострочной типизацией?  Пожалуйста, будьте предельно честны. Любые технические отзывы, сообщения об ошибках или предложения будут высоко оценены!    представлено   /u/Spiritual Balance298   [link] /a&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wx6hjx/built_a_web_notepad_with_column_selection/</guid>
+      <pubDate>Sun, 04 Oct 2026 04:20:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Мульти 3d пользовательский ролик</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wx60iz/a_realtime_multi_3d_user_dice_roller/</link>
+      <description><![CDATA[     dice.clickclacks.app  Идея состоит в том, чтобы быть бесплатным, красивым 3D-роллером, который поддерживает рулон питания от моего перехода к TTRPG, Draw Steel. Он поддерживает до 8 игроков за столом, поставляется с всплывающим окном «картинка в картинке» и может быть встроен в iframe для использования в чем-то вроде Notion или Obsidian. Я хотел, чтобы синхронизация была достаточно близкой к реальному времени, чтобы вы могли иметь этот общий опыт смерти, почти приземляющейся на 20, и  каждый задыхается , прежде чем он осядет на 2. Я думаю, что в основном достиг этого благодаря магии подписок на запросы Convex.  Я хотел поделиться этим здесь, потому что:   Возможно, здесь есть некоторые ботаники, которые найдут его полезным.  Я хотел бы услышать любые отзывы о самом приложении.  Я был довольно оскорблен некоторыми вредоносными сайтами, которые появляются в верхней части Google, когда вы ищете ролик для игральных костей, и я надеюсь, что в долгосрочной перспективе этот бесплатный инструмент может сместить их в рейтинге. Как я уже сказал, я много использовал ИИ для этого проекта и вышел далеко за рамки сложности, которую я мог когда-либо попробовать в качестве разового веб-дизайнера и графического дизайнера с некоторыми навыками WordPress. Жюри по-прежнему не знает, хорошо ли это, потому что я взволнован тем, что впервые за долгое время снова буду возиться и создавать программное обеспечение, или же я задерживаю свой мозг от того, чтобы когда-либо стать настоящим разработчиком, теперь, когда я попробовал фрукты с дерева LLM.    представлено   /u/ illos   [link] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wx60iz/a_realtime_multi_3d_user_dice_roller/</guid>
+      <pubDate>Sun, 04 Oct 2026 03:53:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
