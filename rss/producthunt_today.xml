@@ -4,35 +4,7 @@
     <title>Продуктовая охота — Лучшие продукты каждый день</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 05 Oct 2026 07:46:29 GMT</lastBuildDate>
-    <item>
-      <title>HyperFrames Studio (настольный)</title>
-      <link>https://www.producthunt.com/products/heygen</link>
-      <description><![CDATA[
-Первый видеоредактор для агентов
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/heygen</guid>
-      <pubDate>Mon, 05 Oct 2026 06:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>пешеходный переход</title>
-      <link>https://www.producthunt.com/products/crosswalk</link>
-      <description><![CDATA[
-Третье место для людей и их агентов, начиная с почтовых ящиков
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/crosswalk</guid>
-      <pubDate>Mon, 05 Oct 2026 03:48:12 GMT</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Oct 2026 10:02:41 GMT</lastBuildDate>
     <item>
       <title>Джар</title>
       <link>https://www.producthunt.com/products/jarq</link>
@@ -48,18 +20,18 @@
       <pubDate>Mon, 05 Oct 2026 02:39:41 GMT</pubDate>
     </item>
     <item>
-      <title>Марш</title>
-      <link>https://www.producthunt.com/products/marv-3</link>
+      <title>Спира Максима</title>
+      <link>https://www.producthunt.com/products/spira-ai</link>
       <description><![CDATA[
-Спутник курсора ИИ, который показывает вам, что нажать
+Видеомодель, превращающая сценарий в вирусные видео в социальных сетях
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/marv-3</guid>
-      <pubDate>Mon, 05 Oct 2026 01:14:08 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/spira-ai</guid>
+      <pubDate>Mon, 05 Oct 2026 01:32:19 GMT</pubDate>
     </item>
     <item>
       <title>Пилот 5 Юридический</title>
@@ -76,46 +48,32 @@
       <pubDate>Sun, 04 Oct 2026 20:12:37 GMT</pubDate>
     </item>
     <item>
-      <title>Причина</title>
-      <link>https://www.producthunt.com/products/dereference-the-100x-ide</link>
+      <title>Ревье</title>
+      <link>https://www.producthunt.com/products/reviu</link>
       <description><![CDATA[
-Рабочее пространство кодирования с контекстом, плагинами и навыками
-
-
-
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/dereference-the-100x-ide</guid>
-      <pubDate>Sun, 04 Oct 2026 19:34:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web Search API</title>
-      <link>https://www.producthunt.com/products/cloudflare</link>
-      <description><![CDATA[
-Предоставить агентам ИИ доступ к данным из интернета
+Приложение обзора для кода, который пишет ваш агент
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/cloudflare</guid>
-      <pubDate>Sun, 04 Oct 2026 18:43:14 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/reviu</guid>
+      <pubDate>Sun, 04 Oct 2026 16:27:10 GMT</pubDate>
     </item>
     <item>
-      <title>Речевой щит</title>
-      <link>https://www.producthunt.com/products/speechshield</link>
+      <title>Dots UI</title>
+      <link>https://www.producthunt.com/products/dots-ui</link>
       <description><![CDATA[
-Живое интервью и встреча с копилотом для Mac из вашего резюме
+Библиотека React для интерфейсов морфируемых частиц
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/speechshield</guid>
-      <pubDate>Sun, 04 Oct 2026 15:59:56 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/dots-ui</guid>
+      <pubDate>Sun, 04 Oct 2026 16:18:38 GMT</pubDate>
     </item>
     <item>
       <title>Xtracticle</title>
@@ -132,6 +90,34 @@
       <pubDate>Sun, 04 Oct 2026 12:53:37 GMT</pubDate>
     </item>
     <item>
+      <title>iLand</title>
+      <link>https://www.producthunt.com/products/iland</link>
+      <description><![CDATA[
+Превратите выемку Mac в повседневное рабочее пространство
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/iland</guid>
+      <pubDate>Sun, 04 Oct 2026 09:04:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Реактивное резюме v6</title>
+      <link>https://www.producthunt.com/products/reactive-resume</link>
+      <description><![CDATA[
+Бесплатный и open-source конструктор резюме
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/reactive-resume</guid>
+      <pubDate>Sun, 04 Oct 2026 00:44:32 GMT</pubDate>
+    </item>
+    <item>
       <title>Страшный ИИ</title>
       <link>https://www.producthunt.com/products/unscary-ai</link>
       <description><![CDATA[
@@ -146,18 +132,18 @@
       <pubDate>Sat, 03 Oct 2026 18:10:16 GMT</pubDate>
     </item>
     <item>
-      <title>разъем</title>
-      <link>https://www.producthunt.com/products/devpit</link>
+      <title>Распечатка сайта</title>
+      <link>https://www.producthunt.com/products/siteprint</link>
       <description><![CDATA[
-Нативная комната управления для ваших агентов Клода Кода
+Измерьте дизайн любого веб-сайта, а затем передайте его своему ИИ.
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/devpit</guid>
-      <pubDate>Fri, 02 Oct 2026 19:16:12 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/siteprint</guid>
+      <pubDate>Fri, 02 Oct 2026 19:52:43 GMT</pubDate>
     </item>
     <item>
       <title>Бентомукс</title>
@@ -180,7 +166,7 @@
 Ответ на аудит оптимизации двигателя
 
 
-Обсуждение
+Дискуссия
 !
  Ссылка 
 ]]></description>
@@ -188,18 +174,32 @@
       <pubDate>Thu, 01 Oct 2026 10:06:14 GMT</pubDate>
     </item>
     <item>
-      <title>Самообслуживание Invofox</title>
-      <link>https://www.producthunt.com/products/invofox</link>
+      <title>Fastouter.ai</title>
+      <link>https://www.producthunt.com/products/fastrouter-ai</link>
       <description><![CDATA[
-99% точное извлечение документов, гарантированное SLA
+Маршрутные запросы в нужный LLM по стоимости, задержке и качеству
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/invofox</guid>
-      <pubDate>Wed, 23 Sep 2026 19:54:18 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/fastrouter-ai</guid>
+      <pubDate>Wed, 30 Sep 2026 22:36:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opengeni</title>
+      <link>https://www.producthunt.com/products/opengeni</link>
+      <description><![CDATA[
+Отправьте агентов ИИ в течение нескольких минут. Инфраструктура для агентов
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/opengeni</guid>
+      <pubDate>Tue, 15 Sep 2026 04:52:53 GMT</pubDate>
     </item>
     <item>
       <title>Круглый стол</title>
@@ -208,7 +208,7 @@
 Конец пользовательской платформы
 
 
-Обсуждение
+Дискуссия
 !
  Ссылка 
 ]]></description>

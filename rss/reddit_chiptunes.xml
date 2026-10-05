@@ -4,60 +4,60 @@
     <title>Новые материалы: Chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>Сообщество, посвященное музыке, которая получает максимум от меньшего. Музыка в стиле старых игр, например, C64, Atari, NES, Gameboy, Sega Genesis, Adlib, OPM, MOD и др.</description>
-    <lastBuildDate>Mon, 05 Oct 2026 07:36:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 09:56:48 GMT</lastBuildDate>
     <item>
       <title>Новый альбом группы Floppy Beast</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1wxyzrz/my_new_music_album_floppy_beast/</link>
-      <description><![CDATA[ Это не совсем чиптюн, хотя, но достаточно близко - музыка, сделанная со звуками дисководов.  https://www.youtube.com/watch?v=9ffCgpFcmt8https://shiru8bit.bandcamp.com/album/floppy-beast&lt; представлено  ]]></description>
+      <description><![CDATA[ Это не совсем чиптюн, хотя, но достаточно близко - музыка, сделанная со звуками дисководов.  https://www.youtube.com/watch?v=9ffCgpFcmt8https://shiru8bit.bandcamp.com/album/floppy-beast&lt; представленный  [link]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1wxyzrz/my_new_music_album_floppy_beast/</guid>
       <pubDate>Mon, 05 Oct 2026 04:02:44 GMT</pubDate>
     </item>
     <item>
       <title>Идея звукового чипа или что-то в этом роде</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1wxx7e2/a_sound_chip_idea_or_something/</link>
-      <description><![CDATA[     Так что это своего рода сумасшедшая идея у меня была. Практически 6-канальный чип с дробными импульсными волнами, Tri/Saw Envelopes, Wavetable, LSFR Noise и PCM. Плюс пульс/конверт/шум смешивания, стерео и зеркальные функции. Это дерьмовая схема задницы, но, надеюсь, вы можете понять, что предназначено (забыли добавить зеркалирование к нему). Я на самом деле не работаю над этим, это просто еще одна моя бесполезная идея. У меня только элементарный уровень средней школы с изучением ИС и цифровой электроники. Если кто-то знает больше о технической стороне звуковых чипов, я был бы признателен за некоторый вклад. Просто чтобы знать, может ли он функционировать как реальный чип. Вы можете сказать, что это объединение нескольких чипов, хотя я не смог найти ничего на Furnace, что делает все это. Вот почему я сделал &quot;schematic&quot;. Я также рассматривал FM в этом, но я не уверен, как это будет работать. Честно говоря, что я делаю, у меня просто есть амбициозные мысли, я думаю.    представлено   /u/KingK3nnyDaGreat   [link]]]></description>
+      <description><![CDATA[     Так что это своего рода сумасшедшая идея у меня была. Практически 6-канальный чип с дробными импульсными волнами, Tri/Saw Envelopes, Wavetable, LSFR Noise и PCM. Плюс пульс/конверт/шум смешивания, стерео и зеркальные функции. Это дерьмовая схема задницы, но, надеюсь, вы можете понять, что предназначено (забыли добавить зеркалирование к нему). Я на самом деле не работаю над этим, это просто еще одна моя бесполезная идея. У меня только элементарный уровень средней школы с изучением ИС и цифровой электроники. Если кто-то знает больше о технической стороне звуковых чипов, я был бы признателен за некоторый вклад. Просто чтобы знать, может ли он функционировать как реальный чип. Вы можете сказать, что это объединение нескольких чипов, хотя я не смог найти ничего на Furnace, что делает все это. Вот почему я сделал &quot;schematic&quot;. Я также рассматривал FM в этом, но я не уверен, как это будет работать. Честно говоря, idk то, что я делаю, у меня просто есть амбициозные мысли, я думаю.    представлено   /u/KingK3nnyDaGreat   [link]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1wxx7e2/a_sound_chip_idea_or_something/</guid>
       <pubDate>Mon, 05 Oct 2026 02:25:11 GMT</pubDate>
     </item>
     <item>
       <title>Генератор Chiptune MIDI</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1wxlohn/chiptune_midi_generator/</link>
-      <description><![CDATA[i built notebin.fm строго как страстный проект для моей любви к MIDI-трекам и чиптунам. i работаю над открытой библиотекой, похожей на freesound.org, но для MIDI и алгоритмического MIDI-скетчпада для написания чиптунов. Прямо сейчас двигатель заблокирован на 8-битных голосовых ограничениях NES, чтобы дать вам быстрый 8-барный мотив при взгляде на пустой трекер или сетку DAW.  нет платных экранов, нет рекламы. бесплатная регистрация позволяет сохранять, редактировать и управлять вашими рулонами MIDI. Мне повезло, что это самофинансируемый проект, поэтому я не прошу 10 долларов за 5 MIDI-генов или что-то подобное. Как это работает:  * 8-битные ограничения NES: каждое семя выводит 4-канальный файл .mid, отображаемый на 8-битные голосовые макеты (Melody, Chords/Arps, Triangle Bass и Noise Drums). * Правила, а не аудиорендеры: использует кодовые правила теории музыки для гармонизации масштаба и лидерства голоса, выводя чистые, нерендерированные заметки MIDI. Предварительный просмотр в браузере: семена прослушивания непосредственно в браузере через образцы Web Audio и Freesound перед загрузкой. * Постоянные адреса: Каждое семя получает постоянную ссылку, поэтому вы всегда получаете одни и те же заметки по этому URL.  Вот живой пример из двигателя:  Sunset-757 (Boss Fight in Am при 180 BPM): https://notebin.fm/gen/boss-sunset-757В поисках обратной связи: Прежде чем перейти к 16-битным консольным чипам, таким как SNES (SPC700) или Neo Geo (синтез FM), я хотел бы получить ваши мысли о том, как ощущаются голосовые механизмы NES. Хорошо ли отображается разделение каналов для настройки трекера / DAW?  Что он не делает: Он не будет писать полную песню или экспортировать трекеры напрямую. Это всего лишь 8-барная отправная точка, так что вы можете перетащить .mid в свою настройку и сделать фактическую композицию. Приветствуя любую обратную связь по генератору здесь:  https://notebin.fm/generate    представлено   /u/bhagatriks    [link][comments&gt;]]></description>
+      <description><![CDATA[i built notebin.fm строго как страстный проект для моей любви к MIDI-трекам и чиптунам. i работаю над открытой библиотекой, похожей на freesound.org, но для MIDI и алгоритмического MIDI-скетчпада для написания чиптунов. Прямо сейчас двигатель заблокирован на 8-битных голосовых ограничениях NES, чтобы дать вам быстрый 8-барный мотив при взгляде на пустой трекер или сетку DAW.  нет платных экранов, нет рекламы. бесплатная регистрация позволяет сохранять, редактировать и управлять вашими рулонами MIDI. Мне повезло, что это самофинансируемый проект, поэтому я не прошу 10 долларов за 5 MIDI-генов или что-то подобное. Как это работает:  * 8-битные ограничения NES: каждое семя выводит 4-канальный файл .mid, отображаемый на 8-битные голосовые макеты (Melody, Chords/Arps, Triangle Bass и Noise Drums). * Правила, а не аудиорендеры: использует кодовые правила теории музыки для гармонизации масштаба и ведущего голоса, выводя чистые, нерендерированные заметки MIDI. Предварительный просмотр в браузере: семена прослушивания непосредственно в браузере через образцы Web Audio и Freesound перед загрузкой. * Постоянные адреса: Каждое семя получает постоянную ссылку, поэтому вы всегда получаете одни и те же заметки по этому URL.  Вот живой пример из движка:  Sunset-757 (Boss Fight in Am при 180 BPM): https://notebin.fm/gen/boss-sunset-757В поисках обратной связи: Прежде чем перейти к 16-битным консольным чипам, таким как SNES (SPC700) или Neo Geo (синтез FM), я хотел бы получить ваши мысли о том, как чувствуют себя голосовые устройства NES. Хорошо ли отображается разделение канала для настройки трекера / DAW?  Что он не делает: Он не будет писать полную песню или экспортировать трекеры напрямую. Это всего лишь 8-барная отправная точка, так что вы можете перетащить .mid в свою настройку и сделать фактическую композицию. Приветствуя любую обратную связь по генератору здесь:  https://notebin.fm/generate    представлено   /u/bhagatriks    [link] [comments&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1wxlohn/chiptune_midi_generator/</guid>
       <pubDate>Sun, 04 Oct 2026 17:43:32 GMT</pubDate>
     </item>
     <item>
       <title>Sonic Gap — Sprite Collision</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1wxhajl/sonic_gap_sprite_collision/</link>
-      <description><![CDATA[      представленный  /u/Otherwise Basis 6328  &lt;]]></description>
+      <description><![CDATA[   /u/Otherwise Basis 6328  ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1wxhajl/sonic_gap_sprite_collision/</guid>
       <pubDate>Sun, 04 Oct 2026 14:40:04 GMT</pubDate>
     </item>
     <item>
       <title>Kid Racers - SP - Mega Drive/Genesis</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1wxfcxk/kid_racers_sp_mega_drivegenesis/</link>
-      <description><![CDATA[  Kid Racers - ]]></description>
+      <description><![CDATA[  Kid Racers -&gt;Kid Racers -  &lt; представленный  ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1wxfcxk/kid_racers_sp_mega_drivegenesis/</guid>
       <pubDate>Sun, 04 Oct 2026 13:11:28 GMT</pubDate>
     </item>
     <item>
       <title>Барабанщик Мачина Иди!</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1wxdnf2/drum_machina_go/</link>
-      <description><![CDATA[     Новая музыкальная программа для Gameboy. Rom available at AUDIOWANDERER.COM   подается по адресу   /u/Audiowanderer   [link] [comments&gt;]]></description>
+      <description><![CDATA[     Новая музыкальная программа для Gameboy. Ром доступен по адресу AUDIOWANDERER.COM   представлено по адресу   /u/Audiowanderer   [link] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1wxdnf2/drum_machina_go/</guid>
       <pubDate>Sun, 04 Oct 2026 11:42:08 GMT</pubDate>
     </item>
     <item>
       <title>HapiNES / Нервное сердцебиение / Twisted Electron HapiNES</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1wxbe3z/hapines_nervous_heartbeat_twisted_electron_hapines/</link>
-      <description><![CDATA[     /u/Ambitious Nada   [link] [comments]]]></description>
+      <description><![CDATA[    &lt;-- SC OFF --&gt;/u/Ambitious Nada   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1wxbe3z/hapines_nervous_heartbeat_twisted_electron_hapines/</guid>
       <pubDate>Sun, 04 Oct 2026 09:22:40 GMT</pubDate>
     </item>
     <item>
       <title>Melancholy Dungeon - саундтрек к видеоигре</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1wx52r6/melancholy_dungeon_full_video_game_soundtrack/</link>
-      <description><![CDATA[  &lt;]]></description>
+      <description><![CDATA[  ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1wx52r6/melancholy_dungeon_full_video_game_soundtrack/</guid>
       <pubDate>Sun, 04 Oct 2026 03:01:06 GMT</pubDate>
     </item>
@@ -85,28 +85,28 @@
     <item>
       <title>Моя 8-битная обложка "Весны"</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1wwpftt/my_8bit_cover_of_spring/</link>
-      <description><![CDATA[   ]]></description>
+      <description><![CDATA[  ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1wwpftt/my_8bit_cover_of_spring/</guid>
       <pubDate>Sat, 03 Oct 2026 15:04:09 GMT</pubDate>
     </item>
     <item>
-      <title>Бип игрушка для мобильного</title>
+      <title>Бип игрушка для мобильных</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1wwjq72/a_beepy_toy_for_mobile/</link>
-      <description><![CDATA[https://strandz.it/jigdaw/simple.html Я работаю над спецификацией для плагинов для веб-сайтов. Чтобы надрать шины, с помощью значительного помощника ИИ я создаю DAW на основе браузера. Но это действительно ранние дни, большая работа. Тем не менее, учитывая, что маленький экран не очень полезен для полноценного DAW, я сделал мини-плеер. Первый предустановлен chiptunes, основанный на порту эмулятора 8astard. После загрузки предустановленного вы можете прокрутить вниз, чтобы изменить параметры. The beat &amp; tune генерируются алгоритмически, есть много ручек для игры.  Он может быть установлен локально, но потребуется сеть всякий раз, когда новый плагин загружается. Спецификация плагина Jig находится здесь: https://danja.github.io/jigdaw/    представлено   /u/danja    [link] ]]></description>
+      <description><![CDATA[https://strandz.it/jigdaw/simple.html Я работал над спецификацией для плагинов для веб-сайтов. Чтобы надрать шины, с помощью значительного помощника ИИ я создаю DAW на основе браузера. Но это действительно ранние дни, большая работа. Тем не менее, учитывая, что маленький экран не очень полезен для полноценного DAW, я сделал мини-плеер. Первый предустановлен chiptunes, основанный на порту эмулятора 8astard. После загрузки предустановленного вы можете прокрутить вниз, чтобы изменить параметры. The beat &amp; tune генерируются алгоритмически, есть много ручек для игры.  Он может быть установлен локально, но потребуется сеть всякий раз, когда новый плагин загружается. Спецификация плагина Jig находится здесь: https://danja.github.io/jigdaw/    представлено   /u/danja    [link] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1wwjq72/a_beepy_toy_for_mobile/</guid>
       <pubDate>Sat, 03 Oct 2026 10:14:50 GMT</pubDate>
     </item>
     <item>
-      <title>Тест на чиптюн</title>
+      <title>Проверка жуков, чиптюн</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1wwimt6/bug_fixed_chiptune_test/</link>
       <description><![CDATA[     submitted by  /u/iTheist7]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1wwimt6/bug_fixed_chiptune_test/</guid>
       <pubDate>Sat, 03 Oct 2026 09:05:39 GMT</pubDate>
     </item>
     <item>
-      <title>Я сделал современный стиль DAW, чтобы сделать музыку для Sega Genesis / MD (обратная связь ценится).</title>
+      <title>Я сделал DAW в современном стиле, чтобы сделать музыку для Sega Genesis / MD (обратная связь ценится).</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1wwhz06/i_made_a_modern_style_daw_to_make_music_for_the/</link>
-      <description><![CDATA[  представлено    /u/ThatTastedPurpl   [link] ]]></description>
+      <description><![CDATA[  представлено    /u/ThatTastedPurpl   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1wwhz06/i_made_a_modern_style_daw_to_make_music_for_the/</guid>
       <pubDate>Sat, 03 Oct 2026 08:23:23 GMT</pubDate>
     </item>

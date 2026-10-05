@@ -4,7 +4,7 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Mon, 05 Oct 2026 07:31:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 09:53:43 GMT</lastBuildDate>
     <item>
       <title>"8-pinski" - EIGHT(!) intro для MSDOS</title>
       <link>https://www.reddit.com/r/programming/comments/1wxoefa/8pinski_eight_bytes_intro_for_msdos/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>Красный, зеленый и грязь: фиксация смешивания цветов в Total Draw</title>
       <link>https://www.reddit.com/r/programming/comments/1wxd33z/red_green_and_mud_fixing_color_mixing_in_total/</link>
-      <description><![CDATA[ Я пошел в немного кроличью нору гамма-ориентированного цветового смешивания против линейного цветового смешивания против перцептивного цветового смешивания для моего приложения для рисования Total Draw, поэтому я решил создать сообщение в блоге об этом.    представлено   /u/Rupour    [link] [comments]]]></description>
+      <description><![CDATA[ Я пошел в немного кроличью нору гамма-базного цветового смешивания против линейного цветового смешивания против перцептивного цветового смешивания для моего приложения для рисования Total Draw, поэтому я решил создать сообщение в блоге об этом.    представлено   /u/Rupour    [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wxd33z/red_green_and_mud_fixing_color_mixing_in_total/</guid>
       <pubDate>Sun, 04 Oct 2026 11:08:30 GMT</pubDate>
     </item>
@@ -34,7 +34,7 @@
       <pubDate>Sat, 03 Oct 2026 22:53:29 GMT</pubDate>
     </item>
     <item>
-      <title>От SSH до REST: Модернизация EMR-данных Slack</title>
+      <title>От SSH к REST: Модернизация EMR-данных Slack</title>
       <link>https://www.reddit.com/r/programming/comments/1wx02m9/from_ssh_to_rest_a_securitydriven_modernization/</link>
       <description><![CDATA[  представлено    /u/Ok Stomach6651   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wx02m9/from_ssh_to_rest_a_securitydriven_modernization/</guid>
@@ -78,7 +78,7 @@
     <item>
       <title>0.17.0 Заметки о выпуске Язык программирования Zig</title>
       <link>https://www.reddit.com/r/programming/comments/1ww6bea/0170_release_notes_â_the_zig_programming_language/</link>
-      <description><![CDATA[  представлено   /u/BrewedDoritos    [link] [comments]]]></description>
+      <description><![CDATA[  представлено    /u/BrewedDoritos    [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ww6bea/0170_release_notes_â_the_zig_programming_language/</guid>
       <pubDate>Fri, 02 Oct 2026 21:52:43 GMT</pubDate>
     </item>
@@ -99,14 +99,14 @@
     <item>
       <title>Минский автомат в ncurses terminfo</title>
       <link>https://www.reddit.com/r/programming/comments/1wvy0zi/a_minsky_machine_in_ncurses_terminfo/</link>
-      <description><![CDATA[ncurses terminfo может имитировать двухконтрольный Минский станок, делая повторные расширения параметров вычислительно универсальными.  Demo: паразитическое вычисление Фибоначчи внутри /usr/bin/top    представлено   /u/Dull Replacement8890   ]]></description>
+      <description><![CDATA[ncurses terminfo может имитировать двухконтрольный Минский станок, делая повторные расширения параметров вычислительно универсальными.  Demo: паразитическое вычисление Фибоначчи внутри /usr/bin/top    представлено   /u/Dull Replacement8890   [link] ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wvy0zi/a_minsky_machine_in_ncurses_terminfo/</guid>
       <pubDate>Fri, 02 Oct 2026 16:18:03 GMT</pubDate>
     </item>
     <item>
       <title>Частичное оценивание в трюфеле - динамическое обучение мета-компиляции</title>
       <link>https://www.reddit.com/r/programming/comments/1wvt9nw/partial_evaluation_in_truffle_dynamic/</link>
-      <description><![CDATA[  представлено    /u/grashalm01   [link] [comments]]]></description>
+      <description><![CDATA[  представлено   /u/grashalm01   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wvt9nw/partial_evaluation_in_truffle_dynamic/</guid>
       <pubDate>Fri, 02 Oct 2026 13:03:34 GMT</pubDate>
     </item>
