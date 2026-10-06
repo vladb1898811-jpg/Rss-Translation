@@ -4,7 +4,35 @@
     <title>Новые материалы: программное обеспечение</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>Все, что связано с программным обеспечением. Пожалуйста, следуйте нашим правилам, чтобы избежать наказания.</description>
-    <lastBuildDate>Tue, 06 Oct 2026 01:25:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 04:18:30 GMT</lastBuildDate>
+    <item>
+      <title>Cross-Cleaner: быстрый кроссплатформенный инструмент для очистки системы, созданный с помощью Rust (Open Source)</title>
+      <link>https://www.reddit.com/r/software/comments/1wys2sn/crosscleaner_a_fast_crossplatform_system_cleanup/</link>
+      <description><![CDATA[ Что это: Cross-Cleaner - это утилита для очистки системы в стиле аддона, которая удаляет временные файлы, кэш и другую систему &quot;junk. &quot;; Он написан на Rust и предназначен для быстрого, безопасного и легкого веса.  Почему я построил его:rayon для многопоточной производительности при тщательном сохранении критических системных файлов.Ключевые функции: Многопоточность: Использует параллельную обработку для скорости на многоядерных системах. Безопасно: Тщательно сохраняет критические системные файлы (не сломает вашу ОС). Cross-Platform: Полная поддержка Windows, macOS, Linux и Android. User-Friendly: Чистый, минималистичный интерфейс (как на рабочем столе, так и в версиях TUI). Custom-DataBase: Возможность использования пользовательской базы данных очистки.   Получить здесь: Вы можете загрузить последний предварительно построенный двоичный файл или построить из источника непосредственно из репозитория GitHub:  ⇒ https://github.com/WinBooster/Cross-CleanerОбратная связь приветствуется: Это проект с открытым исходным кодом, и я активно ищу отзывы, отчеты об ошибках и предложения функций. Если вы попробуете, дайте мне знать, что вы думаете в комментариях или откройте вопрос на GitHub. Примечание: Проект является бесплатным и с открытым исходным кодом. Нет телеметрии, нет объявлений, только инструмент очистки.    представлено   /u/Nekiplay   [link]&gt;]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wys2sn/crosscleaner_a_fast_crossplatform_system_cleanup/</guid>
+      <pubDate>Tue, 06 Oct 2026 03:11:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Какие тенденции сейчас происходят в программном обеспечении?</title>
+      <link>https://www.reddit.com/r/software/comments/1wyrjpt/what_are_the_trends_happening_within_software/</link>
+      <description><![CDATA[Я создаю биржевую площадку и хочу сделать софтверную компанию. Просто хочу узнать мнение людей.    представлено   /u/Mountain-Wedding5054    [comments]&gt;]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wyrjpt/what_are_the_trends_happening_within_software/</guid>
+      <pubDate>Tue, 06 Oct 2026 02:43:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Путь и остаток</title>
+      <link>https://www.reddit.com/r/software/comments/1wyqwfo/the_way_and_remainder/</link>
+      <description><![CDATA[  представлено    /u/yez   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wyqwfo/the_way_and_remainder/</guid>
+      <pubDate>Tue, 06 Oct 2026 02:09:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Любое бесплатное программное обеспечение для установки GIF в качестве фоновых обоев?</title>
+      <link>https://www.reddit.com/r/software/comments/1wyq7er/any_free_software_to_set_gifs_as_background/</link>
+      <description><![CDATA[Привет, Я использую окна 11. Есть ли свободное программное обеспечение для установки GIF-файлов или видеофайлов в качестве фоновых обоев? Чтобы прояснить, я хочу, чтобы мои фоновые обои двигались и анимировали     представлены   /u/Individual-Mind-2620   ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wyq7er/any_free_software_to_set_gifs_as_background/</guid>
+      <pubDate>Tue, 06 Oct 2026 01:35:01 GMT</pubDate>
+    </item>
     <item>
       <title>Ищете необходимые FOSS для каждого компьютера</title>
       <link>https://www.reddit.com/r/software/comments/1wymp91/looking_for_musthave_foss_for_every_computer/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[  представлено   /u/Extension Wallaby 43     [link] ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1wybotr/i_am_thinking_i_should_build_some_video_editing/</guid>
       <pubDate>Mon, 05 Oct 2026 15:36:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Я создал веб-приложение для системного дизайна. Вместо того, чтобы просто рисовать диаграмму HLD, вы можете буквально запускать их в детерминистской среде.</title>
-      <link>https://www.reddit.com/r/software/comments/1wyb5xt/i_made_a_web_app_for_system_design_instead_of/</link>
-      <description><![CDATA[Do tell your opinion.    подается   /u/Shiroi Shinjitsu   [link]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wyb5xt/i_made_a_web_app_for_system_design_instead_of/</guid>
-      <pubDate>Mon, 05 Oct 2026 15:15:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Папка GimmeService в %LocalAppData%</title>
-      <link>https://www.reddit.com/r/software/comments/1wyayxw/gimmeservice_folder_in_localappdata/</link>
-      <description><![CDATA[ Недавно я нашел пустую папку на моем ПК с 2020 года. Я понятия не имею, что это может быть, и даже что я делал шесть лет назад. Первоначально я думал, что это связано с Neverwinter (установлено из Steam), но переустановка программного обеспечения не воссоздала папку. C:\Users\{USERNAME}\AppData\Local\GimmeService %LocalAppData%\GimmeService  Папка полностью пуста, и нет ссылки на нее в реестре, приложениях для запуска или планировщике задач. Это, по-видимому, не злонамеренно, но мне очень любопытно, откуда это взялось.    представлено   /u/jobunocru    [link] ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wyayxw/gimmeservice_folder_in_localappdata/</guid>
-      <pubDate>Mon, 05 Oct 2026 15:08:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nober - рабочее пространство с открытым исходным кодом, чтобы организовать всю мою школьную жизнь</title>
-      <link>https://www.reddit.com/r/software/comments/1wyavss/nober_an_opensource_workspace_to_organize_my/</link>
-      <description><![CDATA[https://github.com/SamonsLol/nober-organizer  Если вы в настоящее время используете что-то вроде Notion, Google Calendar + менеджер задач или несколько различных приложений для управления школой, я бы особенно хотел знать, как вы все организуете.    представлено   /u/Accomplished-Link605   ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wyavss/nober_an_opensource_workspace_to_organize_my/</guid>
-      <pubDate>Mon, 05 Oct 2026 15:04:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Мне надоело угадывать размеры PDF, поэтому я создал бесплатное правило PDF, которое работает полностью в браузере.</title>
-      <link>https://www.reddit.com/r/software/comments/1wyank4/i_got_tired_of_guessing_pdf_sizes_so_i_built_a/</link>
-      <description><![CDATA[ Я продолжал сталкиваться с одной и той же проблемой: кто-то отправляет PDF, и мне нужно знать, действительно ли это A4, будь то поля 15 мм или как далеко друг от друга находятся две вещи. Инструмент измерения Acrobat неуклюжий, и большинство онлайн-инструментов требуют загрузки. Так что я создал PdfRuler. Вы открываете PDF и получаете реальные линейки в мм, см, дюймах, точках или px. Несколько вещей, которые мне понравились:  Наведите курсор для точного X/Y, нажмите две точки для длины, поперечной, нижней и угловой  - Один ключ (A) читает инструкции по рисованию страницы и размер каждой коробки. Он использует векторные данные, а не пиксели, поэтому карта 61 x 91 мм читает 61 x 91 мм  - Удары по краям, уровень замков Shift или сантехника, направляющие вытаскивают из линейки  - Те же показания при 50% или 500% зум, потому что все рассчитывается в точках PDF  - Сохраните копию с нарисованными на ней измерениями   Все работает на стороне клиента. Нет загрузки, нет аккаунта, ничего не хранится. На посадочной странице есть демо-версия, на которую вы можете нажать без PDF. Link: https://p&gt;      представлено   /u/mutantstroke    [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wyank4/i_got_tired_of_guessing_pdf_sizes_so_i_built_a/</guid>
-      <pubDate>Mon, 05 Oct 2026 14:55:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

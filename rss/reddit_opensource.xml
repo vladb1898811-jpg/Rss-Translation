@@ -4,7 +4,14 @@
     <title>Новые материалы: opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>Субреддит для всего, что связано с открытым исходным кодом (для этого контекста мы выходим из определения открытого исходного кода здесь http://en.wikipedia.org/wiki/Open source)</description>
-    <lastBuildDate>Tue, 06 Oct 2026 01:41:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 04:33:30 GMT</lastBuildDate>
+    <item>
+      <title>Поиск вкладчиков для Network Doctor, 29 открытых вопросов для работы</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wyrmmo/looking_for_contributors_for_network_doctor_29/</link>
+      <description><![CDATA[Я продолжаю создавать Network Doctor, межплатформенный сетевой диагностический CLI с открытым исходным кодом, написанный на Go. GitHub: https://github.com/heymaikol/network-doctor Website: /u/mplaczek99    [link][comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wyrmmo/looking_for_contributors_for_network_doctor_29/</guid>
+      <pubDate>Tue, 06 Oct 2026 02:47:36 GMT</pubDate>
+    </item>
     <item>
       <title>Кусок либа в ржавчине, который в 20 раз быстрее</title>
       <link>https://www.reddit.com/r/opensource/comments/1wyfp9a/a_chunking_lib_in_rust_that_is_20x_faster/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[ Около десяти лет назад я пытался создать альтернативу Google, используя Dewey Decimal System для группировки веб-доменов по темам. Мое видение состояло в том, что веб-сайт был библиотекой, а домены — отдельными книгами. Рейтинги представляли собой смесь репутации домена и культурного значения.  OCLC очень защищает свой IP и любит подавать в суд. Излишне говорить, что мой проект был закрыт еще до того, как сошел с земли. Я работаю над возрождением проекта в рамках новой системы классификации (The Open Categorization System) и хотел бы получить любую помощь. С проектом можно ознакомиться здесь: https://github.com/ki4jgt/Open-Catalog-System    представлено   /u/ki4jgt   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1wvg54l/introducing_the_open_categorization_system/</guid>
       <pubDate>Fri, 02 Oct 2026 00:43:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Выпущен Plembfin v1.3.1</title>
-      <link>https://www.reddit.com/r/opensource/comments/1wvd4lx/plembfin_v131_released/</link>
-      <description><![CDATA[  представлено   /u/Lasikie    [link] [comments&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1wvd4lx/plembfin_v131_released/</guid>
-      <pubDate>Thu, 01 Oct 2026 22:23:47 GMT</pubDate>
     </item>
     </channel>
 </rss>

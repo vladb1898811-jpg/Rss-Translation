@@ -4,14 +4,7 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Tue, 06 Oct 2026 01:27:07 GMT</lastBuildDate>
-    <item>
-      <title>Результаты опроса Devs 2026: разработчики чувствуют себя истощенными</title>
-      <link>https://www.reddit.com/r/programming/comments/1wyo5ne/state_of_devs_2026_survey_results_developers_are/</link>
-      <description><![CDATA[ Я только что опубликовал результаты опроса разработчиков State of Devs этого года, который охватывает такие темы, как карьера, здоровье, мировоззрение и даже хобби.  Некоторые интересные статистические данные:    Наиболее распространенными эмоциями, на которые ссылались респонденты, когда их спрашивали об их чувствах к технологической отрасли, были &quot;истощение&quot;, за которым последовало &quot;разочарование&quot;. Quot;Curiosity&quot; заняла третье место и тесно связана с про-ИИ в целом. Говоря об ИИ, 49% респондентов в настоящее время генерируют более 75% своего кода с использованием ИИ.  Несмотря на это, разработчики были равномерно разделены по спектру анти-AI / про-AI, что означает, что вы можете использовать ИИ, оставаясь критическим.   Наиболее тревожным риском, связанным с ИИ, было воздействие на окружающую среду.   Респонденты также обеспокоены влиянием ИИ на разработчиков, особенно когнитивными воздействиями и атрофией навыков. Ознакомьтесь с полным отчетом для получения более подробной информации о том, что значит быть разработчиком в 2026 году!    представленный   /u/SachaGreif   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wyo5ne/state_of_devs_2026_survey_results_developers_are/</guid>
-      <pubDate>Mon, 05 Oct 2026 23:56:47 GMT</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Oct 2026 04:20:01 GMT</lastBuildDate>
     <item>
       <title>Самостоятельные HTTP-туннели с SSH и nginx</title>
       <link>https://www.reddit.com/r/programming/comments/1wym65x/selfhosted_http_tunnels_with_ssh_and_nginx/</link>
@@ -109,6 +102,13 @@
       <description><![CDATA[  представлено    /u/Comfortable-Fan-580   [link] [comments&gt;]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wwfp40/skip_list_data_structure/</guid>
       <pubDate>Sat, 03 Oct 2026 06:02:19 GMT</pubDate>
+    </item>
+    <item>
+      <title><input type="password" maxlength="20"> считается вредным, и почему я не смог войти в Vanguard</title>
+      <link>https://www.reddit.com/r/programming/comments/1ww842a/input_typepassword_maxlength20_is_considered/</link>
+      <description><![CDATA[  представлено    /u/tanin47     [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ww842a/input_typepassword_maxlength20_is_considered/</guid>
+      <pubDate>Fri, 02 Oct 2026 23:14:57 GMT</pubDate>
     </item>
     </channel>
 </rss>

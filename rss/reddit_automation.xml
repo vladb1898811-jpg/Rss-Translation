@@ -4,7 +4,28 @@
     <title>ChatGPT, искусственный интеллект и автоматизация</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>Вы очарованы чудесами автоматизации, загипнотизированы силой ChatGPT или заинтригованы бесконечными возможностями искусственного интеллекта и автоматизации? Не смотрите дальше! Наше яркое сообщество Reddit является идеальным центром для таких энтузиастов, как вы. Как член нашего сообщества, вы получите доступ к множеству ресурсов, в том числе: Спровоцирующие размышления дискуссии по автоматизации, ChatGPT и ИИ.   Эксклюзивное понимание последних достижений и отраслевых новостей</description>
-    <lastBuildDate>Tue, 06 Oct 2026 00:11:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 03:09:05 GMT</lastBuildDate>
+    <item>
+      <title>Как лучше всего автоматизировать периодические отчеты о затратах в облаке и утверждения в нескольких учетных записях клиентов?</title>
+      <link>https://www.reddit.com/r/automation/comments/1wypba0/what_is_the_best_way_to_automate_recurring_cloud/</link>
+      <description><![CDATA[Я управляю облачным консалтингом и пытаюсь автоматизировать обычное обслуживание инфраструктуры. Логика для обнаружения отходов и вычисления действий есть, у меня просто проблемы с машиной состояния одобрения. В настоящее время мы формируем список рекомендаций, а затем открываем билеты, но моя команда должна дождаться одобрения клиента, прежде чем запускать стандартные сценарии очистки. Что делает его не очень автоматизированным IMO    представленный   /u/Aegiaaa   [link] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1wypba0/what_is_the_best_way_to_automate_recurring_cloud/</guid>
+      <pubDate>Tue, 06 Oct 2026 00:50:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Использование GrokBot для написания рабочих процессов Power Automate</title>
+      <link>https://www.reddit.com/r/automation/comments/1wyp4db/using_grokbot_to_write_power_automate_workflows/</link>
+      <description><![CDATA[        представлено  [link]&lt;]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1wyp4db/using_grokbot_to_write_power_automate_workflows/</guid>
+      <pubDate>Tue, 06 Oct 2026 00:41:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ищу, чтобы сделать мою жизнь проще</title>
+      <link>https://www.reddit.com/r/automation/comments/1wyozqo/looking_to_make_my_life_easier/</link>
+      <description><![CDATA[  представлено   /u/3skin3    [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1wyozqo/looking_to_make_my_life_easier/</guid>
+      <pubDate>Tue, 06 Oct 2026 00:35:18 GMT</pubDate>
+    </item>
     <item>
       <title>Вот соус, и я немного запутался.</title>
       <link>https://www.reddit.com/r/automation/comments/1wyjxx1/heres_the_sauce_and_im_a_bit_confused/</link>
@@ -76,32 +97,11 @@
       <pubDate>Sat, 03 Oct 2026 12:52:12 GMT</pubDate>
     </item>
     <item>
-      <title>Какой смысл знать Python или другие языки, когда Клод может написать весь сценарий?</title>
-      <link>https://www.reddit.com/r/automation/comments/1wwlmgo/whats_the_point_of_knowing_python_or_other/</link>
-      <description><![CDATA[        представлено   /u/Honest-Let-7219   [link] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1wwlmgo/whats_the_point_of_knowing_python_or_other/</guid>
-      <pubDate>Sat, 03 Oct 2026 12:06:27 GMT</pubDate>
-    </item>
-    <item>
       <title>Любой, кто использует ECC github repo и имеет отличный результат, поделится своими историями.</title>
       <link>https://www.reddit.com/r/automation/comments/1wwgjd5/anyone_who_is_using_ecc_github_repo_and_has_had_a/</link>
       <description><![CDATA[  представлено    /u/Honest-Let-7219   ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1wwgjd5/anyone_who_is_using_ecc_github_repo_and_has_had_a/</guid>
       <pubDate>Sat, 03 Oct 2026 06:53:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Как я автоматизировал свой путь до 5 миллионов просмотров в инстаграме одним видеоклипом.</title>
-      <link>https://www.reddit.com/r/automation/comments/1ww6yfm/how_i_automated_my_way_to_5_million_views_on/</link>
-      <description><![CDATA[Я бесконечно строил и создавал приложения, которые никто не видел, и маркетинг был той частью, которую я откладывал. Потому что, честно говоря, это было немного подавляющим.  Поэтому я посмотрел другие каналы, которые продвигают приложения. Я заметил, что есть определенные форматы, в которых люди создают контент. Например,   hook &amp; демо-формат: 3-секундное реакционное селфи-видео, а затем вы показываете демо-видео приложения  text hook на клипе: текстовый крючок всего на 1 клип meme formats..   Мне понравился текстовый крюк в формате клипа, он просто использует один и тот же клип на каждом посте. Изменяется только текст сверху. Поэтому я создал внутренний инструмент для автоматизации этого. Я запустил один канал Instagram, используя его. Он получил 5M+ просмотров. Один пост сделал 3.3M, другой сделал 1.3M.  метод   Я сам снимаю 1 клип. 6-10 сек, тихий, достаточно расплывчатый, чтобы подогнать любой крючок. Не делайте это конкретным. Лучше стрелять в себя, чем в ИИ. AI также работает  сохранить вирусные текстовые крючки, которые вы видите на своем канале  записать больше текстовых крючков из этой коллекции с помощью Claude Code или Codex Код Клода отправляет клип &amp; крюки на инструмент, который я сделал  импортировать клип и видео на инструмент  Обзор &amp;рендерить запланировать их.  Я упаковал этот внутренний инструмент как QuickThrottle. Я назвал его в честь настоящей дроссельной заслонки. В основном Это позволяет вам создавать контент (как барабаны, так и слайд-шоу) с минимальными усилиями. И использовать код Клода или Кодекс. Это полностью локальный инструмент автоматизации. Счастлив ответить на любые вопросы. PS:  Ссылка на инструмент для людей DMing    представлена   /u/Acceptable Boot 8789   ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ww6yfm/how_i_automated_my_way_to_5_million_views_on/</guid>
-      <pubDate>Fri, 02 Oct 2026 22:20:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Кто-нибудь автоматизировал руководство в реальном времени для представителей поддержки во время живых звонков?</title>
-      <link>https://www.reddit.com/r/automation/comments/1wvyl47/anyone_automated_real_time_guidance_for_support/</link>
-      <description><![CDATA[ Мы запускаем службу поддержки клиентов для компании по ремонту кредитов, и новые представители часто застревают, когда звонки перемещаются между платежами по кредитной истории и вопросами по счету. Они обычно знают основы, но как только звонок отключается, они в конечном итоге отправляют сообщение старшему представителю или задерживают клиента, пока они ищут ответ. Изучение того, может ли ИИ прослушивать вызов и получать полезные рекомендации в режиме реального времени на основе того, что обсуждается. В идеале он будет использовать наши внутренние документы и прошлые разговоры, чтобы ответы соответствовали тому, как команда на самом деле справляется с этими ситуациями. Главное, чего я хочу избежать, это еще один чат-бот, где представители должны прекратить разговор и задать вопрос. Цель - что-то ближе к тому, чтобы опытный представитель сидел рядом с ними и оказывал помощь, когда это необходимо. Кто-нибудь построил или выкатил что-то подобное? Хотите знать, какие инструменты вы использовали и хорошо ли они работали на практике.    представлено   /u/rashreaction1015    [link] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1wvyl47/anyone_automated_real_time_guidance_for_support/</guid>
-      <pubDate>Fri, 02 Oct 2026 16:40:41 GMT</pubDate>
     </item>
     <item>
       <title>Нужны предложения для простого инструмента ИИ</title>

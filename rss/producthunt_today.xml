@@ -4,7 +4,7 @@
     <title>Продуктовая охота — Лучшие продукты каждый день</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 06 Oct 2026 01:42:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 04:34:27 GMT</lastBuildDate>
     <item>
       <title>HyperFrames Studio (настольный)</title>
       <link>https://www.producthunt.com/products/heygen</link>
@@ -20,6 +20,20 @@
       <pubDate>Mon, 05 Oct 2026 06:03:02 GMT</pubDate>
     </item>
     <item>
+      <title>пешеходный переход</title>
+      <link>https://www.producthunt.com/products/crosswalk</link>
+      <description><![CDATA[
+Третье место для людей и их агентов, начиная с почтовых ящиков
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/crosswalk</guid>
+      <pubDate>Mon, 05 Oct 2026 03:48:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Джар</title>
       <link>https://www.producthunt.com/products/jarq</link>
       <description><![CDATA[
@@ -32,6 +46,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/jarq</guid>
       <pubDate>Mon, 05 Oct 2026 02:39:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Спира Максима</title>
+      <link>https://www.producthunt.com/products/spira-ai</link>
+      <description><![CDATA[
+Видеомодель, превращающая сценарий в вирусные видео в социальных сетях
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/spira-ai</guid>
+      <pubDate>Mon, 05 Oct 2026 01:32:19 GMT</pubDate>
     </item>
     <item>
       <title>Марш</title>
@@ -62,20 +90,6 @@
       <pubDate>Sun, 04 Oct 2026 20:12:37 GMT</pubDate>
     </item>
     <item>
-      <title>Ревье</title>
-      <link>https://www.producthunt.com/products/reviu</link>
-      <description><![CDATA[
-Приложение обзора для кода, который пишет ваш агент
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/reviu</guid>
-      <pubDate>Sun, 04 Oct 2026 16:27:10 GMT</pubDate>
-    </item>
-    <item>
       <title>Dots UI</title>
       <link>https://www.producthunt.com/products/dots-ui</link>
       <description><![CDATA[
@@ -102,20 +116,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/speechshield</guid>
       <pubDate>Sun, 04 Oct 2026 15:59:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Обмен цепочками</title>
-      <link>https://www.producthunt.com/products/chain-exchange</link>
-      <description><![CDATA[
-Торговля, мост и перемещение стейблкоинов через Арк
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/chain-exchange</guid>
-      <pubDate>Sun, 04 Oct 2026 13:38:40 GMT</pubDate>
     </item>
     <item>
       <title>Xtracticle</title>
@@ -146,18 +146,18 @@
       <pubDate>Sat, 03 Oct 2026 21:57:34 GMT</pubDate>
     </item>
     <item>
-      <title>разъем</title>
-      <link>https://www.producthunt.com/products/devpit</link>
+      <title>Страшный ИИ</title>
+      <link>https://www.producthunt.com/products/unscary-ai</link>
       <description><![CDATA[
-Нативная комната управления для ваших агентов Клода Кода
+Короткие уроки помогут вам перестать чувствовать себя позади.
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/devpit</guid>
-      <pubDate>Fri, 02 Oct 2026 19:16:12 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/unscary-ai</guid>
+      <pubDate>Sat, 03 Oct 2026 18:10:16 GMT</pubDate>
     </item>
     <item>
       <title>Угвай Бикон</title>
@@ -174,18 +174,18 @@
       <pubDate>Thu, 01 Oct 2026 10:06:14 GMT</pubDate>
     </item>
     <item>
-      <title>DailyHelm</title>
-      <link>https://www.producthunt.com/products/dailyhelm</link>
+      <title>Fastouter.ai</title>
+      <link>https://www.producthunt.com/products/fastrouter-ai</link>
       <description><![CDATA[
-Превратите аналитику в ежедневные исправления для повышения доходов
+Маршрутные запросы в нужный LLM по стоимости, задержке и качеству
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/dailyhelm</guid>
-      <pubDate>Tue, 29 Sep 2026 18:28:04 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/fastrouter-ai</guid>
+      <pubDate>Wed, 30 Sep 2026 22:36:38 GMT</pubDate>
     </item>
     <item>
       <title>Самообслуживание Invofox</title>
