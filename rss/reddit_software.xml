@@ -4,18 +4,32 @@
     <title>Новые материалы: программное обеспечение</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>Все, что связано с программным обеспечением. Пожалуйста, следуйте нашим правилам, чтобы избежать наказания.</description>
-    <lastBuildDate>Tue, 06 Oct 2026 04:18:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:50:12 GMT</lastBuildDate>
+    <item>
+      <title>Кто-нибудь знает лучший онлайн-инструмент, который легко отправлять файлы с мобильного на компьютер?</title>
+      <link>https://www.reddit.com/r/software/comments/1wyvas0/hey_anyone_knows_better_online_tool_that_is_easy/</link>
+      <description><![CDATA[  представлено   /u/kiraz106    [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wyvas0/hey_anyone_knows_better_online_tool_that_is_easy/</guid>
+      <pubDate>Tue, 06 Oct 2026 06:17:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>SteamEdge - Бросьте игровые карты Steam / Game Hour Boost и многое другое!</title>
+      <link>https://www.reddit.com/r/software/comments/1wyup57/steamedge_drop_steam_game_cards_game_hour_boost/</link>
+      <description><![CDATA[Паровой инструмент для падений Game Card, увеличения игрового часа и многое другое.  Сделано для личного использования, тестирования и облегчения работы Steam.  Почему? Я использовал ArchiSteamFarm, но в течение часа я также использовал HourBoostr. Тогда у меня было 300 часов с 0 достижениями... открытый SAM Achievement Manager. 3 разные программы, так что мне нужно? Все в одном. Так что я сделал это. Я сделал 3 цветовые палитры: Black / Purple (мой фав, вдохновленный R34 Midnight Purple) / White (для некоторых маньяков, использующих полноразмерные яркие приложения, IYKYK). Repo: https://github.com/Miabeyefendi/SteamEdgeСпециальная благодарность ArchiSteamFarm, HourBoostr, SteamIdleMaster и SAM. Я получил идею от этих программ.    представлено   /u/Miabeys    [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wyup57/steamedge_drop_steam_game_cards_game_hour_boost/</guid>
+      <pubDate>Tue, 06 Oct 2026 05:40:09 GMT</pubDate>
+    </item>
     <item>
       <title>Cross-Cleaner: быстрый кроссплатформенный инструмент для очистки системы, созданный с помощью Rust (Open Source)</title>
       <link>https://www.reddit.com/r/software/comments/1wys2sn/crosscleaner_a_fast_crossplatform_system_cleanup/</link>
-      <description><![CDATA[ Что это: Cross-Cleaner - это утилита для очистки системы в стиле аддона, которая удаляет временные файлы, кэш и другую систему &quot;junk. &quot;; Он написан на Rust и предназначен для быстрого, безопасного и легкого веса.  Почему я построил его:rayon для многопоточной производительности при тщательном сохранении критических системных файлов.Ключевые функции: Многопоточность: Использует параллельную обработку для скорости на многоядерных системах. Безопасно: Тщательно сохраняет критические системные файлы (не сломает вашу ОС). Cross-Platform: Полная поддержка Windows, macOS, Linux и Android. User-Friendly: Чистый, минималистичный интерфейс (как на рабочем столе, так и в версиях TUI). Custom-DataBase: Возможность использования пользовательской базы данных очистки.   Получить здесь: Вы можете загрузить последний предварительно построенный двоичный файл или построить из источника непосредственно из репозитория GitHub:  ⇒ https://github.com/WinBooster/Cross-CleanerОбратная связь приветствуется: Это проект с открытым исходным кодом, и я активно ищу отзывы, отчеты об ошибках и предложения функций. Если вы попробуете, дайте мне знать, что вы думаете в комментариях или откройте вопрос на GitHub. Примечание: Проект является бесплатным и с открытым исходным кодом. Нет телеметрии, нет объявлений, только инструмент очистки.    представлено   /u/Nekiplay   [link]&gt;]]></description>
+      <description><![CDATA[ Что это: Cross-Cleaner - это утилита для очистки системы в стиле аддона, которая удаляет временные файлы, кэш и другую систему &quot;junk. &quot;; Он написан на Rust и предназначен для быстрого, безопасного и легкого веса. Почему я его построил:rayon для многопоточной производительности при тщательном сохранении критических системных файлов.Ключевые функции: Многопоточность: Использует параллельную обработку для скорости на многоядерных системах. Безопасно: Тщательно сохраняет критические системные файлы (не сломает вашу ОС). Cross-Platform: Полная поддержка Windows, macOS, Linux и Android. User-Friendly: Чистый, минималистичный интерфейс (как на рабочем столе, так и в версиях TUI). Custom-DataBase: Возможность использования пользовательской базы данных очистки.   Получить здесь: Вы можете скачать последний предварительно построенный двоичный файл или построить из источника непосредственно из репозитория GitHub:  ⇒ https://github.com/WinBooster/Cross-CleanerОбратная связь приветствуется: Это проект с открытым исходным кодом, и я активно ищу отзывы, отчеты об ошибках и предложения функций. Если вы попробуете это, дайте мне знать, что вы думаете в комментариях или откройте вопрос на GitHub. Примечание: Проект является бесплатным и с открытым исходным кодом. Нет телеметрии, нет рекламы, только инструмент очистки. https://preview.redd.it/q90bgtt01sth1.png?width=979&amp;format=png&amp;auto=webp&amp;s=f8e666dcb6b4e436a8d6b5ffff    представлено   /u/Nekiplay    ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1wys2sn/crosscleaner_a_fast_crossplatform_system_cleanup/</guid>
       <pubDate>Tue, 06 Oct 2026 03:11:15 GMT</pubDate>
     </item>
     <item>
       <title>Какие тенденции сейчас происходят в программном обеспечении?</title>
       <link>https://www.reddit.com/r/software/comments/1wyrjpt/what_are_the_trends_happening_within_software/</link>
-      <description><![CDATA[Я создаю биржевую площадку и хочу сделать софтверную компанию. Просто хочу узнать мнение людей.    представлено   /u/Mountain-Wedding5054    [comments]&gt;]]></description>
+      <description><![CDATA[Я создаю биржевую площадку и хочу сделать софтверную компанию. Просто хочу узнать мнение людей.    представлено   /u/Mountain-Wedding5054    [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1wyrjpt/what_are_the_trends_happening_within_software/</guid>
       <pubDate>Tue, 06 Oct 2026 02:43:24 GMT</pubDate>
     </item>
@@ -29,7 +43,7 @@
     <item>
       <title>Любое бесплатное программное обеспечение для установки GIF в качестве фоновых обоев?</title>
       <link>https://www.reddit.com/r/software/comments/1wyq7er/any_free_software_to_set_gifs_as_background/</link>
-      <description><![CDATA[Привет, Я использую окна 11. Есть ли свободное программное обеспечение для установки GIF-файлов или видеофайлов в качестве фоновых обоев? Чтобы прояснить, я хочу, чтобы мои фоновые обои двигались и анимировали     представлены   /u/Individual-Mind-2620   ]]></description>
+      <description><![CDATA[Привет,Я использую окна 11. Есть ли свободное программное обеспечение для установки GIF-файлов или видеофайлов в качестве фоновых обоев? Чтобы прояснить, я хочу, чтобы мои фоновые обои двигались и анимировали     представлены   /u/Individual-Mind-2620   ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1wyq7er/any_free_software_to_set_gifs_as_background/</guid>
       <pubDate>Tue, 06 Oct 2026 01:35:01 GMT</pubDate>
     </item>
@@ -43,7 +57,7 @@
     <item>
       <title>I Build a Clean - Smoove Notchbar для Windows с кучей полезных функций</title>
       <link>https://www.reddit.com/r/software/comments/1wym2h8/i_build_a_clean_smoove_notchbar_for_windows_with/</link>
-      <description><![CDATA[ Я не знаю, все остальные Нотчбары для Windows не были моим вкусом, казалось, не имели никаких функций или стоили денег. Теперь я построил этот Notchbar, который имеет множество функций и предлагает чистый, плавный дизайн. Он хорошо работает и сочетает в себе множество инструментов.  Внутри: музыкальные элементы управления с живым эквалайзером, хранилище для паролей и кодов 2FA, живая погода, ваши звонки Discord, ваше портфолио, чат AI (Claude, ChatGPT и многое другое) с вашими ограничениями использования, история буфера обмена, полка файлов, конвертер файлов и блоков, таймеры, дос и заметки, живая аппаратная статистика с FPS для игр и точки конфиденциальности для микрофона, камеры и записи экрана.  Github Repo: https://github.com/L4-Windows-NotchBar - Все еще в бета-версии и открыт для большего количества идей и запросов функций. Люблю делать этот инструмент слишком многократным использованием в одном простом Notch Лучшее предпросмотр на Github с видео    представлено   /u/No-Background3147   [link][comments]]]></description>
+      <description><![CDATA[ Не знаю, все остальные Нотчбары для Windows не были моим вкусом, казалось, не имели никаких функций или стоили денег. Теперь я построил этот Notchbar, который имеет множество функций и предлагает чистый, плавный дизайн. Он хорошо работает и сочетает в себе множество инструментов.  Внутри: музыкальные элементы управления с живым эквалайзером, хранилище для паролей и кодов 2FA, живая погода, ваши звонки Discord, ваше портфолио, чат AI (Claude, ChatGPT и многое другое) с вашими ограничениями использования, история буфера обмена, полка файлов, конвертер файлов и блоков, таймеры, дос и заметки, живая аппаратная статистика с FPS для игр и точки конфиденциальности для микрофона, камеры и записи экрана.  Github Repo: https://github.com/L4-Windows-NotchBar - Все еще в бета-версии и открыт для большего количества идей и запросов функций. Люблю делать этот инструмент слишком многократным использованием в одном простом Notch Лучшее предпросмотр на Github с видео    представлено   /u/No-Background3147   [link][comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1wym2h8/i_build_a_clean_smoove_notchbar_for_windows_with/</guid>
       <pubDate>Mon, 05 Oct 2026 22:19:54 GMT</pubDate>
     </item>
@@ -57,7 +71,7 @@
     <item>
       <title>Plextor Premium 2 — сканирование ошибок C1/C2 на компакт-дисках под Win10</title>
       <link>https://www.reddit.com/r/software/comments/1wyivpk/plextor_premium_2_c1c2_error_scanning_on_cds/</link>
-      <description><![CDATA[  представлено    /u/000q     [link] [comments&gt;]]></description>
+      <description><![CDATA[  представлено    /u/000q     [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1wyivpk/plextor_premium_2_c1c2_error_scanning_on_cds/</guid>
       <pubDate>Mon, 05 Oct 2026 20:09:39 GMT</pubDate>
     </item>
@@ -71,14 +85,14 @@
     <item>
       <title>Загрузчик медиа</title>
       <link>https://www.reddit.com/r/software/comments/1wyhvpd/media_downloader/</link>
-      <description><![CDATA[ Любой бесплатный альтернативный видеозагрузчик для менеджера загрузки муравьев или idm-загрузчика.     представленный   /u/Puzzleheaded-88   ]]></description>
+      <description><![CDATA[ Любой бесплатный альтернативный видеозагрузчик для менеджера загрузки муравьев или idm-загрузчика.     представленный   /u/Puzzleheaded-88   [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1wyhvpd/media_downloader/</guid>
       <pubDate>Mon, 05 Oct 2026 19:31:11 GMT</pubDate>
     </item>
     <item>
       <title>С ИИ барьер для входа рушится: какие проекты по-прежнему имеют ценность?</title>
       <link>https://www.reddit.com/r/software/comments/1wyff0x/with_ai_the_barrier_to_entry_is_collapsing_which/</link>
-      <description><![CDATA[ С помощью инструментов генерации кода каждый может клонировать небольшое приложение в выходные. Из-за этого многие проекты теряют свое преимущество.  Я предполагаю, что те, кто держится лучше всего, полагаются на сообщество, эксклюзивные данные, очень конкретную нишу или доверие (открытый исходный код, конфиденциальность). Простые обертки вокруг модели кажутся наиболее хрупкими. Как ты это видишь? Какие типы проектов по-прежнему выглядят многообещающими для вас?    представлено   /u/Solofonirina   ]]></description>
+      <description><![CDATA[ С помощью инструментов генерации кода каждый может клонировать небольшое приложение в выходные. Из-за этого многие проекты теряют свое преимущество.  Я предполагаю, что те, кто держится лучше всего, полагаются на сообщество, эксклюзивные данные, очень специфическую нишу или доверие (открытый исходный код, конфиденциальность). Простые обертки вокруг модели кажутся наиболее хрупкими. Как ты это видишь? Какие типы проектов все еще выглядят многообещающими для вас?    представлено   /u/Solofonirina   ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1wyff0x/with_ai_the_barrier_to_entry_is_collapsing_which/</guid>
       <pubDate>Mon, 05 Oct 2026 17:57:55 GMT</pubDate>
     </item>
@@ -90,25 +104,11 @@
       <pubDate>Mon, 05 Oct 2026 17:37:19 GMT</pubDate>
     </item>
     <item>
-      <title>Приложение SimpleBrain</title>
+      <title>Приложение Simple Brain</title>
       <link>https://www.reddit.com/r/software/comments/1wye99p/simplebrain_app/</link>
-      <description><![CDATA[ Эй, я проводил мозговой штурм этой идеи и получил бы некоторую обратную связь. Теперь я знаю, что первый комментарий будет &quot; Вы на самом деле не сделали это, Клод закодировал это для вас, и да, это правда, но это не принимает путь мысли о создании. Я взял некоторые вещи, которые мне нравились из других источников, но не мог преодолеть болевые точки и откровенно не любил их. Как исследование роуминга, обсидиан, понятие. И сделал свой. Хотелось бы получить обратную связь и то, что вы думаете об этом. Simple Brain Youtube Footage    представленный   /u/ResponsibleTone7412   [link]]]></description>
+      <description><![CDATA[ Эй, я проводил мозговой штурм этой идеи и получил бы некоторую обратную связь. Теперь я знаю, что первый комментарий будет &quot; Вы на самом деле не сделали это, Клод закодировал это для вас, и да, это правда, но это не принимает путь мысли о создании. Я взял некоторые вещи, которые мне понравились из других источников, но не смог преодолеть болевые точки и откровенно не понравился им. Как исследование роуминга, обсидиан, понятие. И сделал свой. Хотелось бы получить обратную связь и что вы, ребята, думаете об этом. Simple Brain Youtube Footage    представлено   /u/ResponsibleTone7412   [link]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1wye99p/simplebrain_app/</guid>
       <pubDate>Mon, 05 Oct 2026 17:14:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ГЭЛПППППП</title>
-      <link>https://www.reddit.com/r/software/comments/1wydhse/helpppppppp/</link>
-      <description><![CDATA[Поэтому у меня есть семестровый проект по предметной инженерии требований к программному обеспечению. Тема — «Приложение для системы управления арендой автомобилей», для которого мы должны собрать требования к приложению так же, как компания-разработчик программного обеспечения может собрать требования от клиента. Учитель попросил нас собрать идеи об этом вне класса. Поэтому, пожалуйста, дайте идеи или функционально, которые приходят на ум, которые могут быть реализованы в приложении для проката автомобилей. Это может быть что угодно, от простой идеи до сложной функционально.    представлено   /u/epicghost005    [link] ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wydhse/helpppppppp/</guid>
-      <pubDate>Mon, 05 Oct 2026 16:44:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Я думаю, что я должен создать программное обеспечение для редактирования видео для бесплатного навсегда с открытым исходным кодом для мобильного пользователя, если вы поможете мне построить этот тип приложения, включая все функции, такие как редактирование композиций и графики, если кто-то заинтересован в создании взволнованного проекта для мобильного пользователя.</title>
-      <link>https://www.reddit.com/r/software/comments/1wybotr/i_am_thinking_i_should_build_some_video_editing/</link>
-      <description><![CDATA[  представлено   /u/Extension Wallaby 43     [link] ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wybotr/i_am_thinking_i_should_build_some_video_editing/</guid>
-      <pubDate>Mon, 05 Oct 2026 15:36:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

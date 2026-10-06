@@ -4,7 +4,14 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Tue, 06 Oct 2026 04:20:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:51:05 GMT</lastBuildDate>
+    <item>
+      <title>В распределенных системах нет «сейчас»</title>
+      <link>https://www.reddit.com/r/programming/comments/1wyumm6/there_is_no_now_in_distributed_systems/</link>
+      <description><![CDATA[  представлено   /u/H chibaX   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wyumm6/there_is_no_now_in_distributed_systems/</guid>
+      <pubDate>Tue, 06 Oct 2026 05:35:41 GMT</pubDate>
+    </item>
     <item>
       <title>Самостоятельные HTTP-туннели с SSH и nginx</title>
       <link>https://www.reddit.com/r/programming/comments/1wym65x/selfhosted_http_tunnels_with_ssh_and_nginx/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>OSDI '26 - Incr: более быстрое повторное исполнение с помощью инкрементализации Bolt-On</title>
       <link>https://www.reddit.com/r/programming/comments/1wyjfbo/osdi_26_incr_faster_reexecution_via_bolton/</link>
-      <description><![CDATA[  представлено    /u/mttd   [link] [comments&gt;]]></description>
+      <description><![CDATA[  представлено   /u/mttd   [link] [comments&gt;]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wyjfbo/osdi_26_incr_faster_reexecution_via_bolton/</guid>
       <pubDate>Mon, 05 Oct 2026 20:31:11 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>Еще один шаг к Элм 1.0</title>
       <link>https://www.reddit.com/r/programming/comments/1wy7in8/another_step_towards_elm_10/</link>
-      <description><![CDATA[Мы находимся на более быстром цикле релиза в эти дни, так что  в посте также есть грубая дорожная карта о том, что ожидать от следующих нескольких релизов.    представленный   /u/wheatBread    [link]&gt;]]></description>
+      <description><![CDATA[В наши дни мы находимся на более быстром цикле релиза, поэтому  в посте также есть грубая дорожная карта о том, чего ожидать от следующих нескольких релизов.    представленный   /u/wheatBread   [link]&gt;]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wy7in8/another_step_towards_elm_10/</guid>
       <pubDate>Mon, 05 Oct 2026 12:40:32 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>Красный, зеленый и грязь: фиксация смешивания цветов в Total Draw</title>
       <link>https://www.reddit.com/r/programming/comments/1wxd33z/red_green_and_mud_fixing_color_mixing_in_total/</link>
-      <description><![CDATA[ Я пошел в немного кроличью нору гамма-ориентированного цветового смешивания против линейного цветового смешивания против перцептивного цветового смешивания для моего приложения для рисования Total Draw, поэтому я решил создать сообщение в блоге об этом.    представлено   /u/Rupour    [link] [comments]]]></description>
+      <description><![CDATA[ Я пошел в немного кроличью нору гамма-базного цветового смешивания против линейного цветового смешивания против перцептивного цветового смешивания для моего приложения для рисования Total Draw, поэтому я решил создать сообщение в блоге об этом.    представлено   /u/Rupour    [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wxd33z/red_green_and_mud_fixing_color_mixing_in_total/</guid>
       <pubDate>Sun, 04 Oct 2026 11:08:30 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Sat, 03 Oct 2026 22:53:29 GMT</pubDate>
     </item>
     <item>
-      <title>От SSH до REST: Модернизация EMR-данных Slack</title>
+      <title>От SSH к REST: Модернизация EMR-данных Slack</title>
       <link>https://www.reddit.com/r/programming/comments/1wx02m9/from_ssh_to_rest_a_securitydriven_modernization/</link>
       <description><![CDATA[  представлено    /u/Ok Stomach6651   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wx02m9/from_ssh_to_rest_a_securitydriven_modernization/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[  представлено    /u/Comfortable-Fan-580   [link] [comments&gt;]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wwfp40/skip_list_data_structure/</guid>
       <pubDate>Sat, 03 Oct 2026 06:02:19 GMT</pubDate>
-    </item>
-    <item>
-      <title><input type="password" maxlength="20"> считается вредным, и почему я не смог войти в Vanguard</title>
-      <link>https://www.reddit.com/r/programming/comments/1ww842a/input_typepassword_maxlength20_is_considered/</link>
-      <description><![CDATA[  представлено    /u/tanin47     [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ww842a/input_typepassword_maxlength20_is_considered/</guid>
-      <pubDate>Fri, 02 Oct 2026 23:14:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
