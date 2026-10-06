@@ -4,7 +4,7 @@
     <title>Новые материалы: opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>Субреддит для всего, что связано с открытым исходным кодом (для этого контекста мы выходим из определения открытого исходного кода здесь http://en.wikipedia.org/wiki/Open source)</description>
-    <lastBuildDate>Mon, 05 Oct 2026 19:44:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 01:41:11 GMT</lastBuildDate>
     <item>
       <title>Кусок либа в ржавчине, который в 20 раз быстрее</title>
       <link>https://www.reddit.com/r/opensource/comments/1wyfp9a/a_chunking_lib_in_rust_that_is_20x_faster/</link>
@@ -15,16 +15,9 @@
     <item>
       <title>Slate-ntfs: файловая система Rust NTFS с полной интеграцией файловой системы!</title>
       <link>https://www.reddit.com/r/opensource/comments/1wydntv/slatentfs_a_rust_ntfs_filesystem_with_full/</link>
-      <description><![CDATA[Привет всем! Как вы знаете, я уже опубликовал несколько проектов, таких как мой драйвер ТВ-тюнера. Я хотел бы показать вам мой самый амбициозный проект: slate-ntfs, драйвер ядра Rust NTFS! Прежде чем вы спросите, это не форк NTFS-3g или 7.1: это новая альтернативная реализация. Так чем же Slate-ntfs отличается от реализации ядра NTFS-3g и NTFS 3.1?   Прежде всего, Slate имеет более полную реализацию VFS, что позволяет Steam видеть драйверы изначально. Это означает, что Steam может видеть драйверы напрямую, без прямого вмешательства. User API: поставляется с API, чтобы легко получить драйвер производителя. Имеет поддержку Python, C и Rust.  Руст-драйвер, C-адаптер: может использоваться с ядрами до 5,15 при сохранении безопасности памяти.  Этот код также работает на ARM64 (не полностью протестирован)!  API пример (коротко, просто ради краткости): import ntfs utils GB = 1 000 000 000 def description(device): maker = device.manufacturer or &quot;неизвестный производитель&quot; model = device.model или &quot;неизвестная модель&quot; size = f&quot;{device). size bytes / GB:.1f} GB&quot;, если устройство.use bytes не является None: size = f&quot;{device.use bytes / GB:.1f} {size} used&quot;, state = &quot;dirty&quot;, if device.is dirty else &quot;clean&quot;, return f&quot;{device.path}: {maker} {model}, {size}, {state}&quot;   Также с менеджером разрешений легко настраивать разрешения. Ubuntu и предварительно созданные пакеты Mint доступны для вашего удобства.  Водитель полностью функциональный (чтение и письмо, кажется, работают хорошо), а также инструмент ntfs-chkdsk. Я работаю над дальнейшими улучшениями совместимости. Предупреждение: хотя этот драйвер был протестирован на Ubuntu и, кажется, работает хорошо, поддержка является экспериментальной. Избегайте использования с производственной машиной! Источник: https://github.com/NullMagic2/slate-ntfs Выпуски: https://github.com/NullMagic2/slate-ntfs/releases    представлено    /u/Substantial Swan 144   ]]></description>
+      <description><![CDATA[Привет всем! Как вы знаете, я уже опубликовал несколько проектов, таких как мой драйвер ТВ-тюнера. Я хотел бы показать вам мой самый амбициозный проект: slate-ntfs, драйвер ядра Rust NTFS! Прежде чем вы спросите, это не форк NTFS-3g или 7.1: это новая альтернативная реализация. Так чем же Slate-ntfs отличается от реализации ядра NTFS-3g и NTFS 3.1?   Прежде всего, Slate имеет более полную реализацию VFS, что позволяет Steam видеть драйверы изначально. Это означает, что Steam может видеть драйверы напрямую, дополнительную конфигурацию. User API: поставляется с API, чтобы легко получить драйвер производителя. Имеет поддержку Python, C и Rust.  Руст-драйвер, C-адаптер: может использоваться с ядрами до 5,15 при сохранении безопасности памяти.  Этот код также работает на ARM64 (не полностью протестирован)!  API пример (коротко, просто ради краткости): import ntfs utils GB = 1 000 000 000 def description(device): maker = device.manufacturer or &quot;неизвестный производитель&quot; model = device.model или &quot;неизвестная модель&quot; size = f&quot;{device). size bytes / GB:.1f} GB&quot;, если устройство.use bytes не является None: size = f&quot;{device.use bytes / GB:.1f} {size} used&quot;, state = &quot;dirty&quot;, if device.is dirty else &quot;clean&quot;, return f&quot;{device.path}: {maker} {model}, {size}, {state}&quot;   Также с менеджером разрешений легко настраивать разрешения. Ubuntu и предварительно созданные пакеты Mint доступны для вашего удобства.  Водитель полностью функциональный (чтение и письмо, кажется, работают хорошо), а также инструмент ntfs-chkdsk. Я работаю над дальнейшими улучшениями совместимости. Предупреждение: хотя этот драйвер был протестирован на Ubuntu и, кажется, работает хорошо, поддержка является экспериментальной. Избегайте использования с производственной машиной! Источник: https://github.com/NullMagic2/slate-ntfs Выпуски: https://github.com/NullMagic2/slate-ntfs/releases    представлено    /u/Substantial Swan 144   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1wydntv/slatentfs_a_rust_ntfs_filesystem_with_full/</guid>
       <pubDate>Mon, 05 Oct 2026 16:51:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Чтобы противостоять изменениям в корпоративном дизайне, я создал расширение с открытым исходным кодом, которое замораживает более 170 популярных сайтов в 2019 году.</title>
-      <link>https://www.reddit.com/r/opensource/comments/1wychj9/to_push_back_against_corporate_design_changes_i/</link>
-      <description><![CDATA[ Каждые несколько месяцев сайты, с которыми мы ознакомились, обновляются без нашего участия. В один прекрасный день шорты YouTube пересекают все каналы, а на следующий день появляется ИИ, готовый обобщить каждый пост. В ответ я сделал расширение Chrome, которое замораживает дизайн сайта в то время, когда он чувствовал себя более функциональным. Он бесплатный, локальный, с открытым исходным кодом, ненавязчивый и адаптированный для 170+ самых популярных веб-сайтов. Это своего рода идея использования old.reddit.com применяется ко всем другим сайтам, которые вы используете. Хотите сохранить современные функции на некоторых сайтах? Вы можете переключать расширение только для работы над некоторыми из них.  Рекомендовать веб-сайты / проблемы с отчетами: https://github.com/PigeonFlare/net19/issues Попробуйте сами: /u/Cow Fam   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1wychj9/to_push_back_against_corporate_design_changes_i/</guid>
-      <pubDate>Mon, 05 Oct 2026 16:06:09 GMT</pubDate>
     </item>
     <item>
       <title>Бесплатный ASO CLI с открытым исходным кодом: популярность ключевых слов, сложность и отслеживание рангов</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[ Около десяти лет назад я пытался создать альтернативу Google, используя Dewey Decimal System для группировки веб-доменов по темам. Мое видение состояло в том, что веб-сайт был библиотекой, а домены — отдельными книгами. Рейтинги представляли собой смесь репутации домена и культурного значения.  OCLC очень защищает свой IP и любит подавать в суд. Излишне говорить, что мой проект был закрыт еще до того, как сошел с земли. Я работаю над возрождением проекта в рамках новой системы классификации (The Open Categorization System) и хотел бы получить любую помощь. С проектом можно ознакомиться здесь: https://github.com/ki4jgt/Open-Catalog-System    представлено   /u/ki4jgt   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1wvg54l/introducing_the_open_categorization_system/</guid>
       <pubDate>Fri, 02 Oct 2026 00:43:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Выпущен Plembfin v1.3.1</title>
+      <link>https://www.reddit.com/r/opensource/comments/1wvd4lx/plembfin_v131_released/</link>
+      <description><![CDATA[  представлено   /u/Lasikie    [link] [comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1wvd4lx/plembfin_v131_released/</guid>
+      <pubDate>Thu, 01 Oct 2026 22:23:47 GMT</pubDate>
     </item>
     </channel>
 </rss>

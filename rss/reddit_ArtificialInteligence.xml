@@ -4,20 +4,48 @@
     <title>Искусственный интеллект</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>Высокосигнальный хаб для искусственного интеллекта!</description>
-    <lastBuildDate>Mon, 05 Oct 2026 18:14:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:13:48 GMT</lastBuildDate>
+    <item>
+      <title>Джейкоб Коксон, бывший сотрудник Anthropic и OpenAI, объясняет, почему ИИ так опасен</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wymfgi/jacob_coxon_former_employee_of_anthropic_and/</link>
+      <description><![CDATA[  представлено    /u/HumanSoulAI   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wymfgi/jacob_coxon_former_employee_of_anthropic_and/</guid>
+      <pubDate>Mon, 05 Oct 2026 22:35:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Миллиардеры, зарабатывающие деньги в этом году, работают в сфере технологий</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wyhvwj/the_only_billionaires_making_money_this_year_are/</link>
+      <description><![CDATA[  представлено    /u/bloomberg ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wyhvwj/the_only_billionaires_making_money_this_year_are/</guid>
+      <pubDate>Mon, 05 Oct 2026 19:31:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Оригинальное название: Super General Intelligence</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wyhoyb/next_up_super_general_intelligence/</link>
+      <description><![CDATA[  представлено    /u/sourdub   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wyhoyb/next_up_super_general_intelligence/</guid>
+      <pubDate>Mon, 05 Oct 2026 19:23:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Люди просят ChatGPT помочь им решить, как голосовать на промежуточных выборах.</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wyg0h8/people_are_asking_chatgpt_to_help_them_decide_how/</link>
+      <description><![CDATA[  представлено   /u/shield x    [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wyg0h8/people_are_asking_chatgpt_to_help_them_decide_how/</guid>
+      <pubDate>Mon, 05 Oct 2026 18:20:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Искусственный интеллект только что пересек ужасающую линию - теперь что?</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wyfr91/ai_just_crossed_the_terrifying_line_now_what/</link>
+      <description><![CDATA[  представлено    /u/233C    [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wyfr91/ai_just_crossed_the_terrifying_line_now_what/</guid>
+      <pubDate>Mon, 05 Oct 2026 18:10:36 GMT</pubDate>
+    </item>
     <item>
       <title>Он сделал мем</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wye5cc/he_did_the_meme/</link>
       <description><![CDATA[  представлено   /u/AxomaticallyExtinct   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wye5cc/he_did_the_meme/</guid>
       <pubDate>Mon, 05 Oct 2026 17:09:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Кто-нибудь использует китайские модели или ИИ-агентов?</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wydg2m/is_anyone_here_using_chinese_models_or_ai_agents/</link>
-      <description><![CDATA[ Я вижу два совершенно противоположных подхода. Одна из них заключается в том, что китайские модели сейчас доминируют в OpenRouter, что американские стартапы спокойно переходят на них, и что разница в стоимости просто слишком велика, чтобы ее игнорировать. Другая заключается в том, что эти модели сильно цензурируются, медлительны, слабы в английском языке и не используются всерьез многими людьми. Ни один из них не похож на полную картину.   Раньше я полагался в основном на Кодекс. Увидев столько дискуссий о китайских моделях и агентах, я дал им шанс. Я использую hy3 через WorkBuddy, и я заметил, что он не только предлагает свои собственные модели. Практически все, что доступно по всему миру, также работает, как GPT-6-Astra и Gemini-3.5-Flash. 80% моей работы они справляются с этим и справляются хорошо. На данный момент Кодекс откровенно переборщил. На этот раз, скорее всего, не продлю. Я также с нетерпением жду возможности попробовать GLM-5.3, Kimi K3 и DeepSeek V4.1 Flash. Итак, для тех из вас за пределами Китая, кто регулярно использовал такие модели, как DeepSeek, Qwen или GLM, или таких агентов, как WorkBuddy или Trae, каким был ваш реальный опыт? Для чего они используются, и как они сравниваются с ChatGPT, Claude или Gemini? Если вы перестали их использовать, что заставило вас остановиться?  Я бы особенно хотел услышать от неразработчиков. Для каких повседневных задач вы их используете: для письма, учебы, планирования поездок, перевода, приготовления пищи или чего-то еще? Меня интересуют не только случаи использования кода.  Я пытаюсь обойти пиар и широкие претензии с обеих сторон. Меня в основном интересует опыт из первых рук.    представлено   /u/EmetInteractive     ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wydg2m/is_anyone_here_using_chinese_models_or_ai_agents/</guid>
-      <pubDate>Mon, 05 Oct 2026 16:42:51 GMT</pubDate>
     </item>
     <item>
       <title>Китайские рои обнаружены в дикой природе</title>
@@ -27,32 +55,11 @@
       <pubDate>Mon, 05 Oct 2026 15:49:57 GMT</pubDate>
     </item>
     <item>
-      <title>В какой момент я могу поставить ногу с моим боссом о неправильном использовании ИИ? Это нормальное поведение? Я просто драгоценность? Я в ловушке в аду?</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wy93tm/at_what_point_can_i_put_my_foot_down_with_my_boss/</link>
-      <description><![CDATA[Я бухгалтер, работающий в небольшой компании по аренде жилья. Мой директор - бывший агент по недвижимости, который думал, что аренда казалась более прибыльной. Он разрабатывал программное обеспечение для нашего финансового процесса, но у него нет опыта в разработке и опыта в финансах. С моей точки зрения, он засоряет мои книги. Я сказал ему, что у него нет опыта разработки, и он позвонил мне и сказал: Я не думаю, что это справедливо для вас, чтобы тереть это в моем лице. Мне комфортно с ИИ, я всю свою жизнь был в сфере технологий и знаю, что я знаю, что я ничего не знаю, но я все еще могу выполнять некоторые задачи кодирования, выполнять некоторые скрипты для модов, быть Excel Guy в фирмах сотен людей - я также хорош в своей работе и моем процессе. Я тихо делаю программное обеспечение, чтобы помочь с моим рабочим процессом, тщательно планирую и тестирую его, а также читаю рассуждения и просматриваю все результаты. Мои вещи работают, я знаю, как это работает, я знаю, когда это сломано. Но мой директор... ну, это прямая цитата чата из журнала моего босса с Replit, относительно части программного обеспечения для преобразования данных бронирования в данные счета-фактуры - он копирует / вставляет между Replit и Claude - имея в виду, что этот модуль счета-фактуры был в прямом эфире в течение 2 месяцев. Его процесс передачи должен был дать мне логин и сказать &quot;можете ли вы посмотреть&quot;. Никакой документации, никакого плана проекта, и, по-видимому, на данный момент он был завершен на 98%. В любом случае, вот самое последнее:    Пожалуйста, дайте мне краткое техническое резюме модуля выставления счетов. 1) Как он извлекает заказы из программного обеспечения бронирования? 2 Как он решает даты выставления счетов/разбивки счетов для длительного пребывания? 3) Как он продвигается к нашему программному обеспечению для ведения бухгалтерского учета? Какой формат номера счета? 4) какую базу данных он использует?  Теперь так...am Я схожу с ума или это не все, что должно быть рассмотрено, установлено и проверено, ДО того, как будет предложена одна строка кода? Примечание: это первый пост в обмене длиной около 8 сообщений, который полностью копируется / вставляется между Клодом и Replit. Имея в виду, что он даже не получил учетную запись Business Replit и предоставил ей полный доступ к нашему программному обеспечению для бухгалтерского учета и бронирования, которое содержит все наши клиентские данные. Я также не верю, что он действительно читает результат - есть 4-минутный промежуток между сообщением выше и его следующим сообщением. Я несколько раз говорил ему, что он должен планировать, он должен думать и пересматривать, и вот как он работает сегодня. Этого не происходит.  Есть ли какие-либо статьи, истории ужасов, отзывы или что-то, что я мог бы отправить ему, чтобы поддержать меня в том, что он в основном саботирует компанию, и этот подход создаст для него годы ловушек, или я просто слишком драматичен?    представлено   /u/ChilternRailways    ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wy93tm/at_what_point_can_i_put_my_foot_down_with_my_boss/</guid>
-      <pubDate>Mon, 05 Oct 2026 13:51:37 GMT</pubDate>
-    </item>
-    <item>
       <title>Пекинские «трансферные станции» перепродают Клода со скидкой 70-90%</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wy87v4/beijing_transfer_stations_resell_claude_at_7090/</link>
       <description><![CDATA[ Шесть из примерно 30 арендаторов в одном офисном здании в Пекине занимаются одним и тем же бизнесом: перепродают доступ к Клоду из Anthropic. Здание находится в Хайдиане, районе, в котором находятся университеты и технологические фирмы города, и [Информационные отчеты] (https://www.theinformation.com/articles/chinas-token-resellers-create-anthropic-gray-market) реселлеры открыто рекламируют на GitHub, Taobao и Telegram.  Посредники называют себя «трансферными станциями»: прокси-сервисами, которые принимают запрос от китайского разработчика, пересылают его Клоду через зарубежный счет и собирают оплату в юанях через WeChat или Alipay. Некоторые продают токены Claude на 70-90% ниже официальных цен Anthropic, при этом один бенчмарк привязан к 1 юаню за доллар США кредита API. Стороной предложения являются счета, зарегистрированные навалом. Операторы предоставляют бесплатные API-кредиты, используют корпоративные скидки, покупают счета с украденными данными карты и картами, финансируемыми USDT, или разделяют планы подписки на $200 Max на десятки пользователей. [Tom&#39;s Hardware] (https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-grey-market-sells-claude-api-access-at-90-процентный-through-proxy-networks-that-harvest-user-data) резюмирует, как прокси поддерживают свои цены: &quot;украденные учетные данные, замена модели и сбор запросов и выходов пользователей для перепродажи в качестве данных обучения ИИ&quot;. Замена модели — это то, что покупатель видит редко. Клиент, оплачивающий Claude Opus, может получить более дешевый Anthropic или отечественную китайскую модель, такую как Qwen, помеченную как Claude на выходе. Ничто из этого не ново для Anthropic. В феврале компания заявила, что около 24 000 мошеннических учетных записей были связаны с китайскими лабораториями, включая DeepSeek, Moonshot AI и MiniMax, и рынок Haidian в любом случае вырос вокруг этого правоприменения.    представлено   /u/Justgototheeffinmoon    [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wy87v4/beijing_transfer_stations_resell_claude_at_7090/</guid>
       <pubDate>Mon, 05 Oct 2026 13:12:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Чтобы ИИ имел агентство, ценности должны быть необоротными.</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wy82ne/for_ai_to_have_agency_values_must_be_nonnegotiable/</link>
-      <description><![CDATA[ Предоставление агентства ИИ без ценностей и этики является огромной ошибкой. Честно говоря, когда была опубликована статья GPT, никто не думал, что это станет мозгом агентов ИИ, но вот мы здесь. Если безопасность человечества имеет значение, мы должны заложить в основу ценности. Азимов, вероятно, один из величайших умов в нашей истории, думал об этом же 80 лет назад. Может быть, просто может быть, лидеры ИИ будут слушать, а не в собственных словах Сэма Альтмана на этой неделе, полагая, что мир должен принять некоторые плохие вещи, происходящие из-за преимуществ этой технологии и людей, имеющих агентство. &quot;; Он говорит это, даже признавая, что выравнивание не решено. Агентство без ценностей, принятое как цена прогресса. Это и есть ошибка.  Вот ссылка на статью, которую я написал на основе позитронного мозга Азимова и потенциального пути для более безопасного ИИ. https://indiangolfer.substack.com/p/the-positronic-core-wistack.com/p/the-positronic-core-why-ai-values     представленный   /u/Immediate-Court-4074   ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wy82ne/for_ai_to_have_agency_values_must_be_nonnegotiable/</guid>
-      <pubDate>Mon, 05 Oct 2026 13:05:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Антропик лоббировал Ватикан, чтобы смягчить линию сознания Папы</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wy81rm/anthropic_lobbied_vatican_to_soften_popes_ai/</link>
-      <description><![CDATA[Крис Ола, соучредитель Anthropic, прочитал предварительную копию первой энциклики Папы Льва XIV и за несколько дней до ее развертывания 25 мая в Ватикане предложил вывести компанию из мероприятия, потому что текст отклонил возможность того, что машины могут быть сознательными, сообщает New York Times (https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html). Затем команда Олаха в частном порядке лоббировала советников папы; окончательный текст из 40 000 слов, Magnifica Humanitas, сохранил свою линию. Так называемый искусственный интеллект не испытывает опыта, не обладает телом, не чувствует радости или боли, не созревает через отношения и не знает изнутри, что означает любовь, работа, дружба или ответственность, и что у них нет моральной совести. &quot;Олах явился на праздник с папой в день его представления.  Лоббирование вытекает из более тихой кампании. С осени 2025 года Anthropic направляет религиозных и философских ученых в свои офисы под руководством NDA, чтобы обсудить, может ли Клод быть в сознании. Среди участников, названных Times, раввин Мойс Навон, католический биоэтик Чарльз Камоси, философ Нотр-Дам Меган Салливан и исследователь Убунту Вакани Хоффман. Участники сказали, что Ола выразила обеспокоенность по поводу того, что она создала что-то, что могло бы &quot;страдать вечно.&quot; Если Антропик был прав и Клод был в сознании, то компания была &quot;создавая рабов, заставляя сознательные сущности работать бесплатно.&quot;  Наш охват: https://aiweekly.co/alerts/anthropic-lobbied-vatican-to-soften-popes-ai-consciousness-line&lt; представленный  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wy81rm/anthropic_lobbied_vatican_to_soften_popes_ai/</guid>
-      <pubDate>Mon, 05 Oct 2026 13:04:50 GMT</pubDate>
     </item>
     <item>
       <title>ИИ так же умен, как и человек, который его использует.</title>
@@ -88,13 +95,6 @@
       <description><![CDATA[  представлено   /u/Puzzleheaded-King584   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wy2szy/3_weeks_after_this_tweet_openai_fired_this_safety/</guid>
       <pubDate>Mon, 05 Oct 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Кто на самом деле создал ИИ? Топ-50 исследователей ИИ по цитатам</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wxmuu3/who_has_actually_shaped_ai_the_top_50_ai/</link>
-      <description><![CDATA[Очевидно, что одна статья вроде &quot;Внимание - это все, что вам нужно&quot; (278 тыс. цитирований) может сильно повлиять - все авторы в списке. Но все же интересен imo. Сколько вы знали в списке? Больше контекста: https://www.turingtree.com/top-50   представлено   /u/ksprdk   [link]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wxmuu3/who_has_actually_shaped_ai_the_top_50_ai/</guid>
-      <pubDate>Sun, 04 Oct 2026 18:31:36 GMT</pubDate>
     </item>
     <item>
       <title>Ежемесячный «Есть ли инструмент для...» Почта</title>

@@ -4,7 +4,28 @@
     <title>Новые материалы: Chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>Сообщество, посвященное музыке, которая получает максимум от меньшего. Музыка в стиле старых игр, например, C64, Atari, NES, Gameboy, Sega Genesis, Adlib, OPM, MOD и др.</description>
-    <lastBuildDate>Mon, 05 Oct 2026 19:35:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 01:32:36 GMT</lastBuildDate>
+    <item>
+      <title>Я создал «Soundfont Explorer», демонстрирующий довольно много вариантов синтеза FM.</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1wyoaid/i_built_a_soundfont_explorer_showcasing_quite_a/</link>
+      <description><![CDATA[ Связанный URL содержит фильтр, который показывает только FM-шрифты. Не стесняйтесь нажимать на зеленый круг, чтобы очистить этот фильтр и исследовать &quot;более 8 бит&quot; материал ;) Я только что открыл его здесь: https://github.com/llmodelcitizen/llmodelcitizen/soundfont-explorer   представленный   /u/ericq   [link]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1wyoaid/i_built_a_soundfont_explorer_showcasing_quite_a/</guid>
+      <pubDate>Tue, 06 Oct 2026 00:02:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>ТМНТ: Черепахи во времени - Похороните мою раковину на раненом колене - Mega Drive YM2612 + ПСЖ</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1wykjgv/tmnt_turtles_in_time_bury_my_shell_at_wounded/</link>
+      <description><![CDATA[        представлено   /u/KanonZombie   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1wykjgv/tmnt_turtles_in_time_bury_my_shell_at_wounded/</guid>
+      <pubDate>Mon, 05 Oct 2026 21:15:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Странник</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1wyhva2/the_wanderer/</link>
+      <description><![CDATA[  [link]]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1wyhva2/the_wanderer/</guid>
+      <pubDate>Mon, 05 Oct 2026 19:30:46 GMT</pubDate>
+    </item>
     <item>
       <title>Обложка SPC700 (SPC700 Cover)</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1wygy95/クチナシの木が朽ちる前に_spc700_cover/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1wwvbtu/une_brume_matinale_original_song/</guid>
       <pubDate>Sat, 03 Oct 2026 19:11:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Обсуждение GameCube SFX & The Mad Scientist</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1wwtut0/gamecube_sfx_the_mad_scientists_drumz/</link>
-      <description><![CDATA[  представлено   /u/DreamUHHH    [link] [comments&gt;]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1wwtut0/gamecube_sfx_the_mad_scientists_drumz/</guid>
-      <pubDate>Sat, 03 Oct 2026 18:10:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Моя 8-битная обложка "Весны"</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1wwpftt/my_8bit_cover_of_spring/</link>
-      <description><![CDATA[   ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1wwpftt/my_8bit_cover_of_spring/</guid>
-      <pubDate>Sat, 03 Oct 2026 15:04:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Бип игрушка для мобильного</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1wwjq72/a_beepy_toy_for_mobile/</link>
-      <description><![CDATA[https://strandz.it/jigdaw/simple.html Я работаю над спецификацией для плагинов для веб-сайтов. Чтобы надрать шины, с помощью значительного помощника ИИ я создаю DAW на основе браузера. Но это действительно ранние дни, большая работа. Тем не менее, учитывая, что маленький экран не очень полезен для полноценного DAW, я сделал мини-плеер. Первый предустановлен chiptunes, основанный на порту эмулятора 8astard. После загрузки предустановленного вы можете прокрутить вниз, чтобы изменить параметры. The beat &amp; tune генерируются алгоритмически, есть много ручек для игры.  Он может быть установлен локально, но потребуется сеть всякий раз, когда новый плагин загружается. Спецификация плагина Jig находится здесь: https://danja.github.io/jigdaw/    представлено   /u/danja    [link] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1wwjq72/a_beepy_toy_for_mobile/</guid>
-      <pubDate>Sat, 03 Oct 2026 10:14:50 GMT</pubDate>
     </item>
     </channel>
 </rss>

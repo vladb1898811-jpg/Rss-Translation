@@ -4,7 +4,49 @@
     <title>Новые материалы: программное обеспечение</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>Все, что связано с программным обеспечением. Пожалуйста, следуйте нашим правилам, чтобы избежать наказания.</description>
-    <lastBuildDate>Mon, 05 Oct 2026 19:28:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 01:25:20 GMT</lastBuildDate>
+    <item>
+      <title>Ищете необходимые FOSS для каждого компьютера</title>
+      <link>https://www.reddit.com/r/software/comments/1wymp91/looking_for_musthave_foss_for_every_computer/</link>
+      <description><![CDATA[ Я уже использую довольно много приложений с открытым исходным кодом, но я хочу найти гораздо больше во всех категориях и рабочих процессах. Каковы ваши основные рекомендации?    представлено   /u/Jotassss   [link]&gt;   [comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wymp91/looking_for_musthave_foss_for_every_computer/</guid>
+      <pubDate>Mon, 05 Oct 2026 22:48:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Build a Clean - Smoove Notchbar для Windows с кучей полезных функций</title>
+      <link>https://www.reddit.com/r/software/comments/1wym2h8/i_build_a_clean_smoove_notchbar_for_windows_with/</link>
+      <description><![CDATA[ Я не знаю, все остальные Нотчбары для Windows не были моим вкусом, казалось, не имели никаких функций или стоили денег. Теперь я построил этот Notchbar, который имеет множество функций и предлагает чистый, плавный дизайн. Он хорошо работает и сочетает в себе множество инструментов.  Внутри: музыкальные элементы управления с живым эквалайзером, хранилище для паролей и кодов 2FA, живая погода, ваши звонки Discord, ваше портфолио, чат AI (Claude, ChatGPT и многое другое) с вашими ограничениями использования, история буфера обмена, полка файлов, конвертер файлов и блоков, таймеры, дос и заметки, живая аппаратная статистика с FPS для игр и точки конфиденциальности для микрофона, камеры и записи экрана.  Github Repo: https://github.com/L4-Windows-NotchBar - Все еще в бета-версии и открыт для большего количества идей и запросов функций. Люблю делать этот инструмент слишком многократным использованием в одном простом Notch Лучшее предпросмотр на Github с видео    представлено   /u/No-Background3147   [link][comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wym2h8/i_build_a_clean_smoove_notchbar_for_windows_with/</guid>
+      <pubDate>Mon, 05 Oct 2026 22:19:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>OBS записал час молчания на мой лучший клип, поэтому я сделал инструмент, который предупреждает меня, когда это произойдет.</title>
+      <link>https://www.reddit.com/r/software/comments/1wyl9co/obs_recorded_an_hour_of_silence_on_my_best_clip/</link>
+      <description><![CDATA[  представлено    /u/Alukkart1   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wyl9co/obs_recorded_an_hour_of_silence_on_my_best_clip/</guid>
+      <pubDate>Mon, 05 Oct 2026 21:45:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Plextor Premium 2 — сканирование ошибок C1/C2 на компакт-дисках под Win10</title>
+      <link>https://www.reddit.com/r/software/comments/1wyivpk/plextor_premium_2_c1c2_error_scanning_on_cds/</link>
+      <description><![CDATA[  представлено    /u/000q     [link] [comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wyivpk/plextor_premium_2_c1c2_error_scanning_on_cds/</guid>
+      <pubDate>Mon, 05 Oct 2026 20:09:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Деинсталляция McAfee</title>
+      <link>https://www.reddit.com/r/software/comments/1wyi1lk/mcafee_deinstallation/</link>
+      <description><![CDATA[  представлено   /u/memoric89    [link] ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wyi1lk/mcafee_deinstallation/</guid>
+      <pubDate>Mon, 05 Oct 2026 19:37:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Загрузчик медиа</title>
+      <link>https://www.reddit.com/r/software/comments/1wyhvpd/media_downloader/</link>
+      <description><![CDATA[ Любой бесплатный альтернативный видеозагрузчик для менеджера загрузки муравьев или idm-загрузчика.     представленный   /u/Puzzleheaded-88   ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1wyhvpd/media_downloader/</guid>
+      <pubDate>Mon, 05 Oct 2026 19:31:11 GMT</pubDate>
+    </item>
     <item>
       <title>С ИИ барьер для входа рушится: какие проекты по-прежнему имеют ценность?</title>
       <link>https://www.reddit.com/r/software/comments/1wyff0x/with_ai_the_barrier_to_entry_is_collapsing_which/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[ Я продолжал сталкиваться с одной и той же проблемой: кто-то отправляет PDF, и мне нужно знать, действительно ли это A4, будь то поля 15 мм или как далеко друг от друга находятся две вещи. Инструмент измерения Acrobat неуклюжий, и большинство онлайн-инструментов требуют загрузки. Так что я создал PdfRuler. Вы открываете PDF и получаете реальные линейки в мм, см, дюймах, точках или px. Несколько вещей, которые мне понравились:  Наведите курсор для точного X/Y, нажмите две точки для длины, поперечной, нижней и угловой  - Один ключ (A) читает инструкции по рисованию страницы и размер каждой коробки. Он использует векторные данные, а не пиксели, поэтому карта 61 x 91 мм читает 61 x 91 мм  - Удары по краям, уровень замков Shift или сантехника, направляющие вытаскивают из линейки  - Те же показания при 50% или 500% зум, потому что все рассчитывается в точках PDF  - Сохраните копию с нарисованными на ней измерениями   Все работает на стороне клиента. Нет загрузки, нет аккаунта, ничего не хранится. На посадочной странице есть демо-версия, на которую вы можете нажать без PDF. Link: https://p&gt;      представлено   /u/mutantstroke    [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1wyank4/i_got_tired_of_guessing_pdf_sizes_so_i_built_a/</guid>
       <pubDate>Mon, 05 Oct 2026 14:55:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Что происходит с моим Э! (Adobe After Effects)</title>
-      <link>https://www.reddit.com/r/software/comments/1wyafml/what_is_happening_to_my_ae_adobe_after_effects/</link>
-      <description><![CDATA[Мне нужно решение или объяснение     представлено   /u/Full Recognition4830   [link]&gt;]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wyafml/what_is_happening_to_my_ae_adobe_after_effects/</guid>
-      <pubDate>Mon, 05 Oct 2026 14:46:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Любой бесплатный просмотрщик / редактор pdf, который позволяет подписывать документы с помощью сертификата?</title>
-      <link>https://www.reddit.com/r/software/comments/1wy96oh/any_free_pdf_viewereditor_that_lets_you_sign/</link>
-      <description><![CDATA[В частности, программное обеспечение, которое позволяет подписывать pdf-документы с использованием квалифицированной подписи ЕС (QES).     представлено   /u/Training Ball 3345    [link]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wy96oh/any_free_pdf_viewereditor_that_lets_you_sign/</guid>
-      <pubDate>Mon, 05 Oct 2026 13:55:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Бесплатный редактор PDF для добавления текста?</title>
-      <link>https://www.reddit.com/r/software/comments/1wy8orz/any_free_pdf_editor_to_add_text/</link>
-      <description><![CDATA[ Все те, которые я видел, нуждаются в пробной версии, даже когда я ищу бесплатно, если я хочу редактировать текст     представленный   /u/Fair Ambition6522   ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wy8orz/any_free_pdf_editor_to_add_text/</guid>
-      <pubDate>Mon, 05 Oct 2026 13:33:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>ALTRun - пусковая установка в стиле Альфреда для Windows, полностью написанная в AutoHotkey v2 (с открытым исходным кодом <1 МБ)</title>
-      <link>https://www.reddit.com/r/software/comments/1wy7sib/altrun_an_alfredstyle_launcher_for_windows/</link>
-      <description><![CDATA[  представлено   /u/zhugecaomao    [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wy7sib/altrun_an_alfredstyle_launcher_for_windows/</guid>
-      <pubDate>Mon, 05 Oct 2026 12:53:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Необходимый инструмент питания для Google Drive</title>
-      <link>https://www.reddit.com/r/software/comments/1wy6bhc/much_needed_power_tool_for_google_drive/</link>
-      <description><![CDATA[Просто предупреждение для пользователей iOS Google. «TYR - Cloud Power Tool» находится на AppStore и может переименовывать и устанавливать значения метаданных на файлах оптом. Это намного проще, чем делать один файл за раз. ☺️  https://apps.apple.com/dk/app/tyr-the-cloud-power-tool/id6771096351?l=da    представлено   /u/GoDoAttitude    ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wy6bhc/much_needed_power_tool_for_google_drive/</guid>
-      <pubDate>Mon, 05 Oct 2026 11:39:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Нужно проверить, что этот новый менеджер буфера обмена делает иначе, чем все остальные.</title>
-      <link>https://www.reddit.com/r/software/comments/1wy58pm/need_to_check_out_what_this_new_clipboard_manager/</link>
-      <description><![CDATA[Я был поражен этой простой идеей, потому что я провожу так много времени на моем компьютере, копируя вещи.  Поэтому я создал простое приложение под названием clipten, которое позволяет копировать и вставлять нормально, но без открытия менеджера буфера обмена или поиска по истории буфера обмена.  Ваши клавиши становятся слотами для буфера обмена — просто используйте   + C / V + номер.  У вас может быть до 11 слотов для копирования.     представлено   /u/Good Barracuda8259   [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1wy58pm/need_to_check_out_what_this_new_clipboard_manager/</guid>
-      <pubDate>Mon, 05 Oct 2026 10:38:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
