@@ -4,7 +4,28 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Tue, 06 Oct 2026 12:53:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 16:29:50 GMT</lastBuildDate>
+    <item>
+      <title>Результаты StackOverflow Developer Survey 2026</title>
+      <link>https://www.reddit.com/r/programming/comments/1wz64oa/stackoverflow_developer_survey_results_2026/</link>
+      <description><![CDATA[  представлено   /u/sh tomer   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wz64oa/stackoverflow_developer_survey_results_2026/</guid>
+      <pubDate>Tue, 06 Oct 2026 15:51:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Проблема коммуникации</title>
+      <link>https://www.reddit.com/r/programming/comments/1wz5hwg/the_problem_of_communication/</link>
+      <description><![CDATA[ Статья о том, как совместное использование зависимостей и информации о ресурсах между компилятором, системой сборки, системным менеджером пакетов и даже файловой системой и планировщиком, может обеспечить некоторые довольно удивительные преимущества. Я хотел бы услышать чьи-либо мысли по этому     представлено   /u/realguy2300000   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wz5hwg/the_problem_of_communication/</guid>
+      <pubDate>Tue, 06 Oct 2026 15:26:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ключевая автомасштабирующая метрика #2 - Среднее время, чтобы перестать сосать</title>
+      <link>https://www.reddit.com/r/programming/comments/1wz5cxt/key_autoscaling_metric_2_mean_time_to_stop_sucking/</link>
+      <description><![CDATA[  представлено    /u/CircumspectCapybara   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wz5cxt/key_autoscaling_metric_2_mean_time_to_stop_sucking/</guid>
+      <pubDate>Tue, 06 Oct 2026 15:21:13 GMT</pubDate>
+    </item>
     <item>
       <title>ComfyUI v0.39.0 скачать</title>
       <link>https://www.reddit.com/r/programming/comments/1wyyuft/comfyui_v0390_released/</link>
@@ -29,7 +50,7 @@
     <item>
       <title>В распределенных системах нет «сейчас»</title>
       <link>https://www.reddit.com/r/programming/comments/1wyumm6/there_is_no_now_in_distributed_systems/</link>
-      <description><![CDATA[  представлено   /u/H chibaX   [link] [comments]]]></description>
+      <description><![CDATA[  представлено    /u/H chibaX   [link] [comments a&gt;]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wyumm6/there_is_no_now_in_distributed_systems/</guid>
       <pubDate>Tue, 06 Oct 2026 05:35:41 GMT</pubDate>
     </item>
@@ -43,7 +64,7 @@
     <item>
       <title>OSDI '26 - Incr: более быстрое повторное исполнение с помощью инкрементализации Bolt-On</title>
       <link>https://www.reddit.com/r/programming/comments/1wyjfbo/osdi_26_incr_faster_reexecution_via_bolton/</link>
-      <description><![CDATA[  представлено   /u/mttd   [link] [comments&gt;]]></description>
+      <description><![CDATA[  представлено    /u/mttd   [link] [comments&gt;]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wyjfbo/osdi_26_incr_faster_reexecution_via_bolton/</guid>
       <pubDate>Mon, 05 Oct 2026 20:31:11 GMT</pubDate>
     </item>
@@ -64,7 +85,7 @@
     <item>
       <title>Еще один шаг к Элм 1.0</title>
       <link>https://www.reddit.com/r/programming/comments/1wy7in8/another_step_towards_elm_10/</link>
-      <description><![CDATA[В наши дни мы находимся на более быстром цикле релиза, поэтому  в посте также есть грубая дорожная карта о том, чего ожидать от следующих нескольких релизов.    представленный   /u/wheatBread   [link]&gt;]]></description>
+      <description><![CDATA[Мы находимся на более быстром цикле релиза в эти дни, так что  в посте также есть грубая дорожная карта о том, что ожидать от следующих нескольких релизов.    представленный   /u/wheatBread    [link]&gt;]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wy7in8/another_step_towards_elm_10/</guid>
       <pubDate>Mon, 05 Oct 2026 12:40:32 GMT</pubDate>
     </item>
@@ -85,30 +106,9 @@
     <item>
       <title>Красный, зеленый и грязь: фиксация смешивания цветов в Total Draw</title>
       <link>https://www.reddit.com/r/programming/comments/1wxd33z/red_green_and_mud_fixing_color_mixing_in_total/</link>
-      <description><![CDATA[ Я пошел в немного кроличью нору гамма-базного цветового смешивания против линейного цветового смешивания против перцептивного цветового смешивания для моего приложения для рисования Total Draw, поэтому я решил создать сообщение в блоге об этом.    представлено   /u/Rupour    [link] [comments]]]></description>
+      <description><![CDATA[ Я пошел в немного кроличью нору гамма-ориентированного цветового смешивания против линейного цветового смешивания против перцептивного цветового смешивания для моего приложения для рисования Total Draw, поэтому я решил создать сообщение в блоге об этом.    представлено   /u/Rupour    [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wxd33z/red_green_and_mud_fixing_color_mixing_in_total/</guid>
       <pubDate>Sun, 04 Oct 2026 11:08:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Создание математической модели для лучших индийских клавиатур</title>
-      <link>https://www.reddit.com/r/programming/comments/1wx0bai/making_a_mathematical_model_for_better_indic/</link>
-      <description><![CDATA[  представлено   /u/ZoneZealousideal4073   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wx0bai/making_a_mathematical_model_for_better_indic/</guid>
-      <pubDate>Sat, 03 Oct 2026 22:53:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>От SSH к REST: Модернизация EMR-данных Slack</title>
-      <link>https://www.reddit.com/r/programming/comments/1wx02m9/from_ssh_to_rest_a_securitydriven_modernization/</link>
-      <description><![CDATA[  представлено    /u/Ok Stomach6651   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wx02m9/from_ssh_to_rest_a_securitydriven_modernization/</guid>
-      <pubDate>Sat, 03 Oct 2026 22:41:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Гибридное распределение ядра: от перераспределения до надежного совместного использования</title>
-      <link>https://www.reddit.com/r/programming/comments/1wwzeu7/hybrid_core_allocation_from_overallocation_to/</link>
-      <description><![CDATA[  представлено   /u/Ok Stomach6651   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wwzeu7/hybrid_core_allocation_from_overallocation_to/</guid>
-      <pubDate>Sat, 03 Oct 2026 22:09:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
