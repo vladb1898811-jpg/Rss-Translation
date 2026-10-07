@@ -4,20 +4,20 @@
     <title>Продуктовая охота — Лучшие продукты каждый день</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 07 Oct 2026 13:41:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 19:37:56 GMT</lastBuildDate>
     <item>
-      <title>Аура от Neural</title>
-      <link>https://www.producthunt.com/products/aura-by-neural</link>
+      <title>Рейка</title>
+      <link>https://www.producthunt.com/products/reika</link>
       <description><![CDATA[
-Превратите запросы в интерактивные интерфейсы на экране
+Кодирующий агент CLI, разработанный вокруг небольших локальных моделей
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/aura-by-neural</guid>
-      <pubDate>Wed, 07 Oct 2026 02:05:50 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/reika</guid>
+      <pubDate>Wed, 07 Oct 2026 03:36:08 GMT</pubDate>
     </item>
     <item>
       <title>DailyHub</title>
@@ -48,6 +48,20 @@
       <pubDate>Tue, 06 Oct 2026 18:54:11 GMT</pubDate>
     </item>
     <item>
+      <title>Компания Basedash Mobile</title>
+      <link>https://www.producthunt.com/products/basedash</link>
+      <description><![CDATA[
+Спрашивайте данные вслух прямо с вашего домашнего экрана.
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/basedash</guid>
+      <pubDate>Tue, 06 Oct 2026 16:38:41 GMT</pubDate>
+    </item>
+    <item>
       <title>Мистраль Большой 4</title>
       <link>https://www.producthunt.com/products/mistral-7b</link>
       <description><![CDATA[
@@ -76,24 +90,38 @@
       <pubDate>Tue, 06 Oct 2026 14:29:06 GMT</pubDate>
     </item>
     <item>
-      <title>Солнечный</title>
-      <link>https://www.producthunt.com/products/sunsed</link>
+      <title>Видеоредактор в Manus 2.0</title>
+      <link>https://www.producthunt.com/products/manus</link>
       <description><![CDATA[
-Создатель приложений ИИ использует проверенные детали, чтобы избежать сломанных сборок
+Теперь каждый может сделать видео достойной публикации
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/sunsed</guid>
-      <pubDate>Tue, 06 Oct 2026 07:48:03 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/manus</guid>
+      <pubDate>Tue, 06 Oct 2026 07:31:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>источник доказательств</title>
+      <link>https://www.producthunt.com/products/proofsource</link>
+      <description><![CDATA[
+Видимость поиска ИИ с агентами, которые устраняют пробелы
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/proofsource</guid>
+      <pubDate>Tue, 06 Oct 2026 05:51:24 GMT</pubDate>
     </item>
     <item>
       <title>Вреск</title>
       <link>https://www.producthunt.com/products/vresk</link>
       <description><![CDATA[
-Одно рабочее пространство ИИ, которое выбирает лучшую модель для каждой задачи
+Одно рабочее пространство ИИ, которое предлагает лучшие модели с открытым исходным кодом
 
 
 Обсуждение
@@ -102,20 +130,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/vresk</guid>
       <pubDate>Mon, 05 Oct 2026 22:47:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>IrisGo для солопренеров</title>
-      <link>https://www.producthunt.com/products/irisgo-public-beta</link>
-      <description><![CDATA[
-Автоматизация рабочего процесса ИИ: покажите один раз, пусть работает
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/irisgo-public-beta</guid>
-      <pubDate>Mon, 05 Oct 2026 22:45:07 GMT</pubDate>
     </item>
     <item>
       <title>Ванур</title>
@@ -132,60 +146,46 @@
       <pubDate>Mon, 05 Oct 2026 11:51:09 GMT</pubDate>
     </item>
     <item>
-      <title>Талия</title>
-      <link>https://www.producthunt.com/products/thalia</link>
+      <title>Флоу</title>
+      <link>https://www.producthunt.com/products/flowo-2</link>
       <description><![CDATA[
-Планируйте, одобряйте и просматривайте своего агента Muse Code на Mac
+Планировщик дня СДВГ, который перепланирует ваш день
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/thalia</guid>
-      <pubDate>Sat, 03 Oct 2026 16:05:22 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/flowo-2</guid>
+      <pubDate>Wed, 30 Sep 2026 00:08:15 GMT</pubDate>
     </item>
     <item>
-      <title>Genage 3.0</title>
-      <link>https://www.producthunt.com/products/genpage</link>
+      <title>Pegasus 1.6 от TwelveLabs</title>
+      <link>https://www.producthunt.com/products/twelvelabs</link>
       <description><![CDATA[
-Создание, персонализация и оптимизация целевых страниц с помощью ИИ
+Преобразует эгоцентричное видео в данные обучения роботов
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/genpage</guid>
-      <pubDate>Wed, 30 Sep 2026 18:17:55 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/twelvelabs</guid>
+      <pubDate>Tue, 29 Sep 2026 12:44:00 GMT</pubDate>
     </item>
     <item>
-      <title>Вибидо</title>
-      <link>https://www.producthunt.com/products/viibeo</link>
+      <title>Cinch - Напоминания и задачи</title>
+      <link>https://www.producthunt.com/products/cinch-reminders-tasks</link>
       <description><![CDATA[
-Один подсказка для публикации готовый безликий короткий
+Чистый менеджер задач для Apple Reminders
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/viibeo</guid>
-      <pubDate>Tue, 29 Sep 2026 19:55:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Руль</title>
-      <link>https://www.producthunt.com/products/rool</link>
-      <description><![CDATA[
-Ваш личный ИИ-машина. Файлы, идеи, ИИ в одном рабочем пространстве.
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/rool</guid>
-      <pubDate>Sun, 27 Sep 2026 01:59:00 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/cinch-reminders-tasks</guid>
+      <pubDate>Fri, 25 Sep 2026 10:31:01 GMT</pubDate>
     </item>
     <item>
       <title>Разработчик: Alkera</title>

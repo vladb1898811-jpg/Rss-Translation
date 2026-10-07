@@ -4,7 +4,49 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Wed, 07 Oct 2026 13:25:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 19:22:19 GMT</lastBuildDate>
+    <item>
+      <title>GitHelix — Ваша пожизненная деятельность GitHub как спираль</title>
+      <link>https://www.reddit.com/r/programming/comments/1x0541u/githelix_your_lifetime_github_activity_as_a_helix/</link>
+      <description><![CDATA[  представлено    /u/breck   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1x0541u/githelix_your_lifetime_github_activity_as_a_helix/</guid>
+      <pubDate>Wed, 07 Oct 2026 19:00:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Как точки сбережений тихо затормозили нашу очередь Postgres</title>
+      <link>https://www.reddit.com/r/programming/comments/1x02iea/how_savepoints_quietly_throttled_our_postgres/</link>
+      <description><![CDATA[  представлено    /u/shared ptr   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1x02iea/how_savepoints_quietly_throttled_our_postgres/</guid>
+      <pubDate>Wed, 07 Oct 2026 17:21:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Джанет на x32: 32-разрядные указатели, 64-разрядная скорость, на 25% меньше оперативной памяти</title>
+      <link>https://www.reddit.com/r/programming/comments/1x01gjy/janet_on_x32_32bit_pointers_64bit_speed_25_less/</link>
+      <description><![CDATA[  представлено    /u/simon o    [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1x01gjy/janet_on_x32_32bit_pointers_64bit_speed_25_less/</guid>
+      <pubDate>Wed, 07 Oct 2026 16:42:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Мы построили очередь на дерево LSM. Вот чему мы научились. - Зизк</title>
+      <link>https://www.reddit.com/r/programming/comments/1x00qpi/we_built_a_job_queue_on_an_lsm_tree_this_is_what/</link>
+      <description><![CDATA[  представлено   /u/BrewedDoritos   [link] ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1x00qpi/we_built_a_job_queue_on_an_lsm_tree_this_is_what/</guid>
+      <pubDate>Wed, 07 Oct 2026 16:14:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Как мы сократили размер кэша поиска на 74%</title>
+      <link>https://www.reddit.com/r/programming/comments/1wzz3cc/how_we_slashed_the_size_of_our_search_cache_by_74/</link>
+      <description><![CDATA[  представлено    /u/Bertrand31   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wzz3cc/how_we_slashed_the_size_of_our_search_cache_by_74/</guid>
+      <pubDate>Wed, 07 Oct 2026 15:11:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Отказ от GitHub Actions не избавит вас от GitHub: ваши установки по-прежнему зависят от него</title>
+      <link>https://www.reddit.com/r/programming/comments/1wzxplb/moving_off_github_actions_doesnt_get_you_off/</link>
+      <description><![CDATA[  представлено   /u/Patient-Pollution46   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wzxplb/moving_off_github_actions_doesnt_get_you_off/</guid>
+      <pubDate>Wed, 07 Oct 2026 14:17:08 GMT</pubDate>
+    </item>
     <item>
       <title>Антипаттерны в блогах о программном обеспечении</title>
       <link>https://www.reddit.com/r/programming/comments/1wzw4cw/antipatterns_in_software_blogging/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[  представлено    /u/CircumspectCapybara   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wz5cxt/key_autoscaling_metric_2_mean_time_to_stop_sucking/</guid>
       <pubDate>Tue, 06 Oct 2026 15:21:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Управление памятью, простое объяснение (часть 2)</title>
-      <link>https://www.reddit.com/r/programming/comments/1wyx8ce/memory_management_explained_simply_part_2/</link>
-      <description><![CDATA[  представлено   /u/nicbarkeragain   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wyx8ce/memory_management_explained_simply_part_2/</guid>
-      <pubDate>Tue, 06 Oct 2026 08:25:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Выучите C++, прежде чем узнаете, сколько это стоит</title>
-      <link>https://www.reddit.com/r/programming/comments/1wyvypi/learn_c_before_you_learn_what_it_costs_you/</link>
-      <description><![CDATA[  представлено    /u/fagnerbrack   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wyvypi/learn_c_before_you_learn_what_it_costs_you/</guid>
-      <pubDate>Tue, 06 Oct 2026 07:00:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Самостоятельные HTTP-туннели с SSH и nginx</title>
-      <link>https://www.reddit.com/r/programming/comments/1wym65x/selfhosted_http_tunnels_with_ssh_and_nginx/</link>
-      <description><![CDATA[  представлено    /u/BrewedDoritos   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wym65x/selfhosted_http_tunnels_with_ssh_and_nginx/</guid>
-      <pubDate>Mon, 05 Oct 2026 22:24:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>OSDI '26 - Incr: более быстрое повторное исполнение с помощью инкрементализации Bolt-On</title>
-      <link>https://www.reddit.com/r/programming/comments/1wyjfbo/osdi_26_incr_faster_reexecution_via_bolton/</link>
-      <description><![CDATA[  представлено    /u/mttd   [link] [comments&gt;]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wyjfbo/osdi_26_incr_faster_reexecution_via_bolton/</guid>
-      <pubDate>Mon, 05 Oct 2026 20:31:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Первые шаги в управлении памятью на Python</title>
-      <link>https://www.reddit.com/r/programming/comments/1wyiwl4/first_steps_into_memory_management_in_python/</link>
-      <description><![CDATA[  представлено    /u/dfbaggins    [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wyiwl4/first_steps_into_memory_management_in_python/</guid>
-      <pubDate>Mon, 05 Oct 2026 20:10:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Достижение безопасности памяти</title>
-      <link>https://www.reddit.com/r/programming/comments/1wydryt/achieving_memory_safety/</link>
-      <description><![CDATA[ Это касается безопасности памяти в целом и того, как безопасность памяти Seed7 была улучшена в release 2026-07-11. Seed7 - это язык программирования, который заботится о maintainability, portability, performance и GitHub. Вопросы, которые не находятся в FAQ можно задать по адресу r/seed7.  Также есть разговор о  Безопасность и управление памятью , который представляет Seed7 и объясняет безопасность и управление памятью. Пожалуйста, дайте мне знать, что вы думаете, и подумайте о том, чтобы сыграть главную роль в проекте на GitHub, спасибо!    представленном   /u/ThomasMertes   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wydryt/achieving_memory_safety/</guid>
-      <pubDate>Mon, 05 Oct 2026 16:55:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
