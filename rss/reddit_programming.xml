@@ -4,7 +4,14 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Tue, 06 Oct 2026 21:49:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 01:25:50 GMT</lastBuildDate>
+    <item>
+      <title>От пользовательского к открытому: масштабируемое сетевое тестирование и готовность HTTP/3 с Prometheus</title>
+      <link>https://www.reddit.com/r/programming/comments/1wzfp28/from_custom_to_open_scalable_network_probing_and/</link>
+      <description><![CDATA[  представлено    /u/Ok Stomach6651   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wzfp28/from_custom_to_open_scalable_network_probing_and/</guid>
+      <pubDate>Tue, 06 Oct 2026 22:04:00 GMT</pubDate>
+    </item>
     <item>
       <title>Релиз Polars 2.0</title>
       <link>https://www.reddit.com/r/programming/comments/1wzf37b/release_of_polars_20/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>Результаты StackOverflow Developer Survey 2026</title>
       <link>https://www.reddit.com/r/programming/comments/1wz64oa/stackoverflow_developer_survey_results_2026/</link>
-      <description><![CDATA[  представлено    /u/sh tomer   [link] [comments]]]></description>
+      <description><![CDATA[  представлено   /u/sh tomer   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wz64oa/stackoverflow_developer_survey_results_2026/</guid>
       <pubDate>Tue, 06 Oct 2026 15:51:51 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>В распределенных системах нет «сейчас»</title>
       <link>https://www.reddit.com/r/programming/comments/1wyumm6/there_is_no_now_in_distributed_systems/</link>
-      <description><![CDATA[  представлено   /u/H chibaX   [link] [comments]]]></description>
+      <description><![CDATA[  представлено    /u/H chibaX   [link] [comments a&gt;]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wyumm6/there_is_no_now_in_distributed_systems/</guid>
       <pubDate>Tue, 06 Oct 2026 05:35:41 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>OSDI '26 - Incr: более быстрое повторное исполнение с помощью инкрементализации Bolt-On</title>
       <link>https://www.reddit.com/r/programming/comments/1wyjfbo/osdi_26_incr_faster_reexecution_via_bolton/</link>
-      <description><![CDATA[  представлено   /u/mttd   [link] [comments&gt;]]></description>
+      <description><![CDATA[  представлено    /u/mttd   [link] [comments&gt;]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wyjfbo/osdi_26_incr_faster_reexecution_via_bolton/</guid>
       <pubDate>Mon, 05 Oct 2026 20:31:11 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>Еще один шаг к Элм 1.0</title>
       <link>https://www.reddit.com/r/programming/comments/1wy7in8/another_step_towards_elm_10/</link>
-      <description><![CDATA[В наши дни мы находимся на более быстром цикле релиза, поэтому  в посте также есть грубая дорожная карта о том, чего ожидать от следующих нескольких релизов.    представленный   /u/wheatBread   [link]&gt;]]></description>
+      <description><![CDATA[Мы находимся на более быстром цикле релиза в эти дни, так что  в посте также есть грубая дорожная карта о том, что ожидать от следующих нескольких релизов.    представленный   /u/wheatBread    [link]&gt;]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wy7in8/another_step_towards_elm_10/</guid>
       <pubDate>Mon, 05 Oct 2026 12:40:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>"8-pinski" - EIGHT(!) intro для MSDOS</title>
-      <link>https://www.reddit.com/r/programming/comments/1wxoefa/8pinski_eight_bytes_intro_for_msdos/</link>
-      <description><![CDATA[  представлено    /u/double-happiness   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wxoefa/8pinski_eight_bytes_intro_for_msdos/</guid>
-      <pubDate>Sun, 04 Oct 2026 19:34:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
