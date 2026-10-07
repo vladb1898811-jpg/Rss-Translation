@@ -2,64 +2,50 @@
 <rss version="2.0">
   <channel>
     <title>Продуктовая охота — Лучшие продукты каждый день</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 07 Oct 2026 01:41:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 04:02:08 GMT</lastBuildDate>
     <item>
-      <title>экстраверт</title>
-      <link>https://www.producthunt.com/products/extrovert</link>
+      <title>Кусок</title>
+      <link>https://www.producthunt.com/products/chunk-2</link>
       <description><![CDATA[
-Run Linked Пропаганда от вашего агента
+Приложение для блокировки времени для macOS
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/extrovert</guid>
-      <pubDate>Mon, 05 Oct 2026 22:56:45 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/chunk-2</guid>
+      <pubDate>Mon, 05 Oct 2026 22:42:56 GMT</pubDate>
     </item>
     <item>
-      <title>Обзор</title>
-      <link>https://www.producthunt.com/products/review-2</link>
+      <title>Обслуживание клиентов AI для Etsy</title>
+      <link>https://www.producthunt.com/products/customer-service-ai-for-etsy</link>
       <description><![CDATA[
-Обзор кода на вашей машине, с вашим собственным ИИ
+Отвечайте на сообщения покупателей Etsy в считанные секунды, всегда профессионально
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/review-2</guid>
-      <pubDate>Mon, 05 Oct 2026 21:01:00 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/customer-service-ai-for-etsy</guid>
+      <pubDate>Mon, 05 Oct 2026 21:26:37 GMT</pubDate>
     </item>
     <item>
-      <title>Аппети</title>
-      <link>https://www.producthunt.com/products/appto</link>
+      <title>ruOS</title>
+      <link>https://www.producthunt.com/products/ruos</link>
       <description><![CDATA[
-Завод приложений для iOS, который работает на вашей собственной подписке AI
+Облачный рабочий стол, где агенты ИИ выполняют работу за вас
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/appto</guid>
-      <pubDate>Mon, 05 Oct 2026 20:24:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>EasyCut</title>
-      <link>https://www.producthunt.com/products/easycut-2</link>
-      <description><![CDATA[
-Редактируйте свои видео движения Клода
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/easycut-2</guid>
-      <pubDate>Mon, 05 Oct 2026 17:11:09 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/ruos</guid>
+      <pubDate>Mon, 05 Oct 2026 17:07:19 GMT</pubDate>
     </item>
     <item>
       <title>Ива Знания</title>
@@ -104,32 +90,18 @@ Run Linked Пропаганда от вашего агента
       <pubDate>Mon, 05 Oct 2026 06:40:56 GMT</pubDate>
     </item>
     <item>
-      <title>Лекта</title>
-      <link>https://www.producthunt.com/products/lecta</link>
+      <title>Патчкорд</title>
+      <link>https://www.producthunt.com/products/patchcord-2</link>
       <description><![CDATA[
-Doomscroll ваш учебный материал с короткими видео и играми
+Студийный звук для микрофона в каждой встрече Mac с EQ
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/lecta</guid>
-      <pubDate>Mon, 05 Oct 2026 02:21:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Авакадо</title>
-      <link>https://www.producthunt.com/products/awakado</link>
-      <description><![CDATA[
-Держите ваш Mac бодрым, пока ваши агенты ИИ работают
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/awakado</guid>
-      <pubDate>Sat, 03 Oct 2026 07:11:38 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/patchcord-2</guid>
+      <pubDate>Sun, 04 Oct 2026 23:45:11 GMT</pubDate>
     </item>
     <item>
       <title>Искусственный интеллект</title>
@@ -146,18 +118,18 @@ Doomscroll ваш учебный материал с короткими виде
       <pubDate>Thu, 01 Oct 2026 19:31:47 GMT</pubDate>
     </item>
     <item>
-      <title>OpenBot</title>
-      <link>https://www.producthunt.com/products/openbot-3</link>
+      <title>Призрачный</title>
+      <link>https://www.producthunt.com/products/ghostifier</link>
       <description><![CDATA[
-Альтернатива Grok Bot: бесплатный, локальный, с открытым исходным кодом, многопользовательский
+Компании имеют ваши данные. Ghostifier заставляет их удалить его.
 
 
-Обсуждение
+Дискуссия
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/openbot-3</guid>
-      <pubDate>Tue, 29 Sep 2026 12:36:29 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/ghostifier</guid>
+      <pubDate>Tue, 29 Sep 2026 17:36:28 GMT</pubDate>
     </item>
     <item>
       <title>Невероятно</title>
@@ -174,6 +146,20 @@ Doomscroll ваш учебный материал с короткими виде
       <pubDate>Tue, 29 Sep 2026 05:23:32 GMT</pubDate>
     </item>
     <item>
+      <title>Заслуживающий внимания</title>
+      <link>https://www.producthunt.com/products/noteworthy</link>
+      <description><![CDATA[
+Заметки, заряженные ИИ, все на устройстве
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/noteworthy</guid>
+      <pubDate>Mon, 28 Sep 2026 17:22:27 GMT</pubDate>
+    </item>
+    <item>
       <title>Исполнитель: Chargebee</title>
       <link>https://www.producthunt.com/products/chargebee</link>
       <description><![CDATA[
@@ -188,18 +174,32 @@ Doomscroll ваш учебный материал с короткими виде
       <pubDate>Sun, 27 Sep 2026 13:41:17 GMT</pubDate>
     </item>
     <item>
-      <title>Макпгавк</title>
-      <link>https://www.producthunt.com/products/mcpgawk</link>
+      <title>Нотч радио</title>
+      <link>https://www.producthunt.com/products/notch-radio</link>
       <description><![CDATA[
-Поймайте MCP-серверы, которые меняются после того, как вы их одобрили
+Интернет-радио, которое живет в выемке вашего MacBook
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/mcpgawk</guid>
-      <pubDate>Wed, 23 Sep 2026 18:15:25 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/notch-radio</guid>
+      <pubDate>Wed, 23 Sep 2026 12:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ари Помощник 7</title>
+      <link>https://www.producthunt.com/products/ari-helper</link>
+      <description><![CDATA[
+Частный помощник ИИ, теперь с фото- и киностудиями
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/ari-helper</guid>
+      <pubDate>Tue, 22 Sep 2026 19:38:26 GMT</pubDate>
     </item>
     <item>
       <title>Кодди</title>
