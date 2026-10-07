@@ -4,7 +4,28 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Wed, 07 Oct 2026 03:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 07:24:46 GMT</lastBuildDate>
+    <item>
+      <title>Виртуальные машины против контейнеров Docker объяснены менее чем за 60 секунд</title>
+      <link>https://www.reddit.com/r/programming/comments/1wzptyu/virtual_machines_vs_docker_containers_explained/</link>
+      <description><![CDATA[ Когда я впервые попытался обернуть голову вокруг контейнеризации, многие объяснения, которые я нашел, были похоронены на плотном жаргоне DevOps. Большинство новичков просто запоминают команды, не понимая, почему инфраструктура на самом деле ведет себя так, как она ведет себя под hood.To помогает демистифицировать ее, я собрал супер чистую, высококонтрастную схему архитектуры системы, сравнивая традиционные виртуальные машины бок о бок с Docker. Он разбивает то, как контейнеры полностью обходят тяжелый слой гостевой операционной системы и взаимодействуют непосредственно с ядром хоста, чтобы оставаться невероятно быстрыми и легкими. Если вы разработчик-самоучка или студент, пытающийся устранить путаницу в терминале и окружающей среде, я выложил быстрый 60-секундный макет объяснения на YouTube с диаграммой, активной на экране. Смотрите здесь:  [Вставить видео ссылку на YouTube здесь] Дайте мне знать, имеет ли этот визуальный поток смысл или у вас есть какие-либо вопросы об обработке локальных контейнерных сред!    представлено   /u/Repulsive-Metal-4178   [comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wzptyu/virtual_machines_vs_docker_containers_explained/</guid>
+      <pubDate>Wed, 07 Oct 2026 06:59:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Над моим мертвым карандашом</title>
+      <link>https://www.reddit.com/r/programming/comments/1wzoubk/over_my_dead_pencil/</link>
+      <description><![CDATA[  представлено    /u/gvufhidjo   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wzoubk/over_my_dead_pencil/</guid>
+      <pubDate>Wed, 07 Oct 2026 05:56:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Разработчики программного обеспечения не в порядке</title>
+      <link>https://www.reddit.com/r/programming/comments/1wzob2x/software_developers_are_not_okay/</link>
+      <description><![CDATA[  представлено   /u/kallekro    [link] [comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wzob2x/software_developers_are_not_okay/</guid>
+      <pubDate>Wed, 07 Oct 2026 05:23:02 GMT</pubDate>
+    </item>
     <item>
       <title>От пользовательского к открытому: масштабируемое сетевое тестирование и готовность HTTP/3 с Prometheus</title>
       <link>https://www.reddit.com/r/programming/comments/1wzfp28/from_custom_to_open_scalable_network_probing_and/</link>
@@ -29,7 +50,7 @@
     <item>
       <title>Результаты StackOverflow Developer Survey 2026</title>
       <link>https://www.reddit.com/r/programming/comments/1wz64oa/stackoverflow_developer_survey_results_2026/</link>
-      <description><![CDATA[  представлено    /u/sh tomer   [link] [comments]]]></description>
+      <description><![CDATA[  представлено   /u/sh tomer   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wz64oa/stackoverflow_developer_survey_results_2026/</guid>
       <pubDate>Tue, 06 Oct 2026 15:51:51 GMT</pubDate>
     </item>
@@ -78,7 +99,7 @@
     <item>
       <title>OSDI '26 - Incr: более быстрое повторное исполнение с помощью инкрементализации Bolt-On</title>
       <link>https://www.reddit.com/r/programming/comments/1wyjfbo/osdi_26_incr_faster_reexecution_via_bolton/</link>
-      <description><![CDATA[  представлено   /u/mttd   [link] [comments&gt;]]></description>
+      <description><![CDATA[  представлено    /u/mttd   [link] [comments&gt;]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wyjfbo/osdi_26_incr_faster_reexecution_via_bolton/</guid>
       <pubDate>Mon, 05 Oct 2026 20:31:11 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[  представлено    /u/dfbaggins    [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wyiwl4/first_steps_into_memory_management_in_python/</guid>
       <pubDate>Mon, 05 Oct 2026 20:10:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Достижение безопасности памяти</title>
-      <link>https://www.reddit.com/r/programming/comments/1wydryt/achieving_memory_safety/</link>
-      <description><![CDATA[ Это касается безопасности памяти в целом и того, как безопасность памяти Seed7 была улучшена в release 2026-07-11. Seed7 - это язык программирования, который заботится о maintainability, portability, performance и GitHub. Вопросы, которые не находятся в FAQ можно задать по адресу r/seed7.  Также есть разговор о  Безопасность и управление памятью , который представляет Seed7 и объясняет безопасность и управление памятью. Пожалуйста, дайте мне знать, что вы думаете, и подумайте о том, чтобы сыграть главную роль в проекте на GitHub, спасибо!    представленном   /u/ThomasMertes   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wydryt/achieving_memory_safety/</guid>
-      <pubDate>Mon, 05 Oct 2026 16:55:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Еще один шаг к Элм 1.0</title>
-      <link>https://www.reddit.com/r/programming/comments/1wy7in8/another_step_towards_elm_10/</link>
-      <description><![CDATA[В наши дни мы находимся на более быстром цикле релиза, поэтому  в посте также есть грубая дорожная карта о том, чего ожидать от следующих нескольких релизов.    представленный   /u/wheatBread   [link]&gt;]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wy7in8/another_step_towards_elm_10/</guid>
-      <pubDate>Mon, 05 Oct 2026 12:40:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>"8-pinski" - EIGHT(!) intro для MSDOS</title>
-      <link>https://www.reddit.com/r/programming/comments/1wxoefa/8pinski_eight_bytes_intro_for_msdos/</link>
-      <description><![CDATA[  представлено    /u/double-happiness   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wxoefa/8pinski_eight_bytes_intro_for_msdos/</guid>
-      <pubDate>Sun, 04 Oct 2026 19:34:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
