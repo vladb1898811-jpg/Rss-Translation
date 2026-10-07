@@ -4,7 +4,14 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Wed, 07 Oct 2026 07:24:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 10:24:13 GMT</lastBuildDate>
+    <item>
+      <title>Взгляд на антиспамовые внутренние компоненты Reddit</title>
+      <link>https://www.reddit.com/r/programming/comments/1wzskuf/a_peek_into_reddits_antispam_internals/</link>
+      <description><![CDATA[  представлено    /u/fagnerbrack   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1wzskuf/a_peek_into_reddits_antispam_internals/</guid>
+      <pubDate>Wed, 07 Oct 2026 10:00:33 GMT</pubDate>
+    </item>
     <item>
       <title>Виртуальные машины против контейнеров Docker объяснены менее чем за 60 секунд</title>
       <link>https://www.reddit.com/r/programming/comments/1wzptyu/virtual_machines_vs_docker_containers_explained/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[  представлено    /u/CircumspectCapybara   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wz5cxt/key_autoscaling_metric_2_mean_time_to_stop_sucking/</guid>
       <pubDate>Tue, 06 Oct 2026 15:21:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>ComfyUI v0.39.0 скачать</title>
-      <link>https://www.reddit.com/r/programming/comments/1wyyuft/comfyui_v0390_released/</link>
-      <description><![CDATA[  представлено    /u/Fcking Chuck    [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wyyuft/comfyui_v0390_released/</guid>
-      <pubDate>Tue, 06 Oct 2026 10:11:56 GMT</pubDate>
     </item>
     <item>
       <title>Управление памятью, простое объяснение (часть 2)</title>

@@ -4,7 +4,28 @@
     <title>Новые материалы: webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>Сообщество, посвященное всем вещам веб-разработки: как front-end, так и back-end. Для получения дополнительных вопросов, связанных с дизайном, попробуйте /r/web design.</description>
-    <lastBuildDate>Wed, 07 Oct 2026 07:35:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 10:34:31 GMT</lastBuildDate>
+    <item>
+      <title>Можно ли удалить файлы из папки «tmp» на сервере Linux?</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wzs8c7/can_i_remove_files_from_the_tmp_folder_on_the/</link>
+      <description><![CDATA[Hi,Папа на моем сервере занимает много дискового пространства, и я не уверен, что смогу безопасно удалить из него большие файлы.  magick-1093ifh-4tdElJJa - 6GB magick-18733Z9k9O vbfPpv - 3GB magick-23448nc2W7sgGWY2V - 4GB magick-130422Jgx65LAdkD1 - 9GB https://ibb.co/BVpB6s9F  Что вы думаете?    представлено   /u/pixsector   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wzs8c7/can_i_remove_files_from_the_tmp_folder_on_the/</guid>
+      <pubDate>Wed, 07 Oct 2026 09:38:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Состояние презентации Drupal (2026)</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wzrugj/state_of_drupal_presentation_september_2026/</link>
+      <description><![CDATA[    &lt;   submitted by   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wzrugj/state_of_drupal_presentation_september_2026/</guid>
+      <pubDate>Wed, 07 Oct 2026 09:12:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Почему безгосударственный REST API — это путь?</title>
+      <link>https://www.reddit.com/r/webdev/comments/1wzrhly/why_stateless_rest_api_is_the_way_to_go/</link>
+      <description><![CDATA[i уже несколько лет работают с весенним ботинком и угловатым, и каждая апи, которую я построил или унаследовал, не имеет гражданства. jwt в заголовке, без сеанса сервера. Никто никогда не спрашивал меня о каком-либо проекте, на котором я был, но я понял, что никогда не спрашивал себя, почему мы делаем это по умолчанию. Я знаю обычные ответы, такие как он легко масштабируется и любой экземпляр может обрабатывать любой запрос. Но кажется, что государство просто перемещается куда-то еще, к токену, к редису, к базе данных. Так что же мы на самом деле получаем?    представлено   /u/MousTN     ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1wzrhly/why_stateless_rest_api_is_the_way_to_go/</guid>
+      <pubDate>Wed, 07 Oct 2026 08:49:41 GMT</pubDate>
+    </item>
     <item>
       <title>Я создаю приложение, которое нуждается в ИИ, но у меня нет бюджета, чтобы платить за использование API. Есть ли способ позволить пользователям подключать свою учетную запись Gemini / OpenAI / Claude с помощью простой кнопки «Подключить ИИ», чтобы они платили за свое собственное использование? Я беспокоюсь о том, что API-ключи будут разоблачены или украдены, и я не хочу этого делать.</title>
       <link>https://www.reddit.com/r/webdev/comments/1wzp4c3/im_building_an_app_that_needs_ai_but_i_have/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[Эй, ребята захотели узнать, к какому MacBook перейти, чтобы.... иметь про-середину 2020 года coreI5 и начали заикаться, и я думаю, что пришло время получить один из микросхем на базе м. Я склонен думать, что м3 или м4 воздуха с 16 ГБ ОЗУ и 256-512 будет достаточно для меня, поскольку я работаю неполный рабочий день, а также в настоящее время изучаю степень магистра ИИ в uni. Что вы думаете? Или я должен стремиться к 32 ГБ? Дисплей 14&#39; или 15&#39; я думаю, что это круто и сделать более чем достаточно. Еще одна причина, по которой я неохотно иду на Mac, заключается в том, что у меня есть хороший компьютер с 32 ГБ тараном и ризеном 7 9700x, поэтому мышление может просто оставить тяжелую работу, когда возникает реальная необходимость сделать это (если когда-либо). P.S: не имеют намерения запускать локальные llms..    представлено   /u/Sprinkles Leather   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1wymww8/macbook_upgrade_opinions/</guid>
       <pubDate>Mon, 05 Oct 2026 22:57:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Visual Studio не будет вносить изменения в Github</title>
-      <link>https://www.reddit.com/r/webdev/comments/1wyl6a0/visual_studio_not_pushing_changes_to_github/</link>
-      <description><![CDATA[Я использую Visual Studio 2026, и до сих пор он работал нормально. Я подтолкнул один проект (Blazor) к Github, используя элементы управления VS Git (я знаю, как использовать Git CLI, я просто предпочитаю использовать элементы управления GUI, потому что они быстрее). После этого, однако, это не приведет ни к каким изменениям в моих проектах. Я знаю, что это проблема VS, потому что я подписался на VS Code, используя свою учетную запись Github. Если бы кто-нибудь мог мне помочь, это было бы очень ценно.    представлено   /u/Mob Pilled   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1wyl6a0/visual_studio_not_pushing_changes_to_github/</guid>
-      <pubDate>Mon, 05 Oct 2026 21:41:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>CVS заплатила $20,5 млн за код, который, вероятно, забыли. Никаких нарушений. Никаких хакеров. То же самое отслеживание пикселей почти на каждом веб-сайте в Интернете, включая, скорее всего, ваш.</title>
-      <link>https://www.reddit.com/r/webdev/comments/1wyl3qr/cvs_paid_205_million_for_code_it_probably_forgot/</link>
-      <description><![CDATA[   /u/magenta placenta     [link]&lt;/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1wyl3qr/cvs_paid_205_million_for_code_it_probably_forgot/</guid>
-      <pubDate>Mon, 05 Oct 2026 21:38:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Когда фоновая работа вызывает платную api и терпит неудачу на полпути, что вы делаете?</title>
-      <link>https://www.reddit.com/r/webdev/comments/1wyc0jg/when_a_background_job_calls_a_paid_api_and_fails/</link>
-      <description><![CDATA[ особенности построения, где фоновые задания называют платными apis (в основном llms). Если работа терпит неудачу на полпути и возвращается, я в конечном итоге снова плачу за ту часть, которая уже работала, и иногда что-то работает дважды. (например, отправляемое электронное письмо)   любопытно, как другие справляются с этим:   - вы сохраняете прогресс между шагами?  - как вы останавливаете повторную попытку от переделки готовой работы?  - в последний раз, когда это стоило вам чего-то, что это было?  ничего не продавая. Короткие ответы отличные, dm me, если вы хотите пообщаться :)    представлено   /u/ksplat    ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1wyc0jg/when_a_background_job_calls_a_paid_api_and_fails/</guid>
-      <pubDate>Mon, 05 Oct 2026 15:48:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
