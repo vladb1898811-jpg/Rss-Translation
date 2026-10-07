@@ -4,7 +4,7 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Wed, 07 Oct 2026 19:22:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 22:21:39 GMT</lastBuildDate>
     <item>
       <title>GitHelix — Ваша пожизненная деятельность GitHub как спираль</title>
       <link>https://www.reddit.com/r/programming/comments/1x0541u/githelix_your_lifetime_github_activity_as_a_helix/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>Как точки сбережений тихо затормозили нашу очередь Postgres</title>
       <link>https://www.reddit.com/r/programming/comments/1x02iea/how_savepoints_quietly_throttled_our_postgres/</link>
-      <description><![CDATA[  представлено    /u/shared ptr   [link] [comments]]]></description>
+      <description><![CDATA[  представлено   /u/shared ptr    [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1x02iea/how_savepoints_quietly_throttled_our_postgres/</guid>
       <pubDate>Wed, 07 Oct 2026 17:21:59 GMT</pubDate>
     </item>
@@ -36,12 +36,12 @@
     <item>
       <title>Как мы сократили размер кэша поиска на 74%</title>
       <link>https://www.reddit.com/r/programming/comments/1wzz3cc/how_we_slashed_the_size_of_our_search_cache_by_74/</link>
-      <description><![CDATA[  представлено    /u/Bertrand31   [link] [comments]]]></description>
+      <description><![CDATA[  представлено    /u/Bertrand31    [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wzz3cc/how_we_slashed_the_size_of_our_search_cache_by_74/</guid>
       <pubDate>Wed, 07 Oct 2026 15:11:53 GMT</pubDate>
     </item>
     <item>
-      <title>Отказ от GitHub Actions не избавит вас от GitHub: ваши установки по-прежнему зависят от него</title>
+      <title>Отключение GitHub Actions не освобождает вас от GitHub: ваши установки по-прежнему зависят от него.</title>
       <link>https://www.reddit.com/r/programming/comments/1wzxplb/moving_off_github_actions_doesnt_get_you_off/</link>
       <description><![CDATA[  представлено   /u/Patient-Pollution46   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wzxplb/moving_off_github_actions_doesnt_get_you_off/</guid>
@@ -92,7 +92,7 @@
     <item>
       <title>Результаты StackOverflow Developer Survey 2026</title>
       <link>https://www.reddit.com/r/programming/comments/1wz64oa/stackoverflow_developer_survey_results_2026/</link>
-      <description><![CDATA[  представлено   /u/sh tomer   [link] [comments]]]></description>
+      <description><![CDATA[  представлено    /u/sh tomer   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wz64oa/stackoverflow_developer_survey_results_2026/</guid>
       <pubDate>Tue, 06 Oct 2026 15:51:51 GMT</pubDate>
     </item>

@@ -4,35 +4,7 @@
     <title>Продуктовая охота — Лучшие продукты каждый день</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 07 Oct 2026 19:37:56 GMT</lastBuildDate>
-    <item>
-      <title>Рейка</title>
-      <link>https://www.producthunt.com/products/reika</link>
-      <description><![CDATA[
-Кодирующий агент CLI, разработанный вокруг небольших локальных моделей
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/reika</guid>
-      <pubDate>Wed, 07 Oct 2026 03:36:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>DailyHub</title>
-      <link>https://www.producthunt.com/products/dailyhub-a-quiet-workspace-for-your-day</link>
-      <description><![CDATA[
-Персональный командный центр для проектов, задач и привычек.
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/dailyhub-a-quiet-workspace-for-your-day</guid>
-      <pubDate>Tue, 06 Oct 2026 20:45:05 GMT</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 Oct 2026 22:37:17 GMT</lastBuildDate>
     <item>
       <title>Нано банан 2.1</title>
       <link>https://www.producthunt.com/products/google</link>
@@ -48,18 +20,18 @@
       <pubDate>Tue, 06 Oct 2026 18:54:11 GMT</pubDate>
     </item>
     <item>
-      <title>Компания Basedash Mobile</title>
-      <link>https://www.producthunt.com/products/basedash</link>
+      <title>Rhem Labs</title>
+      <link>https://www.producthunt.com/products/rhem-labs</link>
       <description><![CDATA[
-Спрашивайте данные вслух прямо с вашего домашнего экрана.
+Роботы-помощники для здоровья ваших родителей
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/basedash</guid>
-      <pubDate>Tue, 06 Oct 2026 16:38:41 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/rhem-labs</guid>
+      <pubDate>Tue, 06 Oct 2026 17:34:45 GMT</pubDate>
     </item>
     <item>
       <title>Мистраль Большой 4</title>
@@ -74,6 +46,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/mistral-7b</guid>
       <pubDate>Tue, 06 Oct 2026 15:07:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Приложение Knuff</title>
+      <link>https://www.producthunt.com/products/knuff-app</link>
+      <description><![CDATA[
+Семейное приложение для регистрации, чтобы знать, что ваши люди в порядке
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/knuff-app</guid>
+      <pubDate>Tue, 06 Oct 2026 14:32:47 GMT</pubDate>
     </item>
     <item>
       <title>Агент Фигмы</title>
@@ -118,46 +104,46 @@
       <pubDate>Tue, 06 Oct 2026 05:51:24 GMT</pubDate>
     </item>
     <item>
-      <title>Вреск</title>
-      <link>https://www.producthunt.com/products/vresk</link>
+      <title>Девалли AI Агент</title>
+      <link>https://www.producthunt.com/products/devally</link>
       <description><![CDATA[
-Одно рабочее пространство ИИ, которое предлагает лучшие модели с открытым исходным кодом
+Путешествия пользователей на естественном языке
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/vresk</guid>
-      <pubDate>Mon, 05 Oct 2026 22:47:06 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/devally</guid>
+      <pubDate>Mon, 05 Oct 2026 16:46:44 GMT</pubDate>
     </item>
     <item>
-      <title>Ванур</title>
-      <link>https://www.producthunt.com/products/vanoor-running-pacer-map</link>
+      <title>Паракеты 2.0</title>
+      <link>https://www.producthunt.com/products/parakeetai</link>
       <description><![CDATA[
-Превратите свои Apple Watch в серьезные часы
-
-
-Дискуссия
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/vanoor-running-pacer-map</guid>
-      <pubDate>Mon, 05 Oct 2026 11:51:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Флоу</title>
-      <link>https://www.producthunt.com/products/flowo-2</link>
-      <description><![CDATA[
-Планировщик дня СДВГ, который перепланирует ваш день
+Конечный способ подготовиться к собеседованию
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/flowo-2</guid>
-      <pubDate>Wed, 30 Sep 2026 00:08:15 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/parakeetai</guid>
+      <pubDate>Fri, 02 Oct 2026 06:57:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>ImageFlow</title>
+      <link>https://www.producthunt.com/products/imageflow-6</link>
+      <description><![CDATA[
+Бесплатный редактор изображений Photoshop с функциями AI
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/imageflow-6</guid>
+      <pubDate>Tue, 29 Sep 2026 14:43:09 GMT</pubDate>
     </item>
     <item>
       <title>Pegasus 1.6 от TwelveLabs</title>
@@ -174,18 +160,32 @@
       <pubDate>Tue, 29 Sep 2026 12:44:00 GMT</pubDate>
     </item>
     <item>
-      <title>Cinch - Напоминания и задачи</title>
-      <link>https://www.producthunt.com/products/cinch-reminders-tasks</link>
+      <title>Руль</title>
+      <link>https://www.producthunt.com/products/rool</link>
       <description><![CDATA[
-Чистый менеджер задач для Apple Reminders
+Ваш личный ИИ-машина. Файлы, идеи, ИИ в одном рабочем пространстве.
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/cinch-reminders-tasks</guid>
-      <pubDate>Fri, 25 Sep 2026 10:31:01 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/rool</guid>
+      <pubDate>Sun, 27 Sep 2026 01:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Велозость</title>
+      <link>https://www.producthunt.com/products/velozity-2</link>
+      <description><![CDATA[
+Многопользовательский AI Office, в котором работает ваша команда и агенты.
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/velozity-2</guid>
+      <pubDate>Fri, 18 Sep 2026 14:18:53 GMT</pubDate>
     </item>
     <item>
       <title>Разработчик: Alkera</title>
@@ -202,18 +202,18 @@
       <pubDate>Thu, 17 Sep 2026 14:08:31 GMT</pubDate>
     </item>
     <item>
-      <title>Темп Почта</title>
-      <link>https://www.producthunt.com/products/temp-mail-370</link>
+      <title>Демо-агент Supademo AI</title>
+      <link>https://www.producthunt.com/products/supademo</link>
       <description><![CDATA[
-Одноразовая электронная почта + частная пересылка на ваш реальный почтовый ящик
+Агентские демо, как ваш лучший продавец, без зарплаты
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/temp-mail-370</guid>
-      <pubDate>Wed, 24 Jun 2026 06:16:49 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/supademo</guid>
+      <pubDate>Thu, 04 Sep 2025 01:12:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
