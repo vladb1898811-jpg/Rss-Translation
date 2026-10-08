@@ -4,21 +4,7 @@
     <title>Продуктовая охота — Лучшие продукты каждый день</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 08 Oct 2026 00:57:08 GMT</lastBuildDate>
-    <item>
-      <title>Рейка</title>
-      <link>https://www.producthunt.com/products/reika</link>
-      <description><![CDATA[
-Кодирующий агент CLI, разработанный вокруг небольших локальных моделей
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/reika</guid>
-      <pubDate>Wed, 07 Oct 2026 03:36:08 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 08 Oct 2026 04:37:07 GMT</lastBuildDate>
     <item>
       <title>Аура от Neural</title>
       <link>https://www.producthunt.com/products/aura-by-neural</link>
@@ -34,60 +20,144 @@
       <pubDate>Wed, 07 Oct 2026 02:05:50 GMT</pubDate>
     </item>
     <item>
-      <title>Диктант перьевого веса</title>
-      <link>https://www.producthunt.com/products/featherweight-dictation</link>
+      <title>кормить самостоятельно</title>
+      <link>https://www.producthunt.com/products/ownfeed</link>
       <description><![CDATA[
-Диктант, который ничего не весит для Mac и Windows
+Социальный корм для людей, которым нужен ваш продукт
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/ownfeed</guid>
+      <pubDate>Tue, 06 Oct 2026 21:35:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>DailyHub</title>
+      <link>https://www.producthunt.com/products/dailyhub-a-quiet-workspace-for-your-day</link>
+      <description><![CDATA[
+Персональный командный центр для проектов, задач и привычек.
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/dailyhub-a-quiet-workspace-for-your-day</guid>
+      <pubDate>Tue, 06 Oct 2026 20:45:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Консоль Уолрус</title>
+      <link>https://www.producthunt.com/products/walrus-console</link>
+      <description><![CDATA[
+Хранить, защищать и соединять ваши данные
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/walrus-console</guid>
+      <pubDate>Tue, 06 Oct 2026 16:33:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Исследование</title>
+      <link>https://www.producthunt.com/products/studyquest</link>
+      <description><![CDATA[
+Превратите свои заметки в игры
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/studyquest</guid>
+      <pubDate>Tue, 06 Oct 2026 16:20:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Приложение Knuff</title>
+      <link>https://www.producthunt.com/products/knuff-app</link>
+      <description><![CDATA[
+Семейное приложение для регистрации, чтобы знать, что ваши люди в порядке
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/knuff-app</guid>
+      <pubDate>Tue, 06 Oct 2026 14:32:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Альби</title>
+      <link>https://www.producthunt.com/products/albie</link>
+      <description><![CDATA[
+Репетитор ИИ, который учит на доске, а не в чат-боксе
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/albie</guid>
+      <pubDate>Mon, 05 Oct 2026 20:26:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Постквел</title>
+      <link>https://www.producthunt.com/products/postquel</link>
+      <description><![CDATA[
+Бесплатное приложение Postgres для Mac с собственными агентами ИИ
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/postquel</guid>
+      <pubDate>Mon, 05 Oct 2026 16:36:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Плагины Радар</title>
+      <link>https://www.producthunt.com/products/plugins-radar</link>
+      <description><![CDATA[
+Поисковый рейтинг и предупреждения конкурентов для плагинов ChatGPT
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/plugins-radar</guid>
+      <pubDate>Mon, 05 Oct 2026 15:45:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ванур</title>
+      <link>https://www.producthunt.com/products/vanoor-running-pacer-map</link>
+      <description><![CDATA[
+Превратите свои Apple Watch в серьезные часы
 
 
 Дискуссия
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/featherweight-dictation</guid>
-      <pubDate>Tue, 06 Oct 2026 12:12:07 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/vanoor-running-pacer-map</guid>
+      <pubDate>Mon, 05 Oct 2026 11:51:09 GMT</pubDate>
     </item>
     <item>
-      <title>Солнечный</title>
-      <link>https://www.producthunt.com/products/sunsed</link>
+      <title>Редлэмп</title>
+      <link>https://www.producthunt.com/products/redlamp</link>
       <description><![CDATA[
-Первый создатель приложений ИИ с языком, созданным для ИИ
+Альтернативный редактор RAW Lightroom для Mac
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/sunsed</guid>
-      <pubDate>Tue, 06 Oct 2026 07:48:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Вреск</title>
-      <link>https://www.producthunt.com/products/vresk</link>
-      <description><![CDATA[
-Одно рабочее пространство ИИ, которое предлагает лучшие модели с открытым исходным кодом
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/vresk</guid>
-      <pubDate>Mon, 05 Oct 2026 22:47:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>IrisGo для солопренеров</title>
-      <link>https://www.producthunt.com/products/irisgo-public-beta</link>
-      <description><![CDATA[
-Автоматизация рабочего процесса ИИ: покажите его один раз, пусть он работает
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/irisgo-public-beta</guid>
-      <pubDate>Mon, 05 Oct 2026 22:45:07 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/redlamp</guid>
+      <pubDate>Sun, 04 Oct 2026 08:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Талия</title>
@@ -104,60 +174,18 @@
       <pubDate>Sat, 03 Oct 2026 16:05:22 GMT</pubDate>
     </item>
     <item>
-      <title>Takweem AI</title>
-      <link>https://www.producthunt.com/products/takweem-ai</link>
-      <description><![CDATA[
-Календарь ИИ, который освобождает место для вашей самой важной работы
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/takweem-ai</guid>
-      <pubDate>Fri, 02 Oct 2026 09:54:28 GMT</pubDate>
-    </item>
-    <item>
       <title>Быстрый</title>
       <link>https://www.producthunt.com/products/unprompt-2</link>
       <description><![CDATA[
 Использование ИИ в долларах и литрах воды
 
 
-Дискуссия
+Обсуждение
 !
  Ссылка 
 ]]></description>
       <guid>https://www.producthunt.com/products/unprompt-2</guid>
       <pubDate>Thu, 01 Oct 2026 11:16:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Исполнитель: Vertice</title>
-      <link>https://www.producthunt.com/products/ana-by-vertice</link>
-      <description><![CDATA[
-Переговорный агент AI для покупок программного обеспечения
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/ana-by-vertice</guid>
-      <pubDate>Thu, 01 Oct 2026 10:34:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Зави</title>
-      <link>https://www.producthunt.com/products/zavi</link>
-      <description><![CDATA[
-пригодны для роста
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/zavi</guid>
-      <pubDate>Thu, 01 Oct 2026 09:31:03 GMT</pubDate>
     </item>
     <item>
       <title>Genage 3.0</title>
@@ -186,34 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/imageflow-6</guid>
       <pubDate>Tue, 29 Sep 2026 14:43:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Разработчик: Alkera</title>
-      <link>https://www.producthunt.com/products/alkera</link>
-      <description><![CDATA[
-Совместное агентное рабочее пространство с открытым исходным кодом для групп данных
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/alkera</guid>
-      <pubDate>Thu, 17 Sep 2026 14:08:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Демо-агент Supademo AI</title>
-      <link>https://www.producthunt.com/products/supademo</link>
-      <description><![CDATA[
-Агентские демо, как ваш лучший продавец, без зарплаты
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/supademo</guid>
-      <pubDate>Thu, 04 Sep 2025 01:12:43 GMT</pubDate>
     </item>
     </channel>
 </rss>

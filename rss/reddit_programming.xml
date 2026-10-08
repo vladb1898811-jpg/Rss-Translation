@@ -4,7 +4,21 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Thu, 08 Oct 2026 00:48:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 04:21:10 GMT</lastBuildDate>
+    <item>
+      <title>Европол призывает к скорейшим действиям по защите криптовалют и конфиденциальных данных от квантовых угроз</title>
+      <link>https://www.reddit.com/r/programming/comments/1x0ggel/europol_urges_early_action_to_protect/</link>
+      <description><![CDATA[  представлено    /u/donutloop   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1x0ggel/europol_urges_early_action_to_protect/</guid>
+      <pubDate>Thu, 08 Oct 2026 03:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Устарели ли разработчики?</title>
+      <link>https://www.reddit.com/r/programming/comments/1x0g1iu/are_developers_obsolete/</link>
+      <description><![CDATA[  представлено    /u/GenericAHHyoutuber   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1x0g1iu/are_developers_obsolete/</guid>
+      <pubDate>Thu, 08 Oct 2026 03:01:41 GMT</pubDate>
+    </item>
     <item>
       <title>Как Uber победил перегрузку базы данных: переход от статического ограничения скорости к интеллектуальному управлению загрузкой</title>
       <link>https://www.reddit.com/r/programming/comments/1x0ckk1/how_uber_conquered_database_overload_the_journey/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>Как точки сбережений тихо затормозили нашу очередь Postgres</title>
       <link>https://www.reddit.com/r/programming/comments/1x02iea/how_savepoints_quietly_throttled_our_postgres/</link>
-      <description><![CDATA[  представлено   /u/shared ptr    [link] [comments]]]></description>
+      <description><![CDATA[  представлено    /u/shared ptr   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1x02iea/how_savepoints_quietly_throttled_our_postgres/</guid>
       <pubDate>Wed, 07 Oct 2026 17:21:59 GMT</pubDate>
     </item>
@@ -36,12 +50,12 @@
     <item>
       <title>Как мы сократили размер кэша поиска на 74%</title>
       <link>https://www.reddit.com/r/programming/comments/1wzz3cc/how_we_slashed_the_size_of_our_search_cache_by_74/</link>
-      <description><![CDATA[  представлено    /u/Bertrand31    [link] [comments]]]></description>
+      <description><![CDATA[  представлено    /u/Bertrand31   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wzz3cc/how_we_slashed_the_size_of_our_search_cache_by_74/</guid>
       <pubDate>Wed, 07 Oct 2026 15:11:53 GMT</pubDate>
     </item>
     <item>
-      <title>Отключение GitHub Actions не освобождает вас от GitHub: ваши установки по-прежнему зависят от него.</title>
+      <title>Отказ от GitHub Actions не избавит вас от GitHub: ваши установки по-прежнему зависят от него</title>
       <link>https://www.reddit.com/r/programming/comments/1wzxplb/moving_off_github_actions_doesnt_get_you_off/</link>
       <description><![CDATA[  представлено   /u/Patient-Pollution46   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wzxplb/moving_off_github_actions_doesnt_get_you_off/</guid>
@@ -92,23 +106,9 @@
     <item>
       <title>Результаты StackOverflow Developer Survey 2026</title>
       <link>https://www.reddit.com/r/programming/comments/1wz64oa/stackoverflow_developer_survey_results_2026/</link>
-      <description><![CDATA[  представлено    /u/sh tomer   [link] [comments]]]></description>
+      <description><![CDATA[  представлено   /u/sh tomer   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wz64oa/stackoverflow_developer_survey_results_2026/</guid>
       <pubDate>Tue, 06 Oct 2026 15:51:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Проблема коммуникации</title>
-      <link>https://www.reddit.com/r/programming/comments/1wz5hwg/the_problem_of_communication/</link>
-      <description><![CDATA[ Статья о том, как совместное использование зависимостей и информации о ресурсах между компилятором, системой сборки, системным менеджером пакетов и даже файловой системой и планировщиком, может обеспечить некоторые довольно удивительные преимущества. Я хотел бы услышать чьи-либо мысли по этому     представлено   /u/realguy2300000   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wz5hwg/the_problem_of_communication/</guid>
-      <pubDate>Tue, 06 Oct 2026 15:26:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ключевая автомасштабирующая метрика #2 - Среднее время, чтобы перестать сосать</title>
-      <link>https://www.reddit.com/r/programming/comments/1wz5cxt/key_autoscaling_metric_2_mean_time_to_stop_sucking/</link>
-      <description><![CDATA[  представлено    /u/CircumspectCapybara   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wz5cxt/key_autoscaling_metric_2_mean_time_to_stop_sucking/</guid>
-      <pubDate>Tue, 06 Oct 2026 15:21:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
