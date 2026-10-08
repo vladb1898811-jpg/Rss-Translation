@@ -4,11 +4,11 @@
     <title>Новые материалы: GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>Subreddit для технологии генерации текста ИИ</description>
-    <lastBuildDate>Thu, 08 Oct 2026 06:18:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 09:14:05 GMT</lastBuildDate>
     <item>
       <title>Основные примечания: GPT-6.1 Sol улучшается с меньшим количеством токенов, чем 5,6 Sol, но все еще отстает от Astra</title>
       <link>https://www.reddit.com/r/GPT3/comments/1wxkp0h/benchmark_notes_gpt61_sol_improves_with_fewer/</link>
-      <description><![CDATA[Я поддерживаю MindTrial и добавил GPT-6.1 Sol для текущего теста. Интересным результатом является скромное улучшение оценки с существенно меньшим количеством выходных токенов, в то время как Astra остается впереди в этом наборе. Setup: 98 задач — 39 текстовых и 59 визуальных — с интерпретатором Python, научными библиотеками и до 10 вызовов инструментов для задачи.    Модель   Пропущено   Жесткие ошибки   Время запроса модели        85/980  &lt;&quot;left&quot;&gt;1:09:26    89/98 1 1:06:14   &lt;&quot;left&quot;&gt;1:06:14    GPT&gt;6&gt; 91/98 0  &gt;95/98 95/98  0 xhigh. Ярлыки усилий не являются эквивалентными расчетными бюджетами для всех поставщиков.  Времена - это кумулятивные продолжительности запроса модели, за исключением локального Python и проверки - не истекшее время выполнения пакета. Полная таблица лидеров: here    представлено   /u/Correct Tomato1871     [comments]]]></description>
+      <description><![CDATA[Я поддерживаю MindTrial и добавил GPT-6.1 Sol для текущего теста. Интересным результатом является скромное улучшение оценки с существенно меньшим количеством выходных токенов, в то время как Astra остается впереди в этом наборе. Setup: 98 задач — 39 текстовых и 59 визуальных — с интерпретатором Python, научными библиотеками и до 10 вызовов инструментов для задачи.    Модель   Пройдено   Жесткие ошибки   Время запроса модели        85/980  &lt;&quot;left&quot;&gt;1:09:26   89/981 1:06:14   &lt;&quot;left&quot;&gt;1:06:14    GPT&gt;6&gt; 91/98 0  &gt;95/98 95/98  0 xhigh. Ярлыки усилий не являются эквивалентными расчетными бюджетами между поставщиками.  Времена - это кумулятивные продолжительности запроса модели, за исключением локального Python и проверки - не истекшее время выполнения пакета. Полная таблица лидеров: here    представлено    /u/Correct Tomato1871   ]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1wxkp0h/benchmark_notes_gpt61_sol_improves_with_fewer/</guid>
       <pubDate>Sun, 04 Oct 2026 17:02:54 GMT</pubDate>
     </item>
@@ -20,7 +20,7 @@
       <pubDate>Sat, 03 Oct 2026 19:26:42 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI только что анонсировала Dots, свой бубличный агентский аватар, который работает 24/7 для вас.</title>
+      <title>OpenAI только что анонсировал Dots, его бубличный агентский аватар, который работает 24/7 для вас.</title>
       <link>https://www.reddit.com/r/GPT3/comments/1wuw8ti/openai_just_announced_dots_its_a_bubbly_agentic/</link>
       <description><![CDATA[  представлено    /u/ComplexExternal4831   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1wuw8ti/openai_just_announced_dots_its_a_bubbly_agentic/</guid>
@@ -50,7 +50,7 @@
     <item>
       <title>Deepseek тренирует 2Т и планирует 8Т модель</title>
       <link>https://www.reddit.com/r/GPT3/comments/1wmp07j/deepseek_training_2t_and_plans_8t_model/</link>
-      <description><![CDATA[Quote: DeepSeek готовит модель с 2T-параметром и планирует в конечном итоге построить модель с 8T-параметром.&lt;101982843656388644&lt;1.6T (триллион)  Mythos/Fable оценивается в 10T параметра.&lt;  представленный  ]]></description>
+      <description><![CDATA[Quote: DeepSeek обучает модель 2T-параметра и планирует в конечном итоге построить модель 8T-параметра.&lt;101982843656388644&lt;1.6T (триллион)  Mythos/Fable&gt;&gt;   представленный  ]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1wmp07j/deepseek_training_2t_and_plans_8t_model/</guid>
       <pubDate>Mon, 21 Sep 2026 20:49:29 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>GPT-5.6 дает очень быстрые, но совершенно неправильные ответы — кто-нибудь еще испытывает это?</title>
       <link>https://www.reddit.com/r/GPT3/comments/1wjvfie/gpt56_producing_extremely_fast_but_completely/</link>
-      <description><![CDATA[  представлено    /u/princeMacX    [link] [comments&gt;]]></description>
+      <description><![CDATA[  представлено    /u/princeMacX    [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1wjvfie/gpt56_producing_extremely_fast_but_completely/</guid>
       <pubDate>Fri, 18 Sep 2026 16:45:27 GMT</pubDate>
     </item>
@@ -92,14 +92,14 @@
     <item>
       <title>Самая большая история ИИ — это не OpenAI, а упущенная возможность Google</title>
       <link>https://www.reddit.com/r/GPT3/comments/1whmup4/the_biggest_ai_story_isnt_openaiits_googles/</link>
-      <description><![CDATA[       submitted by   ]]></description>
+      <description><![CDATA[       submitted by  ]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1whmup4/the_biggest_ai_story_isnt_openaiits_googles/</guid>
       <pubDate>Wed, 16 Sep 2026 04:21:02 GMT</pubDate>
     </item>
     <item>
       <title>Кто выигрывает гонку ИИ?</title>
       <link>https://www.reddit.com/r/GPT3/comments/1wgw21b/whos_winning_the_ai_race/</link>
-      <description><![CDATA[         submitted by   [link]&gt; ]]></description>
+      <description><![CDATA[  ]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1wgw21b/whos_winning_the_ai_race/</guid>
       <pubDate>Tue, 15 Sep 2026 10:01:32 GMT</pubDate>
     </item>

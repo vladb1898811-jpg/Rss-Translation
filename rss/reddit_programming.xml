@@ -4,7 +4,21 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Thu, 08 Oct 2026 07:27:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 09:51:15 GMT</lastBuildDate>
+    <item>
+      <title>Нужен ли ClickHouse собственный формат хранения?</title>
+      <link>https://www.reddit.com/r/programming/comments/1x0mma7/does_clickhouse_really_need_its_own_storage_format/</link>
+      <description><![CDATA[  представлено   /u/Giladkl   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1x0mma7/does_clickhouse_really_need_its_own_storage_format/</guid>
+      <pubDate>Thu, 08 Oct 2026 09:38:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Сколько компании платят за открытый исходный код? Счет, основанный только на опубликованных долларах</title>
+      <link>https://www.reddit.com/r/programming/comments/1x0m1hh/how_much_do_companies_publicly_pay_for_open/</link>
+      <description><![CDATA[  представлено    /u/MajorBaguette   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1x0m1hh/how_much_do_companies_publicly_pay_for_open/</guid>
+      <pubDate>Thu, 08 Oct 2026 09:00:48 GMT</pubDate>
+    </item>
     <item>
       <title>Разговор о API</title>
       <link>https://www.reddit.com/r/programming/comments/1x0jd0m/a_rant_about_apis/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[  представлено    /u/mtlynch   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wzw4cw/antipatterns_in_software_blogging/</guid>
       <pubDate>Wed, 07 Oct 2026 13:10:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Послесмертная отладка памяти минимального размера на macOS</title>
-      <link>https://www.reddit.com/r/programming/comments/1wzw1y7/postmortem_debuggable_minimalsize_memory_dumps_on/</link>
-      <description><![CDATA[  представлено   /u/donpedro1337    [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wzw1y7/postmortem_debuggable_minimalsize_memory_dumps_on/</guid>
-      <pubDate>Wed, 07 Oct 2026 13:07:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Взгляд на антиспамовые внутренние компоненты Reddit</title>
-      <link>https://www.reddit.com/r/programming/comments/1wzskuf/a_peek_into_reddits_antispam_internals/</link>
-      <description><![CDATA[  представлено    /u/fagnerbrack   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wzskuf/a_peek_into_reddits_antispam_internals/</guid>
-      <pubDate>Wed, 07 Oct 2026 10:00:33 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,35 @@
     <title>Продуктовая охота — Лучшие продукты каждый день</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 08 Oct 2026 07:44:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 10:00:31 GMT</lastBuildDate>
+    <item>
+      <title>тонус</title>
+      <link>https://www.producthunt.com/products/tonefold</link>
+      <description><![CDATA[
+Опишите песню, получите каждую часть как редактируемый MIDI
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/tonefold</guid>
+      <pubDate>Thu, 08 Oct 2026 04:28:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>пмтуи</title>
+      <link>https://www.producthunt.com/products/pmtui</link>
+      <description><![CDATA[
+Автопилот для длительных сеансов ИИ в терминале
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/pmtui</guid>
+      <pubDate>Thu, 08 Oct 2026 04:13:17 GMT</pubDate>
+    </item>
     <item>
       <title>Полилан для Vercel</title>
       <link>https://www.producthunt.com/products/polylane</link>
@@ -18,6 +46,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/polylane</guid>
       <pubDate>Wed, 07 Oct 2026 22:05:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Эпилюдиальный рассказчик</title>
+      <link>https://www.producthunt.com/products/epilude</link>
+      <description><![CDATA[
+Слушайте любую статью, документ или текст на вашем Mac.
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/epilude</guid>
+      <pubDate>Wed, 07 Oct 2026 21:03:10 GMT</pubDate>
     </item>
     <item>
       <title>Судья.Системы</title>
@@ -34,32 +76,32 @@
       <pubDate>Wed, 07 Oct 2026 19:10:29 GMT</pubDate>
     </item>
     <item>
-      <title>Клиппо</title>
-      <link>https://www.producthunt.com/products/clippo-2</link>
+      <title>Клод Хайку 5.5</title>
+      <link>https://www.producthunt.com/products/claude-haiku-5-5</link>
       <description><![CDATA[
-Оркестровые команды агентов ИИ на визуальном холсте
+Самый быстрый и способный хайку Anthropic
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/clippo-2</guid>
-      <pubDate>Wed, 07 Oct 2026 19:03:43 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/claude-haiku-5-5</guid>
+      <pubDate>Wed, 07 Oct 2026 18:11:57 GMT</pubDate>
     </item>
     <item>
-      <title>эгида</title>
-      <link>https://www.producthunt.com/products/aegis-14</link>
+      <title>Мониторинг</title>
+      <link>https://www.producthunt.com/products/hallmonitor</link>
       <description><![CDATA[
-Умное приложение для личной безопасности, подключенное к диспетчерской службе 24/7
+Увидеть и ответить на каждый кодирующий агент из вашей выемки
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/aegis-14</guid>
-      <pubDate>Wed, 07 Oct 2026 18:33:50 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/hallmonitor</guid>
+      <pubDate>Wed, 07 Oct 2026 16:49:17 GMT</pubDate>
     </item>
     <item>
       <title>SineFrame M3</title>
@@ -104,18 +146,18 @@
       <pubDate>Wed, 07 Oct 2026 14:44:21 GMT</pubDate>
     </item>
     <item>
-      <title>Чим</title>
-      <link>https://www.producthunt.com/products/chime-sms-categorized-on-device</link>
+      <title>бережливый</title>
+      <link>https://www.producthunt.com/products/leanback</link>
       <description><![CDATA[
-Частная классификация SMS, которая никогда не покидает ваше устройство
+Персональный помощник ИИ для управления инженерными командами
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/chime-sms-categorized-on-device</guid>
-      <pubDate>Wed, 07 Oct 2026 08:22:31 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/leanback</guid>
+      <pubDate>Wed, 07 Oct 2026 09:34:02 GMT</pubDate>
     </item>
     <item>
       <title>Жидкий вывод</title>
@@ -132,20 +174,6 @@
       <pubDate>Wed, 07 Oct 2026 08:14:41 GMT</pubDate>
     </item>
     <item>
-      <title>Типирование</title>
-      <link>https://www.producthunt.com/products/typeling</link>
-      <description><![CDATA[
-Переводите на клавиатуре iPhone. Держи свой тон.
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/typeling</guid>
-      <pubDate>Wed, 07 Oct 2026 07:50:58 GMT</pubDate>
-    </item>
-    <item>
       <title>Харк</title>
       <link>https://www.producthunt.com/products/hark-3</link>
       <description><![CDATA[
@@ -158,20 +186,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/hark-3</guid>
       <pubDate>Wed, 07 Oct 2026 01:29:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Секура Бенч</title>
-      <link>https://www.producthunt.com/products/vocera</link>
-      <description><![CDATA[
-Контрольные показатели речевой модели на живых телефонных звонках
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/vocera</guid>
-      <pubDate>Tue, 06 Oct 2026 17:39:40 GMT</pubDate>
     </item>
     <item>
       <title>Сторона</title>
@@ -188,32 +202,18 @@
       <pubDate>Tue, 06 Oct 2026 13:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>tunnl.gg</title>
-      <link>https://www.producthunt.com/products/tunnl-gg</link>
+      <title>Лунные сумерки</title>
+      <link>https://www.producthunt.com/products/moonwalkers-dusk</link>
       <description><![CDATA[
-Стабильные URL-адреса локального хоста по SSH без установки
+Моторизованные колеса, которые позволяют ходить в два раза быстрее
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/tunnl-gg</guid>
-      <pubDate>Mon, 05 Oct 2026 19:11:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ахм! Недопустимые напоминания</title>
-      <link>https://www.producthunt.com/products/ahem-calendar-overlay</link>
-      <description><![CDATA[
-Полноэкранные напоминания для СДВГ, слепого во времени и сфокусированного мозга
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/ahem-calendar-overlay</guid>
-      <pubDate>Mon, 05 Oct 2026 09:39:44 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/moonwalkers-dusk</guid>
+      <pubDate>Sat, 03 Oct 2026 10:34:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
