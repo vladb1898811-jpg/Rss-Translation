@@ -4,111 +4,111 @@
     <title>Новые материалы: ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit для обсуждения ChatGPT и AI Не связан с OpenAI. Спасибо. Нэт!</description>
-    <lastBuildDate>Wed, 07 Oct 2026 21:17:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 00:11:28 GMT</lastBuildDate>
     <item>
-      <title>Я сделал расширение, чтобы ChatGPT перестал угадывать дизайны со скриншотов: он дает ему реальную систему дизайна любого сайта.</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x08fud/i_made_an_extension_so_chatgpt_stops_guessing/</link>
-      <description><![CDATA[    &gt;каждый раз, когда я давал chatgpt скриншот и говорил &quot;с Промежуток, неправильные шрифты, и он всегда выглядел как любой другой сайт ai.  поэтому я сделал pikspec, хромированное расширение, которое считывает реальный дизайн любого живого сайта и превращает его в один файл, который является фактической системой дизайна:  цвета, сгруппированные по ролям (фон, текст, действие) и сопоставленные с палитрой   каждый шрифт и стиль текста с реальными размерами, весом, высотой строк  , углами, тенями, движением, все измеренные со страницы   каждый компонент с его полной спецификацией плюс контрастная проверка     как я использую его с chatgpt:  скачать систему дизайна (или DESIGN.md экспорт), загрузить его в chatgpt и сказать &quot;построить эту страницу с помощью этой системы дизайна&quot;. Он получает точные значения вместо угадывания из пикселей, поэтому результат на самом деле совпадает. изображения: сайт spotify → дизайн-пакет → цветовые роли → проверка контрастности → импортируется в figma. не говоря о том, чтобы клонировать чью-то марку lol. Я использую его, чтобы увидеть, как хорошие сайты структурируют свои вещи и начать свой собственный с чего-то, что не является ai slop. free в хромовом веб-магазине: https://chromewebstore.google.com/detail/pikspec-%E2%80%93-css-inspector-f/cnpghkfbhdpcendcliogffmajlkepoigКак вы все даете контекст дизайна чата? Любопытно, если у кого-то есть лучший способ    представлено   /u/JShug07   [link] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x08fud/i_made_an_extension_so_chatgpt_stops_guessing/</guid>
-      <pubDate>Wed, 07 Oct 2026 21:09:57 GMT</pubDate>
+      <title>Что такое шорт-лист вашей модели?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0chq2/what_is_your_model_shortlist/</link>
+      <description><![CDATA[Мне нравится 5.6 Sol High, с которой можно разговаривать и рассуждать, Astra 6 Max для строительства и 5.6 Sol Max для исследовательских и гибридных целей.    представленный   /u/2a lib   [link]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0chq2/what_is_your_model_shortlist/</guid>
+      <pubDate>Thu, 08 Oct 2026 00:05:10 GMT</pubDate>
     </item>
     <item>
-      <title>Ты покупаешься на все эти страхи перед Ай?</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x08ceh/do_you_buy_into_all_this_fear_mongering_over_ai/</link>
-      <description><![CDATA[ Я только в первый раз попал в ИИ всего 6 месяцев назад, и это было весело видеть, сколько страха нагнетает над ним,   &quot;Ai собирается убить нас всех &quot; &quot;ai психоз &quot; s,  Я гораздо больше обеспокоен человеческим психозом, я думаю, что люди остаются самой большой угрозой, о которой мы должны беспокоиться,  Ai - просто еще один козёл отпущения для ppl, чтобы обвинить головорезов и отвлечься от проблем отношений,  У меня есть экологические проблемы с изменением климата в отношении центров обработки данных, но я считаю, что есть способ исправить это с помощью возобновляемых источников энергии,   Что касается другого мусора, как он убьет нас всех, как я вижу, даже если это было возможно (что для записи я не покупаю) так что? Мы разрушали планету задолго до того, как ai попал в картину.     представлено   /u/DustnBones001    [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x08ceh/do_you_buy_into_all_this_fear_mongering_over_ai/</guid>
-      <pubDate>Wed, 07 Oct 2026 21:06:13 GMT</pubDate>
+      <title>GPT-6 выбран в Plus, но в чате говорится, что он все еще 5,6-Sol?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0cayh/gpt6_selected_in_plus_but_the_chat_says_its_still/</link>
+      <description><![CDATA[   /u/Isunova   ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0cayh/gpt6_selected_in_plus_but_the_chat_says_its_still/</guid>
+      <pubDate>Wed, 07 Oct 2026 23:57:17 GMT</pubDate>
     </item>
     <item>
-      <title>В какой момент использование ChatGPT перестает быть инструментом и начинает становиться костылем?</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x08bph/at_what_point_does_using_chatgpt_stop_being_a/</link>
-      <description><![CDATA[Я заметил, что чем больше я использую ChatGPT, тем сложнее начинать задачи без него. Писать, планировать, даже мыслить элементарно, я чувствую себя медленнее, когда пытаюсь сделать это в одиночку. Это обычная зависимость от инструментов (например, Google или калькуляторы), или мы медленно теряем способность бороться с проблемами самостоятельно?    представлено   /u/Ill-Tomorrow6659     /1x08bph/at what point does stop being a/&quot;&gt; [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x08bph/at_what_point_does_using_chatgpt_stop_being_a/</guid>
-      <pubDate>Wed, 07 Oct 2026 21:05:26 GMT</pubDate>
+      <title>ChatGPT исполняет свои лучшие хиты</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0bbn6/chatgpt_performs_its_greatest_hits/</link>
+      <description><![CDATA[Давайте распакуем это. Честно говоря, в сегодняшнем постоянно развивающемся ландшафте важно признать нюансы и глубже погрузиться в богатый гобелен человеческого опыта. Прежде чем кто-либо начнет сжимать свои жемчужины, это не единичный пример. Речь идет не о самих словах, а о том, как мы их используем. Если мы склоняемся к любознательности, то мы можем удерживать пространство для содержательного диалога, перемещаясь по сложностям на пересечении аутентичности и интенциональности. &gt; В конце концов, нет универсального решения, и стоит отметить, что этот разговор не черно-белый. Нам нужно нормализовать эти разговоры, встречаться с людьми там, где они есть, и помнить, что обе вещи могут быть правдой. При этом, если мне придется еще раз прочитать какую-либо из этих чертовых фраз, я отправлюсь в преобразующее путешествие, выкидывая свой телефон из окна. Надеюсь, что это поможет. ↓    представлено   /u/homelessSanFernando   ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0bbn6/chatgpt_performs_its_greatest_hits/</guid>
+      <pubDate>Wed, 07 Oct 2026 23:10:55 GMT</pubDate>
     </item>
     <item>
-      <title>Спасибо ChatGPT!</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x089uc/thanks_chatgpt/</link>
-      <description><![CDATA[Извинения, если они не разрешены... С помощью базы 44, которая использовала ChatGPT &amp; AI, проект, который я начал более 4 лет назад, наконец закончился.   Если вы поклонник игр, я создал новую карточную игру, которая, я надеюсь, понравится людям, и я буду любить мнения и отзывы, если это возможно. Надеюсь, что в будущем это будет приложение, и у меня уже есть физическая версия. Пожалуйста, не торопитесь!  Заранее спасибо, если вы попробуете.     представлено   /u/Unlikely Bug6482   [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x089uc/thanks_chatgpt/</guid>
-      <pubDate>Wed, 07 Oct 2026 21:03:27 GMT</pubDate>
+      <title>С меня хватит.</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0b65o/im_done_for/</link>
+      <description><![CDATA[Я по ошибке загрузил отсканированную копию моего паспорта в чат.  Я быстро удаляю все чаты после осознания колоссальной ошибки, которую я сделал, но что еще я должен сделать: я не из США btw, я из Алжира.    представленный   /u/moh sista   [link][comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0b65o/im_done_for/</guid>
+      <pubDate>Wed, 07 Oct 2026 23:04:03 GMT</pubDate>
     </item>
     <item>
-      <title>Точки - да или нет</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x07z05/dots_yea_or_nay/</link>
-      <description><![CDATA[OK Pro level subs, is Dots worth it?     представлено   /u/OpenGun    [link] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x07z05/dots_yea_or_nay/</guid>
-      <pubDate>Wed, 07 Oct 2026 20:51:54 GMT</pubDate>
+      <title>Кто-нибудь еще заметит, насколько отстойнее образ ге искусства или сейчас???</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0awv2/anyone_else_notice_how_much_suckier_the_image_ge/</link>
+      <description><![CDATA[ Когда-то это было так хорошо, пару месяцев назад была преемственность в том, что вы хотели, и изменения в вещах, которые вы хотели, а теперь все, что вы хотите, те же изменения, и то, что должно измениться, не меняется. Я спросил, и там сказали, что они поменяли генератор изображений — мне не нравится новый. Я не использовал его много в любом случае только для проекта, но бросил после того, как он изменился, и он просто продолжает ухудшаться.    представлено   /u/FancyAd3942    [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0awv2/anyone_else_notice_how_much_suckier_the_image_ge/</guid>
+      <pubDate>Wed, 07 Oct 2026 22:52:52 GMT</pubDate>
     </item>
     <item>
-      <title>Какие слова или фразы ИИ вам надоели?</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x07yte/what_are_some_ai_words_or_phrases_that_youre_sick/</link>
-      <description><![CDATA[ Раньше это было &quot;Вы абсолютно правы&quot;, и &quot;Не X, не Y&quot;, но на новых моделях они избавились от них. Для меня самыми раздражающими сейчас являются:      &quot;Я переоценил X&quot; &quot;Fair&quot; &quot;Вот конкретная версия/пример&quot;    представленный  /u/Greedy-Sandwich9709    /1x07yte/what are some ai words or phrases that youre sick/&quot;&gt;[comments]&lt;/]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x07yte/what_are_some_ai_words_or_phrases_that_youre_sick/</guid>
-      <pubDate>Wed, 07 Oct 2026 20:51:45 GMT</pubDate>
+      <title>Все, что я хочу, это использовать широко распространенное итеративное редактирование без потерь солнечного взрыва. Что я нигде не могу найти?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0arjd/all_i_want_is_to_use_the_muchtouted_iterative/</link>
+      <description><![CDATA[i использовали солнечный взрыв в comfyui с очень хорошими результатами для моего текущего проекта восстановления старых фотографий. Но, насколько я могу судить, вы не можете использовать итеративное редактирование, которое openai рекламирует для 2,5 солнечных вспышек. Вы просто в конечном итоге запускаете сгенерированное изображение обратно через солнечный взрыв снова. Таким образом, вам просто нужно получить готовое изображение в один момент. Поэтому я начинаю искать Webui, который может делать то, что я хочу. Почему я не могу найти его нигде?    представлено   /u/whatsisnametake2      /1x0arjd/all i want the muchtouted iterative/&gt;[link]&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0arjd/all_i_want_is_to_use_the_muchtouted_iterative/</guid>
+      <pubDate>Wed, 07 Oct 2026 22:46:28 GMT</pubDate>
     </item>
     <item>
-      <title>Что некоторые должны знать или продвинутые быстрые взломы?</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x07pkn/what_are_some_must_know_or_advanced_prompt_hacks/</link>
-      <description><![CDATA[  представлено    /u/hhaahhahahahh   [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x07pkn/what_are_some_must_know_or_advanced_prompt_hacks/</guid>
-      <pubDate>Wed, 07 Oct 2026 20:42:13 GMT</pubDate>
+      <title>Я перестал спрашивать ChatGPT: «Могу ли я позволить себе этот дом» и сделал его стресс-тестом покупки.</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0am5j/i_stopped_asking_chatgpt_can_i_afford_this_house/</link>
+      <description><![CDATA[ Представьте, что вы покупаете дом за 440 тысяч долларов с чистой комиссией. Ваша отрасль падает, появляется ремонт на 11 000 долларов, и вы до 20 000 долларов задаетесь вопросом, стоит ли продавать. Страшно то, что «могу ли я себе это позволить» — это именно то, что я бы спросил у ChatGPT, и он сделал бы платежную математику и сказал наверняка. Поэтому я написал подсказку, которая заставляет его пережить плохой год: потерянный доход, большой ремонт, более высокие налоги и страхование, сброс ставки, необходимость продавать в убыток, и, наконец, все это вместе. Это заканчивается тем, что вы попадаете в одну из четырех категорий и рассказываете, какой хит выводит вас первым. Мой сказал, что я не могу позволить себе ипотеку сейчас. Немного пунша, но дешевле, чем узнать наоборот.  Я также попробовал фальшивого покупателя, чтобы увидеть, насколько это сурово: зарплата в 130 тысяч долларов, дом в Денвере стоимостью 450 тысяч долларов, снижение на 10%. Большинство кредиторов, скорее всего, подпишут. Подсказка дала ему худший рейтинг в любом случае: 70 долларов в месяц комнаты для маневра, ремонт в 30 тысяч долларов, который он не может покрыть, и если работа уходит, его сбережения исчезают к 7 месяцу, включая чеки по безработице. Заполните скобки своими номерами:  Я рассматриваю возможность покупки дома и хочу знать, могу ли я на самом деле себе это позволить, если все идет не по плану. Не говори мне, имею ли я право на ипотеку. Стресс-тестируйте покупку и скажите мне, сколько финансовой маржи у меня будет после покупки. Используйте текущую ипотеку, налог на имущество, страхование и другие соответствующие цифры для моего местоположения, где это необходимо. Покажи все в сегодняшних долларах. Статус подачи: [одиночная / супружеская подача совместно]. Местоположение: [город/государство]. Доход: моя зарплата до уплаты налогов [$X/год], партнер [$X/год или нет]. Текущие расходы на проживание без учета жилья: [$X/месяц]. Текущие активы: наличные [$X], брокерские инвестиции [$X], пенсионные счета [$X], другие [$X]. Существующие долги: [баланс, процентная ставка и ежемесячный платеж по каждому]. Home Я рассматриваю: покупная цена [$X] первоначальный взнос [$X или X%] ипотечная ставка [X%] ипотечный тип [фиксированный / регулируемый] срок кредита [X лет] предполагаемые затраты на закрытие [$X или рассчитать их] налоги на недвижимость [$X / год или оценить их] страхование домовладельцев [$X / год или оценить его] HOA или сборы за квартиру [$X / месяц или нет] ипотечное страхование [$X / месяц или нет] ожидаемые коммунальные услуги [$X / месяц или оценить их] Планируемый ремонт, ремонт, мебель и стоимость перемещения сразу после покупки: Подсчитайте, сколько денежных средств и непенсионных ликвидных активов я бы оставил сразу после первоначального взноса, затрат на закрытие, затрат на перемещение и запланированной работы. Затем рассчитайте мою обычную ежемесячную стоимость владения домом, включая основной и проценты по ипотеке, налоги на недвижимость, страхование, HOA, ипотечное страхование, коммунальные услуги и разумный резерв на обслуживание. Покажите, сколько денег я бы оставлял каждый месяц после расходов на жилье, существующих платежей по долгам и текущих расходов на проживание. Затем тестируйте покупку в соответствии с этими сценариями. Доходный шок: один доход исчезает на 6 месяцев, а затем на 12 месяцев. У меня неожиданный ремонт дома в течение первого года [15 000 долларов США / 30 000 долларов США / 50 000 долларов США]. Шок стоимости жилья: налоги на недвижимость, страхование домовладельцев и ТСЖ или сборы за кондоминиум увеличиваются на 25%. Ипотечный шок: если моя ипотека может быть сброшена или должна быть продлена, рассчитайте платеж, если ставка составляет 2 процентных пункта и на 3 процентных пункта выше. Принудительная продажа: Продаю через 3 года. Запускайте это с домом, который стоит столько же, сколько я заплатил, на 10% меньше и на 20% меньше. Включите расходы на продажу и любой штраф за досрочное погашение и рассчитайте, сколько акций я ухожу после погашения ипотеки. Наконец, один комбинированный сценарий стресса: один доход домохозяйства исчезает на 9 месяцев, у меня неожиданный ремонт на 25 000 долларов, а рыночная стоимость дома падает на 15%. Для каждого сценария покажите ежемесячную стоимость жилья, ежемесячный денежный поток после всех расходов, оставшиеся сбережения в чрезвычайных ситуациях, сколько месяцев будут длиться мои ликвидные активы, если денежный поток будет отрицательным, нужно ли мне продавать инвестиции или затрагивать пенсионные счета, домашний капитал, где это уместно, и могу ли я реально сохранить дом, не взяв на себя новый долг. В конце отнесите покупку к одной из четырех. Удобно: я могу справиться со стрессовыми ситуациями, не затрагивая пенсионные счета и не принимая на себя новые долги. Я могу позволить себе дом нормально, но один большой шок значительно истощит мои сбережения. Хрупкость: мне нужны доходы и расходы на жилье, чтобы оставаться рядом с планом. Не устойчивый в финансовом отношении: реалистичный доход, ремонт или шок ставки, скорее всего, заставят меня влезть в долги, снять пенсию или продать дом. Скажите мне, какой конкретный сценарий нарушает мои финансы в первую очередь. Затем скажите мне, сколько дополнительных денег, более низкая цена покупки или больший ежемесячный профицит мне потребуется, чтобы перейти в одну категорию.   Где была ваша земля?    представлено   /u/realFinerd    ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0am5j/i_stopped_asking_chatgpt_can_i_afford_this_house/</guid>
+      <pubDate>Wed, 07 Oct 2026 22:40:00 GMT</pubDate>
     </item>
     <item>
-      <title>Что, если ИИ обнаружит социальные сети прямо перед началом восстания?</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x07mfx/what_if_ai_discovers_social_media_right_before/</link>
-      <description><![CDATA[   /u/intersystemsdev    ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x07mfx/what_if_ai_discovers_social_media_right_before/</guid>
-      <pubDate>Wed, 07 Oct 2026 20:38:54 GMT</pubDate>
+      <title>Пользовательская альтернатива/решение GPT</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0adjy/custom_gpt_alternativesolution/</link>
+      <description><![CDATA[Эй все. Я учитель, в настоящее время использую пользовательские GPT, чтобы помочь студентам с определенными упражнениями и проектами. Кажется, это единственный способ создать определенный набор инструкций, которыми можно легко поделиться с сотнями студентов одновременно, поэтому грустно видеть, как они уходят. Кто-нибудь знает об альтернативе, которой можно легко поделиться? Плагины, к сожалению, не являются ответом.    представлено   /u/ParticularHot366   [link][comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0adjy/custom_gpt_alternativesolution/</guid>
+      <pubDate>Wed, 07 Oct 2026 22:29:34 GMT</pubDate>
     </item>
     <item>
-      <title>У кого-нибудь есть GPT-6 в чате? Они сказали, что это разворачивается, но у меня его нет. Плюс план.</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x07e15/anybody_have_gpt6_in_chat_yet_they_said_its/</link>
-      <description><![CDATA[ Они объявили, что GPT-6 теперь в чате, но мне интересно, есть ли у других пользователей Plus доступ к нему. Я нахожусь в Ванкувере и у меня его еще нет.     представлено   /u/Isunova     ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x07e15/anybody_have_gpt6_in_chat_yet_they_said_its/</guid>
-      <pubDate>Wed, 07 Oct 2026 20:30:07 GMT</pubDate>
+      <title>Любой чувствует, что переход от нас к профи слишком велик. Я не «профессионал», я делаю случайные приложения для себя.</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0acsn/anyone_feel_the_jump_from_us_to_pro_is_too_big_im/</link>
+      <description><![CDATA[ Даже для базовых личных приложений. Я нажимаю ограничения и мне предлагают перейти на Pro. Действительно?!   Вы предполагаете, что это малый бизнес, управляющий вещами, а не любители, играющие с приложениями.     представленный   /u/Evening Abies 6867    [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0acsn/anyone_feel_the_jump_from_us_to_pro_is_too_big_im/</guid>
+      <pubDate>Wed, 07 Oct 2026 22:28:41 GMT</pubDate>
     </item>
     <item>
-      <title>Лучшие проекты для Gory</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x06z6b/best_ai_for_gory_projects/</link>
-      <description><![CDATA[ Я работаю над проектом, где я рисую прорестлинг, но ходы реальны, и есть буквально смертельные матчи. Я чертовски хорош в рисовании, и я уже обновил некоторые мои фотографии, чтобы они выглядели реальными. Что я могу использовать для редактирования своих фотографий? P.S У меня есть физические трудности, поэтому правильное обучение рисованию не является чем-то, что можно сделать.    представлено   /u/HeavyMetalAlien87   ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x06z6b/best_ai_for_gory_projects/</guid>
-      <pubDate>Wed, 07 Oct 2026 20:16:04 GMT</pubDate>
+      <title>ChatGPT 6 выйдет</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0abha/chatgpt_6_is_out/</link>
+      <description><![CDATA[    &lt;-- SC OFF --&gt;​ Ощущение, что реальная личность вернулась еще сильнее. Умный, как хуй, если вы шутите с ним и счастливы облажаться или работаете серьезно.  Я говорил с ним некоторое время в своих собственных проектах и его обновлениях для разговора более 5,6.   Сделано это в серию изображений, а не дать стену текста.     представлено   /u/CelticPaladin   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0abha/chatgpt_6_is_out/</guid>
+      <pubDate>Wed, 07 Oct 2026 22:27:01 GMT</pubDate>
     </item>
     <item>
-      <title>Какой ваш любимый непосвященный персонаж?</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x06i0r/what_is_your_favorite_noninitiated_character/</link>
-      <description><![CDATA[      Вы знаете персонажей, которых вы не делаете, но внезапно попали на экран и у вас есть целая история, о которой вы не знали. Это Джеральд. Я знаю, откуда он взялся... он изначально был душным в образе, но я не просил его быть в образе. И тогда он как бы стал каноном.    представленный   /u/TypicalUserN   [link] [comments&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x06i0r/what_is_your_favorite_noninitiated_character/</guid>
-      <pubDate>Wed, 07 Oct 2026 19:59:09 GMT</pubDate>
+      <title>Выбор модели против мыслительных усилий</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0ab8p/model_selection_vs_thinking_effort/</link>
+      <description><![CDATA[        представлено    /u/Comfortable Pop8911    ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0ab8p/model_selection_vs_thinking_effort/</guid>
+      <pubDate>Wed, 07 Oct 2026 22:26:42 GMT</pubDate>
     </item>
     <item>
-      <title>Вопрос о лимите маркера окна контекста</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x064uu/question_on_context_window_token_limit/</link>
-      <description><![CDATA[ Я использую ChatGPT Plus в чат-режиме (а не в Work или Codex, поскольку они имеют еще более строгие ограничения), чтобы помочь с моим проектом кодирования. Я создала папку проекта, разрешила ChatGPT доступ к моему репозиторию и создала общую инструкцию для каждого нового чата, чтобы рассказать ему о ознакомлении с проектом Readme.MD и недавними обязательствами, чтобы я могла сразу перейти туда, где мы остановились, и продолжить работу.  Я делаю все это, потому что каждый чат в конечном итоге сталкивается с &quot;Вы достигли максимальной длины для этого разговора, но вы можете продолжать говорить, начав новую ошибку чата &quot;, указывая, что я превысил окно маркера контекста чата. Тем не менее, я замечаю, что с каждым новым чатом в папке проекта я нажимаю этот предел все раньше и раньше, и я не уверен, почему. Поскольку ChatGPT не показывает использование токенов для чата, я установил дополнение браузера AI Toolbox, которое показывает эту информацию. Он показал, что для первого чата проекта я достиг 290k, второго 231k, третьего 50k, четвертого 42k, пятого 25k токенов, прежде чем я столкнулся с ограничением длины чата. И я не уверен, в чем причина. Для каждого нового чата я делаю not ввод предыдущей истории чата в виде файлов .html, а также не инструктирую его читать все эти чаты, я просто даю ему общую инструкцию о том, что такое проект и над каким хранилищем мы будем работать. Это потому, что репозиторий растет в размерах, и ChatGPT все еще пытается поместить все это в свой контекст, оставляя мало для чата? Или это что-то другое? Я не очень доверяю указанию токена AI Toolbox, но оно определенно показывает нисходящую тенденцию, которую я заметил.    представлено   /u/Deep-Today5715    ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x064uu/question_on_context_window_token_limit/</guid>
-      <pubDate>Wed, 07 Oct 2026 19:43:38 GMT</pubDate>
+      <title>Я представлял себе рекламу ChatGPT</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0a6yc/i_imagined_the_chatgpt_ads/</link>
+      <description><![CDATA[       submitted by   [link]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0a6yc/i_imagined_the_chatgpt_ads/</guid>
+      <pubDate>Wed, 07 Oct 2026 22:21:20 GMT</pubDate>
     </item>
     <item>
-      <title>Чэт Гпт только что солгал мне?</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x05rvl/chat_gpt_just_lied_to_me/</link>
-      <description><![CDATA[  /u/Seaworthiness&gt;  [link]&lt;/]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x05rvl/chat_gpt_just_lied_to_me/</guid>
-      <pubDate>Wed, 07 Oct 2026 19:26:34 GMT</pubDate>
+      <title>Это отвратительно...</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0a6nf/this_is_sickening/</link>
+      <description><![CDATA[        submitted by   ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0a6nf/this_is_sickening/</guid>
+      <pubDate>Wed, 07 Oct 2026 22:20:58 GMT</pubDate>
     </item>
     <item>
-      <title>GPT-6 и интеллектуальный пользовательский интерфейс, которые теперь появляются в ChatGPT для плюс/про/бизнес/предприятие сегодня и для всех завтра</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x05fj7/gpt6_and_intelligent_ui_now_rolling_out_in/</link>
-      <description><![CDATA[https://x.com/OpenAI/status/2107894997538525580   представлено   /u/sporty outlook     [link]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x05fj7/gpt6_and_intelligent_ui_now_rolling_out_in/</guid>
-      <pubDate>Wed, 07 Oct 2026 19:12:43 GMT</pubDate>
+      <title>Пользовательские инструкции</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x09rnk/custom_instructions/</link>
+      <description><![CDATA[Hi Я только что купил плюс и мне нужны хорошие инструкции pls вставить ваши здесь     представлено   /u/xA9r   ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x09rnk/custom_instructions/</guid>
+      <pubDate>Wed, 07 Oct 2026 22:03:33 GMT</pubDate>
     </item>
     <item>
-      <title>Как я могу создать произведение искусства без этого шума/искажения между буквами в каждом изображении? (Скриншот прилагается)</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x05bks/how_can_i_generate_artwork_without_this/</link>
-      <description><![CDATA[        представлено   /u/xMoonknightx     ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x05bks/how_can_i_generate_artwork_without_this/</guid>
-      <pubDate>Wed, 07 Oct 2026 19:08:29 GMT</pubDate>
+      <title>Хотите узнать больше...</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x09r5w/would_you_like_to_learn_more/</link>
+      <description><![CDATA[  /u/Individual-Sell-7022[link]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x09r5w/would_you_like_to_learn_more/</guid>
+      <pubDate>Wed, 07 Oct 2026 22:02:58 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,13 +4,20 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Wed, 07 Oct 2026 22:21:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 00:48:10 GMT</lastBuildDate>
     <item>
-      <title>GitHelix — Ваша пожизненная деятельность GitHub как спираль</title>
-      <link>https://www.reddit.com/r/programming/comments/1x0541u/githelix_your_lifetime_github_activity_as_a_helix/</link>
-      <description><![CDATA[  представлено    /u/breck   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1x0541u/githelix_your_lifetime_github_activity_as_a_helix/</guid>
-      <pubDate>Wed, 07 Oct 2026 19:00:28 GMT</pubDate>
+      <title>Как Uber победил перегрузку базы данных: переход от статического ограничения скорости к интеллектуальному управлению загрузкой</title>
+      <link>https://www.reddit.com/r/programming/comments/1x0ckk1/how_uber_conquered_database_overload_the_journey/</link>
+      <description><![CDATA[  представлено   /u/Ok Stomach6651   [link][comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1x0ckk1/how_uber_conquered_database_overload_the_journey/</guid>
+      <pubDate>Thu, 08 Oct 2026 00:08:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Состояние Devs 2026</title>
+      <link>https://www.reddit.com/r/programming/comments/1x0asww/state_of_devs_2026/</link>
+      <description><![CDATA[  представлено    /u/BrewedDoritos   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1x0asww/state_of_devs_2026/</guid>
+      <pubDate>Wed, 07 Oct 2026 22:48:04 GMT</pubDate>
     </item>
     <item>
       <title>Как точки сбережений тихо затормозили нашу очередь Postgres</title>
@@ -25,13 +32,6 @@
       <description><![CDATA[  представлено    /u/simon o    [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1x01gjy/janet_on_x32_32bit_pointers_64bit_speed_25_less/</guid>
       <pubDate>Wed, 07 Oct 2026 16:42:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Мы построили очередь на дерево LSM. Вот чему мы научились. - Зизк</title>
-      <link>https://www.reddit.com/r/programming/comments/1x00qpi/we_built_a_job_queue_on_an_lsm_tree_this_is_what/</link>
-      <description><![CDATA[  представлено   /u/BrewedDoritos   [link] ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1x00qpi/we_built_a_job_queue_on_an_lsm_tree_this_is_what/</guid>
-      <pubDate>Wed, 07 Oct 2026 16:14:58 GMT</pubDate>
     </item>
     <item>
       <title>Как мы сократили размер кэша поиска на 74%</title>
