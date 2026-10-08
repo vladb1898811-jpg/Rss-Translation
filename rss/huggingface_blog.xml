@@ -4,7 +4,7 @@
     <title>Обнимая лицо - Блог</title>
     <link>https://huggingface.co/blog</link>
     <description>Блог The Hugging Face</description>
-    <lastBuildDate>Wed, 07 Oct 2026 18:10:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 15:11:35 GMT</lastBuildDate>
     <item>
       <title>Мультимодальные модели открытых решений d1 для края</title>
       <link>https://huggingface.co/blog/LiquidAI/open-d1</link>
@@ -13,7 +13,14 @@
       <pubDate>Wed, 07 Oct 2026 16:54:33 GMT</pubDate>
     </item>
     <item>
-      <title>Одно модельное семейство, два результата на золотом уровне: тонконастраиваемый немотрон для IOI и IMO</title>
+      <title>Внедрение Falcon ASR</title>
+      <link>https://huggingface.co/blog/tiiuae/falcon-asr</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/tiiuae/falcon-asr</guid>
+      <pubDate>Wed, 07 Oct 2026 13:21:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Одно модельное семейство, два результата золотого уровня: тонконастраиваемый немотрон для IOI и IMO</title>
       <link>https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/ibm-research/altk-evolve-consistency</guid>
       <pubDate>Tue, 15 Sep 2026 16:00:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Async GRPO с LoRA через HF Jobs: ведро, прокси и отсутствие NCCL</title>
-      <link>https://huggingface.co/blog/asyncgrpo-lora-hfjobs</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/asyncgrpo-lora-hfjobs</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
