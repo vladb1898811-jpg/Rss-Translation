@@ -4,7 +4,35 @@
     <title>Новые материалы: программное обеспечение</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>Все, что связано с программным обеспечением. Пожалуйста, следуйте нашим правилам, чтобы избежать наказания.</description>
-    <lastBuildDate>Thu, 08 Oct 2026 19:12:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 22:14:20 GMT</lastBuildDate>
+    <item>
+      <title>Я создал Better Windows Services с массовыми действиями, принудительной остановкой / перезагрузкой, языком запросов, большим количеством информации GUI / CLI, открытым исходным кодом 100% бесплатно.</title>
+      <link>https://www.reddit.com/r/software/comments/1x13ji5/i_built_better_windows_services_with_mass_actions/</link>
+      <description><![CDATA[ Привет, я создал  Better Windows Services — альтернатива службам Windows с темной темой, языком запросов, массовыми действиями, принудительной остановкой/перезагрузкой, экспортом услуг и тоннами дополнительных данных. «Сильная» Если вам нравится проект, пожалуйста, дайте ему звезду   Вы можете прочитать здесь о языке запросов   Приложение на 100% бесплатное и с открытым исходным кодом, на 100% автономное, без телеметрии, без сетевых подключений, без проверок обновлений. C# + WPF (без электрона/webView). Некоторые функции:   Спросите, вместо прокрутки  - start:auto !status:running is  what should be up and is not. Один язык, в поле поиска и в списке bws - запрос , с полями, предлагаемыми при вводе.  Покажите план, прежде чем что-либо произойдет - каждая остановка, запуск, перезапуск и изменение типа запуска предварительно просматривается с помощью услуг, которые он снимает с него, и предварительный просмотр - это то, что работает. Сообщите, что дрейфовало - bws snapshot create замораживает машину в файл, а bws snapshot diff говорит, что изменилось с тех пор, конфигурация отличается от того, что только началось или прекратилось.  Остановить услугу, которая не остановится  - сначала вежливо просит и завершает процесс только в том случае, если это не удается, называя каждую другую услугу, которая в ней живет. Покажите, что  services.msc hides - кто подписал двоичный файл и доверяет ли ему Windows, триггеры, привилегии, дескриптор безопасности, процесс и его память. Как столбцы и как вещи для поиска.  Скажите, когда он не может прочитать что-то — поле, которое он не может прочитать, сообщается как не прочитанное, никогда не отображается как пустое. Снимок, сделанный без прав администратора, говорит об этом внутри файла.  Встроены в скрипты  - -json по каждой команде, код выхода для каждого окончания и 5, когда дифф находит дрейф.  Запуск с одного файла, offline - нет инсталлятора, нет .NET для установки, и он никогда не разговаривает с Интернетом. Чтение не требует прав администратора. GPL-3.0.   GitHub    представлено   /u/DonislawDev   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1x13ji5/i_built_better_windows_services_with_mass_actions/</guid>
+      <pubDate>Thu, 08 Oct 2026 21:35:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Я сделал крупное обновление для моего Apple Shortcut</title>
+      <link>https://www.reddit.com/r/software/comments/1x139ex/i_made_a_major_update_for_my_apple_shortcut/</link>
+      <description><![CDATA[  представлено    /u/Mobile Koala 4483  [link] [comments&gt;]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1x139ex/i_made_a_major_update_for_my_apple_shortcut/</guid>
+      <pubDate>Thu, 08 Oct 2026 21:24:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Программное обеспечение OCR Варианты чтения цифр на метре? Пробовал проверить аналогичное изображение с помощью тензорфлота, и оно не получилось. Есть предложения?</title>
+      <link>https://www.reddit.com/r/software/comments/1x129se/ocr_software_options_to_read_digits_on_a_meter/</link>
+      <description><![CDATA[  представлено    /u/julyboom   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1x129se/ocr_software_options_to_read_digits_on_a_meter/</guid>
+      <pubDate>Thu, 08 Oct 2026 20:44:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>После большой работы Side Calendar наконец-то появился в Windows: ваш календарь Outlook скатывается с края экрана.</title>
+      <link>https://www.reddit.com/r/software/comments/1x0zt1j/after_a_lot_of_work_side_calendar_is_finally_on/</link>
+      <description><![CDATA[  представлено   /u/CreakyHat2018    [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1x0zt1j/after_a_lot_of_work_side_calendar_is_finally_on/</guid>
+      <pubDate>Thu, 08 Oct 2026 19:10:49 GMT</pubDate>
+    </item>
     <item>
       <title>Программа для пакетного набора значков папок</title>
       <link>https://www.reddit.com/r/software/comments/1x0xhwg/program_to_batch_set_folder_icons/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[Наверное, самое большое обновление для word-sys&#39;s PDF Editor, теперь оно достигло v1.11.2 update. Это обновление Flatpak и Feature Update. Версия Flatpak:  официально выпущена на Flathub (https://flathub.org/en/apps/io.github.word sys.word sys-pdf-editor) благодаря anyconvert project  Это обновление вводит Multi-Document Tabs, интегрируя Adw.TabView и Adw.TabBar, чтобы вы могли одновременно открывать и редактировать несколько PDF-файлов в выделенных вкладках. Каждая вкладка имеет независимые истории undo/redo, отдельные состояния зума и грязные индикаторы для отслеживания несохраненных правок, в комплекте с быстрым переключением вкладок (Ctrl+Tab / Ctrl+PageDown и Ctrl+Shift+Tab / Ctrl+PageUp) и закрытием вкладок (Ctrl+W).  Другим важным дополнением является Visual Document Merging Workspace (Ctrl+Shift+M). Он предоставляет выделенное параллельное рабочее пространство для объединения страниц из двух исходных PDF-файлов в целевой документ, в комплекте с заказом страниц с перетаскиванием, просмотром в реальном времени, маркерами вставки, деталями инспектора и т. Д.  Вы, ребята, знаете, что я также заменил внешние вызовы подпроцесса LibreOffice на родной чистый Python anyconvert Document Engine (обновлено до anyconvert). 0.1.9 для всех платформ и пакетов. Теперь вы можете конвертировать PDF-файлы в DOCX, PPTX, ODT, ODP и TXT полностью на чистом Python, используя режимы преобразования Pixel-Accurate Canvas и Semantic Flow. И его 342KB :)  Added Page Rotation (Ctrl+Shift+R for Clockwise и Ctrl+Shift+L for Counter-Clockwise) с постоянным сохранением вращения PyMuPDF на 90 градусов. Added a Dedicated Recent Opened Files Hub, представляя список недавних файлов, управляемых приложением, с универсальными значками файлов, которые устраняют накладные расходы на сканирование общесистемных файлов.  Добавлено Text Alignment &amp; Formatting, обеспечивающее 4-хстороннее выравнивание текста (слева, в центре, справа, обоснование) и поддержку форматирования сквозного форматирования текстового инструмента.  Обновлено Interactive Quick Start Guide &amp; Manual, расширена таблица ярлыков руководства и клавиатуры для покрытия вкладок, слияния, вращения и многоформатного экспорта с 6 скриншотами высокого разрешения.  Расширенная интернационализация с помощью 7 Supported Languages, обеспечивающая полную локализацию пользовательского интерфейса и документации на английском, турецком, французском, немецком, испанском, итальянском и русском языках. Это обновление также включает в себя важные модернизации упаковки и исправления:    Оптимизация упаковки выпуска: Полностью разделенные архитектурные артефакты для x86 64 (amd64) и aarch64 (arm64), включая автономные пакеты .deb. Удалены дубликаты копий активов и удалены негабаритные исходные тарболы из автоматических выпусков сборки.  Модернизация пакетов: Модернизация пакетов: Откачанный soffice и flatpak-spawn разрешения из упаковки Flatpak и AppImage, а также обновлено время выполнения Flatpak до GNOME Platform 50 с доступом для выбора файлов на портале. Иконка приложения и интеграция рабочего стола: Исправлен путь поиска значков для обеспечения четкого векторного рендеринга SVG на экране Welcome, О диалоге и системных доках как в Flatpak, так и в прямом исполнении. Картирование класса окон Flatpak: Выровненное имя прикладной программы с метаданными файла рабочего стола для правильного отслеживания окон и ассоциации значков в GNOME Shell и средах рабочего стола.   Вы можете загрузить релиз Flatpak на Flathub (https://flathub.org/en/apps/io.github.word sys.word sys.word sys.word-sys-pdf-editor) или автономные пакеты .deb (x86 64/aarch64), AppImage, или построить из источника непосредственно на странице релизов GitHub.  Спасибо всем, кто поддерживает этот проект своими идеями, отзывами и сообщениями об ошибках. Я надеюсь, что это поможет всем пользователям Linux сделать свою работу в формате PDF легко, спасибо :)    представлено   /u/word-sys   [link] [comments&gt;]]></description>
       <guid>https://www.reddit.com/r/software/comments/1x0k83l/wordsyss_pdf_editor_v1112_officially_released_on/</guid>
       <pubDate>Thu, 08 Oct 2026 07:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Кнопка X-Mouse Control Есть ли способ сделать Layer x «активным только тогда, когда удерживается правая кнопка мыши»?</title>
-      <link>https://www.reddit.com/r/software/comments/1x0k1r9/xmouse_button_control_is_there_a_way_to_have/</link>
-      <description><![CDATA[ Обычно используется уровень 1. Я хочу перейти на уровень 2 только тогда, когда правая кнопка мыши удерживается вниз, и переключается обратно на уровень 1, как только я выпущу RMB. Я не могу найти, где можно назначить кнопки мыши в качестве активаторов     представлено   /u/cowpizzaland    [link]&gt;   ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1x0k1r9/xmouse_button_control_is_there_a_way_to_have/</guid>
-      <pubDate>Thu, 08 Oct 2026 06:51:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hydraulic: Discord Video Compressor | приложение для окон, предназначенное для обрезки и сжатия игровых клипов для облегчения обмена диссонансами</title>
-      <link>https://www.reddit.com/r/software/comments/1x0db2d/hydraulic_discord_video_compressor_a_windows_app/</link>
-      <description><![CDATA[. Hydraulic: Discord Video Compressor Hydraulic - это легкое, бесплатное и с открытым исходным кодом настольное приложение для просмотра, обрезки и сжатия игровых клипов, поэтому ими легко делиться на Discord. Он переносит функции управления клипами QOL Medal и SteelSeries GG в all ваши клипы, где бы они ни были записаны.  the Features   the Drag &amp; drop клипы в очередь  a Preview клипы перед сжатием  ️️ Trim клипы и  the toggle аудио треки Откройте клипы напрямую  в Hydraulic   s Ускорение графического процессора  Поддержка  s  FFmpeg поставляется в комплекте , поэтому нет ничего лишнего для установки   s Скачать  Установщик Windows:  Получить последнюю версию  Исходный код:  github.com/Astromations/Hydraulic   представлено   /u/Astromations   [link]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1x0db2d/hydraulic_discord_video_compressor_a_windows_app/</guid>
-      <pubDate>Thu, 08 Oct 2026 00:45:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Мне нужно писать конфиденциальные заметки/журналы, какое программное обеспечение вы бы порекомендовали?</title>
-      <link>https://www.reddit.com/r/software/comments/1x0c15j/i_need_to_write_confidential_notesjournals_what/</link>
-      <description><![CDATA[ Какое лучшее программное обеспечение или метод вы используете для простого текста? Изображения и видео будут плюсом, но ненужным, если мне придется идти на компромисс. Я хочу, чтобы приоритетом здесь была безопасность, даже если кто-то вошел в мое устройство, это было бы безопасно, с минимальным риском утечки. Идеально для iOS, но мне любопытно услышать все ответы, поэтому, пожалуйста, дайте мне знать ваши мысли     представленные   /u/uurub    [link]//www.reddit.com/r/software/comments/1x0c15j/i need to write confidential notesjournals what/&quot;&gt;]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1x0c15j/i_need_to_write_confidential_notesjournals_what/</guid>
-      <pubDate>Wed, 07 Oct 2026 23:44:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Клиент Java Runner: современный и простой JAR-менеджмент</title>
-      <link>https://www.reddit.com/r/software/comments/1x09fg9/java_runner_client_modern_and_easy_jarrunning/</link>
-      <description><![CDATA[  представлено   /u/timon m22   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1x09fg9/java_runner_client_modern_and_easy_jarrunning/</guid>
-      <pubDate>Wed, 07 Oct 2026 21:49:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

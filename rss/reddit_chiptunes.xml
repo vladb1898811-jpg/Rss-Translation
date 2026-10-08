@@ -4,7 +4,14 @@
     <title>Новые материалы: Chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>Сообщество, посвященное музыке, которая получает максимум от меньшего. Музыка в стиле старых игр, например, C64, Atari, NES, Gameboy, Sega Genesis, Adlib, OPM, MOD и др.</description>
-    <lastBuildDate>Thu, 08 Oct 2026 19:18:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 22:21:03 GMT</lastBuildDate>
+    <item>
+      <title>Parmi Les Fontaines Et Les Puits (песня)</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1x1130q/parmi_les_fontaines_et_les_puits_original_song/</link>
+      <description><![CDATA[   &gt;  представленный  ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1x1130q/parmi_les_fontaines_et_les_puits_original_song/</guid>
+      <pubDate>Thu, 08 Oct 2026 19:59:46 GMT</pubDate>
+    </item>
     <item>
       <title>Ocean Reload | Океанский погрузчик C64 2SID!</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1x0zvsq/ocean_reload_ocean_loader_c64_2sid_tune_cover/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 29 сентября - понедельник, 05 октября, 2026                                                &lt; The Night Begins to Shine &amp; #40;cover in Embra-16(cover in Embra-16(cover in Embra-16(cover in Embra-16)cover in Embra-16cover in Embra-16cover в Embra-16cover в Embra-16cover в Embra-16cover в Embra-16cover в Embra-16cover в Embra-16#4;code&gt;SMB1 Overworld(Eurochip Style, 2A03                                              Tickertone-C6280: Synth VST для воспроизведения звука TurboGrafx16 / PCEngine   9 7 comments   Я построил &quot;Soundfont Explorer&quot;, демонстрируя довольно много вариантов FM-синтеза  8 1 commentsDrum Machina Go!  6 comments         представленный   /u/subredditsummarybot   [comments]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1wz4wgy/your_weekly_rchiptunes_roundup_for_the_week_of/</guid>
       <pubDate>Tue, 06 Oct 2026 15:03:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Я создал «Soundfont Explorer», демонстрирующий довольно много вариантов синтеза FM.</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1wyoaid/i_built_a_soundfont_explorer_showcasing_quite_a/</link>
-      <description><![CDATA[ Связанный URL содержит фильтр, который показывает только FM-шрифты. Не стесняйтесь нажимать на зеленый круг, чтобы очистить этот фильтр и исследовать &quot;более 8 бит&quot; материал ;) Я только что открыл его здесь: https://github.com/llmodelcitizen/llmodelcitizen/soundfont-explorer   представленный   /u/ericq   [link]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1wyoaid/i_built_a_soundfont_explorer_showcasing_quite_a/</guid>
-      <pubDate>Tue, 06 Oct 2026 00:02:07 GMT</pubDate>
     </item>
     </channel>
 </rss>

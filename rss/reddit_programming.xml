@@ -4,7 +4,21 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Thu, 08 Oct 2026 19:13:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 22:15:35 GMT</lastBuildDate>
+    <item>
+      <title>Насколько велико обязательство Git?</title>
+      <link>https://www.reddit.com/r/programming/comments/1x144ok/how_big_is_a_git_commit/</link>
+      <description><![CDATA[  представлено    /u/fagnerbrack   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1x144ok/how_big_is_a_git_commit/</guid>
+      <pubDate>Thu, 08 Oct 2026 22:00:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Отслеживание np.add, вниз</title>
+      <link>https://www.reddit.com/r/programming/comments/1x11ujr/tracing_npadd_all_the_way_down/</link>
+      <description><![CDATA[  представлено    /u/alexeyr   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1x11ujr/tracing_npadd_all_the_way_down/</guid>
+      <pubDate>Thu, 08 Oct 2026 20:28:27 GMT</pubDate>
+    </item>
     <item>
       <title>Двери с двумя путями: не загоняйте себя в угол</title>
       <link>https://www.reddit.com/r/programming/comments/1x0vmxt/twoway_doors_dont_code_yourself_into_a_corner/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[  представлено   /u/Ok Stomach6651   [link][comments&gt;]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1x0ckk1/how_uber_conquered_database_overload_the_journey/</guid>
       <pubDate>Thu, 08 Oct 2026 00:08:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Состояние Devs 2026</title>
-      <link>https://www.reddit.com/r/programming/comments/1x0asww/state_of_devs_2026/</link>
-      <description><![CDATA[  представлено    /u/BrewedDoritos   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1x0asww/state_of_devs_2026/</guid>
-      <pubDate>Wed, 07 Oct 2026 22:48:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Как точки сбережений тихо затормозили нашу очередь Postgres</title>
-      <link>https://www.reddit.com/r/programming/comments/1x02iea/how_savepoints_quietly_throttled_our_postgres/</link>
-      <description><![CDATA[  представлено    /u/shared ptr   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1x02iea/how_savepoints_quietly_throttled_our_postgres/</guid>
-      <pubDate>Wed, 07 Oct 2026 17:21:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
