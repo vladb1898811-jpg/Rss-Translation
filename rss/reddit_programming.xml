@@ -4,20 +4,48 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Thu, 08 Oct 2026 04:21:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 07:27:06 GMT</lastBuildDate>
     <item>
-      <title>Европол призывает к скорейшим действиям по защите криптовалют и конфиденциальных данных от квантовых угроз</title>
-      <link>https://www.reddit.com/r/programming/comments/1x0ggel/europol_urges_early_action_to_protect/</link>
-      <description><![CDATA[  представлено    /u/donutloop   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1x0ggel/europol_urges_early_action_to_protect/</guid>
-      <pubDate>Thu, 08 Oct 2026 03:23:14 GMT</pubDate>
+      <title>Разговор о API</title>
+      <link>https://www.reddit.com/r/programming/comments/1x0jd0m/a_rant_about_apis/</link>
+      <description><![CDATA[  представлено   /u/ccb621   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1x0jd0m/a_rant_about_apis/</guid>
+      <pubDate>Thu, 08 Oct 2026 06:08:53 GMT</pubDate>
     </item>
     <item>
-      <title>Устарели ли разработчики?</title>
-      <link>https://www.reddit.com/r/programming/comments/1x0g1iu/are_developers_obsolete/</link>
-      <description><![CDATA[  представлено    /u/GenericAHHyoutuber   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1x0g1iu/are_developers_obsolete/</guid>
-      <pubDate>Thu, 08 Oct 2026 03:01:41 GMT</pubDate>
+      <title>Маргарет Гамильтон, пионер вычислительной техники, которая руководила разработкой программного обеспечения для программы Apollo, умирает в 90 лет.</title>
+      <link>https://www.reddit.com/r/programming/comments/1x0j6f7/margaret_hamilton_computing_pioneer_who_led/</link>
+      <description><![CDATA[  представлено   /u/Ok-Captain-6460   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1x0j6f7/margaret_hamilton_computing_pioneer_who_led/</guid>
+      <pubDate>Thu, 08 Oct 2026 05:58:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Маргарет Гамильтон, пионер вычислительной техники, которая руководила разработкой программного обеспечения для программы Apollo, умирает в 90 лет.</title>
+      <link>https://www.reddit.com/r/programming/comments/1x0j559/margaret_hamilton_computing_pioneer_who_led/</link>
+      <description><![CDATA[  представлено    /u/mareek   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1x0j559/margaret_hamilton_computing_pioneer_who_led/</guid>
+      <pubDate>Thu, 08 Oct 2026 05:55:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Go simd Package в версии 1.27: Dot Product Benchmark</title>
+      <link>https://www.reddit.com/r/programming/comments/1x0iwgh/go_simd_package_in_127_dot_product_benchmark/</link>
+      <description><![CDATA[  представлено    /u/Efficient File   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1x0iwgh/go_simd_package_in_127_dot_product_benchmark/</guid>
+      <pubDate>Thu, 08 Oct 2026 05:40:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Люди, поддерживающие интернет</title>
+      <link>https://www.reddit.com/r/programming/comments/1x0i3bz/the_people_holding_up_the_internet/</link>
+      <description><![CDATA[  представлено    /u/Mastbubbles   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1x0i3bz/the_people_holding_up_the_internet/</guid>
+      <pubDate>Thu, 08 Oct 2026 04:53:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Европол призывает к скорейшему принятию мер по защите криптовалют и конфиденциальных данных от квантовых угроз</title>
+      <link>https://www.reddit.com/r/programming/comments/1x0ggel/europol_urges_early_action_to_protect/</link>
+      <description><![CDATA[  представлено   /u/donutloop   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1x0ggel/europol_urges_early_action_to_protect/</guid>
+      <pubDate>Thu, 08 Oct 2026 03:23:14 GMT</pubDate>
     </item>
     <item>
       <title>Как Uber победил перегрузку базы данных: переход от статического ограничения скорости к интеллектуальному управлению загрузкой</title>
@@ -36,7 +64,7 @@
     <item>
       <title>Как точки сбережений тихо затормозили нашу очередь Postgres</title>
       <link>https://www.reddit.com/r/programming/comments/1x02iea/how_savepoints_quietly_throttled_our_postgres/</link>
-      <description><![CDATA[  представлено    /u/shared ptr   [link] [comments]]]></description>
+      <description><![CDATA[  представлено   /u/shared ptr    [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1x02iea/how_savepoints_quietly_throttled_our_postgres/</guid>
       <pubDate>Wed, 07 Oct 2026 17:21:59 GMT</pubDate>
     </item>
@@ -50,12 +78,12 @@
     <item>
       <title>Как мы сократили размер кэша поиска на 74%</title>
       <link>https://www.reddit.com/r/programming/comments/1wzz3cc/how_we_slashed_the_size_of_our_search_cache_by_74/</link>
-      <description><![CDATA[  представлено    /u/Bertrand31   [link] [comments]]]></description>
+      <description><![CDATA[  представлено    /u/Bertrand31    [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wzz3cc/how_we_slashed_the_size_of_our_search_cache_by_74/</guid>
       <pubDate>Wed, 07 Oct 2026 15:11:53 GMT</pubDate>
     </item>
     <item>
-      <title>Отказ от GitHub Actions не избавит вас от GitHub: ваши установки по-прежнему зависят от него</title>
+      <title>Отключение GitHub Actions не освобождает вас от GitHub: ваши установки по-прежнему зависят от него.</title>
       <link>https://www.reddit.com/r/programming/comments/1wzxplb/moving_off_github_actions_doesnt_get_you_off/</link>
       <description><![CDATA[  представлено   /u/Patient-Pollution46   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wzxplb/moving_off_github_actions_doesnt_get_you_off/</guid>
@@ -81,34 +109,6 @@
       <description><![CDATA[  представлено    /u/fagnerbrack   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wzskuf/a_peek_into_reddits_antispam_internals/</guid>
       <pubDate>Wed, 07 Oct 2026 10:00:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>От пользовательского к открытому: масштабируемое сетевое тестирование и готовность HTTP/3 с Prometheus</title>
-      <link>https://www.reddit.com/r/programming/comments/1wzfp28/from_custom_to_open_scalable_network_probing_and/</link>
-      <description><![CDATA[  представлено    /u/Ok Stomach6651   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wzfp28/from_custom_to_open_scalable_network_probing_and/</guid>
-      <pubDate>Tue, 06 Oct 2026 22:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Релиз Polars 2.0</title>
-      <link>https://www.reddit.com/r/programming/comments/1wzf37b/release_of_polars_20/</link>
-      <description><![CDATA[  представлено    /u/BrewedDoritos   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wzf37b/release_of_polars_20/</guid>
-      <pubDate>Tue, 06 Oct 2026 21:38:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Настройка сервера для бенчмаркинга</title>
-      <link>https://www.reddit.com/r/programming/comments/1wzbo9p/tuning_a_server_for_benchmarking/</link>
-      <description><![CDATA[  представлено    /u/david-alvarez-rosa   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wzbo9p/tuning_a_server_for_benchmarking/</guid>
-      <pubDate>Tue, 06 Oct 2026 19:23:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Результаты StackOverflow Developer Survey 2026</title>
-      <link>https://www.reddit.com/r/programming/comments/1wz64oa/stackoverflow_developer_survey_results_2026/</link>
-      <description><![CDATA[  представлено   /u/sh tomer   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wz64oa/stackoverflow_developer_survey_results_2026/</guid>
-      <pubDate>Tue, 06 Oct 2026 15:51:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
