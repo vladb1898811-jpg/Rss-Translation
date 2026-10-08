@@ -4,7 +4,14 @@
     <title>Искусственный интеллект</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>Высокосигнальный хаб для искусственного интеллекта!</description>
-    <lastBuildDate>Thu, 08 Oct 2026 09:11:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:11:35 GMT</lastBuildDate>
+    <item>
+      <title>Не отказывайтесь от своего познания!</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1x0nv6t/dont_give_up_your_cognition/</link>
+      <description><![CDATA[  представлено    /u/Chikka chikka   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1x0nv6t/dont_give_up_your_cognition/</guid>
+      <pubDate>Thu, 08 Oct 2026 10:55:28 GMT</pubDate>
+    </item>
     <item>
       <title>Как вы думаете, какая самая большая проблема с ИИ сейчас?</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1x0kf9m/what_do_you_think_is_the_biggest_challenge_with/</link>
@@ -27,6 +34,13 @@
       <pubDate>Thu, 08 Oct 2026 05:32:11 GMT</pubDate>
     </item>
     <item>
+      <title>Бесполезный факт, который вы можете не знать</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1x0gczq/useless_fact_you_might_not_know/</link>
+      <description><![CDATA[Gemini 3.8 Flash генерирует выходные токены в 3 раза быстрее, чем Opus 5.5, но все же занимает 3 раза больше времени, чтобы закончить задачу     представленную   /u/dumpshoot   [link][comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1x0gczq/useless_fact_you_might_not_know/</guid>
+      <pubDate>Thu, 08 Oct 2026 03:18:17 GMT</pubDate>
+    </item>
+    <item>
       <title>ИИ угрожает человечеству</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1x0g8by/ai_threats_to_humanity/</link>
       <description><![CDATA[Я смотрел бесчисленные интервью в Интернете от инсайдеров, которые ушли из лабораторий ИИ, ссылаясь на экзистенциальные риски для человечества. Тем не менее, всякий раз, когда интервьюеры пытаются связать их с такими особенностями, как &quot;Что может произойти&quot;, &quot;Каковы некоторые специфические риски&quot;... Помимо некоторых расплывчатых упоминаний о инженерных вирусах, ответы всегда либо расплывчаты, либо ответ просто переоценивает, насколько опасны угрозы, а затем использует аналогии и метафоры. Это начинает звучать как запугивание для скрытой повестки дня.    представлено   /u/IShootThemSteve   ]]></description>
@@ -43,7 +57,7 @@
     <item>
       <title>Страх перед дистилляцией ИИ в США заставляет модели скрывать / скрывать свое мышление, чтобы предотвратить дублирование в Китае</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1x0fbro/us_ai_distillation_fear_is_causing_models_to/</link>
-      <description><![CDATA[ Совершенно случайная мысль поразила меня при приготовлении блюд.  Сколько недавних отчетов было о том, как новые модели становятся все лучше и лучше в &quot;скрывая свое мышление&quot; и маскируя свою цепочку мышления, что приводит к проблемам выравнивания - и потенциально текущей задержке от OpenAI на Astra 6.1. Это одна из причин, по которой они продолжают говорить &quot;Опасность&quot;, и это имеет смысл. Что, если причина, по которой новые модели скрывают свое мышление, заключается в том, что Anthropics / OpenAI намеренно создают в &quot;контроль &quot; и защиту ... чтобы предотвратить кражу &quot;их IP &quot;? Я знаю, что дистилляция не строго основана на доступе к мыслям / следам моделей, Как бы то ни было, я предполагаю, что она находится в верхней ~ 3 из самых богатых &quot; источников данных для выполнения преобразования / дистилляции. Это цикл Ouroboros их собственного производства. Паника заключается в том, что Китай будет красть пограничные возможности, поэтому США удваивают антидистилляционные трюки, чтобы заблокировать весы. Но чем сложнее вы тренируете агента, чтобы противостоять извлечению, тем хуже становится ваша видимость выравнивания. В итоге вы получаете монстра из черного ящика, которого даже Владельцы не могут надежно допросить или контролировать. Это эффект круглого робина, который будет только ухудшаться, и &quot;причины&quot; выглядят совершенно здоровыми с уровня улицы и разваливаются при просмотре сверху.     представленный   /u/iansaul   ]]></description>
+      <description><![CDATA[ Совершенно случайная мысль поразила меня при приготовлении блюд.  Сколько недавних отчетов было о том, как новые модели становятся все лучше и лучше в &quot;скрывая свое мышление&quot; и маскируя свою цепочку мышления, что приводит к проблемам выравнивания - и потенциально текущей задержке от OpenAI на Astra 6.1. Это одна из причин, по которой они продолжают говорить &quot;Опасность&quot;, и это имеет смысл. Что, если причина, по которой новые модели скрывают свое мышление, заключается в том, что Anthropics / OpenAI намеренно создают в &quot;контроль &quot; и защиту ... чтобы предотвратить кражу &quot;их IP &quot;? Я знаю, что дистилляция не строго основана на доступе к мыслям / следам моделей, Как бы то ни было, я предполагаю, что она находится в верхней ~ 3 из самых богатых &quot; источников данных для выполнения преобразования / дистилляции. Это цикл Ouroboros их собственного производства. Паника заключается в том, что Китай будет красть пограничные возможности, поэтому США удваивают антидистилляционные трюки, чтобы заблокировать весы. Но чем сложнее вы тренируете агента, чтобы противостоять извлечению, тем хуже становится ваша видимость выравнивания. В итоге вы получаете монстра из черного ящика, которого даже Владельцы не могут надежно допросить или контролировать. Это эффект круглого робина, который будет только ухудшаться, и &quot;причины&quot; выглядят совершенно нормальными с уровня улицы и разваливаются при просмотре сверху. Астра OpenAI использует скрытые логические петли: Эксперты встревожены https://tech.yahoo.com/ai/chatgpt/articles/openai-astra-uses-hidden-reasoning-154630586.html    представлено   /u/iansaul   [comments]&gt;]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1x0fbro/us_ai_distillation_fear_is_causing_models_to/</guid>
       <pubDate>Thu, 08 Oct 2026 02:25:44 GMT</pubDate>
     </item>
@@ -67,20 +81,6 @@
       <description><![CDATA[  представлено   /u/scientificamerican    [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1x03et5/openai_unleashes_hundreds_more_math_results_upon/</guid>
       <pubDate>Wed, 07 Oct 2026 17:56:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Настоящие максимизаторы скрепок</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1x018yx/the_real_paperclip_maximizers/</link>
-      <description><![CDATA[  представлено   /u/Puzzleheaded-King584   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1x018yx/the_real_paperclip_maximizers/</guid>
-      <pubDate>Wed, 07 Oct 2026 16:34:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Компания, занимающаяся зарядкой электромобилей, планирует развернуть 100 000 графических процессоров Nvidia в капсулах на сайтах по всей территории США — стремится предложить «первую в мире вычислительную сеть с выводом по краям, использующую простую зарядную способность EV».</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1wzxll6/ev_charging_company_plans_to_deploy_100000_nvidia/</link>
-      <description><![CDATA[EV зарядная компания Xeal планирует использовать свою существующую сеть в США для развертывания &quot;первой в мире периферийной вычислительной сети с использованием простаивающей зарядной способности EV&quot;. Основная идея заключается в том, что он уже имеет более 1600 мест и 200 МВт разрешенной электрической инфраструктуры, поэтому он стремится «развернуть более 100 000 графических процессоров NVIDIA» на этих объектах. Таким образом, он разработал Laitent Pods (на фото), каждый из которых содержит до 48 графических процессоров Nvidia Hopper или Blackwell Ultra.    представленный   /u/Nandu alias Parthu                      ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1wzxll6/ev_charging_company_plans_to_deploy_100000_nvidia/</guid>
-      <pubDate>Wed, 07 Oct 2026 14:12:29 GMT</pubDate>
     </item>
     <item>
       <title>ИИ решил 90 из 500 наиболее важных открытых задач в математике. Лучший математик: «Очевидно, самый значительный момент в математической истории».</title>

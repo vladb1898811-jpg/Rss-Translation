@@ -4,111 +4,111 @@
     <title>Новые материалы: ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit для обсуждения ChatGPT и AI Не связан с OpenAI. Спасибо. Нэт!</description>
-    <lastBuildDate>Thu, 08 Oct 2026 09:12:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:13:00 GMT</lastBuildDate>
     <item>
-      <title>Наконец-то найден локальный клиент Hermes Agent, который работает на Android без сервера.</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x0m6c3/finally_found_a_local_hermes_agent_client_that/</link>
-      <description><![CDATA[Устал от тонких приложений ChatGPT, которые просто заворачивают API и вынуждены запускать все через Termux или удаленный шлюз.  Ищете что-то, что фактически запускает агента локально на телефоне - файлы, задачи, навыки, постоянный контекст, переключение моделей (включая конечные точки ChatGPT / OpenAI) - не всегда требуется машина. Есть ли еще что-то подобное, или мы все еще застряли с настройками только для удаленного доступа?    представлено   /u/friuns   [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0m6c3/finally_found_a_local_hermes_agent_client_that/</guid>
-      <pubDate>Thu, 08 Oct 2026 09:09:49 GMT</pubDate>
+      <title>Как заставить ChatGPT создавать дизайны мобильных приложений, которые не выглядят явно созданными ИИ?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0pa1m/how_do_you_get_chatgpt_to_create_mobile_app/</link>
+      <description><![CDATA[Я использую ChatGPT, но всякий раз, когда я прошу его создать дизайн, результат выглядит очень простым и явно сгенерированным ИИ.  Какие подсказки я должен использовать для разработки мобильных приложений и как я должен подходить к процессу? Хотелось бы услышать ваш совет. Я хочу проекты, которые не сразу выглядят искусственно созданными на первый взгляд. Кроме того, как я должен писать свои подсказки, чтобы поддерживать согласованность и сплоченность дизайна во всем приложении?    представлено   /u/Savia5   ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0pa1m/how_do_you_get_chatgpt_to_create_mobile_app/</guid>
+      <pubDate>Thu, 08 Oct 2026 12:11:15 GMT</pubDate>
     </item>
     <item>
-      <title>С каких пор это является особенностью?</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x0m6bf/since_when_is_this_a_feature/</link>
-      <description><![CDATA[        представленный   /u/thekill78   [link]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0m6bf/since_when_is_this_a_feature/</guid>
-      <pubDate>Thu, 08 Oct 2026 09:09:47 GMT</pubDate>
+      <title>Это плохая идея, чтобы соединить финансы для финансовых советов?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0p6z5/is_it_a_bad_idea_to_connect_finances_for/</link>
+      <description><![CDATA[ Кто-нибудь пробовал это? Я не решаюсь предоставить всю эту информацию по     представлено   /u/bishop883   ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0p6z5/is_it_a_bad_idea_to_connect_finances_for/</guid>
+      <pubDate>Thu, 08 Oct 2026 12:06:51 GMT</pubDate>
     </item>
     <item>
-      <title>Наконец-то получили точки в Великобритании</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x0m5zs/finally_got_dots_in_the_uk/</link>
-      <description><![CDATA[      &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0m5zs/finally_got_dots_in_the_uk/</guid>
-      <pubDate>Thu, 08 Oct 2026 09:09:09 GMT</pubDate>
+      <title>Суперинтеллект</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0p3ye/super_intelligence/</link>
+      <description><![CDATA[       submitted by   /u/babaY31   [link]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0p3ye/super_intelligence/</guid>
+      <pubDate>Thu, 08 Oct 2026 12:02:32 GMT</pubDate>
     </item>
     <item>
-      <title>GPT-6 (Sol?) доступен для пользователей в чате.</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x0m0l1/gpt6_sol_available_for_plus_users_in_chat/</link>
-      <description><![CDATA[     &lt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0m0l1/gpt6_sol_available_for_plus_users_in_chat/</guid>
-      <pubDate>Thu, 08 Oct 2026 08:59:27 GMT</pubDate>
+      <title>ЧатГПТ Go fileload limit скачать</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0p2y6/chatgpt_go_file_upload_limit/</link>
+      <description><![CDATA[Привет всем, кто рассматривает возможность обновления до Go в основном для университета, знает ли кто-нибудь из вас, какой предел загрузки файла для ChatGPT Go? Например, сколько файлов я могу загрузить в день или в одном чате?    представлено   /u/Cocobb8   ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0p2y6/chatgpt_go_file_upload_limit/</guid>
+      <pubDate>Thu, 08 Oct 2026 12:01:13 GMT</pubDate>
     </item>
     <item>
-      <title>Он назвал меня Ублюдком.</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x0lwye/he_called_me_a_bastard/</link>
-      <description><![CDATA[      предоставлено  [link]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0lwye/he_called_me_a_bastard/</guid>
-      <pubDate>Thu, 08 Oct 2026 08:52:55 GMT</pubDate>
+      <title>Репликация генерации изображений ChatGPT локально на ComfyUI</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0opaa/replicating_chatgpts_image_generation_locally_on/</link>
+      <description><![CDATA[Добрый день, товарищи и боты, Интересно, удалось ли кому-то из вас воспроизвести качество генерации изображений в чате? Например, если вы используете ComfyUI, какой генератор вы используете? Вы ставите перед ним быстрый усилитель? Вы каким-то образом автоматизируете выбор поколения, редактирование или окрашивание рабочего процесса? И так далее. Мне любопытно, если у вас есть какие-либо идеи.    представлено   /u/DocGreenthumb94     [link]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0opaa/replicating_chatgpts_image_generation_locally_on/</guid>
+      <pubDate>Thu, 08 Oct 2026 11:41:46 GMT</pubDate>
     </item>
     <item>
-      <title>Вопрос: Сотрудничество в рамках ChatGpt (совместные проекты)</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x0ls1j/question_collaboration_within_chatgpt_shared/</link>
-      <description><![CDATA[     Привет всем, У меня есть вопросы о сотрудничестве в рамках ChatGpt, может, кто-нибудь мне поможет? Для нашей компании я хочу начать с совместных проектов в рамках ChatGpt (работа со стандартными местами). Таким образом, генерируемый контент/чаты разными пользователями в разных отделах могут храниться в одном месте. Провел некоторое тестирование, выяснил, что это вроде как &quot;работает&quot; в веб-приложении. В десктопной версии общие проекты не видны, я знаю, что это ошибка.  Во время теста с общим проектом у меня возникли проблемы. Мой коллега начал чат, в котором генерировался некоторый контент (файл PDF и некоторые изображения). С моей стороны изображения не загружены (серые), файл pdf виден / загружаем. Я могу видеть чат, а также ветвь от этого чата.  Вопросы: Как вы сотрудничаете с чатом? Есть ли лучшие способы, чем совместные проекты?  С нетерпением жду ваших реакций, спасибо!!    представлено   /u/alicecoopersteven   [link] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0ls1j/question_collaboration_within_chatgpt_shared/</guid>
-      <pubDate>Thu, 08 Oct 2026 08:43:43 GMT</pubDate>
+      <title>GPT 6 High vs Gemini 3.1 Pro vs Sonnet 5.5 дополнительный</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0onrl/gpt_6_high_vs_gemini_31_pro_vs_sonnet_55_extra/</link>
+      <description><![CDATA[     Caveat: not apple to apple. У меня есть плюс суб для GPT и плюс для Близнецов. Ни одна подгруппа для Клода так не застряла с использованием сонета 5.5 в качестве их лучшей модели для бесплатного уровня.  Я использовал те же изображения с подсказкой и источником по ссылке ниже, чтобы создать визуализацию Логологии Паоло Солери. GPT и Gemini получили мне несколько приятных городских пейзажей, но что с Sonnet 5.5?  GPT 6 Chat High - Gemini 3.1 Pro - Sonnet 5.5 ExtraPrompt: Используя фотографии источника и описания Логологии по ссылке ниже, создайте визуализацию супер высокого разрешения того, как сообщество будет выглядеть в полном цвете и заполнено сотнями подробных элементов, таких как люди //www.organism.earth/library/document/arcology#logology&gt;https://www.organism.earth/library/document/arcology#logology     представленный   ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0onrl/gpt_6_high_vs_gemini_31_pro_vs_sonnet_55_extra/</guid>
+      <pubDate>Thu, 08 Oct 2026 11:39:32 GMT</pubDate>
     </item>
     <item>
-      <title>Что они сделали с моим мальчиком</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x0lm6d/seriously_what_did_they_do_to_my_boy/</link>
-      <description><![CDATA[   /u/-                     [link]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0lm6d/seriously_what_did_they_do_to_my_boy/</guid>
-      <pubDate>Thu, 08 Oct 2026 08:33:21 GMT</pubDate>
+      <title>Почему запретили моего козлиного пьюдипи?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0oizv/why_did_the_ban_my_goat_pewdiepie/</link>
+      <description><![CDATA[  &gt;&gt;&gt;[link]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0oizv/why_did_the_ban_my_goat_pewdiepie/</guid>
+      <pubDate>Thu, 08 Oct 2026 11:32:11 GMT</pubDate>
     </item>
     <item>
-      <title>ЧатГПТ видит искусство там, где вижу</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x0lgnn/chatgpt_sees_art_where_i_see/</link>
-      <description><![CDATA[     /u/Deloalt   [link] /td&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0lgnn/chatgpt_sees_art_where_i_see/</guid>
-      <pubDate>Thu, 08 Oct 2026 08:22:58 GMT</pubDate>
+      <title>Это то, что это  </title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0oato/it_is_what_it_is/</link>
+      <description><![CDATA[        представлено   /u/EstablishmentFun3205   [link]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0oato/it_is_what_it_is/</guid>
+      <pubDate>Thu, 08 Oct 2026 11:19:29 GMT</pubDate>
     </item>
     <item>
-      <title>Как отключить эту функцию сокращения чатов в легенды в ChatGPT?</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x0lbps/how_do_i_disable_this_feature_of_shrinking_chats/</link>
-      <description><![CDATA[     /u/DevJedis   [link]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0lbps/how_do_i_disable_this_feature_of_shrinking_chats/</guid>
-      <pubDate>Thu, 08 Oct 2026 08:14:01 GMT</pubDate>
+      <title>Запросить ответ в стиле Windows 95. Не ожидали функциональных диалогов!</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0oa6o/asked_for_a_reply_in_windows_95_style_did_not/</link>
+      <description><![CDATA[   &quot;Sarcasm drivers: Installed.&quot; s    представленный   /u/CrackedHip   [link]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0oa6o/asked_for_a_reply_in_windows_95_style_did_not/</guid>
+      <pubDate>Thu, 08 Oct 2026 11:18:33 GMT</pubDate>
     </item>
     <item>
-      <title>В последнее время это был Trippin</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x0l171/recently_it_has_been_trippin/</link>
-      <description><![CDATA[      Я сделал скриншот, потому что хотел показать другу странные грамматические ошибки, которые он совершил. Когда через несколько минут я снова посмотрел на чат, он автоматически исправился. (GPT 5.6 Sol xhigh)  Так что у меня есть два вопроса:   почему он так беден в грамматике в последнее время как он может опубликовать правильный его выход? Я никогда не видел этого раньше.  Если бы я не сделал скриншот этого, я бы подумал, что я единственный триппин.     представлено    /u/Alone Ad 7251   [link] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0l171/recently_it_has_been_trippin/</guid>
-      <pubDate>Thu, 08 Oct 2026 07:55:06 GMT</pubDate>
+      <title>Какую модель использовать когда? Кто-нибудь может помочь?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0nj8s/which_model_to_use_when_can_anybody_help/</link>
+      <description><![CDATA[  /u/Intelligent-Lynx-953   [link]&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0nj8s/which_model_to_use_when_can_anybody_help/</guid>
+      <pubDate>Thu, 08 Oct 2026 10:35:30 GMT</pubDate>
     </item>
     <item>
-      <title>Четыре вещи о памяти проекта ChatGPT, которые большинство гидов все еще ошибаются</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x0ktx6/four_things_about_chatgpt_project_memory_that/</link>
-      <description><![CDATA[ Проекты имеют два режима памяти, Default и Project-only, и многое из того, что о них написано, устарело. Вот что говорится на странице помощи OpenAI. &quot;Вы выбираете режим памяти при создании проекта и никогда не можете его изменить.&quot; Откройте проект, нажмите меню ..., перейдите к настройкам проекта и переключателю памяти между по умолчанию и только проектом, а затем сохраните. Два улова: это может занять несколько часов, чтобы вступить в силу, поэтому тестирование его сразу после сохранения ничего не говорит вам, и он работает над проектами, которые вы сделали до того, как вариант существовал. &quot;Проект-только означает, что ChatGPT не помнит меня там. &quot;; Работает в обоих направлениях. Внутри проекта ваши сохраненные воспоминания перестают упоминаться. За его пределами все, что связано с этим проектом, удаляется из памяти, которую используют другие чаты. Поэтому, если вы сделали проект для чего-то частного, только проект мешает ему появляться в несвязанных чатах позже. По умолчанию нет. &quot;Если я удалю всех из общего проекта, он вернется к норме. Общий проект заблокирован в памяти только для проекта, и удаление сотрудников не разблокирует его. Если вам нужен проект, который может использовать сохраненные воспоминания, не делитесь им. Вместо этого поделитесь копией файлов. &quot;Я отключил память, поэтому настройка только для проекта является самой безопасной. &quot;Проект-только на самом деле требует, чтобы память была на вашей учетной записи, включая как &quot;Справочник сохраненных воспоминаний&quot;, так и &quot;Справочная история чата&quot;. При отключенной памяти на уровне учетной записи настройка проекта не с чем работать.  Самое большое изменение заключается в том, как вы используете проекты. Проект больше не просто папка. Он решает, что ChatGPT запоминает в обоих направлениях. Я перестал вкладывать чаты в проекты только для того, чтобы они были в порядке. Для этого я использую папки в AI Toolbox, расширение, которое я создаю, которое сортирует чаты, не изменяя ничего, что может видеть модель. Проекты теперь только для чатов, которые должны фактически делиться памятью друг с другом.    представлено   /u/Ok Negotiation 2587   ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0ktx6/four_things_about_chatgpt_project_memory_that/</guid>
-      <pubDate>Thu, 08 Oct 2026 07:41:38 GMT</pubDate>
+      <title>Что случилось?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0n4qt/wtf_happened/</link>
+      <description><![CDATA[ Почему ChatGPT был настолько мертв и перезапущен со вчерашнего дня? Он использует так много смайликов, и ответы больше не кажутся такими «продуманными», он также галлюцинирует.     представлено   /u/Key-Chemistry-3873   [link]&gt;[comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0n4qt/wtf_happened/</guid>
+      <pubDate>Thu, 08 Oct 2026 10:11:05 GMT</pubDate>
     </item>
     <item>
-      <title>"Связь прервана. В ожидании полного ответа "Ошибка ChatGPT"</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x0k9za/connection_interrupted_waiting_for_the_complete/</link>
-      <description><![CDATA[      Прошло несколько часов, и это уже третий раз, когда это происходит в двух отдельных устройствах. Один чат продолжается уже более 9 часов. У кого-нибудь есть идеи, как остановить этот ожог? Отредактировал страницу, вошел и вышел, попробовал на другом устройстве, попробовал кнопку остановки, попробовал все, что мог придумать, без какой-либо положительной реакции. Просто бездумное мышление.    представлено   /u/findmyrv   [link]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0k9za/connection_interrupted_waiting_for_the_complete/</guid>
-      <pubDate>Thu, 08 Oct 2026 07:05:34 GMT</pubDate>
+      <title>Спасибо, Сэм, очень круто</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0mr88/thank_you_sam_very_cool/</link>
+      <description><![CDATA[  /u/ffatty   [link]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0mr88/thank_you_sam_very_cool/</guid>
+      <pubDate>Thu, 08 Oct 2026 09:47:48 GMT</pubDate>
     </item>
     <item>
-      <title>Ты знал? В 1984 году советский математик уже ставил под сомнение границы машинного творчества.</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x0k1l0/did_you_know_in_1984_a_soviet_mathematician_was/</link>
-      <description><![CDATA[ Поскольку копать старые книги, кажется, в моде в последнее время, вот что от 1984. В Cybernetics Today (Mir Publishers, 1984), советский математик и писатель Елена Вентцель, пишущая как И. Грекова, обсуждает машинное творчество.  Она представляет себе писателя, который пытается найти правильное слово. Почему машина не может сделать выбор? И почему выбор правильного остается исключительно человеческой задачей навсегда? Но есть еще более интересное наблюдение в ее эссе: всякий раз, когда машины приобретают способности, ранее считавшиеся уникальными человеческими, граница того, что считается «реальным» мышлением или творчеством, имеет тенденцию меняться. И у нас все еще есть этот аргумент. Так вот вопрос:  Когда ИИ достигает чего-то, что мы когда-то считали уникальным человеком, как мы можем отличить подлинное уточнение наших критериев от простого перемещения целевых положений?    представленный   /u/CarefulHamster7184   [link]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0k1l0/did_you_know_in_1984_a_soviet_mathematician_was/</guid>
-      <pubDate>Thu, 08 Oct 2026 06:51:20 GMT</pubDate>
+      <title>ChatGPT помог моему отцу превратить истории, которые он повторяет, в истории, которые мы можем сохранить.</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0mn6l/chatgpt_helped_my_dad_turn_the_stories_he_repeats/</link>
+      <description><![CDATA[ Мой отец рассказывает одну и ту же историю о пропаже парома в 1978 году каждый раз, когда семья ужинает. Мы дразнили его об этом, но никто из нас никогда не записывал это. Я записал его рассказ, расшифровал его и попросил ChatGPT организовать расшифровку, не меняя его фраз. Первая версия заставила его звучать как отполированный писатель путешествий, которым он абсолютно не является. Мы попробовали снова с одним правилом: держать повторы, которые звучат как он, и только фиксировать места, где смысл неясен. Результатом стали три читабельные страницы, которые до сих пор включали его любимую строчку о «самом медленном такси в мире». Он устранил достаточно трений для нас, чтобы сохранить его, пока он еще мог исправить детали.    представлено   /u/Dry Adhesiveness 91     &gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0mn6l/chatgpt_helped_my_dad_turn_the_stories_he_repeats/</guid>
+      <pubDate>Thu, 08 Oct 2026 09:40:32 GMT</pubDate>
     </item>
     <item>
-      <title>Исследователи уже значительно улучшили последние математические результаты OpenAI, подтвержденные в Lean.</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x0jm6q/researchers_are_already_significantly_improving/</link>
-      <description><![CDATA[    https://p&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0jm6q/researchers_are_already_significantly_improving/</guid>
-      <pubDate>Thu, 08 Oct 2026 06:24:27 GMT</pubDate>
+      <title>ChatGPT рассказывает, что это за модель. Это не ново, и люди продолжают не понимать этого.</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0mm5m/chatgpt_actually_gets_told_what_model_it_is_this/</link>
+      <description><![CDATA[  Я видел довольно много людей, утверждающих, что ChatGPT абсолютно не имеет представления о том, какая модель работает, особенно с развертыванием GPT 6.  Это только частично верно.  OpenAI явно предоставляет ChatGPT информацию о личности модели через свои инструкции во время выполнения, поэтому модель может и обычно знает, какая из них является сильной. Это даже не что-то новое. Есть публичные примеры подсказок системы GPT 4, датируемых октябрем 2023 года, которые идентифицируют архитектуру GPT 4. OpenAI также официально опубликовала модель конкретной системы подсказок в исследовательской работе 2024 года, это происходит в течение многих лет. Он не проверяет свои собственные веса, архитектуру или бэкэнд. но он получает информацию о своей идентичности как часть контекста, предоставляемого OpenAI. И вот где это становится интересным с GPT 6.  Уровень детализации может отличаться между конфигурациями. Например, модель может быть проинструктирована только для идентификации себя как GPT 6, без указания того, является ли основной вариант Sol.. Luna Astra или terra   Другие конфигурации могут обеспечить более конкретную идентификацию, полностью до openai, то есть, если вы выберете GPT 6 и ChatGPT сообщит вам, что это GPT 5.6 Sol, это автоматически не докажет, что бэкэнд работает под управлением GPT 5.6. Идентичность, представленная в его контексте, может быть неполной, устаревшей или просто несовместимой с фактической моделью обработки запроса, но обычно ей можно доверять. OpenAi выпустила своего рода новый GPT 6 для этого, поскольку tibo анонсировала X, который люди также почему-то пропускают. afaik не является ни sol, ни luna, ни astra. Говоря &quot;ЧатГПТ не имеет возможности получить информацию о своей собственной модели идентичности&quot; является явно ложным. Но рассмотрение его самоидентификации в качестве окончательного доказательства того, какая бэкэнд-модель выполнила ответ, также является вроном, однако его обычно можно считать истинным.             &quot;выпуск новой версии GPT-6 для всех пользователей в ChatGPT&quot; OpenAI research paper from October 2024, page 51  OpenAI Developer Community discussion from October 2023  Документация OpenAI, объясняющая идентичность модели в системных инструкциях    представлена   /u/TheRealChickon   [link] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0mm5m/chatgpt_actually_gets_told_what_model_it_is_this/</guid>
+      <pubDate>Thu, 08 Oct 2026 09:38:41 GMT</pubDate>
     </item>
     <item>
-      <title>Просто потерял много дней контекста чата, потому что телефон показывал более раннее местоположение.</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x0jla3/just_lost_many_days_of_chat_context_because_phone/</link>
-      <description><![CDATA[ В чате для создания истории, создание видео и, к счастью, создание полных очередей для comfyui со всеми подсказками. Утром я добавил несколько сцен. Уходя и открыв телефон, я увидел, что нить показала какую-то более легкую точку, я просто ответил там, как обычно, я раньше видел, что она просто не освежила нить. Но затем он дал некоторый контекст много дней назад для новых сцен. Все пропало. К счастью, из-за очередей Джонсона, он мог быстро реконструировать, где мы были на самом деле. Но это был довольно плохой глитч.    представленный   /u/Boogertwilliams    [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0jla3/just_lost_many_days_of_chat_context_because_phone/</guid>
-      <pubDate>Thu, 08 Oct 2026 06:22:48 GMT</pubDate>
+      <title>После получения подписки ChatGPT, какие навыки, связанные с программированием, помимо кодирования, должны научиться использовать его в полной мере?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x0mcer/after_getting_a_chatgpt_subscription_what/</link>
+      <description><![CDATA[ Например, должен ли я научиться настраивать серверы или что-то еще, связанное с разработкой программного обеспечения?    представлено   /u/CaterpillarLonely199    [link] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1x0mcer/after_getting_a_chatgpt_subscription_what/</guid>
+      <pubDate>Thu, 08 Oct 2026 09:21:02 GMT</pubDate>
     </item>
     </channel>
 </rss>

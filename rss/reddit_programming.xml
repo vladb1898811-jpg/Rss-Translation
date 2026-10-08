@@ -4,7 +4,21 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Thu, 08 Oct 2026 09:51:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:48:30 GMT</lastBuildDate>
+    <item>
+      <title>Антипаттерны в блогах о программном обеспечении</title>
+      <link>https://www.reddit.com/r/programming/comments/1x0pbnq/antipatterns_in_software_blogging/</link>
+      <description><![CDATA[  представлено    /u/lelanthran   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1x0pbnq/antipatterns_in_software_blogging/</guid>
+      <pubDate>Thu, 08 Oct 2026 12:13:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Принятие Pyrefly в качестве проверки типа Python в Google</title>
+      <link>https://www.reddit.com/r/programming/comments/1x0p1v8/adopting_pyrefly_as_the_python_type_checker_at/</link>
+      <description><![CDATA[  представлено    /u/BeamMeUpBiscotti   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1x0p1v8/adopting_pyrefly_as_the_python_type_checker_at/</guid>
+      <pubDate>Thu, 08 Oct 2026 12:00:13 GMT</pubDate>
+    </item>
     <item>
       <title>Нужен ли ClickHouse собственный формат хранения?</title>
       <link>https://www.reddit.com/r/programming/comments/1x0mma7/does_clickhouse_really_need_its_own_storage_format/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[  представлено    /u/Bertrand31    [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1wzz3cc/how_we_slashed_the_size_of_our_search_cache_by_74/</guid>
       <pubDate>Wed, 07 Oct 2026 15:11:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Отключение GitHub Actions не освобождает вас от GitHub: ваши установки по-прежнему зависят от него.</title>
-      <link>https://www.reddit.com/r/programming/comments/1wzxplb/moving_off_github_actions_doesnt_get_you_off/</link>
-      <description><![CDATA[  представлено   /u/Patient-Pollution46   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wzxplb/moving_off_github_actions_doesnt_get_you_off/</guid>
-      <pubDate>Wed, 07 Oct 2026 14:17:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Антипаттерны в блогах о программном обеспечении</title>
-      <link>https://www.reddit.com/r/programming/comments/1wzw4cw/antipatterns_in_software_blogging/</link>
-      <description><![CDATA[  представлено    /u/mtlynch   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1wzw4cw/antipatterns_in_software_blogging/</guid>
-      <pubDate>Wed, 07 Oct 2026 13:10:04 GMT</pubDate>
     </item>
     </channel>
 </rss>

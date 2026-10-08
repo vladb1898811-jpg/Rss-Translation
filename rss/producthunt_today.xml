@@ -4,76 +4,48 @@
     <title>Продуктовая охота — Лучшие продукты каждый день</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 08 Oct 2026 10:00:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:57:15 GMT</lastBuildDate>
     <item>
-      <title>тонус</title>
-      <link>https://www.producthunt.com/products/tonefold</link>
+      <title>ClawCall</title>
+      <link>https://www.producthunt.com/products/clawcall</link>
       <description><![CDATA[
-Опишите песню, получите каждую часть как редактируемый MIDI
+Телефон вашего агента ИИ, чтобы набирать, удерживать и отчитываться
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/tonefold</guid>
-      <pubDate>Thu, 08 Oct 2026 04:28:14 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/clawcall</guid>
+      <pubDate>Thu, 08 Oct 2026 05:27:12 GMT</pubDate>
     </item>
     <item>
-      <title>пмтуи</title>
-      <link>https://www.producthunt.com/products/pmtui</link>
+      <title>Клод для Google Workspace</title>
+      <link>https://www.producthunt.com/products/claude-for-google-workspace</link>
       <description><![CDATA[
-Автопилот для длительных сеансов ИИ в терминале
+Откройте для себя Google Docs, Sheets &amp; Slides
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/pmtui</guid>
-      <pubDate>Thu, 08 Oct 2026 04:13:17 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/claude-for-google-workspace</guid>
+      <pubDate>Thu, 08 Oct 2026 02:20:15 GMT</pubDate>
     </item>
     <item>
-      <title>Полилан для Vercel</title>
-      <link>https://www.producthunt.com/products/polylane</link>
+      <title>Семрайт</title>
+      <link>https://www.producthunt.com/products/semwright</link>
       <description><![CDATA[
-Проснитесь, чтобы исправить свои приложения Vercel
+Предоставление агентам ИИ структурированного доступа к реальному программному обеспечению
 
 
-Обсуждение
+Дискуссия
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/polylane</guid>
-      <pubDate>Wed, 07 Oct 2026 22:05:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Эпилюдиальный рассказчик</title>
-      <link>https://www.producthunt.com/products/epilude</link>
-      <description><![CDATA[
-Слушайте любую статью, документ или текст на вашем Mac.
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/epilude</guid>
-      <pubDate>Wed, 07 Oct 2026 21:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Судья.Системы</title>
-      <link>https://www.producthunt.com/products/judged-systems</link>
-      <description><![CDATA[
-Платформа API для систем поддержки.
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/judged-systems</guid>
-      <pubDate>Wed, 07 Oct 2026 19:10:29 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/semwright</guid>
+      <pubDate>Thu, 08 Oct 2026 01:08:23 GMT</pubDate>
     </item>
     <item>
       <title>Клод Хайку 5.5</title>
@@ -90,34 +62,6 @@
       <pubDate>Wed, 07 Oct 2026 18:11:57 GMT</pubDate>
     </item>
     <item>
-      <title>Мониторинг</title>
-      <link>https://www.producthunt.com/products/hallmonitor</link>
-      <description><![CDATA[
-Увидеть и ответить на каждый кодирующий агент из вашей выемки
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/hallmonitor</guid>
-      <pubDate>Wed, 07 Oct 2026 16:49:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>SineFrame M3</title>
-      <link>https://www.producthunt.com/products/sineframe-m3</link>
-      <description><![CDATA[
-Тестирование MCP-серверов и агентов, вызывающих их в pytest
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/sineframe-m3</guid>
-      <pubDate>Wed, 07 Oct 2026 15:54:49 GMT</pubDate>
-    </item>
-    <item>
       <title>NOVA CLI v1.0</title>
       <link>https://www.producthunt.com/products/nova-18</link>
       <description><![CDATA[
@@ -130,34 +74,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/nova-18</guid>
       <pubDate>Wed, 07 Oct 2026 15:00:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Простой журнал Workout</title>
-      <link>https://www.producthunt.com/products/simple-workout-log</link>
-      <description><![CDATA[
-Лучший минималистский трекер тренировок
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/simple-workout-log</guid>
-      <pubDate>Wed, 07 Oct 2026 14:44:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>бережливый</title>
-      <link>https://www.producthunt.com/products/leanback</link>
-      <description><![CDATA[
-Персональный помощник ИИ для управления инженерными командами
-
-
-Обсуждение
-!
- Ссылка 
-]]></description>
-      <guid>https://www.producthunt.com/products/leanback</guid>
-      <pubDate>Wed, 07 Oct 2026 09:34:02 GMT</pubDate>
     </item>
     <item>
       <title>Жидкий вывод</title>
@@ -174,6 +90,20 @@
       <pubDate>Wed, 07 Oct 2026 08:14:41 GMT</pubDate>
     </item>
     <item>
+      <title>за кулисами</title>
+      <link>https://www.producthunt.com/products/offstage</link>
+      <description><![CDATA[
+Ваш компьютерный агент получает учетную запись Mac, а не экран
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/offstage</guid>
+      <pubDate>Wed, 07 Oct 2026 01:49:22 GMT</pubDate>
+    </item>
+    <item>
       <title>Харк</title>
       <link>https://www.producthunt.com/products/hark-3</link>
       <description><![CDATA[
@@ -188,32 +118,102 @@
       <pubDate>Wed, 07 Oct 2026 01:29:22 GMT</pubDate>
     </item>
     <item>
-      <title>Сторона</title>
-      <link>https://www.producthunt.com/products/side</link>
+      <title>Секура Бенч</title>
+      <link>https://www.producthunt.com/products/vocera</link>
       <description><![CDATA[
-Маленькая панель чата AI, которая живет рядом с доком вашего Mac
+Контрольные показатели речевой модели на живых телефонных звонках
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/side</guid>
-      <pubDate>Tue, 06 Oct 2026 13:42:28 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/vocera</guid>
+      <pubDate>Tue, 06 Oct 2026 17:39:40 GMT</pubDate>
     </item>
     <item>
-      <title>Лунные сумерки</title>
-      <link>https://www.producthunt.com/products/moonwalkers-dusk</link>
+      <title>OpenSwarm</title>
+      <link>https://www.producthunt.com/products/openswarm-3</link>
       <description><![CDATA[
-Моторизованные колеса, которые позволяют ходить в два раза быстрее
+Рой агентов, в том же месте, где вы работаете.
 
 
 Обсуждение
 !
  Ссылка 
 ]]></description>
-      <guid>https://www.producthunt.com/products/moonwalkers-dusk</guid>
-      <pubDate>Sat, 03 Oct 2026 10:34:34 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/openswarm-3</guid>
+      <pubDate>Mon, 05 Oct 2026 23:22:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Островная выемка</title>
+      <link>https://www.producthunt.com/products/isle-notch</link>
+      <description><![CDATA[
+Маловесный динамический остров для Windows
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/isle-notch</guid>
+      <pubDate>Mon, 05 Oct 2026 14:06:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Лапа-лапа</title>
+      <link>https://www.producthunt.com/products/paw-paw</link>
+      <description><![CDATA[
+Крошечный настольный питомец для вашего Mac, который печатается вместе с вами
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/paw-paw</guid>
+      <pubDate>Mon, 05 Oct 2026 10:12:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Гриффин от Tavus</title>
+      <link>https://www.producthunt.com/products/griffin-by-tavus</link>
+      <description><![CDATA[
+Первая в мире модель взаимодействия человека
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/griffin-by-tavus</guid>
+      <pubDate>Thu, 01 Oct 2026 18:34:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Чики-Тутор</title>
+      <link>https://www.producthunt.com/products/chickytutor</link>
+      <description><![CDATA[
+Частный репетитор, который знает вас лучше каждый день.
+
+
+Дискуссия
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/chickytutor</guid>
+      <pubDate>Thu, 17 Sep 2026 22:04:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>KloudMate 2.0</title>
+      <link>https://www.producthunt.com/products/kloudmate</link>
+      <description><![CDATA[
+Полностью стековая наблюдаемость и агентные SRE-Ops
+
+
+Обсуждение
+!
+ Ссылка 
+]]></description>
+      <guid>https://www.producthunt.com/products/kloudmate</guid>
+      <pubDate>Mon, 31 Aug 2026 09:31:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
