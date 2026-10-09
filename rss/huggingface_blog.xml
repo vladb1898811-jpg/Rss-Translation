@@ -4,7 +4,14 @@
     <title>Обнимая лицо - Блог</title>
     <link>https://huggingface.co/blog</link>
     <description>Блог The Hugging Face</description>
-    <lastBuildDate>Thu, 08 Oct 2026 15:11:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 00:11:13 GMT</lastBuildDate>
+    <item>
+      <title>Модель, которой не существовало, так что ты сделал это сам</title>
+      <link>https://huggingface.co/blog/building-with-ml-intern</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/building-with-ml-intern</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Мультимодальные модели открытых решений d1 для края</title>
       <link>https://huggingface.co/blog/LiquidAI/open-d1</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/tokenizers-v1</guid>
       <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ваш агент выполнил задание. Сделает ли это снова?</title>
-      <link>https://huggingface.co/blog/ibm-research/altk-evolve-consistency</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/ibm-research/altk-evolve-consistency</guid>
-      <pubDate>Tue, 15 Sep 2026 16:00:44 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>Новые материалы: программирование</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>Компьютерное программирование</description>
-    <lastBuildDate>Thu, 08 Oct 2026 22:15:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 01:15:01 GMT</lastBuildDate>
+    <item>
+      <title>Добавление отсрочки Go в компилятор TypeScript</title>
+      <link>https://www.reddit.com/r/programming/comments/1x18013/adding_gos_defer_to_the_typescript_compiler/</link>
+      <description><![CDATA[  представлено    /u/fagnerbrack   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1x18013/adding_gos_defer_to_the_typescript_compiler/</guid>
+      <pubDate>Fri, 09 Oct 2026 01:00:57 GMT</pubDate>
+    </item>
     <item>
       <title>Насколько велико обязательство Git?</title>
       <link>https://www.reddit.com/r/programming/comments/1x144ok/how_big_is_a_git_commit/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>Двери с двумя путями: не загоняйте себя в угол</title>
       <link>https://www.reddit.com/r/programming/comments/1x0vmxt/twoway_doors_dont_code_yourself_into_a_corner/</link>
-      <description><![CDATA[  представлено    /u/ghled   [link] [comments]]]></description>
+      <description><![CDATA[  представлено   /u/ghled    [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1x0vmxt/twoway_doors_dont_code_yourself_into_a_corner/</guid>
       <pubDate>Thu, 08 Oct 2026 16:33:25 GMT</pubDate>
     </item>
@@ -64,19 +71,19 @@
     <item>
       <title>Нужен ли ClickHouse собственный формат хранения?</title>
       <link>https://www.reddit.com/r/programming/comments/1x0mma7/does_clickhouse_really_need_its_own_storage_format/</link>
-      <description><![CDATA[  представлено   /u/Giladkl   [link] [comments]]]></description>
+      <description><![CDATA[  представлено    /u/Giladkl   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1x0mma7/does_clickhouse_really_need_its_own_storage_format/</guid>
       <pubDate>Thu, 08 Oct 2026 09:38:56 GMT</pubDate>
     </item>
     <item>
-      <title>Сколько компании платят за открытый исходный код? Данные основаны только на опубликованных долларах</title>
+      <title>Сколько компании платят за открытый исходный код? Счет, основанный только на опубликованных долларах</title>
       <link>https://www.reddit.com/r/programming/comments/1x0m1hh/how_much_do_companies_publicly_pay_for_open/</link>
-      <description><![CDATA[  представлено    /u/MajorBaguette    [link] [comments]]]></description>
+      <description><![CDATA[  представлено    /u/MajorBaguette   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1x0m1hh/how_much_do_companies_publicly_pay_for_open/</guid>
       <pubDate>Thu, 08 Oct 2026 09:00:48 GMT</pubDate>
     </item>
     <item>
-      <title>Разговоры о API</title>
+      <title>Разговор о API</title>
       <link>https://www.reddit.com/r/programming/comments/1x0jd0m/a_rant_about_apis/</link>
       <description><![CDATA[  представлено   /u/ccb621   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1x0jd0m/a_rant_about_apis/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>Маргарет Гамильтон, пионер вычислительной техники, которая руководила разработкой программного обеспечения для программы Apollo, умирает в 90 лет.</title>
       <link>https://www.reddit.com/r/programming/comments/1x0j559/margaret_hamilton_computing_pioneer_who_led/</link>
-      <description><![CDATA[  представлено    /u/mareek    [link] [comments]]]></description>
+      <description><![CDATA[  представлено    /u/mareek   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1x0j559/margaret_hamilton_computing_pioneer_who_led/</guid>
       <pubDate>Thu, 08 Oct 2026 05:55:59 GMT</pubDate>
     </item>
@@ -97,18 +104,11 @@
       <pubDate>Thu, 08 Oct 2026 05:40:53 GMT</pubDate>
     </item>
     <item>
-      <title>Европол призывает к скорейшим действиям по защите криптовалют и конфиденциальных данных от квантовых угроз</title>
+      <title>Европол призывает к скорейшему принятию мер по защите криптовалют и конфиденциальных данных от квантовых угроз</title>
       <link>https://www.reddit.com/r/programming/comments/1x0ggel/europol_urges_early_action_to_protect/</link>
-      <description><![CDATA[  представлено    /u/donutloop   [link] [comments]]]></description>
+      <description><![CDATA[  представлено   /u/donutloop   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1x0ggel/europol_urges_early_action_to_protect/</guid>
       <pubDate>Thu, 08 Oct 2026 03:23:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Как Uber победил перегрузку базы данных: переход от статического ограничения скорости к интеллектуальному управлению загрузкой</title>
-      <link>https://www.reddit.com/r/programming/comments/1x0ckk1/how_uber_conquered_database_overload_the_journey/</link>
-      <description><![CDATA[  представлено   /u/Ok Stomach6651   [link][comments&gt;]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1x0ckk1/how_uber_conquered_database_overload_the_journey/</guid>
-      <pubDate>Thu, 08 Oct 2026 00:08:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
